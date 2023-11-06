@@ -11,5 +11,16 @@ A repository sharing the literatures about Transformer-based large language mode
 
 ## Table of Contents
 
+* [Model Hubs](./models)
+* [Pre-Training](./pretrain.md)
+* [Fine-Tuning](./tuning.md)
+* [Inference](./inference.md)
+* [Prompt Engineering](./prompt.md)
+* [LLMs as Agent](./agent.md)
+* [Instruction Following](./instruct.md)
+* [Emergent Abilities](./emergence.md)
+* [Reasoning Abilities](./reasoning.md)
+* [Social Issues](./social.md)
+* [Survey](./survey.md)
 
 
