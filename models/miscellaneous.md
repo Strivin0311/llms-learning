@@ -70,6 +70,21 @@ citation:
 }
 ```
 
+
+#### Pangu-weather: A 3d high-resolution model for fast and accurate global weather forecast [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2211.02556)
+
+citation: 
+```bibtex
+@article{bi2022pangu,
+  title={Pangu-weather: A 3d high-resolution model for fast and accurate global weather forecast},
+  author={Bi, Kaifeng and Xie, Lingxi and Zhang, Hengheng and Chen, Xin and Gu, Xiaotao and Tian, Qi},
+  journal={arXiv preprint arXiv:2211.02556},
+  year={2022}
+}
+```
+    
     
 
 

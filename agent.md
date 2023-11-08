@@ -1,7 +1,7 @@
 # LLMs-as-Agent
 *Here's some resources about LLMs-as-Agent*
 
-
+### Methods
 
 #### Agents: An Open-source Framework for Autonomous Language Agents [`READ`]
 
@@ -13,38 +13,6 @@ citation:
   title={Agents: An Open-source Framework for Autonomous Language Agents},
   author={Zhou, Wangchunshu and Jiang, Yuchen Eleanor and Li, Long and Wu, Jialong and Wang, Tiannan and Qiu, Shi and Zhang, Jintian and Chen, Jing and Wu, Ruipu and Wang, Shuai and others},
   journal={arXiv preprint arXiv:2309.07870},
-  year={2023}
-}
-```
-    
-
-
-#### Toolllm: Facilitating large language models to master 16000+ real-world apis [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2307.16789.pdf?trk=public_post_comment-text)
-
-citation: 
-```bibtex
-@article{qin2023toolllm,
-  title={Toolllm: Facilitating large language models to master 16000+ real-world apis},
-  author={Qin, Yujia and Liang, Shihao and Ye, Yining and Zhu, Kunlun and Yan, Lan and Lu, Yaxi and Lin, Yankai and Cong, Xin and Tang, Xiangru and Qian, Bill and others},
-  journal={arXiv preprint arXiv:2307.16789},
-  year={2023}
-}
-```
-    
-
-
-#### Agentbench: Evaluating llms as agents [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2308.03688)
-
-citation: 
-```bibtex
-@article{liu2023agentbench,
-  title={Agentbench: Evaluating llms as agents},
-  author={Liu, Xiao and Yu, Hao and Zhang, Hanchen and Xu, Yifan and Lei, Xuanyu and Lai, Hanyu and Gu, Yu and Ding, Hangliang and Men, Kaiwen and Yang, Kejuan and others},
-  journal={arXiv preprint arXiv:2308.03688},
   year={2023}
 }
 ```
@@ -93,6 +61,52 @@ citation:
   year={2023}
 }
 ```
+
+### Benchmark
+
+#### Agentbench: Evaluating llms as agents [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2308.03688)
+
+citation: 
+```bibtex
+@article{liu2023agentbench,
+  title={Agentbench: Evaluating llms as agents},
+  author={Liu, Xiao and Yu, Hao and Zhang, Hanchen and Xu, Yifan and Lei, Xuanyu and Lai, Hanyu and Gu, Yu and Ding, Hangliang and Men, Kaiwen and Yang, Kejuan and others},
+  journal={arXiv preprint arXiv:2308.03688},
+  year={2023}
+}
+```
+
+#### RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.00746)
+
+citation: 
+```bibtex
+@article{wang2023rolellm,
+  title={RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models},
+  author={Wang, Zekun Moore and Peng, Zhongyuan and Que, Haoran and Liu, Jiaheng and Zhou, Wangchunshu and Wu, Yuhan and Guo, Hongcheng and Gan, Ruitong and Ni, Zehao and Zhang, Man and others},
+  journal={arXiv preprint arXiv:2310.00746},
+  year={2023}
+}
+```
+
+#### SmartPlay: A Benchmark for LLMs as Intelligent Agents [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.01557)
+
+citation: 
+```bibtex
+@article{wu2023smartplay,
+  title={SmartPlay: A Benchmark for LLMs as Intelligent Agents},
+  author={Wu, Yue and Tang, Xuan and Mitchell, Tom M and Li, Yuanzhi},
+  journal={arXiv preprint arXiv:2310.01557},
+  year={2023}
+}
+```
+    
+    
     
 
 ### Survey

@@ -3,6 +3,20 @@
 
 
 
+#### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.14717)
+
+citation: 
+```bibtex
+@article{xu2023qa,
+  title={QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models},
+  author={Xu, Yuhui and Xie, Lingxi and Gu, Xiaotao and Chen, Xin and Chang, Heng and Zhang, Hengheng and Chen, Zhensu and Zhang, Xiaopeng and Tian, Qi},
+  journal={arXiv preprint arXiv:2309.14717},
+  year={2023}
+}
+```
+    
 
 
 

@@ -2,6 +2,21 @@
 *Here's some resources about Reasoning Abilities of LLMs*
 
 
+#### ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.17452)
+
+citation: 
+```bibtex
+@article{gou2023tora,
+  title={ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving},
+  author={Gou, Zhibin and Shao, Zhihong and Gong, Yeyun and Yang, Yujiu and Huang, Minlie and Duan, Nan and Chen, Weizhu and others},
+  journal={arXiv preprint arXiv:2309.17452},
+  year={2023}
+}
+```
+    
+
 
 #### Visual programming: Compositional visual reasoning without training [`READ`]
 
@@ -34,6 +49,21 @@ citation:
   organization={IEEE}
 }
 ```
+
+#### Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2210.11694)
+
+citation: 
+```bibtex
+@article{zhang2022multi,
+  title={Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem},
+  author={Zhang, Wenqi and Shen, Yongliang and Ma, Yanna and Cheng, Xiaoxia and Tan, Zeqi and Nong, Qingpeng and Lu, Weiming},
+  journal={arXiv preprint arXiv:2210.11694},
+  year={2022}
+}
+```
+    
 
 #### Language models as zero-shot planners: Extracting actionable knowledge for embodied agents [`UNREAD`]
 

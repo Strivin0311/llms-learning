@@ -1,5 +1,5 @@
-# Prompt Engineering on LLMs
-*Here's some resources about Prompt Engineering on LLMs*
+# Prompt Learning on LLMs
+*Here's some resources about Prompt Learning on LLMs*
 
 
 

@@ -3,6 +3,20 @@
 
 
 
+#### Toolllm: Facilitating large language models to master 16000+ real-world apis [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2307.16789.pdf?trk=public_post_comment-text)
+
+citation: 
+```bibtex
+@article{qin2023toolllm,
+  title={Toolllm: Facilitating large language models to master 16000+ real-world apis},
+  author={Qin, Yujia and Liang, Shihao and Ye, Yining and Zhu, Kunlun and Yan, Lan and Lu, Yaxi and Lin, Yankai and Cong, Xin and Tang, Xiangru and Qian, Bill and others},
+  journal={arXiv preprint arXiv:2307.16789},
+  year={2023}
+}
+```
+
 #### Self-instruct: Aligning language model with self generated instructions [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2212.10560)
