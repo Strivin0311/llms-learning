@@ -4,6 +4,23 @@
 
 ## Paper
 
+#### ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope [`READ`]
+
+paper link: [here](https://www.sciencedirect.com/science/article/pii/S266734522300024X)
+
+citation: 
+```bibtex
+@article{ray2023chatgpt,
+  title={ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope},
+  author={Ray, Partha Pratim},
+  journal={Internet of Things and Cyber-Physical Systems},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+    
+
+
 #### Augmented language models: a survey [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2302.07842)
