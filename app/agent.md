@@ -3,6 +3,39 @@
 
 ### Methods
 
+
+#### ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.00986)
+
+citation: 
+```bibtex
+@article{li2023modelscope,
+  title={ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models},
+  author={Li, Chenliang and Chen, Hehong and Yan, Ming and Shen, Weizhou and Xu, Haiyang and Wu, Zhikai and Zhang, Zhicheng and Zhou, Wenmeng and Chen, Yingda and Cheng, Chen and others},
+  journal={arXiv preprint arXiv:2309.00986},
+  year={2023}
+}
+```
+    
+
+
+#### Autogen: Enabling next-gen llm applications via multi-agent conversation framework [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
+
+citation:
+```bibtex
+@article{wu2023autogen,
+  title={Autogen: Enabling next-gen llm applications via multi-agent conversation framework},
+  author={Wu, Qingyun and Bansal, Gagan and Zhang, Jieyu and Wu, Yiran and Zhang, Shaokun and Zhu, Erkang and Li, Beibin and Jiang, Li and Zhang, Xiaoyun and Wang, Chi},
+  journal={arXiv preprint arXiv:2308.08155},
+  year={2023}
+}
+```
+
+
+
 #### Agents: An Open-source Framework for Autonomous Language Agents [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2309.07870)
@@ -105,8 +138,6 @@ citation:
   year={2023}
 }
 ```
-    
-    
     
 
 ### Survey

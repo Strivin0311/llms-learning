@@ -15,6 +15,38 @@ citation:
   year={2023}
 }
 ```
+
+#### Why think step-by-step? Reasoning emerges from the locality of experience [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.03843)
+
+citation: 
+```bibtex
+@article{prystawski2023think,
+  title={Why think step-by-step? Reasoning emerges from the locality of experience},
+  author={Prystawski, Ben and Goodman, Noah D},
+  journal={arXiv preprint arXiv:2304.03843},
+  year={2023}
+}
+```
+
+
+
+#### Pal: Program-aided language models [`UNREAD`]
+
+paper link: [here](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf)
+
+citation: 
+```bibtex
+@inproceedings{gao2023pal,
+  title={Pal: Program-aided language models},
+  author={Gao, Luyu and Madaan, Aman and Zhou, Shuyan and Alon, Uri and Liu, Pengfei and Yang, Yiming and Callan, Jamie and Neubig, Graham},
+  booktitle={International Conference on Machine Learning},
+  pages={10764--10799},
+  year={2023},
+  organization={PMLR}
+}
+```
     
 
 
@@ -97,11 +129,25 @@ citation:
 }
 ```
 
+#### React: Synergizing reasoning and acting in language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2210.03629.pdf)
+
+citation: 
+```bibtex
+@article{yao2022react,
+  title={React: Synergizing reasoning and acting in language models},
+  author={Yao, Shunyu and Zhao, Jeffrey and Yu, Dian and Du, Nan and Shafran, Izhak and Narasimhan, Karthik and Cao, Yuan},
+  journal={arXiv preprint arXiv:2210.03629},
+  year={2022}
+}
+```
+
 
 
 #### Language models show human-like content effects on reasoning [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2207.07051.pdf&nbsp;%3C/p%3E)
+paper link: [here](https://arxiv.org/pdf/2207.07051.pdf)
 
 citation: 
 ```bibtex
@@ -112,3 +158,19 @@ citation:
   year={2022}
 }
 ```
+
+
+#### Self-consistency improves chain of thought reasoning in language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2203.11171.pdf)
+
+citation: 
+```bibtex
+@article{wang2022self,
+  title={Self-consistency improves chain of thought reasoning in language models},
+  author={Wang, Xuezhi and Wei, Jason and Schuurmans, Dale and Le, Quoc and Chi, Ed and Narang, Sharan and Chowdhery, Aakanksha and Zhou, Denny},
+  journal={arXiv preprint arXiv:2203.11171},
+  year={2022}
+}
+```
+    

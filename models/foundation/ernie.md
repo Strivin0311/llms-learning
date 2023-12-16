@@ -2,9 +2,6 @@
 *Here's some resources about ERNIE*
 
 
-
-
-
 #### Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2107.02137)

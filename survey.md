@@ -4,6 +4,39 @@
 
 ## Paper
 
+
+#### Challenges and applications of large language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.10169)
+
+citation: 
+```bibtex
+@article{kaddour2023challenges,
+  title={Challenges and applications of large language models},
+  author={Kaddour, Jean and Harris, Joshua and Mozes, Maximilian and Bradley, Herbie and Raileanu, Roberta and McHardy, Robert},
+  journal={arXiv preprint arXiv:2307.10169},
+  year={2023}
+}
+```
+    
+
+
+#### A comprehensive overview of large language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.06435)
+
+citation: 
+```bibtex
+@article{naveed2023comprehensive,
+  title={A comprehensive overview of large language models},
+  author={Naveed, Humza and Khan, Asad Ullah and Qiu, Shi and Saqib, Muhammad and Anwar, Saeed and Usman, Muhammad and Barnes, Nick and Mian, Ajmal},
+  journal={arXiv preprint arXiv:2307.06435},
+  year={2023}
+}
+```
+    
+
+
 #### ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope [`READ`]
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S266734522300024X)

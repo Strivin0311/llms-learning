@@ -1,5 +1,8 @@
-# Pretraining on LLMs
-*Here's some resources about Pretraining on LLMs*
+# Pretraining for LLMs
+*Here's some resources about pretraining methodologies for LLMs*
+
+
+### Methods
 
 
 #### Training compute-optimal large language models [`READ`]
