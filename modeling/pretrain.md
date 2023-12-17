@@ -5,6 +5,39 @@
 ### Methods
 
 
+#### Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models [`UNREAD`]
+
+paper link: [here](https://openreview.net/pdf?id=dWDEBW2raJ)
+
+citation: 
+```bibtex
+@inproceedings{shi2023train,
+  title={Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models},
+  author={Shi, Yubin and Chen, Yixuan and Dong, Mingzhi and Yang, Xiaochen and Li, Dongsheng and Wang, Yujiang and Dick, Robert P and Lv, Qin and Zhao, Yingying and Yang, Fan and others},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
+    
+
+
+#### Skill-it! A data-driven skills framework for understanding and training language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.14430)
+
+citation: 
+```bibtex
+@article{chen2023skill,
+  title={Skill-it! A data-driven skills framework for understanding and training language models},
+  author={Chen, Mayee F and Roberts, Nicholas and Bhatia, Kush and Wang, Jue and Zhang, Ce and Sala, Frederic and R{\'e}, Christopher},
+  journal={arXiv preprint arXiv:2307.14430},
+  year={2023}
+}
+```
+    
+    
+
+
 #### Training compute-optimal large language models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2203.15556)

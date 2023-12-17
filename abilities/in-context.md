@@ -1,8 +1,58 @@
-# In-context Learning on LLMs
-*Here's some resources about In-context / Prompt Learning on LLMs*
+# In-context / Prompt Learning Abilities of LLMs
+*Here's some resources about understanding and leveraging In-context / Prompt Learning Abilities of LLMs*
 
 
-### Method
+### Empirical Study
+
+
+#### How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.10616)
+
+citation: 
+```bibtex
+@article{guo2023transformers,
+  title={How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations},
+  author={Guo, Tianyu and Hu, Wei and Mei, Song and Wang, Huan and Xiong, Caiming and Savarese, Silvio and Bai, Yu},
+  journal={arXiv preprint arXiv:2310.10616},
+  year={2023}
+}
+```
+
+
+#### Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.04637)
+
+citation: 
+```bibtex
+@article{bai2023transformers,
+  title={Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection},
+  author={Bai, Yu and Chen, Fan and Wang, Huan and Xiong, Caiming and Mei, Song},
+  journal={arXiv preprint arXiv:2306.04637},
+  year={2023}
+}
+```
+
+
+#### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.04388.pdf?trk=public_post_comment-text)
+
+citation: 
+```bibtex
+@article{turpin2023language,
+  title={Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting},
+  author={Turpin, Miles and Michael, Julian and Perez, Ethan and Bowman, Samuel R},
+  journal={arXiv preprint arXiv:2305.04388},
+  year={2023}
+}
+```
+    
+
+
+
+### Methods
 
 #### Plum: Prompt Learning using Metaheuristic [`UNREAD`]
 
@@ -17,6 +67,21 @@ citation:
   year={2023}
 }
 ```
+
+#### Ddcot: Duty-distinct chain-of-thought prompting for multimodal reasoning in language models (DDCoT) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.16436)
+
+citation: 
+```bibtex
+@article{zheng2023ddcot,
+  title={Ddcot: Duty-distinct chain-of-thought prompting for multimodal reasoning in language models},
+  author={Zheng, Ge and Yang, Bin and Tang, Jiajin and Zhou, Hong-Yu and Yang, Sibei},
+  journal={arXiv preprint arXiv:2310.16436},
+  year={2023}
+}
+```
+    
 
 
 #### Graph of thoughts: Solving elaborate problems with large language models (GoT) [`UNREAD`]
@@ -33,6 +98,20 @@ citation:
 }
 ```
 
+#### Joint Prompt Optimization of Stacked LLMs using Variational Inference ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2306.12509.pdf)
+
+```bibtex
+@inproceedings{sordoni2023joint,
+  title={Joint Prompt Optimization of Stacked LLMs using Variational Inference},
+  author={Sordoni, Alessandro and Yuan, Xingdi and C{\^o}t{\'e}, Marc-Alexandre and Pereira, Matheus and Trischler, Adam and Xiao, Ziang and Hosseini, Arian and Niedtner, Friederike and Le Roux, Nicolas},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023}
+}
+```
+
+
 
 #### Tree of thoughts: Deliberate problem solving with large language models (ToT) [`UNREAD`]
 
@@ -47,7 +126,21 @@ citation:
   year={2023}
 }
 ```
-    
+
+
+#### EvoPrompting: Language Models for Code-Level Neural Architecture Search [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2302.14838)
+
+citation: 
+```bibtex
+@article{chen2023evoprompting,
+  title={EvoPrompting: Language Models for Code-Level Neural Architecture Search},
+  author={Chen, Angelica and Dohan, David M and So, David R},
+  journal={arXiv preprint arXiv:2302.14838},
+  year={2023}
+}
+```
     
     
 

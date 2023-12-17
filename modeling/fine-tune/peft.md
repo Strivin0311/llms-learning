@@ -1,5 +1,5 @@
 # Parameter-Efficient Fine-Tuning (PEFT)
-*Here's some resources about PEFT on LLMs*
+*Here's some resources about PEFT strategies for LLMs*
 
 
 #### S-LoRA: Serving Thousands of Concurrent LoRA Adapters [`UNREAD`]
@@ -27,6 +27,20 @@ citation:
   title={QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models},
   author={Xu, Yuhui and Xie, Lingxi and Gu, Xiaotao and Chen, Xin and Chang, Heng and Zhang, Hengheng and Chen, Zhensu and Zhang, Xiaopeng and Tian, Qi},
   journal={arXiv preprint arXiv:2309.14717},
+  year={2023}
+}
+```
+
+#### LongLoRA: Efficient fine-tuning of long-context large language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.12307.pdf?trk=public_post_comment-text)
+
+citation: 
+```bibtex
+@article{chen2023longlora,
+  title={Longlora: Efficient fine-tuning of long-context large language models},
+  author={Chen, Yukang and Qian, Shengju and Tang, Haotian and Lai, Xin and Liu, Zhijian and Han, Song and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2309.12307},
   year={2023}
 }
 ```
@@ -97,7 +111,7 @@ citation:
 
 #### Scaling instruction-finetuned language models [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2210.11416.pdf%5C%5D)
+paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
 
 citation: 
 ```bibtex

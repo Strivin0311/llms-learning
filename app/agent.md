@@ -1,5 +1,5 @@
-# LLMs-as-Agent
-*Here's some resources about LLMs-as-Agent*
+# LLMs-as-Agents
+*Here's some resources about LLMs-as-Agents*
 
 ### Methods
 
@@ -83,7 +83,7 @@ citation:
 
 #### Communicative agents for software development [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2307.07924.pdf%E3%80%8CSHOW-1%E3%80%8D%E8%AE%BA%E6%96%87%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps://fablestudio.github.io/showrunner-)
+paper link: [here](https://arxiv.org/pdf/2307.07924.pdf)
 
 citation: 
 ```bibtex

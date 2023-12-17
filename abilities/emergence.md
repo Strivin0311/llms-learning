@@ -1,6 +1,21 @@
 # Emergent Abilities of LLMs
-*Here's some resources about Emergent Abilities of LLMs*
+*Here's some resources about understanding and leveraging Emergent Abilities of LLMs*
 
+
+#### Are emergent abilities of Large Language Models a mirage? [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.15004.pdf?)
+
+citation: 
+```bibtex
+@article{schaeffer2023emergent,
+  title={Are emergent abilities of Large Language Models a mirage?},
+  author={Schaeffer, Rylan and Miranda, Brando and Koyejo, Sanmi},
+  journal={arXiv preprint arXiv:2304.15004},
+  year={2023}
+}
+```
+    
 
 
 #### Emergent abilities of large language models [`READ`]

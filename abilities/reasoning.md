@@ -1,20 +1,27 @@
 # Reasoning Abilities of LLMs
-*Here's some resources about Reasoning Abilities of LLMs*
+*Here's some resources about understanding and leveraging Reasoning Abilities of LLMs*
 
 
-#### ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [`UNREAD`]
+### General
 
-paper link: [here](https://arxiv.org/pdf/2309.17452)
+
+#### 
+
+
+#### Chameleon: Plug-and-play compositional reasoning with large language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.09842)
 
 citation: 
 ```bibtex
-@article{gou2023tora,
-  title={ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving},
-  author={Gou, Zhibin and Shao, Zhihong and Gong, Yeyun and Yang, Yujiu and Huang, Minlie and Duan, Nan and Chen, Weizhu and others},
-  journal={arXiv preprint arXiv:2309.17452},
+@article{lu2023chameleon,
+  title={Chameleon: Plug-and-play compositional reasoning with large language models},
+  author={Lu, Pan and Peng, Baolin and Cheng, Hao and Galley, Michel and Chang, Kai-Wei and Wu, Ying Nian and Zhu, Song-Chun and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2304.09842},
   year={2023}
 }
 ```
+
 
 #### Why think step-by-step? Reasoning emerges from the locality of experience [`UNREAD`]
 
@@ -29,8 +36,6 @@ citation:
   year={2023}
 }
 ```
-
-
 
 #### Pal: Program-aided language models [`UNREAD`]
 
@@ -47,8 +52,6 @@ citation:
   organization={PMLR}
 }
 ```
-    
-
 
 #### Visual programming: Compositional visual reasoning without training [`READ`]
 
@@ -64,55 +67,6 @@ citation:
   year={2023}
 }
 ```
-    
-
-#### Progprompt: Generating situated robot task plans using large language models [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2209.11302)
-
-citation: 
-```bibtex
-@inproceedings{singh2023progprompt,
-  title={Progprompt: Generating situated robot task plans using large language models},
-  author={Singh, Ishika and Blukis, Valts and Mousavian, Arsalan and Goyal, Ankit and Xu, Danfei and Tremblay, Jonathan and Fox, Dieter and Thomason, Jesse and Garg, Animesh},
-  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
-  pages={11523--11530},
-  year={2023},
-  organization={IEEE}
-}
-```
-
-#### Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2210.11694)
-
-citation: 
-```bibtex
-@article{zhang2022multi,
-  title={Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem},
-  author={Zhang, Wenqi and Shen, Yongliang and Ma, Yanna and Cheng, Xiaoxia and Tan, Zeqi and Nong, Qingpeng and Lu, Weiming},
-  journal={arXiv preprint arXiv:2210.11694},
-  year={2022}
-}
-```
-    
-
-#### Language models as zero-shot planners: Extracting actionable knowledge for embodied agents [`UNREAD`]
-
-paper link: [here](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
-
-citation: 
-```bibtex
-@inproceedings{huang2022language,
-  title={Language models as zero-shot planners: Extracting actionable knowledge for embodied agents},
-  author={Huang, Wenlong and Abbeel, Pieter and Pathak, Deepak and Mordatch, Igor},
-  booktitle={International Conference on Machine Learning},
-  pages={9118--9147},
-  year={2022},
-  organization={PMLR}
-}
-```
-    
 
 
 #### Large language models can self-improve [`UNREAD`]
@@ -173,4 +127,141 @@ citation:
   year={2022}
 }
 ```
+
+
+### Decision Making / Planning
+
+
+#### Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.02071)
+
+citation: 
+```bibtex
+@article{chen2023towards,
+  title={Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond},
+  author={Chen, Liang and Zhang, Yichi and Ren, Shuhuai and Zhao, Haozhe and Cai, Zefan and Wang, Yuchi and Wang, Peiyi and Liu, Tianyu and Chang, Baobao},
+  journal={arXiv preprint arXiv:2310.02071},
+  year={2023}
+}
+```
+    
+
+#### ChessGPT: Bridging Policy Learning and Language Modeling [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.09200)
+
+citation: 
+```bibtex
+@article{feng2023chessgpt,
+  title={ChessGPT: Bridging Policy Learning and Language Modeling},
+  author={Feng, Xidong and Luo, Yicheng and Wang, Ziyan and Tang, Hongrui and Yang, Mengyue and Shao, Kun and Mguni, David and Du, Yali and Wang, Jun},
+  journal={arXiv preprint arXiv:2306.09200},
+  year={2023}
+}
+```
+
+#### Language models can solve computer tasks [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2303.17491)
+
+citation: 
+```bibtex
+@article{kim2023language,
+  title={Language models can solve computer tasks},
+  author={Kim, Geunwoo and Baldi, Pierre and McAleer, Stephen},
+  journal={arXiv preprint arXiv:2303.17491},
+  year={2023}
+}
+```
+
+#### Progprompt: Generating situated robot task plans using large language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2209.11302)
+
+citation: 
+```bibtex
+@inproceedings{singh2023progprompt,
+  title={Progprompt: Generating situated robot task plans using large language models},
+  author={Singh, Ishika and Blukis, Valts and Mousavian, Arsalan and Goyal, Ankit and Xu, Danfei and Tremblay, Jonathan and Fox, Dieter and Thomason, Jesse and Garg, Animesh},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={11523--11530},
+  year={2023},
+  organization={IEEE}
+}
+```
+
+#### Language models as zero-shot planners: Extracting actionable knowledge for embodied agents [`UNREAD`]
+
+paper link: [here](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
+
+citation: 
+```bibtex
+@inproceedings{huang2022language,
+  title={Language models as zero-shot planners: Extracting actionable knowledge for embodied agents},
+  author={Huang, Wenlong and Abbeel, Pieter and Pathak, Deepak and Mordatch, Igor},
+  booktitle={International Conference on Machine Learning},
+  pages={9118--9147},
+  year={2022},
+  organization={PMLR}
+}
+```
+
+
+### Math / Algorithm Problems
+
+
+#### Can Language Models Solve Graph Problems in Natural Language? [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.10037)
+
+citation: 
+```bibtex
+@article{wang2023can,
+  title={Can Language Models Solve Graph Problems in Natural Language?},
+  author={Wang, Heng and Feng, Shangbin and He, Tianxing and Tan, Zhaoxuan and Han, Xiaochuang and Tsvetkov, Yulia},
+  journal={arXiv preprint arXiv:2305.10037},
+  year={2023}
+}
+```
+    
+
+
+#### ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.17452)
+
+citation: 
+```bibtex
+@article{gou2023tora,
+  title={ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving},
+  author={Gou, Zhibin and Shao, Zhihong and Gong, Yeyun and Yang, Yujiu and Huang, Minlie and Duan, Nan and Chen, Weizhu and others},
+  journal={arXiv preprint arXiv:2309.17452},
+  year={2023}
+}
+```    
+
+
+#### Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2210.11694)
+
+citation: 
+```bibtex
+@article{zhang2022multi,
+  title={Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem},
+  author={Zhang, Wenqi and Shen, Yongliang and Ma, Yanna and Cheng, Xiaoxia and Tan, Zeqi and Nong, Qingpeng and Lu, Weiming},
+  journal={arXiv preprint arXiv:2210.11694},
+  year={2022}
+}
+```
+
+
+
+    
+
+
+    
+
+
     

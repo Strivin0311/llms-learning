@@ -3,20 +3,6 @@
 *Here's some resources about Instruction Following for LLMs*
 
 
-#### Toolllm: Facilitating large language models to master 16000+ real-world apis [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2307.16789.pdf)
-
-citation: 
-```bibtex
-@article{qin2023toolllm,
-  title={Toolllm: Facilitating large language models to master 16000+ real-world apis},
-  author={Qin, Yujia and Liang, Shihao and Ye, Yining and Zhu, Kunlun and Yan, Lan and Lu, Yaxi and Lin, Yankai and Cong, Xin and Tang, Xiangru and Qian, Bill and others},
-  journal={arXiv preprint arXiv:2307.16789},
-  year={2023}
-}
-```
-
 #### Self-QA: Unsupervised Knowledge Guided Language Model Alignment [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2305.11952)
@@ -47,7 +33,20 @@ citation:
 }
 ```
 
+#### Visual instruction tuning [`UNREAD`]
 
+paper link: [here](https://arxiv.org/pdf/2304.08485)
+
+citation: 
+```bibtex
+@article{liu2023visual,
+  title={Visual instruction tuning},
+  author={Liu, Haotian and Li, Chunyuan and Wu, Qingyang and Lee, Yong Jae},
+  journal={arXiv preprint arXiv:2304.08485},
+  year={2023}
+}
+```
+    
 
 
 #### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`UNREAD`]
@@ -96,7 +95,7 @@ citation:
 }
 ```
 
-#### Training language models to follow instructions with human feedback [`UNREAD`]
+#### Training language models to follow instructions with human feedback (InstructGPT) [`UNREAD`]
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
