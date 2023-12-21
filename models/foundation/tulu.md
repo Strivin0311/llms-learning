@@ -6,6 +6,13 @@
 
 paper link: [here](https://arxiv.org/pdf/2311.10702)
 
+model links: 
+
+|model name|link|
+|-|-|
+|Tulu-2-DPO-70B|[here](https://huggingface.co/allenai/tulu-2-dpo-70b)|
+|||
+
 citation: 
 ```bibtex
 @article{ivison2023camels,
@@ -18,7 +25,7 @@ citation:
     
 
 
-#### How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources [`UNREAD`]
+#### How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Tulu) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.04751)
 

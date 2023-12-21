@@ -2,7 +2,31 @@
 *Here's some resources about Miscellaneous Models*
 
 
-#### Gemini: A Family of Highly Capable Multimodal Models
+
+#### Orca 2: Teaching Small Language Models How to Reason ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2311.11045.pdf)
+
+model links: 
+
+|model name|link|
+|-|-|
+|Orca-2-13b|[here](https://huggingface.co/microsoft/Orca-2-13b)|
+
+citation:
+```bibtex
+@misc{mitra2023orca,
+      title={Orca 2: Teaching Small Language Models How to Reason}, 
+      author={Arindam Mitra and Luciano Del Corro and Shweti Mahajan and Andres Codas and Clarisse Simoes and Sahaj Agarwal and Xuxi Chen and Anastasia Razdaibiedina and Erik Jones and Kriti Aggarwal and Hamid Palangi and Guoqing Zheng and Corby Rosset and Hamed Khanpour and Ahmed Awadallah},
+      year={2023},
+      eprint={2311.11045},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+
+#### Gemini: A Family of Highly Capable Multimodal Models ['UNREAD']
 
 paper link: [here](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
 
@@ -19,9 +43,43 @@ citation:
 ```
 
 
+#### Starling-7B- Increasing LLM Helpfulness & Harmlessness with RLAIF ['UNREAD']
+
+blog link: [here](https://starling.cs.berkeley.edu/)
+
+model links: 
+
+|model name|link|
+|-|-|
+|Starling-RM-7B-alpha|[here](https://huggingface.co/berkeley-nest/Starling-RM-7B-alpha)|
+|||
+
+citation: 
+```bibtex
+@misc{starling2023,
+    title = {Starling-7B: Improving LLM Helpfulness & Harmlessness with RLAIF},
+    author = {Zhu, Banghua and Frick, Evan and Wu, Tianhao and Zhu, Hanlin and Jiao, Jiantao},
+    month = {November},
+    year = {2023}
+}
+```
+
+
 #### Mistral 7B [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2310.06825.pdf)
+
+model links: 
+
+|model name|link|
+|-|-|
+|Mistral-7B-v0.1|[here](https://huggingface.co/mistralai/Mistral-7B-v0.1)|
+|Mistral-7B-Instruct-v0.1|[here](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)|
+|Neural-Chat-7b-v3-1|[here](https://huggingface.co/Intel/neural-chat-7b-v3-1)|
+|OpenHermes-2.5-Mistral-7B|[here](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B)|
+|OpenHermes-2.5-neural-chat-7b-v3-1-7B|[here](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-7b-v3-1-7B)|
+|Zephyr-7B-beta|[here](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)|
+
 
 citation: 
 ```bibtex
@@ -29,6 +87,29 @@ citation:
   title={Mistral 7B},
   author={Jiang, Albert Q and Sablayrolles, Alexandre and Mensch, Arthur and Bamford, Chris and Chaplot, Devendra Singh and Casas, Diego de las and Bressand, Florian and Lengyel, Gianna and Lample, Guillaume and Saulnier, Lucile and others},
   journal={arXiv preprint arXiv:2310.06825},
+  year={2023}
+}
+```
+
+
+#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2309.11235.pdf)
+
+model link: 
+
+|model name|link|
+|-|-|
+|OpenChat3.5|[here](https://huggingface.co/openchat/openchat_3.5)|
+|||
+
+
+citation:
+```bibtex
+@article{wang2023openchat,
+  title={Openchat: Advancing open-source language models with mixed-quality data},
+  author={Wang, Guan and Cheng, Sijie and Zhan, Xianyuan and Li, Xiangang and Song, Sen and Liu, Yang},
+  journal={arXiv preprint arXiv:2309.11235},
   year={2023}
 }
 ```

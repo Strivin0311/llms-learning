@@ -2,6 +2,23 @@
 *Here's some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
+#### Zephyr: Direct Distillation of LM Alignment ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2310.16944.pdf)
+
+citation: 
+```bibtex
+@misc{tunstall2023zephyr,
+      title={Zephyr: Direct Distillation of LM Alignment}, 
+      author={Lewis Tunstall and Edward Beeching and Nathan Lambert and Nazneen Rajani and Kashif Rasul and Younes Belkada and Shengyi Huang and Leandro von Werra and Clémentine Fourrier and Nathan Habib and Nathan Sarrazin and Omar Sanseviero and Alexander M. Rush and Thomas Wolf},
+      year={2023},
+      eprint={2310.16944},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
 #### FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2310.15105)
@@ -13,6 +30,56 @@ citation:
   author={Song, Kun and Ma, Huimin and Zou, Bochao and Zhang, Huishuai and Huang, Weiran},
   journal={arXiv preprint arXiv:2310.15105},
   year={2023}
+}
+```
+
+
+#### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment (P3O) ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2310.00212.pdf)
+
+citation:
+```bibtex
+@misc{wu2023pairwise,
+      title={Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment}, 
+      author={Tianhao Wu and Banghua Zhu and Ruoyu Zhang and Zhaojin Wen and Kannan Ramchandran and Jiantao Jiao},
+      year={2023},
+      eprint={2310.00212},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+
+#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (C-RLFT) ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2309.11235.pdf)
+
+citation:
+```bibtex
+@article{wang2023openchat,
+  title={Openchat: Advancing open-source language models with mixed-quality data},
+  author={Wang, Guan and Cheng, Sijie and Zhan, Xianyuan and Li, Xiangang and Song, Sen and Liu, Yang},
+  journal={arXiv preprint arXiv:2309.11235},
+  year={2023}
+}
+```
+
+
+#### Fine-Tuning Language Models with Advantage-Induced Policy Alignment (APA) ['UNREAD']
+
+paper link: [here](https://arxiv.org/abs/2306.02231)
+
+citation:
+```bibtex
+@misc{zhu2023finetuning,
+      title={Fine-Tuning Language Models with Advantage-Induced Policy Alignment}, 
+      author={Banghua Zhu and Hiteshi Sharma and Felipe Vieira Frujeri and Shi Dong and Chenguang Zhu and Michael I. Jordan and Jiantao Jiao},
+      year={2023},
+      eprint={2306.02231},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
     
@@ -75,7 +142,38 @@ citation:
 }
 ```
     
+#### Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons ['UNREAD']
 
+paper link: [here](https://arxiv.org/pdf/2301.11270.pdf)
+
+citation: 
+```bibtex
+@misc{zhu2023principled,
+      title={Principled Reinforcement Learning with Human Feedback from Pairwise or $K$-wise Comparisons}, 
+      author={Banghua Zhu and Jiantao Jiao and Michael I. Jordan},
+      year={2023},a
+      eprint={2301.11270},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Scaling Laws for Reward Model Overoptimization ['UNREAD']
+
+paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
+
+citation: 
+```bibtex
+@inproceedings{gao2023scaling,
+  title={Scaling laws for reward model overoptimization},
+  author={Gao, Leo and Schulman, John and Hilton, Jacob},
+  booktitle={International Conference on Machine Learning},
+  pages={10835--10866},
+  year={2023},
+  organization={PMLR}
+}
+```
 
 
 #### Illustrating Reinforcement Learning from Human Feedback

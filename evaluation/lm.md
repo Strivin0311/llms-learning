@@ -5,6 +5,43 @@
 ## Benchmarks
 
 
+#### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2306.05685.pdf)
+
+homepage link (chatbot Arena): [here](https://chat.lmsys.org/)
+
+citation:
+```bibtex
+@misc{zheng2023judging,
+      title={Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena}, 
+      author={Lianmin Zheng and Wei-Lin Chiang and Ying Sheng and Siyuan Zhuang and Zhanghao Wu and Yonghao Zhuang and Zi Lin and Zhuohan Li and Dacheng Li and Eric. P Xing and Hao Zhang and Joseph E. Gonzalez and Ion Stoica},
+      year={2023},
+      eprint={2306.05685},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2306.04757.pdf)
+
+citation: 
+```bibtex
+@misc{chia2023instructeval,
+      title={INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models}, 
+      author={Yew Ken Chia and Pengfei Hong and Lidong Bing and Soujanya Poria},
+      year={2023},
+      eprint={2306.04757},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+    
+
+
 #### Holistic evaluation of language models (HELM) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2211.09110.pdf)
