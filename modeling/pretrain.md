@@ -35,7 +35,39 @@ citation:
 }
 ```
     
-    
+
+#### Transcending Scaling Laws with 0.1% Extra Compute (UL2R, U-PaLM) ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2210.11399.pdf)
+
+citation:
+```bibtex
+@misc{tay2022transcending,
+      title={Transcending Scaling Laws with 0.1% Extra Compute}, 
+      author={Yi Tay and Jason Wei and Hyung Won Chung and Vinh Q. Tran and David R. So and Siamak Shakeri and Xavier Garcia and Huaixiu Steven Zheng and Jinfeng Rao and Aakanksha Chowdhery and Denny Zhou and Donald Metzler and Slav Petrov and Neil Houlsby and Quoc V. Le and Mostafa Dehghani},
+      year={2022},
+      eprint={2210.11399},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### UL2: Unifying Language Learning Paradigms (MoD) ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2205.05131.pdf)
+
+citation:
+```bibtex
+@misc{tay2023ul2,
+      title={UL2: Unifying Language Learning Paradigms}, 
+      author={Yi Tay and Mostafa Dehghani and Vinh Q. Tran and Xavier Garcia and Jason Wei and Xuezhi Wang and Hyung Won Chung and Siamak Shakeri and Dara Bahri and Tal Schuster and Huaixiu Steven Zheng and Denny Zhou and Neil Houlsby and Donald Metzler},
+      year={2023},
+      eprint={2205.05131},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 #### Training compute-optimal large language models [`READ`]

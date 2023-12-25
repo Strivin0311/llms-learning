@@ -194,3 +194,19 @@ citation:
 }
 ```
     
+
+#### LaMDA: Language Models for Dialog Applications ['UNREAD']
+
+paper link: [here](https://arxiv.org/pdf/2201.08239.pdf)
+
+citation:
+```bibtex
+@misc{thoppilan2022lamda,
+      title={LaMDA: Language Models for Dialog Applications}, 
+      author={Romal Thoppilan and Daniel De Freitas and Jamie Hall and Noam Shazeer and Apoorv Kulshreshtha and Heng-Tze Cheng and Alicia Jin and Taylor Bos and Leslie Baker and Yu Du and YaGuang Li and Hongrae Lee and Huaixiu Steven Zheng and Amin Ghafouri and Marcelo Menegali and Yanping Huang and Maxim Krikun and Dmitry Lepikhin and James Qin and Dehao Chen and Yuanzhong Xu and Zhifeng Chen and Adam Roberts and Maarten Bosma and Vincent Zhao and Yanqi Zhou and Chung-Ching Chang and Igor Krivokon and Will Rusch and Marc Pickett and Pranesh Srinivasan and Laichee Man and Kathleen Meier-Hellstern and Meredith Ringel Morris and Tulsee Doshi and Renelito Delos Santos and Toju Duke and Johnny Soraker and Ben Zevenbergen and Vinodkumar Prabhakaran and Mark Diaz and Ben Hutchinson and Kristen Olson and Alejandra Molina and Erin Hoffman-John and Josh Lee and Lora Aroyo and Ravi Rajakumar and Alena Butryna and Matthew Lamm and Viktoriya Kuzmina and Joe Fenton and Aaron Cohen and Rachel Bernstein and Ray Kurzweil and Blaise Aguera-Arcas and Claire Cui and Marian Croak and Ed Chi and Quoc Le},
+      year={2022},
+      eprint={2201.08239},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
