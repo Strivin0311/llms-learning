@@ -2,6 +2,22 @@
 *Here's some resources about Inference on LLMs*
 
 
+#### PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU ['UNREAD']
+
+paper link: [here](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+
+citation:
+```bibtex
+@misc{song2023powerinfer,
+      title={PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU}, 
+      author={Yixin Song and Zeyu Mi and Haotong Xie and Haibo Chen},
+      year={2023},
+      eprint={2312.12456},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 
 #### High-throughput generative inference of large language models with a single gpu [`UNREAD`]
 
