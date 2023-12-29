@@ -20,6 +20,10 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2308.12950.pdf)
 
+github link: [here]()
+
+playground link: [here](https://huggingface.co/spaces/codellama/codellama-playground)
+
 citation: 
 ```bibtex
 @article{roziere2023code,

@@ -95,6 +95,41 @@ citation:
 }
 ```
 
+#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast ['UNREAD']
+
+paper link: [here](https://www.researchgate.net/profile/Oguzhan-Topsakal/publication/372669736_Creating_Large_Language_Model_Applications_Utilizing_LangChain_A_Primer_on_Developing_LLM_Apps_Fast/links/64d114a840a524707ba4a419/Creating-Large-Language-Model-Applications-Utilizing-LangChain-A-Primer-on-Developing-LLM-Apps-Fast.pdf)
+
+citation:
+```bibtex
+@inproceedings{topsakal2023creating,
+    author = "Topsakal, Oguzhan and Akinci, Tahir Cetin",
+    title = "Creating large language model applications utilizing langchain: A primer on developing llm apps fast",
+    booktitle = "International Conference on Applied Engineering and Natural Sciences",
+    volume = "1",
+    pages = "1050--1056",
+    year = "2023"
+}
+```
+
+#### LangChain: Building applications with LLMs through composability [`READ`]
+
+github link: [here](https://github.com/langchain-ai/langchain)
+
+doc link: [here](https://python.langchain.com/docs/get_started/introduction)
+
+[here](../notebooks//tutorial_langchain.ipynb) is a tutorial notebook we made about how to use the basic functions langchain
+
+citation:
+```bibtex
+@misc{langchain2022,
+    author = "Chase, Harrison",
+    month = "10",
+    title = "LangChain",
+    howpublished = "\url{https://github.com/langchain-ai/langchain}",
+    year = "2022"
+}
+```
+
 ### Benchmark
 
 #### Agentbench: Evaluating llms as agents [`READ`]

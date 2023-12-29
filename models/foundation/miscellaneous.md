@@ -51,6 +51,7 @@ model links:
 
 |model name|link|
 |-|-|
+|Starling-LM-7B-alpha|[here](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha)|
 |Starling-RM-7B-alpha|[here](https://huggingface.co/berkeley-nest/Starling-RM-7B-alpha)|
 |||
 
@@ -101,6 +102,7 @@ model link:
 |model name|link|
 |-|-|
 |OpenChat3.5|[here](https://huggingface.co/openchat/openchat_3.5)|
+|OpenChat3.5-1210|[here](https://huggingface.co/openchat/openchat-3.5-1210)|
 |||
 
 
