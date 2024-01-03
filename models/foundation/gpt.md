@@ -55,6 +55,8 @@ citation:
 
 blog link: [here](https://openai.com/blog/chatgpt)
 
+[here](../../notebooks/tutorial_openai_assistant_api.ipynb) is a tutorial notebook about how to use the basic openai assistant API
+
 citation:
 ```bibtex
 @online{openai-blog-chatgpt,
