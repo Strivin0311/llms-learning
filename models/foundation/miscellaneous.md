@@ -12,6 +12,7 @@ model links:
 |model name|link|
 |-|-|
 |Orca-2-13b|[here](https://huggingface.co/microsoft/Orca-2-13b)|
+|Orca-2-7b|[here]|(https://huggingface.co/microsoft/Orca-2-7b)|
 
 citation:
 ```bibtex
@@ -53,7 +54,7 @@ model links:
 |-|-|
 |Starling-LM-7B-alpha|[here](https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha)|
 |Starling-RM-7B-alpha|[here](https://huggingface.co/berkeley-nest/Starling-RM-7B-alpha)|
-|||
+
 
 citation: 
 ```bibtex
@@ -62,6 +63,28 @@ citation:
     author = {Zhu, Banghua and Frick, Evan and Wu, Tianhao and Zhu, Hanlin and Jiao, Jiantao},
     month = {November},
     year = {2023}
+}
+```
+
+#### Mixtral of experts: A high quality Sparse Mixture-of-Experts ['UNREAD']
+
+blog link: [here](https://mistral.ai/news/mixtral-of-experts/)
+
+model links: 
+
+|model name|link|
+|-|-|
+|Mixtral-SlimOrca-8x7B|[here](https://huggingface.co/Open-Orca/Mixtral-SlimOrca-8x7B)|
+|Mixtral-8x7B-Instruct-v0.1|[here](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)|
+|Mixtral-8x7B-v0.1|[here](https://huggingface.co/mistralai/Mixtral-8x7B-v0.1)|
+
+citation:
+```bibtex
+@online{mixtral_model,
+  author = {Mistral AI},
+  title = {Mixtral of Experts: A High-Quality Sparse Mixture-of-Experts},
+  year = {2023},
+  url = {\url{https://mistral.ai/news/mixtral-of-experts/}}
 }
 ```
 
@@ -74,12 +97,14 @@ model links:
 
 |model name|link|
 |-|-|
-|Mistral-7B-v0.1|[here](https://huggingface.co/mistralai/Mistral-7B-v0.1)|
-|Mistral-7B-Instruct-v0.1|[here](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)|
-|Neural-Chat-7b-v3-1|[here](https://huggingface.co/Intel/neural-chat-7b-v3-1)|
+|Mistral-7B-OpenOrca|[here](https://huggingface.co/Open-Orca/Mistral-7B-OpenOrca)|
+|Zephyr-7B-beta|[here](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)|
 |OpenHermes-2.5-Mistral-7B|[here](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B)|
 |OpenHermes-2.5-neural-chat-7b-v3-1-7B|[here](https://huggingface.co/Weyaxi/OpenHermes-2.5-neural-chat-7b-v3-1-7B)|
-|Zephyr-7B-beta|[here](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta)|
+|Neural-Chat-7b-v3-1|[here](https://huggingface.co/Intel/neural-chat-7b-v3-1)|
+|Mistral-7B-Instruct-v0.1|[here](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1)|
+|Mistral-7B-v0.1|[here](https://huggingface.co/mistralai/Mistral-7B-v0.1)|
+
 
 
 citation: 
