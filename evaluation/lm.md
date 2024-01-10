@@ -4,6 +4,20 @@
 
 ## Benchmarks
 
+#### GPT-Fathom- Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond ['READ']
+
+paper link: [here](https://arxiv.org/pdf/2309.16583)
+
+citation
+```bibtex
+@article{zheng2023gpt,
+  title={GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond},
+  author={Zheng, Shen and Zhang, Yuyu and Zhu, Yijie and Xi, Chenguang and Gao, Pengyang and Zhou, Xun and Chang, Kevin Chen-Chuan},
+  journal={arXiv preprint arXiv:2309.16583},
+  year={2023}
+}
+```
+
 
 #### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena ['UNREAD']
 

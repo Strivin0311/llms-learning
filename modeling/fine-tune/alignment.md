@@ -34,7 +34,7 @@ citation:
 ```
 
 
-#### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment (P3O) ['UNREAD']
+#### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment (P3O) ['READ']
 
 paper link: [here](https://arxiv.org/pdf/2310.00212.pdf)
 
@@ -85,7 +85,7 @@ citation:
     
 
 
-#### Direct preference optimization: Your language model is secretly a reward model (DPO) [`UNREAD`]
+#### Direct preference optimization: Your language model is secretly a reward model (DPO) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2305.18290.pdf)
 
