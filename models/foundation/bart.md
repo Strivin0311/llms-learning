@@ -1,5 +1,5 @@
-# Bart
-*Here's some resources about Bart*
+# BART
+*Here's some resources about BART*
 
 
 #### Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension [`READ`]

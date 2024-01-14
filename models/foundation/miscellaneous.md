@@ -99,6 +99,21 @@ model links:
 |Anima-33B|[here](https://huggingface.co/lyogavin/Anima33B)|
 
 
+#### Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [`READ`]
+
+blog link: [here](https://lmsys.org/blog/2023-03-30-vicuna/)
+
+model links: 
+
+|model name|link|
+|-|-|
+|Vicuna-33b-v1.3|[here](https://huggingface.co/lmsys/vicuna-33b-v1.3)|
+|Vicuna-13b-v1.5-16k|[here](https://huggingface.co/lmsys/vicuna-13b-v1.5-16k)|
+|Vicuna-13b-v1.5|[here](https://huggingface.co/lmsys/vicuna-13b-v1.5)|
+|Vicuna-7b-v1.5-16k|[here](https://huggingface.co/lmsys/vicuna-7b-v1.5-16k)|
+|Vicuna-7b-v1.5|[here](https://huggingface.co/lmsys/vicuna-7b-v1.5)|
+
+
 #### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2304.01196)
@@ -131,9 +146,19 @@ citation:
 ```
 
 
-#### Opt: Open pre-trained transformer language models [`UNREAD`]
+#### OPT: Open pre-trained transformer language models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2205.01068.pdf?fbclid=IwAR1_0YiQKgxIsy8unzoLvL9E2OA41_kze-H0YvhoCzIQUp_gk-MR9dUs2ZE)
+
+model links: 
+
+|model name|link|
+|-|-|
+|OPT-30b|[here](https://huggingface.co/facebook/opt-30b)|
+|OPT-13b|[here](https://huggingface.co/facebook/opt-13b)|
+|OPT-6.7b|[here](https://huggingface.co/facebook/opt-6.7b)|
+|OPT-2.7b|[here](https://huggingface.co/facebook/opt-2.7b)|
+|OPT-1.3b|[here](https://huggingface.co/facebook/opt-1.3b)|
 
 citation: 
 ```bibtex
