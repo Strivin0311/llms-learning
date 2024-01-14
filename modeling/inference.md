@@ -2,7 +2,18 @@
 *Here's some resources about Inference on LLMs*
 
 
-#### PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU ['UNREAD']
+#### AirLLM: inference 70B LLM with 4GB single GPU [`READ`]
+
+github link: [here](https://github.com/lyogavin/Anima/tree/main/air_llm)
+
+tutorial links:
+
+|tutorial name|public date|main-lib version|notebook link|
+|-|-|-|-|
+|tutorial_airllm|2024.01|airllm=2.8.3|[here](../notebooks/tutorial_airllm.ipynb)|
+
+
+#### PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU [`UNREAD`]
 
 paper link: [here](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 

@@ -70,6 +70,12 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2309.17288)
 
+tutorial links:
+
+|tutorial name|public date|main-lib version|notebook link|
+|-|-|-|-|
+|tutorial_autogen|2024.01|pyautogen=0.2.0,langchain=0.0.352|[here](../notebooks/tutorial_autogen.ipynb)|
+
 citation: 
 ```bibtex
 @article{chen2023autoagents,
@@ -95,7 +101,7 @@ citation:
 }
 ```
 
-#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast ['UNREAD']
+#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast [`UNREAD`]
 
 paper link: [here](https://www.researchgate.net/profile/Oguzhan-Topsakal/publication/372669736_Creating_Large_Language_Model_Applications_Utilizing_LangChain_A_Primer_on_Developing_LLM_Apps_Fast/links/64d114a840a524707ba4a419/Creating-Large-Language-Model-Applications-Utilizing-LangChain-A-Primer-on-Developing-LLM-Apps-Fast.pdf)
 
@@ -117,7 +123,12 @@ github link: [here](https://github.com/langchain-ai/langchain)
 
 doc link: [here](https://python.langchain.com/docs/get_started/introduction)
 
-[here](../notebooks//tutorial_langchain.ipynb) is a tutorial notebook we made about how to use the basic functions langchain
+tutorial links:
+
+|tutorial name|public date|main-lib version|notebook link|
+|-|-|-|-|
+|tutorial_langchain|2023.12|langchain=0.0.352, openai=1.6.1|[here](../notebooks/tutorial_langchain.ipynb)|
+
 
 citation:
 ```bibtex

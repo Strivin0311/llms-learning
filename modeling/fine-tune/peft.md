@@ -83,6 +83,14 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
+github link: [here]()
+
+tutorial links:
+
+|tutorial name|public date|main-lib version|notebook link|
+|-|-|-|-|
+|tutorial_qlora|2024.01|bitsandbytes=0.41.3, peft=0.7.1|[here](../notebooks/tutorial_qlora.ipynb)|
+
 citation: 
 ```bibtex
 @article{dettmers2023qlora,

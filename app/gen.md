@@ -30,6 +30,13 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2209.10063)
 
+tutorial links:
+
+|tutorial name|public date|main-lib version|notebook link|
+|-|-|-|-|
+|tutorial_llamaindex_rag_api|2024.01|llama-index=0.9.26|[here](../notebooks/tutorial_llamaindex_rag_api.ipynb)|
+|tutorial_langchain|2023.12|langchain=0.0.352, openai=1.6.1|[here](../notebooks/tutorial_langchain.ipynb)|
+
 citation: 
 ```bibtex
 @article{yu2022generate,
