@@ -67,6 +67,21 @@ citation:
   year={2023}
 }
 ```
+
+#### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning [`READ`]
+
+blog link: [here](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
+
+citation:
+```bibtex
+@misc{Dettmers2023WhichGPU,
+  author = {Tim Dettmers},
+  title = {Which GPU for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning},
+  year = {2023},
+  month = {Jan},
+  howpublished = {\url{https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/}},
+}
+```
     
 
 

@@ -2,11 +2,9 @@
 *Here's some resources about understanding and leveraging Reasoning Abilities of LLMs*
 
 
+
+
 ### General
-
-
-#### 
-
 
 #### Chameleon: Plug-and-play compositional reasoning with large language models [`UNREAD`]
 
@@ -23,7 +21,7 @@ citation:
 ```
 
 
-#### Why think step-by-step? Reasoning emerges from the locality of experience [`UNREAD`]
+#### Why think step-by-step? Reasoning emerges from the locality of experience [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2304.03843)
 
@@ -210,6 +208,22 @@ citation:
 
 ### Math / Algorithm Problems
 
+
+#### An Empirical Study on Challenging Math Problem Solving with GPT-4 [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.01337.pdf)
+
+citation:
+```bibtex
+@misc{wu2023empirical,
+      title={An Empirical Study on Challenging Math Problem Solving with GPT-4}, 
+      author={Yiran Wu and Feiran Jia and Shaokun Zhang and Hangyu Li and Erkang Zhu and Yue Wang and Yin Tat Lee and Richard Peng and Qingyun Wu and Chi Wang},
+      year={2023},
+      eprint={2306.01337},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 #### Can Language Models Solve Graph Problems in Natural Language? [`UNREAD`]
 

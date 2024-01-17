@@ -4,6 +4,23 @@
 ### Methods
 
 
+#### LLM Augmented Hierarchical Agents [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2311.05596.pdf)
+
+citation:
+```bibtex
+@misc{prakash2023llm,
+      title={LLM Augmented Hierarchical Agents}, 
+      author={Bharat Prakash and Tim Oates and Tinoosh Mohsenin},
+      year={2023},
+      eprint={2311.05596},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
 #### ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2309.00986)
@@ -17,54 +34,6 @@ citation:
   year={2023}
 }
 ```
-    
-
-
-#### Autogen: Enabling next-gen llm applications via multi-agent conversation framework [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
-
-citation:
-```bibtex
-@article{wu2023autogen,
-  title={Autogen: Enabling next-gen llm applications via multi-agent conversation framework},
-  author={Wu, Qingyun and Bansal, Gagan and Zhang, Jieyu and Wu, Yiran and Zhang, Shaokun and Zhu, Erkang and Li, Beibin and Jiang, Li and Zhang, Xiaoyun and Wang, Chi},
-  journal={arXiv preprint arXiv:2308.08155},
-  year={2023}
-}
-```
-
-
-
-#### Agents: An Open-source Framework for Autonomous Language Agents [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2309.07870)
-
-citation: 
-```bibtex
-@article{zhou2023agents,
-  title={Agents: An Open-source Framework for Autonomous Language Agents},
-  author={Zhou, Wangchunshu and Jiang, Yuchen Eleanor and Li, Long and Wu, Jialong and Wang, Tiannan and Qiu, Shi and Zhang, Jintian and Chen, Jing and Wu, Ruipu and Wang, Shuai and others},
-  journal={arXiv preprint arXiv:2309.07870},
-  year={2023}
-}
-```
-    
-
-#### Generative agents: Interactive simulacra of human behavior [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2304.03442.pdf%C3%82%C2%A0)
-
-citation: 
-```bibtex
-@article{park2023generative,
-  title={Generative agents: Interactive simulacra of human behavior},
-  author={Park, Joon Sung and O'Brien, Joseph C and Cai, Carrie J and Morris, Meredith Ringel and Liang, Percy and Bernstein, Michael S},
-  journal={arXiv preprint arXiv:2304.03442},
-  year={2023}
-}
-```
-
 
 #### AutoAgents: A Framework for Automatic Agent Generation [`UNREAD`]
 
@@ -85,6 +54,37 @@ citation:
   year={2023}
 }
 ```
+
+
+#### Agents: An Open-source Framework for Autonomous Language Agents [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2309.07870)
+
+citation: 
+```bibtex
+@article{zhou2023agents,
+  title={Agents: An Open-source Framework for Autonomous Language Agents},
+  author={Zhou, Wangchunshu and Jiang, Yuchen Eleanor and Li, Long and Wu, Jialong and Wang, Tiannan and Qiu, Shi and Zhang, Jintian and Chen, Jing and Wu, Ruipu and Wang, Shuai and others},
+  journal={arXiv preprint arXiv:2309.07870},
+  year={2023}
+}
+```
+    
+
+
+#### Autogen: Enabling next-gen llm applications via multi-agent conversation framework [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
+
+citation:
+```bibtex
+@article{wu2023autogen,
+  title={Autogen: Enabling next-gen llm applications via multi-agent conversation framework},
+  author={Wu, Qingyun and Bansal, Gagan and Zhang, Jieyu and Wu, Yiran and Zhang, Shaokun and Zhu, Erkang and Li, Beibin and Jiang, Li and Zhang, Xiaoyun and Wang, Chi},
+  journal={arXiv preprint arXiv:2308.08155},
+  year={2023}
+}
+```
     
 
 #### Communicative agents for software development [`UNREAD`]
@@ -101,7 +101,22 @@ citation:
 }
 ```
 
-#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast [`UNREAD`]
+#### Generative agents: Interactive simulacra of human behavior [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2304.03442.pdf)
+
+citation: 
+```bibtex
+@article{park2023generative,
+  title={Generative agents: Interactive simulacra of human behavior},
+  author={Park, Joon Sung and O'Brien, Joseph C and Cai, Carrie J and Morris, Meredith Ringel and Liang, Percy and Bernstein, Michael S},
+  journal={arXiv preprint arXiv:2304.03442},
+  year={2023}
+}
+```
+
+
+#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast [`READ`]
 
 paper link: [here](https://www.researchgate.net/profile/Oguzhan-Topsakal/publication/372669736_Creating_Large_Language_Model_Applications_Utilizing_LangChain_A_Primer_on_Developing_LLM_Apps_Fast/links/64d114a840a524707ba4a419/Creating-Large-Language-Model-Applications-Utilizing-LangChain-A-Primer-on-Developing-LLM-Apps-Fast.pdf)
 
@@ -192,6 +207,8 @@ citation:
 #### The rise and potential of large language model based agents: A survey [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2309.07864)
+
+github link: [here](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
 citation: 
 ```bibtex

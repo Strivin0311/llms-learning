@@ -2,7 +2,24 @@
 *Here's some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
-#### Zephyr: Direct Distillation of LM Alignment ['UNREAD']
+#### Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models (SPIN) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2401.01335.pdf)
+
+citation:
+```bibtex
+@misc{chen2024selfplay,
+      title={Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models}, 
+      author={Zixiang Chen and Yihe Deng and Huizhuo Yuan and Kaixuan Ji and Quanquan Gu},
+      year={2024},
+      eprint={2401.01335},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Zephyr: Direct Distillation of LM Alignment [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2310.16944.pdf)
 
@@ -52,7 +69,7 @@ citation:
 
 
 
-#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (C-RLFT) ['UNREAD']
+#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (C-RLFT) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2309.11235.pdf)
 
@@ -67,7 +84,7 @@ citation:
 ```
 
 
-#### Fine-Tuning Language Models with Advantage-Induced Policy Alignment (APA) ['UNREAD']
+#### Fine-Tuning Language Models with Advantage-Induced Policy Alignment (APA) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/abs/2306.02231)
 
@@ -142,7 +159,7 @@ citation:
 }
 ```
     
-#### Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons ['UNREAD']
+#### Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2301.11270.pdf)
 
@@ -159,7 +176,7 @@ citation:
 ```
 
 
-#### Scaling Laws for Reward Model Overoptimization ['UNREAD']
+#### Scaling Laws for Reward Model Overoptimization [`UNREAD`]
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
 

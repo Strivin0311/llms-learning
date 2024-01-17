@@ -2,6 +2,24 @@
 *Here's some resources about Mixture-of-Experts (MoE)*
 
 
+#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
+
+github link: [here](https://github.com/dvmazur/mixtral-offloading)
+
+citation: 
+```bibtex
+@misc{eliseev2023fast,
+      title={Fast Inference of Mixture-of-Experts Language Models with Offloading}, 
+      author={Artyom Eliseev and Denis Mazur},
+      year={2023},
+      eprint={2312.17238},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 #### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`UNREAD`]
 
 blog link: [here](https://mistral.ai/news/mixtral-of-experts/)

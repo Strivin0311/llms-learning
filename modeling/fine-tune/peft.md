@@ -1,21 +1,23 @@
 # Parameter-Efficient Fine-Tuning (PEFT)
 *Here's some resources about PEFT strategies for LLMs*
+    
 
+#### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [`READ`]
 
-#### S-LoRA: Serving Thousands of Concurrent LoRA Adapters [`UNREAD`]
+paper link: [here](https://arxiv.org/pdf/2401.04679.pdf)
 
-paper link: [here](https://arxiv.org/pdf/2311.03285)
-
-citation: 
+citation:
 ```bibtex
-@article{sheng2023s,
-  title={S-LoRA: Serving Thousands of Concurrent LoRA Adapters},
-  author={Sheng, Ying and Cao, Shiyi and Li, Dacheng and Hooper, Coleman and Lee, Nicholas and Yang, Shuo and Chou, Christopher and Zhu, Banghua and Zheng, Lianmin and Keutzer, Kurt and others},
-  journal={arXiv preprint arXiv:2311.03285},
-  year={2023}
+@misc{nikdan2024rosa,
+      title={RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation}, 
+      author={Mahdi Nikdan and Soroush Tabesh and Dan Alistarh},
+      year={2024},
+      eprint={2401.04679},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
-    
+
 
 #### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [`UNREAD`]
 

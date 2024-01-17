@@ -61,6 +61,21 @@ citation:
 ```
 
 
+#### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.14717)
+
+citation: 
+```bibtex
+@article{xu2023qa,
+  title={QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models},
+  author={Xu, Yuhui and Xie, Lingxi and Gu, Xiaotao and Chen, Xin and Chang, Heng and Zhang, Hengheng and Chen, Zhensu and Zhang, Xiaopeng and Tian, Qi},
+  journal={arXiv preprint arXiv:2309.14717},
+  year={2023}
+}
+```
+
+
 #### SqueezeLLM: Dense-and-Sparse Quantization [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.07629)
@@ -112,7 +127,7 @@ citation:
 
 ### Post-Training Quantization (PTQ)
 
-#### HQQ: Half-Quadratic Quantization of Large Machine Learning Models [`UNREAD`]
+#### HQQ: Half-Quadratic Quantization of Large Machine Learning Models [`READ`]
 
 blog link: [here](https://mobiusml.github.io/hqq_blog/)
 
@@ -126,6 +141,20 @@ citation:
 	author = {Hicham Badri and Appu Shaji},
 	month = {November},
 	year = {2023}
+}
+```
+
+#### ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.09782)
+
+citation:
+```bibtex
+@article{wu2023zeroquant,
+  title={Zeroquant-fp: A leap forward in llms post-training w4a8 quantization using floating-point formats},
+  author={Wu, Xiaoxia and Yao, Zhewei and He, Yuxiong},
+  journal={arXiv preprint arXiv:2307.09782},
+  year={2023}
 }
 ```
 
@@ -160,6 +189,22 @@ citation:
 }
 ```
 
+#### SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2211.10438.pdf)
+
+citation:
+```bibtex
+@inproceedings{xiao2023smoothquant,
+  title={Smoothquant: Accurate and efficient post-training quantization for large language models},
+  author={Xiao, Guangxuan and Lin, Ji and Seznec, Mickael and Wu, Hao and Demouth, Julien and Han, Song},
+  booktitle={International Conference on Machine Learning},
+  pages={38087--38099},
+  year={2023},
+  organization={PMLR}
+}
+```
+
 
 #### GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [`UNREAD`]
 
@@ -190,5 +235,21 @@ citation:
     title = {GGML: GPT-Generated Model Language},
     year = {2022},
     url = {\url{https://github.com/ggerganov/ggml}},
+}
+```
+
+#### FP8 Quantization: The Power of the Exponent [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
+
+citation:
+```bibtex
+@article{kuzmin2022fp8,
+  title={Fp8 quantization: The power of the exponent},
+  author={Kuzmin, Andrey and Van Baalen, Mart and Ren, Yuwei and Nagel, Markus and Peters, Jorn and Blankevoort, Tijmen},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={14651--14662},
+  year={2022}
 }
 ```
