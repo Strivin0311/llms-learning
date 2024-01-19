@@ -6,7 +6,7 @@
 ### Procedural Content Generation (PCG)
 
 
-#### MarioGPT: Open-Ended Text2Level Generation through Large Language Models ['UNREAD']
+#### MarioGPT: Open-Ended Text2Level Generation through Large Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/abs/2302.05981)
 
@@ -24,6 +24,23 @@ citation:
 
 
 ### Retrieval-Augmented Generation (RAG)
+
+
+#### Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2212.10496.pdf)
+
+citation:
+```bibtex
+@misc{gao2022precise,
+      title={Precise Zero-Shot Dense Retrieval without Relevance Labels}, 
+      author={Luyu Gao and Xueguang Ma and Jimmy Lin and Jamie Callan},
+      year={2022},
+      eprint={2212.10496},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
 
 
 #### Generate rather than retrieve: Large language models are strong context generators (GenRead) [`READ`]
@@ -48,7 +65,24 @@ citation:
 ```
 
 
-#### Retrieval-augmented generation for knowledge-intensive nlp tasks (RAG) [`UNREAD`]
+#### Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers: Successes and Pitfalls (PRF) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2108.11044.pdf)
+
+citation:
+```bibtex
+@misc{li2022pseudo,
+      title={Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers: Successes and Pitfalls}, 
+      author={Hang Li and Ahmed Mourad and Shengyao Zhuang and Bevan Koopman and Guido Zuccon},
+      year={2022},
+      eprint={2108.11044},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
+```
+
+
+#### Retrieval-augmented generation for knowledge-intensive nlp tasks (RAG) [`READ`]
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 

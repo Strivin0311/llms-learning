@@ -50,8 +50,6 @@ citation:
 ```
     
 
-
-
 ### Methods
 
 #### Plum: Prompt Learning using Metaheuristic [`UNREAD`]
@@ -84,7 +82,7 @@ citation:
     
 
 
-#### Graph of thoughts: Solving elaborate problems with large language models (GoT) [`UNREAD`]
+#### Graph of thoughts: Solving elaborate problems with large language models (GoT) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2308.09687.pdf)
 
@@ -98,7 +96,7 @@ citation:
 }
 ```
 
-#### Joint Prompt Optimization of Stacked LLMs using Variational Inference ['UNREAD']
+#### Joint Prompt Optimization of Stacked LLMs using Variational Inference [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.12509.pdf)
 
@@ -113,7 +111,7 @@ paper link: [here](https://arxiv.org/pdf/2306.12509.pdf)
 
 
 
-#### Tree of thoughts: Deliberate problem solving with large language models (ToT) [`UNREAD`]
+#### Tree of thoughts: Deliberate problem solving with large language models (ToT) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2305.10601)
 
@@ -124,6 +122,23 @@ citation:
   author={Yao, Shunyu and Yu, Dian and Zhao, Jeffrey and Shafran, Izhak and Griffiths, Thomas L and Cao, Yuan and Narasimhan, Karthik},
   journal={arXiv preprint arXiv:2305.10601},
   year={2023}
+}
+```
+
+
+#### Query Expansion by Prompting Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.03653.pdf)
+
+citation:
+```bibtex
+@misc{jagerman2023query,
+      title={Query Expansion by Prompting Large Language Models}, 
+      author={Rolf Jagerman and Honglei Zhuang and Zhen Qin and Xuanhui Wang and Michael Bendersky},
+      year={2023},
+      eprint={2305.03653},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
 }
 ```
 

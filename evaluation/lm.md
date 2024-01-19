@@ -19,7 +19,7 @@ citation
 ```
 
 
-#### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena ['UNREAD']
+#### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.05685.pdf)
 
@@ -38,7 +38,7 @@ citation:
 ```
 
 
-#### InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models ['UNREAD']
+#### InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.04757.pdf)
 

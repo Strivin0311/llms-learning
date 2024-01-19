@@ -36,7 +36,7 @@ citation:
 ```
     
 
-#### Transcending Scaling Laws with 0.1% Extra Compute (UL2R, U-PaLM) ['UNREAD']
+#### Transcending Scaling Laws with 0.1% Extra Compute (UL2R, U-PaLM) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2210.11399.pdf)
 
@@ -53,7 +53,7 @@ citation:
 ```
 
 
-#### UL2: Unifying Language Learning Paradigms (MoD) ['UNREAD']
+#### UL2: Unifying Language Learning Paradigms (MoD) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2205.05131.pdf)
 

@@ -112,7 +112,7 @@ citation:
 ```
 
 
-#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM) ['UNREAD']
+#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
 

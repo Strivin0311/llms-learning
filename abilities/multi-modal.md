@@ -27,7 +27,7 @@ citation:
 
 ### Video
 
-#### CAST: Cross-Attention in Space and Time for Video Action Recognition ['UNREAD']
+#### CAST: Cross-Attention in Space and Time for Video Action Recognition [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2311.18825.pdf)
 

@@ -102,6 +102,23 @@ citation:
   year={2023}
 }
 ```
+
+
+#### LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.01933.pdf)
+
+citation:
+```bibtex
+@misc{hu2023llmadapters,
+      title={LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models}, 
+      author={Zhiqiang Hu and Lei Wang and Yihuai Lan and Wanyu Xu and Ee-Peng Lim and Lidong Bing and Xing Xu and Soujanya Poria and Roy Ka-Wei Lee},
+      year={2023},
+      eprint={2304.01933},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
     
 
 #### Scaling down to scale up: A guide to parameter-efficient fine-tuning [`UNREAD`]
@@ -132,7 +149,22 @@ citation:
   year={2022}
 }
 ```
+
+#### PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods [`READ`]
+
+blog link: [here](https://huggingface.co/blog/peft)
+
+github link: [here](https://github.com/huggingface/peft)
     
+citation:
+```bibtex
+@Misc{peft,
+  title = {PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods},
+  author = {Sourab Mangrulkar and Sylvain Gugger and Lysandre Debut and Younes Belkada and Sayak Paul and Benjamin Bossan},
+  howpublished = {\url{https://github.com/huggingface/peft}},
+  year = {2022}
+}
+```
 
 #### Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models [`READ`]
 

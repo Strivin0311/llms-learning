@@ -1,7 +1,25 @@
 # Miscellaneous Models
 *Here's some resources about Miscellaneous Models*
 
+#### Phi-2: The surprising power of small language models [`READ`]
 
+blog link: [here](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+
+model links:
+|model name|link|
+|-|-|
+|Phi-2|[here](https://huggingface.co/microsoft/phi-2)|
+
+citation:
+```bibtex
+@misc{Javaheripi2023Phi2,
+  author = {Javaheripi, Mojan and Bubeck, Sébastien},
+  title = {Phi-2: The Surprising Power of Small Language Models},
+  year = {2023},
+  month = {December},
+  howpublished = {\url{https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/}},
+}
+```
 
 #### Textbooks Are All You Need II: phi-1.5 technical report [`UNREAD`]
 
@@ -10,12 +28,11 @@ paper link: [here](https://arxiv.org/pdf/2309.05463.pdf)
 model links:
 |model name|link|
 |-|-|
-|Phi-2|[here](https://huggingface.co/microsoft/phi-2)|
 |Phi-1.5|[here](https://huggingface.co/microsoft/phi-1_5)|
 
 citation:
 ```bibtex
-@article{textbooks2,
+@article{li2023textbooks,
   title={Textbooks Are All You Need II: \textbf{phi-1.5} technical report},
   author={Li, Yuanzhi and Bubeck, S{\'e}bastien and Eldan, Ronen and Del Giorno, Allie and Gunasekar, Suriya and Lee, Yin Tat},
   journal={arXiv preprint arXiv:2309.05463},

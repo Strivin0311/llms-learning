@@ -37,6 +37,41 @@ citation:
 }
 ```
 
+### Math
+
+#### Let's Verify Step by Step (PRM800K) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.20050.pdf)
+
+github link: [here](https://github.com/openai/prm800k)
+
+citation:
+```bibtex
+@article{lightman2023lets,
+      title={Let's Verify Step by Step}, 
+      author={Lightman, Hunter and Kosaraju, Vineet and Burda, Yura and Edwards, Harri and Baker, Bowen and Lee, Teddy and Leike, Jan and Schulman, John and Sutskever, Ilya and Cobbe, Karl},
+      journal={arXiv preprint arXiv:2305.20050},
+      year={2023}
+}
+```
+
+#### Measuring Mathematical Problem Solving With the MATH Dataset [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2103.03874.pdf)
+
+github link: [here](https://github.com/hendrycks/math)
+
+citation:
+```bibtex
+@article{hendrycksmath2021,
+  title={Measuring Mathematical Problem Solving With the MATH Dataset},
+  author={Dan Hendrycks and Collin Burns and Saurav Kadavath and Akul Arora and Steven Basart and Eric Tang and Dawn Song and Jacob Steinhardt},
+  journal={NeurIPS},
+  year={2021}
+}
+```
+
+
 ### Code
 
 #### MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation [`UNREAD`]
