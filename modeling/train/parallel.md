@@ -2,7 +2,7 @@
 *Here're some resources about Parallelism optimization strategies in LLMs training*
 
 
-#### ZeRO++: Extremely Efficient Collective Communication for Giant Model Training [`UNREAD`]
+#### ZeRO++: Extremely Efficient Collective Communication for Giant Model Training [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2306.10209.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Pytorch FSDP: experiences on scaling fully sharded data parallel [`UNREAD`]
+#### Pytorch FSDP: experiences on scaling fully sharded data parallel [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2304.11277)
 
@@ -55,8 +55,24 @@ citation:
 }
 ```
 
+#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`UNREAD`]
 
-#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning [`UNREAD`]
+paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
+
+citation:
+```bibtex
+@misc{smith2022using,
+      title={Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model}, 
+      author={Shaden Smith and Mostofa Patwary and Brandon Norick and Patrick LeGresley and Samyam Rajbhandari and Jared Casper and Zhun Liu and Shrimai Prabhumoye and George Zerveas and Vijay Korthikanti and Elton Zhang and Rewon Child and Reza Yazdani Aminabadi and Julie Bernauer and Xia Song and Mohammad Shoeybi and Yuxiong He and Michael Houston and Saurabh Tiwary and Bryan Catanzaro},
+      year={2022},
+      eprint={2201.11990},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2104.07857.pdf)
 
@@ -75,7 +91,7 @@ citation:
 ```
 
 
-#### Colossal-ai: A unified deep learning system for large-scale parallel training (Auto Parallel) [`UNREAD`]
+#### Colossal-ai: A unified deep learning system for large-scale parallel training (Auto Parallelism) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2110.14883)
 
@@ -93,7 +109,7 @@ citation:
 ```
 
 
-#### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (Pipeline Parallelism) [`UNREAD`]
+#### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2104.04473.pdf)
 
@@ -110,7 +126,7 @@ citation:
 ```
 
 
-#### ZeRO-Offload: Democratizing Billion-Scale Model Training [`UNREAD`]
+#### ZeRO-Offload: Democratizing Billion-Scale Model Training [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2101.06840.pdf)
 
@@ -128,9 +144,11 @@ citation:
 }
 ```
 
-#### DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters [`READ`]
+#### DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters (3D parallelism) [`READ`]
 
 paper link: [here](https://dl.acm.org/doi/10.1145/3394486.3406703)
+
+blog link: [here](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
 
 github link: [here](https://github.com/microsoft/DeepSpeed)
 
@@ -165,7 +183,7 @@ citation:
 ```
 
 
-#### ZeRO: Memory Optimizations Toward Training Trillion Parameter Models [`UNREAD`]
+#### ZeRO: Memory Optimizations Toward Training Trillion Parameter Models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1910.02054.pdf)
 
@@ -184,11 +202,17 @@ citation:
 ```
 
 
-#### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism [`UNREAD`]
+#### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (Tensor Parallelism) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1909.08053.pdf)
 
-github link: [here](https://github.com/NVIDIA/Megatron-LM)
+github links:
+
+|repo name| repo link|
+|-|-|
+|Megatron-LM|[here](https://github.com/NVIDIA/Megatron-LM)|
+|Megatron-Deepspeed|[here](https://github.com/microsoft/Megatron-DeepSpeed)|
+
 
 citation:
 ```bibtex
@@ -201,6 +225,43 @@ citation:
       primaryClass={cs.CL}
 }
 ```
+
+#### GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1811.06965.pdf)
+
+blog link: [here](https://www.deepspeed.ai/tutorials/pipeline/)
+
+citation:
+```bibtex
+@misc{huang2019gpipe,
+      title={GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism}, 
+      author={Yanping Huang and Youlong Cheng and Ankur Bapna and Orhan Firat and Mia Xu Chen and Dehao Chen and HyoukJoong Lee and Jiquan Ngiam and Quoc V. Le and Yonghui Wu and Zhifeng Chen},
+      year={2019},
+      eprint={1811.06965},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+#### Distributed Data Parallelism (DDP) [`READ`]
+
+blog link: [here](https://pytorch.org/docs/master/notes/ddp.html)
+
+docs link: [here](https://pytorch.org/docs/master/generated/torch.nn.parallel.DistributedDataParallel.html)
+
+tutorial link: [here](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html)
+
+citation:
+```bibtex
+@misc{pytorch2019ddp,
+      title={Distributed Data Parallel},
+      author={PyTorch contributors},
+      year={2019},
+      url={https://pytorch.org/docs/master/notes/ddp.html}
+}
+```
+
 
 #### Local SGD Converges Fast and Communicates Little [`UNREAD`]
 

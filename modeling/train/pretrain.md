@@ -115,4 +115,67 @@ citation:
       primaryClass={cs.LG}
 }
 ```
-    
+
+
+### Corpus
+
+#### RedPajama: an Open Dataset for Training Large Language Models [`READ`]
+
+blog link: [here](https://together.ai/blog/redpajama-data-v2)
+
+github link: [here](https://github.com/togethercomputer/RedPajama-Data)
+
+dataset link: [here](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)
+
+citation: 
+```bibtex
+@software{together2023redpajama,
+  author = {Together Computer},
+  title = {RedPajama: an Open Dataset for Training Large Language Models},
+  month = October,
+  year = 2023,
+  url = {https://github.com/togethercomputer/RedPajama-Data}
+}
+```
+
+
+#### The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset [`UNREAD`]
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/ce9e92e3de2372a4b93353eb7f3dc0bd-Paper-Datasets_and_Benchmarks.pdf)
+
+github link: [here](https://github.com/bigscience-workshop/data-preparation)
+
+dataset link: [here](https://huggingface.co/bigscience-data)
+
+citation: 
+```bibtex
+@article{laurenccon2022bigscience,
+  title={The bigscience roots corpus: A 1.6 tb composite multilingual dataset},
+  author={Lauren{\c{c}}on, Hugo and Saulnier, Lucile and Wang, Thomas and Akiki, Christopher and Villanova del Moral, Albert and Le Scao, Teven and Von Werra, Leandro and Mou, Chenghao and Gonz{\'a}lez Ponferrada, Eduardo and Nguyen, Huu and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={31809--31826},
+  year={2022}
+}
+```
+
+
+#### The Pile: An 800GB Dataset of Diverse Text for Language Modeling [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2101.00027.pdf)
+
+github link: [here](https://github.com/EleutherAI/the-pile)
+
+dataset link: [here](https://the-eye.eu/public/AI/pile/)
+
+citation: 
+```bibtex
+@misc{gao2020pile,
+      title={The Pile: An 800GB Dataset of Diverse Text for Language Modeling}, 
+      author={Leo Gao and Stella Biderman and Sid Black and Laurence Golding and Travis Hoppe and Charles Foster and Jason Phang and Horace He and Anish Thite and Noa Nabeshima and Shawn Presser and Connor Leahy},
+      year={2020},
+      eprint={2101.00027},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
