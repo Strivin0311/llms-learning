@@ -1,5 +1,5 @@
 # LLMs-as-Agents
-*Here's some resources about LLMs-as-Agents*
+*Here're some resources about LLMs-as-Agents*
 
 ### Methods
 

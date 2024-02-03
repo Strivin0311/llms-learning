@@ -1,5 +1,5 @@
 # Evaluation on Synthetic Language Modeling Capabilities of LLMs
-*Here's some resources about Evaluation on Synthetic Language Modeling Capabilities of LLMs*
+*Here're some resources about Evaluation on Synthetic Language Modeling Capabilities of LLMs*
 
 
 ## Benchmarks

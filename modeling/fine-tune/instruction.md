@@ -1,6 +1,6 @@
 
 # Instruction Following / Tuning
-*Here's some resources about Instruction Following / Tuning for LLMs*
+*Here're some resources about Instruction Following / Tuning for LLMs*
 
 
 #### Self-QA: Unsupervised Knowledge Guided Language Model Alignment [`READ`]

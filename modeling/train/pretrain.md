@@ -1,5 +1,5 @@
 # Pretraining for LLMs
-*Here's some resources about pretraining methodologies for LLMs*
+*Here're some resources about pretraining methodologies for LLMs*
 
 
 ### Methods
@@ -97,6 +97,22 @@ citation:
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={5652--5660},
   year={2021}
+}
+```
+
+#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2102.02888.pdf)
+
+citation:
+```bibtex
+@misc{tang20211bit,
+      title={1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed}, 
+      author={Hanlin Tang and Shaoduo Gan and Ammar Ahmad Awan and Samyam Rajbhandari and Conglong Li and Xiangru Lian and Ji Liu and Ce Zhang and Yuxiong He},
+      year={2021},
+      eprint={2102.02888},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
     

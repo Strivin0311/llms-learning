@@ -1,5 +1,5 @@
 # Mixture-of-Experts (MoE)
-*Here's some resources about Mixture-of-Experts (MoE)*
+*Here're some resources about Mixture-of-Experts (MoE)*
 
 
 #### Fast Inference of Mixture-of-Experts Language Models with Offloading [`UNREAD`]

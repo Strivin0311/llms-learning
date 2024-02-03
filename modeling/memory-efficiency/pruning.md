@@ -1,5 +1,5 @@
 # Pruning on LLMs
-*Here's some resources about Pruning on LLMs*
+*Here're some resources about Pruning on LLMs*
 
 
 #### A Simple and Effective Pruning Approach for Large Language Models (Wanda) [`UNREAD`]

@@ -1,5 +1,5 @@
 # Inference on LLMs
-*Here's some resources about Inference on LLMs*
+*Here're some resources about Inference on LLMs*
 
 
 #### Fast Inference of Mixture-of-Experts Language Models with Offloading [`READ`]

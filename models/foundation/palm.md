@@ -1,5 +1,5 @@
 # PaLM
-*Here's some resources about PaLM*
+*Here're some resources about PaLM*
 
 
 #### Palm 2 technical report [`READ`]

@@ -1,5 +1,5 @@
 # Parameter-Efficient Fine-Tuning (PEFT)
-*Here's some resources about PEFT strategies for LLMs*
+*Here're some resources about PEFT strategies for LLMs*
     
 
 #### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [`READ`]

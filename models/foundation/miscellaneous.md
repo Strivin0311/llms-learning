@@ -1,5 +1,5 @@
 # Miscellaneous Models
-*Here's some resources about Miscellaneous Models*
+*Here're some resources about Miscellaneous Models*
 
 #### Phi-2: The surprising power of small language models [`READ`]
 

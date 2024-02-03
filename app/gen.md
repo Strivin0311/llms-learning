@@ -1,5 +1,5 @@
 # LLMs for Generative Applications
-*Here's some resources about LLMs for Generative Applications beyond chat*
+*Here're some resources about LLMs for Generative Applications beyond chat*
 
 
 

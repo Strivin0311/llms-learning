@@ -1,5 +1,5 @@
 # Alignment
-*Here's some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
+*Here're some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
 #### Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models (SPIN) [`READ`]

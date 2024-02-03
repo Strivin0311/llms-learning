@@ -1,5 +1,5 @@
 # Finance LLMs
-*Here's some resources about Finance LLMs, which are LLMs specific for finance domain*
+*Here're some resources about Finance LLMs, which are LLMs specific for finance domain*
 
 
 

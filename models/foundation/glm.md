@@ -1,5 +1,5 @@
 # GLM
-*Here's some resources about GLM*
+*Here're some resources about GLM*
 
 
 #### ChatGLM3 - 6B

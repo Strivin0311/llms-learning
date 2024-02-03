@@ -1,5 +1,5 @@
 # Quantization on LLMs
-*Here's some resources about Quantization on LLMs*
+*Here're some resources about Quantization on LLMs*
 
 
 ## Post-Quantization

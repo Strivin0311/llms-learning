@@ -1,5 +1,5 @@
 # ERNIE
-*Here's some resources about ERNIE*
+*Here're some resources about ERNIE*
 
 
 #### Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation [`UNREAD`]

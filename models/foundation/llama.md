@@ -1,5 +1,5 @@
 # Llama
-*Here's some resources about Llama*
+*Here're some resources about Llama*
 
 
 #### Lima: Less is more for alignment [`UNREAD`]

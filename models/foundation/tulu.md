@@ -1,5 +1,5 @@
 # Tulu
-*Here's some resources about Tulu*
+*Here're some resources about Tulu*
 
 
 #### Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2 [`UNREAD`]

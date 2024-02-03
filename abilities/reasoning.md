@@ -1,5 +1,5 @@
 # Reasoning Abilities of LLMs
-*Here's some resources about understanding and leveraging Reasoning Abilities of LLMs*
+*Here're some resources about understanding and leveraging Reasoning Abilities of LLMs*
 
 
 

@@ -1,5 +1,5 @@
 # Mistral
-*Here's some resources about Mistral*
+*Here're some resources about Mistral*
 
 
 #### Starling-7B- Increasing LLM Helpfulness & Harmlessness with RLAIF [`UNREAD`]

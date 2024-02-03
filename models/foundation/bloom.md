@@ -1,5 +1,5 @@
 # Bloom
-*Here's some resources about Bloom*
+*Here're some resources about Bloom*
 
 
 
@@ -10,6 +10,8 @@
 #### Bloom: A 176b-parameter open-access multilingual language model [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2211.05100)
+
+blog link: [here](https://huggingface.co/blog/bloom-megatron-deepspeed#tensor-parallelism)
 
 citation: 
 ```bibtex

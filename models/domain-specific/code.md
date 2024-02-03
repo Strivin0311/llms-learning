@@ -1,5 +1,5 @@
 # Code LLMs
-*Here's some resources about Code LLMs, which are LLMs specific for code tasks*
+*Here're some resources about Code LLMs, which are LLMs specific for code tasks*
 
 
 #### AlphaCode 2 Technical Report [`UNREAD`]

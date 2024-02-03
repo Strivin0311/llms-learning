@@ -1,5 +1,5 @@
 # Baichuan
-*Here's some resources about Baichuan*
+*Here're some resources about Baichuan*
 
 
 #### Baichuan 2: Open Large-scale Language Models [`UNREAD`]

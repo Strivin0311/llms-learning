@@ -1,5 +1,5 @@
 # Evaluation on Domain Knowledge of LLMs
-*Here's some resources about Evaluation on Domain Knowledge of LLMs*
+*Here're some resources about Evaluation on Domain Knowledge of LLMs*
 
 
 ## English

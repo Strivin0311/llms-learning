@@ -1,5 +1,5 @@
 # In-context / Prompt Learning Abilities of LLMs
-*Here's some resources about understanding and leveraging In-context / Prompt Learning Abilities of LLMs*
+*Here're some resources about understanding and leveraging In-context / Prompt Learning Abilities of LLMs*
 
 
 ### Empirical Study

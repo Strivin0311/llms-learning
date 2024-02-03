@@ -1,5 +1,5 @@
 # BERT
-*Here's some resources about BERT*
+*Here're some resources about BERT*
 
 
 

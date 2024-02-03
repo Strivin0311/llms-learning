@@ -1,5 +1,5 @@
 # Survey on LLMs
-*Here's some resources about Survey on LLMs*
+*Here're some resources about Survey on LLMs*
 
 
 ## Paper

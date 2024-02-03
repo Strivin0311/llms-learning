@@ -1,5 +1,5 @@
 # Qwen
-*Here's some resources about Qwen*
+*Here're some resources about Qwen*
 
 
 #### Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models [`UNREAD`]

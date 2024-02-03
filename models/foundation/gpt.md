@@ -1,5 +1,5 @@
 # GPT
-*Here's some resources about GPT*
+*Here're some resources about GPT*
 
 
 
