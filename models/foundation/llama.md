@@ -1,5 +1,20 @@
 # Llama
 *Here're some resources about Llama*
+    
+
+#### Llama 2: Open foundation and fine-tuned chat models [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2307.09288.pdf)
+
+citation: 
+```bibtex
+@article{touvron2023llama,
+  title={Llama 2: Open foundation and fine-tuned chat models},
+  author={Touvron, Hugo and Martin, Louis and Stone, Kevin and Albert, Peter and Almahairi, Amjad and Babaei, Yasmine and Bashlykov, Nikolay and Batra, Soumya and Bhargava, Prajjwal and Bhosale, Shruti and others},
+  journal={arXiv preprint arXiv:2307.09288},
+  year={2023}
+}
+```
 
 
 #### Lima: Less is more for alignment [`UNREAD`]
@@ -15,20 +30,32 @@ citation:
   year={2023}
 }
 ```
-    
 
 
-#### Llama 2: Open foundation and fine-tuned chat models [`READ`]
+#### WizardLM: Empowering Large Language Models to Follow Complex Instructions [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2307.09288.pdf%C3%82%C2%A0)
+paper link: [here](https://arxiv.org/pdf/2304.12244.pdf)
 
-citation: 
+github link: [here](https://github.com/nlpxucan/WizardLM)
+
+model links: 
+
+|model name|link|
+|-|-|
+|WizardLM-7B-V1.0|[here](https://huggingface.co/WizardLM/WizardLM-7B-V1.0)|
+|WizardLM-13B-V1.1|[here](https://huggingface.co/WizardLM/WizardLM-13B-V1.1)|
+|WizardLM-13B-V1.2|[here](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)|
+|WizardLM-70B-V1.0|[here](https://huggingface.co/WizardLM/WizardLM-70B-V1.0)|
+
+citation:
 ```bibtex
-@article{touvron2023llama,
-  title={Llama 2: Open foundation and fine-tuned chat models},
-  author={Touvron, Hugo and Martin, Louis and Stone, Kevin and Albert, Peter and Almahairi, Amjad and Babaei, Yasmine and Bashlykov, Nikolay and Batra, Soumya and Bhargava, Prajjwal and Bhosale, Shruti and others},
-  journal={arXiv preprint arXiv:2307.09288},
-  year={2023}
+@misc{xu2023wizardlm,
+      title={WizardLM: Empowering Large Language Models to Follow Complex Instructions}, 
+      author={Can Xu and Qingfeng Sun and Kai Zheng and Xiubo Geng and Pu Zhao and Jiazhan Feng and Chongyang Tao and Daxin Jiang},
+      year={2023},
+      eprint={2304.12244},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
     

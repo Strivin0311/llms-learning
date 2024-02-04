@@ -1,6 +1,5 @@
-
-# Instruction Following / Tuning
-*Here're some resources about Instruction Following / Tuning for LLMs*
+# Instruction Following Fine-Tuning (IFT)
+*Here're some resources about Instruction Following Fine-Tuning (IFT) for LLMs*
 
 
 #### Self-QA: Unsupervised Knowledge Guided Language Model Alignment [`READ`]
@@ -30,6 +29,33 @@ citation:
   author={Sun, Zhiqing and Shen, Yikang and Zhou, Qinhong and Zhang, Hongxin and Chen, Zhenfang and Cox, David and Yang, Yiming and Gan, Chuang},
   journal={arXiv preprint arXiv:2305.03047},
   year={2023}
+}
+```
+
+#### WizardLM: Empowering Large Language Models to Follow Complex Instructions [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2304.12244.pdf)
+
+github link: [here](https://github.com/nlpxucan/WizardLM)
+
+model links: 
+
+|model name|link|
+|-|-|
+|WizardLM-7B-V1.0|[here](https://huggingface.co/WizardLM/WizardLM-7B-V1.0)|
+|WizardLM-13B-V1.1|[here](https://huggingface.co/WizardLM/WizardLM-13B-V1.1)|
+|WizardLM-13B-V1.2|[here](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)|
+|WizardLM-70B-V1.0|[here](https://huggingface.co/WizardLM/WizardLM-70B-V1.0)|
+
+citation:
+```bibtex
+@misc{xu2023wizardlm,
+      title={WizardLM: Empowering Large Language Models to Follow Complex Instructions}, 
+      author={Can Xu and Qingfeng Sun and Kai Zheng and Xiubo Geng and Pu Zhao and Jiazhan Feng and Chongyang Tao and Daxin Jiang},
+      year={2023},
+      eprint={2304.12244},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
@@ -95,7 +121,7 @@ citation:
 }
 ```
 
-#### Training language models to follow instructions with human feedback (InstructGPT) [`UNREAD`]
+#### Training language models to follow instructions with human feedback (InstructGPT) [`READ`]
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 

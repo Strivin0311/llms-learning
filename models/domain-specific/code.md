@@ -48,6 +48,36 @@ citation:
 }
 ```
 
+#### WizardCoder: Empowering Code Large Language Models with Evol-Instruct [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.08568.pdf)
+
+github link: [here](https://github.com/nlpxucan/WizardLM)
+
+model links:
+
+|model name|link|
+|-|-|
+|WizardCoder-1B-V1.0|[here](https://huggingface.co/WizardLM/WizardCoder-1B-V1.0)|
+|WizardCoder-3B-V1.0|[here](https://huggingface.co/WizardLM/WizardCoder-3B-V1.0)|
+|WizardCoder-15B-V1.0|[here](https://huggingface.co/WizardLM/WizardCoder-15B-V1.0)|
+|WizardCoder-33B-V1.1|[here](https://huggingface.co/WizardLM/WizardCoder-33B-V1.1)|
+|WizardCoder-Python-7B-V1.0|[here](https://huggingface.co/WizardLM/WizardCoder-Python-7B-V1.0)|
+|WizardCoder-Python-13B-V1.0|[here](https://huggingface.co/WizardLM/WizardCoder-Python-13B-V1.0)|
+|WizardCoder-Python-34B-V1.0|[here](https://huggingface.co/WizardLM/WizardCoder-Python-34B-V1.0)|
+
+citation: 
+```bibtex
+@misc{li2023wizardcoder,
+      title={WizardCoder: Empowering Code Large Language Models with Evol-Instruct},
+      author={Li, Yujia and Wang, Jing and Wu, Qi and others},
+      year={2023},
+      eprint={2305.06161},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
 #### StarCoder: may the source be with you! [`UNREAD`]
 
