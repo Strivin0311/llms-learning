@@ -35,7 +35,7 @@ citation:
 
 #### LongLoRA: Efficient fine-tuning of long-context large language models [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2309.12307.pdf?trk=public_post_comment-text)
+paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
 citation: 
 ```bibtex
@@ -44,6 +44,24 @@ citation:
   author={Chen, Yukang and Qian, Shengju and Tang, Haotian and Lai, Xin and Liu, Zhijian and Han, Song and Jia, Jiaya},
   journal={arXiv preprint arXiv:2309.12307},
   year={2023}
+}
+```
+
+#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2307.13269)
+github link: [here](https://github.com/sail-sg/lorahub)
+hfhub link: [here](https://huggingface.co/lorahub)
+
+citation:
+```bibtex
+@misc{huang2024lorahub,
+      title={LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition}, 
+      author={Chengsong Huang and Qian Liu and Bill Yuchen Lin and Tianyu Pang and Chao Du and Min Lin},
+      year={2024},
+      eprint={2307.13269},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
@@ -81,11 +99,11 @@ citation:
 ```
     
 
-#### Qlora: Efficient finetuning of quantized llms [`UNREAD`]
+#### Qlora: Efficient finetuning of quantized llms [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
-github link: [here]()
+github link: [here](https://github.com/artidoro/qlora)
 
 tutorial links:
 
@@ -100,6 +118,22 @@ citation:
   author={Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
   journal={arXiv preprint arXiv:2305.14314},
   year={2023}
+}
+```
+
+#### Hypertuning: Toward adapting large language models without back-propagation [`READ`]
+
+paper link: [here](https://proceedings.mlr.press/v202/phang23a.html)
+
+citation:
+```bibtex
+@inproceedings{phang2023hypertuning,
+  title={Hypertuning: Toward adapting large language models without back-propagation},
+  author={Phang, Jason and Mao, Yi and He, Pengcheng and Chen, Weizhu},
+  booktitle={International Conference on Machine Learning},
+  pages={27854--27875},
+  year={2023},
+  organization={PMLR}
 }
 ```
 

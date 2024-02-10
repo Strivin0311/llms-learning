@@ -59,7 +59,7 @@ blog link: [here](https://openai.com/blog/chatgpt)
 
 citation:
 ```bibtex
-@online{openai-blog-chatgpt,
+@misc{openai-blog-chatgpt,
   author={OpenAI},
   title={OpenAI: Introducing ChatGPT},
   year={2022},

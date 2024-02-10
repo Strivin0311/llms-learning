@@ -93,14 +93,14 @@ paper link: [here](https://storage.googleapis.com/deepmind-media/gemini/gemini_1
 
 citation:
 ```bibtex
- @article{gemini23google, 
-    title={Gemini: A Family of Highly Capable Multimodal Models}, 
-    url={https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf}, 
-    author={Gemini Team, Google},
-    year={2023}, 
-    month={Dec}, 
-    pages={62}
- }
+@article{gemini23google, 
+  title={Gemini: A Family of Highly Capable Multimodal Models}, 
+  url={https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf}, 
+  author={Gemini Team, Google},
+  year={2023}, 
+  month={Dec}, 
+  pages={62}
+}
 ```
 
 #### Anima: the first open source 33B Chinese LLM [`READ`]
@@ -115,10 +115,22 @@ model links:
 |Anima-33B-merged|[here](https://huggingface.co/lyogavin/Anima33B-merged)|
 |Anima-33B|[here](https://huggingface.co/lyogavin/Anima33B)|
 
+citation:
+```bibtex
+@misc{anima2023github,
+  author = {Gavin Li, Ikko Eltociear Ashimine, Naozumi},
+  title = {Anima: the first open source 33B Chinese LLM},
+  year = {2023},
+  howpublished = {\url{https://github.com/lyogavin/Anima}},
+}
+```
+
 
 #### Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [`READ`]
 
 blog link: [here](https://lmsys.org/blog/2023-03-30-vicuna/)
+
+github link: [here](https://github.com/lm-sys/FastChat)
 
 model links: 
 
@@ -130,6 +142,16 @@ model links:
 |Vicuna-7b-v1.5-16k|[here](https://huggingface.co/lmsys/vicuna-7b-v1.5-16k)|
 |Vicuna-7b-v1.5|[here](https://huggingface.co/lmsys/vicuna-7b-v1.5)|
 
+citation:
+```bibtex
+@misc{vicuna2023,
+    title = {Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90\%* ChatGPT Quality},
+    url = {https://lmsys.org/blog/2023-03-30-vicuna/},
+    author = {Chiang, Wei-Lin and Li, Zhuohan and Lin, Zi and Sheng, Ying and Wu, Zhanghao and Zhang, Hao and Zheng, Lianmin and Zhuang, Siyuan and Zhuang, Yonghao and Gonzalez, Joseph E. and Stoica, Ion and Xing, Eric P.},
+    month = {March},
+    year = {2023}
+}
+```
 
 #### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`UNREAD`]
 

@@ -5,6 +5,23 @@
 ### Methods
 
 
+#### Efficient Online Data Mixing For Language Model Pre-Training [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2312.02406.pdf)
+
+citation:
+```bibtex
+@misc{albalak2023efficient,
+      title={Efficient Online Data Mixing For Language Model Pre-Training}, 
+      author={Alon Albalak and Liangming Pan and Colin Raffel and William Yang Wang},
+      year={2023},
+      eprint={2312.02406},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 #### Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models [`UNREAD`]
 
 paper link: [here](https://openreview.net/pdf?id=dWDEBW2raJ)

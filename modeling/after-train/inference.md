@@ -64,6 +64,23 @@ citation:
 }
 ```
 
+#### Punica: Multi-Tenant LoRA Serving [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.18547.pdf)
+
+citation:
+```bibtex
+@misc{chen2023punica,
+      title={Punica: Multi-Tenant LoRA Serving}, 
+      author={Lequn Chen and Zihao Ye and Yongji Wu and Danyang Zhuo and Luis Ceze and Arvind Krishnamurthy},
+      year={2023},
+      eprint={2310.18547},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+```
+
+
 #### DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference [`READ`]
 
 blog link: [here](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)

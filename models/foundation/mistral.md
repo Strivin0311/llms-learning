@@ -38,11 +38,11 @@ model links:
 
 citation:
 ```bibtex
-@online{mixtral_model,
+@misc{mixtral2023mistralai,
   author = {Mistral AI},
   title = {Mixtral of Experts: A High-Quality Sparse Mixture-of-Experts},
   year = {2023},
-  url = {\url{https://mistral.ai/news/mixtral-of-experts/}}
+  howpublished = {\url{https://mistral.ai/news/mixtral-of-experts/}}
 }
 ```
 

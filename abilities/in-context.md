@@ -37,7 +37,7 @@ citation:
 
 #### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2305.04388.pdf?trk=public_post_comment-text)
+paper link: [here](https://arxiv.org/pdf/2305.04388.pdf)
 
 citation: 
 ```bibtex
@@ -46,6 +46,22 @@ citation:
   author={Turpin, Miles and Michael, Julian and Perez, Ethan and Bowman, Samuel R},
   journal={arXiv preprint arXiv:2305.04388},
   year={2023}
+}
+```
+
+#### Larger language models do in-context learning differently [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2303.03846.pdf)
+
+citation:
+```bibtex
+@misc{wei2023larger,
+      title={Larger language models do in-context learning differently}, 
+      author={Jerry Wei and Jason Wei and Yi Tay and Dustin Tran and Albert Webson and Yifeng Lu and Xinyun Chen and Hanxiao Liu and Da Huang and Denny Zhou and Tengyu Ma},
+      year={2023},
+      eprint={2303.03846},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
     
@@ -93,6 +109,24 @@ citation:
   author={Besta, Maciej and Blach, Nils and Kubicek, Ales and Gerstenberger, Robert and Gianinazzi, Lukas and Gajda, Joanna and Lehmann, Tomasz and Podstawski, Michal and Niewiadomski, Hubert and Nyczyk, Piotr and others},
   journal={arXiv preprint arXiv:2308.09687},
   year={2023}
+}
+```
+
+#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2307.13269)
+github link: [here](https://github.com/sail-sg/lorahub)
+hfhub link: [here](https://huggingface.co/lorahub)
+
+citation:
+```bibtex
+@misc{huang2024lorahub,
+      title={LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition}, 
+      author={Chengsong Huang and Qian Liu and Bill Yuchen Lin and Tianyu Pang and Chao Du and Min Lin},
+      year={2024},
+      eprint={2307.13269},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
@@ -156,7 +190,22 @@ citation:
   year={2023}
 }
 ```
-    
+
+#### General-Purpose In-Context Learning by Meta-Learning Transformers [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2212.04458.pdf)
+
+citation:
+```bibtex
+@misc{kirsch2024generalpurpose,
+      title={General-Purpose In-Context Learning by Meta-Learning Transformers}, 
+      author={Louis Kirsch and James Harrison and Jascha Sohl-Dickstein and Luke Metz},
+      year={2024},
+      eprint={2212.04458},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+``` 
     
 
 #### Progprompt: Generating situated robot task plans using large language models [`UNREAD`]

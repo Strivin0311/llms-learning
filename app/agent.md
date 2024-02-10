@@ -101,6 +101,7 @@ citation:
 }
 ```
 
+
 #### Generative agents: Interactive simulacra of human behavior [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2304.03442.pdf)
@@ -217,6 +218,23 @@ citation:
   author={Xi, Zhiheng and Chen, Wenxiang and Guo, Xin and He, Wei and Ding, Yiwen and Hong, Boyang and Zhang, Ming and Wang, Junzhe and Jin, Senjie and Zhou, Enyu and others},
   journal={arXiv preprint arXiv:2309.07864},
   year={2023}
+}
+```
+
+
+#### Mindstorms in Natural Language-Based Societies of Mind [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2305.17066.pdf)
+
+citation: 
+```bibtex
+@misc{zhuge2023mindstorms,
+      title={Mindstorms in Natural Language-Based Societies of Mind}, 
+      author={Mingchen Zhuge and Haozhe Liu and Francesco Faccio and Dylan R. Ashley and Róbert Csordás and Anand Gopalakrishnan and Abdullah Hamdi and Hasan Abed Al Kader Hammoud and Vincent Herrmann and Kazuki Irie and Louis Kirsch and Bing Li and Guohao Li and Shuming Liu and Jinjie Mai and Piotr Piękos and Aditya Ramesh and Imanol Schlag and Weimin Shi and Aleksandar Stanić and Wenyi Wang and Yuhui Wang and Mengmeng Xu and Deng-Ping Fan and Bernard Ghanem and Jürgen Schmidhuber},
+      year={2023},
+      eprint={2305.17066},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
     
