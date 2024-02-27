@@ -209,7 +209,7 @@ citation:
 ### Math / Algorithm Problems
 
 
-#### An Empirical Study on Challenging Math Problem Solving with GPT-4 [`UNREAD`]
+#### An Empirical Study on Challenging Math Problem Solving with GPT-4 [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2306.01337.pdf)
 

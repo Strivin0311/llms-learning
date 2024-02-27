@@ -5,7 +5,7 @@
 ## Paper
 
 
-#### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems [`UNREAD`]
+#### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2312.15234.pdf)
 
@@ -20,6 +20,26 @@ citation:
       primaryClass={cs.LG}
 }
 ```
+
+#### Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2311.12351.pdf)
+
+github link: [here](https://github.com/Strivin0311/long-llms-learning)
+
+citation:
+
+```bibtex
+@misc{huang2024advancing,
+      title={Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey}, 
+      author={Yunpeng Huang and Jingwei Xu and Junyu Lai and Zixu Jiang and Taolue Chen and Zenan Li and Yuan Yao and Xiaoxing Ma and Lijuan Yang and Hao Chen and Shupeng Li and Penghao Zhao},
+      year={2024},
+      eprint={2311.12351},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
 #### Challenges and applications of large language models [`UNREAD`]
 

@@ -48,6 +48,34 @@ citation:
 }
 ```
 
+#### LongCoder: A Long-Range Pre-trained Language Model for Code Completion [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.14893.pdf)
+
+github link: [here](https://github.com/microsoft/CodeBERT/tree/master/LongCoder)
+
+dataset link: [here](https://huggingface.co/datasets/microsoft/LCC_python)
+
+model links: 
+
+|model name|link|
+|-|-|
+|LongCoder-Base|[here](https://huggingface.co/microsoft/longcoder-base)|
+
+
+citation: 
+```bibtex
+@misc{guo2023longcoder,
+      title={LongCoder: A Long-Range Pre-trained Language Model for Code Completion}, 
+      author={Daya Guo and Canwen Xu and Nan Duan and Jian Yin and Julian McAuley},
+      year={2023},
+      eprint={2306.14893},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+```
+
+
 #### WizardCoder: Empowering Code Large Language Models with Evol-Instruct [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.08568.pdf)

@@ -105,21 +105,58 @@ citation:
 }
 ```
 
+#### Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization [`READ`]
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/7183f4fc87598f6c6e947b96714acbd6-Paper-Conference.pdf)
+
+citation: 
+
+```bibtex
+@article{kim2024memory,
+  title={Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization},
+  author={Kim, Jeonghoon and Lee, Jung Hyun and Kim, Sungdong and Park, Joonsuk and Yoo, Kang Min and Kwon, Se Jung and Lee, Dongsoo},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
+```
+
+
+#### Qlora: Efficient finetuning of quantized llms [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2305.14314)
+
+github link: [here](https://github.com/artidoro/qlora)
+
+tutorial links:
+
+|tutorial name|public date|main-lib version|notebook link|
+|-|-|-|-|
+|tutorial_qlora|2024.01|bitsandbytes=0.41.3, peft=0.7.1|[here](../notebooks/tutorial_qlora.ipynb)|
+
+citation: 
+```bibtex
+@article{dettmers2023qlora,
+  title={Qlora: Efficient finetuning of quantized llms},
+  author={Dettmers, Tim and Pagnoni, Artidoro and Holtzman, Ari and Zettlemoyer, Luke},
+  journal={arXiv preprint arXiv:2305.14314},
+  year={2023}
+}
+```
+
 #### Q8BERT: Quantized 8Bit BERT [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1910.06188.pdf)
 
 citation:
 ```bibtex
-@inproceedings{Zafrir_2019,
-   title={Q8BERT: Quantized 8Bit BERT},
-   url={http://dx.doi.org/10.1109/EMC2-NIPS53020.2019.00016},
-   DOI={10.1109/emc2-nips53020.2019.00016},
-   booktitle={2019 Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing - NeurIPS Edition (EMC2-NIPS)},
-   publisher={IEEE},
-   author={Zafrir, Ofir and Boudoukh, Guy and Izsak, Peter and Wasserblat, Moshe},
-   year={2019},
-   month=dec 
+@inproceedings{zafrir2019q8bert,
+    author = "Zafrir, Ofir and Boudoukh, Guy and Izsak, Peter and Wasserblat, Moshe",
+    title = "Q8bert: Quantized 8bit bert",
+    booktitle = "2019 Fifth Workshop on Energy Efficient Machine Learning and Cognitive Computing-NeurIPS Edition (EMC2-NIPS)",
+    pages = "36--39",
+    year = "2019",
+    organization = "IEEE"
 }
 ```
 

@@ -80,6 +80,21 @@ citation:
 }
 ```
 
+#### CacheGen: Fast Context Loading for Language Model Applications [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.07240)
+
+citation:
+
+```bibtex
+@article{liu2023cachegen,
+  title={CacheGen: Fast Context Loading for Language Model Applications},
+  author={Liu, Yuhan and Li, Hanchen and Du, Kuntai and Yao, Jiayi and Cheng, Yihua and Huang, Yuyang and Lu, Shan and Maire, Michael and Hoffmann, Henry and Holtzman, Ari and others},
+  journal={arXiv preprint arXiv:2310.07240},
+  year={2023}
+}
+```
+
 
 #### DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference [`READ`]
 
