@@ -2,32 +2,26 @@
 *Here're some resources about GLM*
 
 
-#### ChatGLM3 - 6B
-
-github link: [here](https://github.com/THUDM/ChatGLM3)
-
-hf-repo link: [here](https://huggingface.co/THUDM/chatglm3-6b)
-
-
-#### ChatGLM2 - 6B
-
-github link: [here](https://github.com/THUDM/ChatGLM2-6B)
-
-hf-repo link: [here](https://huggingface.co/THUDM/chatglm2-6b)
-
-
-#### ChatGLM - 6B
-
-github link: [here](https://github.com/THUDM/ChatGLM-6B)
-
-hf-repo link: [here](https://huggingface.co/THUDM/chatglm-6b)
-
-
-
-
 #### Glm-130b: An open bilingual pre-trained model [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2210.02414)
+
+github link: [ChatGLM2](https://github.com/THUDM/ChatGLM2-6B) | [ChatGLM3](https://github.com/THUDM/ChatGLM3)
+
+model links: 
+
+|model name|link|
+|-|-|
+|chatglm3-6b-128k|[here](https://huggingface.co/THUDM/chatglm3-6b-128k)|
+|chatglm3-6b-32k|[here](https://huggingface.co/THUDM/chatglm3-6b-32k)|
+|chatglm3-6b-base|[here](https://huggingface.co/THUDM/chatglm3-6b-base)|
+|chatglm3-6b|[here](https://huggingface.co/THUDM/chatglm3-6b)|
+|chatglm2-6b-32k-int4|[here](https://huggingface.co/THUDM/chatglm2-6b-32k-int4)|
+|chatglm2-6b-32k|[here](https://huggingface.co/THUDM/chatglm2-6b-32k)|
+|chatglm2-6b-int4|[here](https://huggingface.co/THUDM/chatglm2-6b-int4)|
+|chatglm2-6b|[here](https://huggingface.co/THUDM/chatglm2-6b)|
+
+
 
 citation: 
 ```bibtex
@@ -44,6 +38,17 @@ citation:
 #### Glm: General language model pretraining with autoregressive blank infilling [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2103.10360)
+
+github link: [ChatGLM](https://github.com/THUDM/ChatGLM-6B)
+
+model links: 
+
+|model name|link|
+|-|-|
+|chatglm-6b-int4-qe|[here](https://huggingface.co/THUDM/chatglm-6b-int4-qe)|
+|chatglm-6b-int4|[here](https://huggingface.co/THUDM/chatglm-6b-int4)|
+|chatglm-6b-int8|[here](https://huggingface.co/THUDM/chatglm-6b-int8)|
+|chatglm-6b|[here](https://huggingface.co/THUDM/chatglm-6b)|
 
 citation: 
 ```bibtex

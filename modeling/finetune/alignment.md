@@ -50,6 +50,22 @@ citation:
 }
 ```
 
+#### Group Preference Optimization: Few-Shot Alignment of Large Language Models (GPO) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2310.11523.pdf)
+
+citation:
+```bibtex
+@misc{zhao2023group,
+      title={Group Preference Optimization: Few-Shot Alignment of Large Language Models}, 
+      author={Siyan Zhao and John Dang and Aditya Grover},
+      year={2023},
+      eprint={2310.11523},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 
 #### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment (P3O) ['READ']
 
@@ -176,6 +192,21 @@ citation:
 ```
 
 
+#### Constitutional ai: Harmlessness from ai feedback (RLAIF) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2212.08073.pdf)
+
+citation: 
+```bibtex
+@article{bai2022constitutional,
+  title={Constitutional ai: Harmlessness from ai feedback},
+  author={Bai, Yuntao and Kadavath, Saurav and Kundu, Sandipan and Askell, Amanda and Kernion, Jackson and Jones, Andy and Chen, Anna and Goldie, Anna and Mirhoseini, Azalia and McKinnon, Cameron and others},
+  journal={arXiv preprint arXiv:2212.08073},
+  year={2022}
+}
+```
+
+
 #### Scaling Laws for Reward Model Overoptimization [`UNREAD`]
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
@@ -193,7 +224,7 @@ citation:
 ```
 
 
-#### Illustrating Reinforcement Learning from Human Feedback
+#### Illustrating Reinforcement Learning from Human Feedback (RLHF) [`UNREAD`]
 
 blog link: [here](https://huggingface.co/blog/rlhf)
 
@@ -224,19 +255,7 @@ citation:
 ```
        
 
-#### Constitutional ai: Harmlessness from ai feedback (RLAIF) [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2212.08073.pdf?trk=public_post_comment-text)
-
-citation: 
-```bibtex
-@article{bai2022constitutional,
-  title={Constitutional ai: Harmlessness from ai feedback},
-  author={Bai, Yuntao and Kadavath, Saurav and Kundu, Sandipan and Askell, Amanda and Kernion, Jackson and Jones, Andy and Chen, Anna and Goldie, Anna and Mirhoseini, Azalia and McKinnon, Cameron and others},
-  journal={arXiv preprint arXiv:2212.08073},
-  year={2022}
-}
-```
     
 
 

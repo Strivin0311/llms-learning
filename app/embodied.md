@@ -39,7 +39,7 @@ citation:
 ### Robotics
 
 
-#### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
+#### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2311.01455.pdf)
 

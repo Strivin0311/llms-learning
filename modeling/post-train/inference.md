@@ -2,6 +2,8 @@
 *Here're some resources about Inference on LLMs*
 
 
+### Efficient Inference
+
 #### Fast Inference of Mixture-of-Experts Language Models with Offloading [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
@@ -224,6 +226,130 @@ citation:
   author={Shazeer, Noam},
   journal={arXiv preprint arXiv:1911.02150},
   year={2019}
+}
+```
+
+
+### Calibration
+
+
+#### Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering (BC) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2309.17249.pdf)
+
+citation:
+```bibtex
+@misc{zhou2024batch,
+      title={Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering}, 
+      author={Han Zhou and Xingchen Wan and Lev Proleev and Diana Mincu and Jilin Chen and Katherine Heller and Subhrajit Roy},
+      year={2024},
+      eprint={2309.17249},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+####  Mitigating label biases for in-context learning (DC) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2305.19148.pdf)
+
+citation:
+```bibtex
+@misc{fei2023mitigating,
+      title={Mitigating Label Biases for In-context Learning}, 
+      author={Yu Fei and Yifan Hou and Zeming Chen and Antoine Bosselut},
+      year={2023},
+      eprint={2305.19148},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Prototypical Calibration for Few-shot Learning of Language Models (PC) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2205.10183.pdf)
+
+citation:
+```bibtex
+@misc{han2022prototypical,
+      title={Prototypical Calibration for Few-shot Learning of Language Models}, 
+      author={Zhixiong Han and Yaru Hao and Li Dong and Yutao Sun and Furu Wei},
+      year={2022},
+      eprint={2205.10183},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Calibrate before use: Improving few-shot performance of language models (CC) [`READ`]
+
+paper link: [here](http://proceedings.mlr.press/v139/zhao21c/zhao21c.pdf)
+
+citation:
+```bibtex
+@inproceedings{zhao2021calibrate,
+  title={Calibrate before use: Improving few-shot performance of language models},
+  author={Zhao, Zihao and Wallace, Eric and Feng, Shi and Klein, Dan and Singh, Sameer},
+  booktitle={International Conference on Machine Learning},
+  pages={12697--12706},
+  year={2021},
+  organization={PMLR}
+}
+```
+
+
+### Effective Decoding
+
+
+#### The Consensus Game: Language Model Generation via Equilibrium Search [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.09139.pdf)
+
+citation:
+```bibtex
+@misc{jacob2023consensus,
+      title={The Consensus Game: Language Model Generation via Equilibrium Search}, 
+      author={Athul Paul Jacob and Yikang Shen and Gabriele Farina and Jacob Andreas},
+      year={2023},
+      eprint={2310.09139},
+      archivePrefix={arXiv},
+      primaryClass={cs.GT}
+}
+```
+
+#### Contrastive Decoding: Open-ended Text Generation as Optimization [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2210.15097.pdf)
+
+citation:
+```bibtex
+@misc{li2023contrastive,
+      title={Contrastive Decoding: Open-ended Text Generation as Optimization}, 
+      author={Xiang Lisa Li and Ari Holtzman and Daniel Fried and Percy Liang and Jason Eisner and Tatsunori Hashimoto and Luke Zettlemoyer and Mike Lewis},
+      year={2023},
+      eprint={2210.15097},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### The Curious Case of Neural Text Degeneration (Nucleus Sampling) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2209.11057.pdf)
+
+citation:
+```bibtex
+@misc{holtzman2020curious,
+      title={The Curious Case of Neural Text Degeneration}, 
+      author={Ari Holtzman and Jan Buys and Li Du and Maxwell Forbes and Yejin Choi},
+      year={2020},
+      eprint={1904.09751},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
     

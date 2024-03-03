@@ -209,6 +209,39 @@ citation:
 ### Math / Algorithm Problems
 
 
+#### Don't Trust- Verify - Grounding LLM Quantitative Reasoning With AutoFormalization [`READ`]
+
+paper link: [here](https://openreview.net/pdf?id=V5tdi14ple)
+
+citation:
+```bibtex
+@inproceedings{zhou2024dont,
+  title={Don't Trust: Verify -- Grounding {LLM} Quantitative Reasoning with Autoformalization},
+  author={Jin Peng Zhou and Charles E Staats and Wenda Li and Christian Szegedy and Kilian Q Weinberger and Yuhuai Wu},
+  booktitle={The Twelfth International Conference on Learning Representations},
+  year={2024},
+  url={https://openreview.net/forum?id=V5tdi14ple}
+}
+```
+
+
+#### LeanDojo: Theorem Proving with Retrieval-Augmented Language Models [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2306.15626.pdf)
+
+github link: [here](https://github.com/lean-dojo/LeanDojo)
+
+citation:
+```bibtex
+@inproceedings{yang2023leandojo,
+  title={{LeanDojo}: Theorem Proving with Retrieval-Augmented Language Models},
+  author={Yang, Kaiyu and Swope, Aidan and Gu, Alex and Chalamala, Rahul and Song, Peiyang and Yu, Shixing and Godil, Saad and Prenger, Ryan and Anandkumar, Anima},
+  booktitle={Neural Information Processing Systems (NeurIPS)},
+  year={2023}
+}
+```
+
+
 #### An Empirical Study on Challenging Math Problem Solving with GPT-4 [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2306.01337.pdf)

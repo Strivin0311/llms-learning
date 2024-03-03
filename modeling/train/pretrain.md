@@ -2,8 +2,7 @@
 *Here're some resources about pretraining methodologies for LLMs*
 
 
-### Methods
-
+### Efficient Pretraining
 
 #### Efficient Online Data Mixing For Language Model Pre-Training [`READ`]
 
@@ -35,23 +34,7 @@ citation:
   year={2023}
 }
 ```
-    
 
-
-#### Skill-it! A data-driven skills framework for understanding and training language models [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2307.14430)
-
-citation: 
-```bibtex
-@article{chen2023skill,
-  title={Skill-it! A data-driven skills framework for understanding and training language models},
-  author={Chen, Mayee F and Roberts, Nicholas and Bhatia, Kush and Wang, Jue and Zhang, Ce and Sala, Frederic and R{\'e}, Christopher},
-  journal={arXiv preprint arXiv:2307.14430},
-  year={2023}
-}
-```
-    
 
 #### Transcending Scaling Laws with 0.1% Extra Compute (UL2R, U-PaLM) [`UNREAD`]
 
@@ -68,7 +51,71 @@ citation:
       primaryClass={cs.CL}
 }
 ```
+    
 
+#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2102.02888.pdf)
+
+citation:
+```bibtex
+@misc{tang20211bit,
+      title={1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed}, 
+      author={Hanlin Tang and Shaoduo Gan and Ammar Ahmad Awan and Samyam Rajbhandari and Conglong Li and Xiangru Lian and Ji Liu and Ce Zhang and Yuxiong He},
+      year={2021},
+      eprint={2102.02888},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### The reversible residual network: Backpropagation without storing activations (RevNet) [`UNREAD`]
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
+
+citation: 
+```bibtex
+@article{gomez2017reversible,
+  title={The reversible residual network: Backpropagation without storing activations},
+  author={Gomez, Aidan N and Ren, Mengye and Urtasun, Raquel and Grosse, Roger B},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+```
+
+
+#### Training deep nets with sublinear memory cost [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1604.06174)
+
+citation: 
+```bibtex
+@article{chen2016training,
+  title={Training deep nets with sublinear memory cost},
+  author={Chen, Tianqi and Xu, Bing and Zhang, Chiyuan and Guestrin, Carlos},
+  journal={arXiv preprint arXiv:1604.06174},
+  year={2016}
+}
+```
+
+
+### Effective Pretraining
+
+#### Skill-it! A data-driven skills framework for understanding and training language models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2307.14430)
+
+citation: 
+```bibtex
+@article{chen2023skill,
+  title={Skill-it! A data-driven skills framework for understanding and training language models},
+  author={Chen, Mayee F and Roberts, Nicholas and Bhatia, Kush and Wang, Jue and Zhang, Ce and Sala, Frederic and R{\'e}, Christopher},
+  journal={arXiv preprint arXiv:2307.14430},
+  year={2023}
+}
+```
 
 #### UL2: Unifying Language Learning Paradigms (MoD) [`UNREAD`]
 
@@ -117,24 +164,8 @@ citation:
 }
 ```
 
-#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2102.02888.pdf)
-
-citation:
-```bibtex
-@misc{tang20211bit,
-      title={1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed}, 
-      author={Hanlin Tang and Shaoduo Gan and Ammar Ahmad Awan and Samyam Rajbhandari and Conglong Li and Xiangru Lian and Ji Liu and Ce Zhang and Yuxiong He},
-      year={2021},
-      eprint={2102.02888},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-### Corpus
+### Pretraining Corpus
 
 #### RedPajama: an Open Dataset for Training Large Language Models [`READ`]
 

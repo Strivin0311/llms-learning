@@ -75,7 +75,7 @@ citation:
     
 
 
-#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`UNREAD`]
+#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2304.01196)
 
@@ -138,7 +138,7 @@ citation:
 ```
 
 
-#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM) [`UNREAD`]
+#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
 
@@ -155,7 +155,7 @@ citation:
 ```
 
 
-#### Finetuned language models are zero-shot learners (FLAN) [`UNREAD`]
+#### Finetuned language models are zero-shot learners (FLAN) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2109.01652)
 

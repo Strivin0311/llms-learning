@@ -35,7 +35,7 @@ citation:
 }
 ```
 
-#### AutoAgents: A Framework for Automatic Agent Generation [`UNREAD`]
+#### AutoAgents: A Framework for Automatic Agent Generation [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2309.17288)
 
@@ -98,6 +98,23 @@ citation:
   author={Qian, Chen and Cong, Xin and Yang, Cheng and Chen, Weize and Su, Yusheng and Xu, Juyuan and Liu, Zhiyuan and Sun, Maosong},
   journal={arXiv preprint arXiv:2307.07924},
   year={2023}
+}
+```
+
+
+#### Voyager: An Open-Ended Embodied Agent with Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2305.16291.pdf)
+
+citation: 
+```bibtex
+@misc{wang2023voyager,
+      title={Voyager: An Open-Ended Embodied Agent with Large Language Models}, 
+      author={Guanzhi Wang and Yuqi Xie and Yunfan Jiang and Ajay Mandlekar and Chaowei Xiao and Yuke Zhu and Linxi Fan and Anima Anandkumar},
+      year={2023},
+      eprint={2305.16291},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
 }
 ```
 

@@ -1,6 +1,8 @@
-# Parameter-Efficient Fine-Tuning (PEFT)
-*Here're some resources about PEFT strategies for LLMs*
-    
+# Efficient Fine-Tuning
+*Here're some resources about Efficient Fine-Tuning strategies for LLMs*
+ 
+
+### Parameter-Efficient Fine-Tuning (PEFT)
 
 #### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [`READ`]
 
@@ -258,6 +260,23 @@ citation:
 }
 ```
 
+
+### Memory-Efficient Fine-Tuning
+
+
+#### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.00477)
+
+citation: 
+```bibtex
+@article{liao2023make,
+  title={Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning},
+  author={Liao, Baohao and Tan, Shaomu and Monz, Christof},
+  journal={arXiv preprint arXiv:2306.00477},
+  year={2023}
+}
+```
 
 
     
