@@ -2,9 +2,11 @@
 *Here're some resources about PaLM*
 
 
-#### Palm 2 technical report [`READ`]
+#### Palm 2 technical report [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2305.10403)
+
+blog link: [here](https://ai.google/discover/palm2/)
 
 citation: 
 ```bibtex
@@ -17,9 +19,11 @@ citation:
 ```
     
 
-#### Palm: Scaling language modeling with pathways [`READ`]
+#### Palm: Scaling language modeling with pathways [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2204.02311)
+
+blog link: [here](https://blog.research.google/2022/04/pathways-language-model-palm-scaling-to.html)
 
 citation: 
 ```bibtex

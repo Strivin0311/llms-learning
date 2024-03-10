@@ -92,6 +92,15 @@ citation:
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
+model links: 
+
+|model name|link|
+|-|-|
+|gpt2-xl|[here](https://huggingface.co/openai-community/gpt2-xl)|
+|gpt2-large|[here](https://huggingface.co/openai-community/gpt2-large)|
+|gpt2-medium|[here](https://huggingface.co/openai-community/gpt2-medium)|
+|gpt2|[here](https://huggingface.co/openai-community/gpt2)|
+
 citation: 
 ```bibtex
 @article{brown2020language,

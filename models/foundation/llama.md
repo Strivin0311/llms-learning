@@ -6,6 +6,17 @@
 
 paper link: [here](https://arxiv.org/pdf/2307.09288.pdf)
 
+model links: 
+
+|model name|link|
+|-|-|
+|Llama2-70b-chat-hf|[here](https://huggingface.co/meta-llama/Llama-2-70b-chat-hf)|
+|Llama2-70b-hf|[here](https://huggingface.co/meta-llama/Llama-2-70b-hf)|
+|Llama2-13b-chat-hf|[here](https://huggingface.co/meta-llama/Llama-2-13b-chat-hf)|
+|Llama2-13b-hf|[here](https://huggingface.co/meta-llama/Llama-2-13b-hf)|
+|Llama2-7b-chat-hf|[here](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)|
+|Llama2-7b-hf|[here](https://huggingface.co/meta-llama/Llama-2-7b-hf)|
+
 citation: 
 ```bibtex
 @article{touvron2023llama,

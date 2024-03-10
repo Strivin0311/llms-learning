@@ -21,8 +21,6 @@ model links:
 |chatglm2-6b-int4|[here](https://huggingface.co/THUDM/chatglm2-6b-int4)|
 |chatglm2-6b|[here](https://huggingface.co/THUDM/chatglm2-6b)|
 
-
-
 citation: 
 ```bibtex
 @article{zeng2022glm,

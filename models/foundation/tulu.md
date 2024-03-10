@@ -6,12 +6,18 @@
 
 paper link: [here](https://arxiv.org/pdf/2311.10702)
 
+github link: [here](https://github.com/allenai/open-instruct)
+
 model links: 
 
 |model name|link|
 |-|-|
-|Tulu-2-DPO-70B|[here](https://huggingface.co/allenai/tulu-2-dpo-70b)|
-|||
+|Tulu2-dpo-70b|[here](https://huggingface.co/allenai/tulu-2-dpo-70b)|
+|Tulu2-70b|[here](https://huggingface.co/allenai/tulu-2-70b)|
+|Tulu2-dpo-13b|[here](https://huggingface.co/allenai/tulu-2-dpo-13b)|
+|Tulu2-13b|[here](https://huggingface.co/allenai/tulu-2-13b)|
+|Tulu2-dpo-7b|[here](https://huggingface.co/allenai/tulu-2-dpo-7b)|
+|Tulu2-7b|[here](https://huggingface.co/allenai/tulu-2-7b)|
 
 citation: 
 ```bibtex
@@ -28,6 +34,8 @@ citation:
 #### How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Tulu) [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.04751)
+
+github link: [here](https://github.com/allenai/open-instruct)
 
 citation: 
 ```bibtex

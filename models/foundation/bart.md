@@ -6,6 +6,13 @@
 
 paper link: [here](https://arxiv.org/pdf/1910.13461)
 
+model links: 
+
+|model name|link|
+|-|-|
+|bart-large|[here](https://huggingface.co/facebook/bart-large)|
+|bart-base|[here](https://huggingface.co/facebook/bart-base)|
+
 citation: 
 ```bibtex
 @article{lewis2019bart,

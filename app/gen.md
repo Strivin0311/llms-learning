@@ -26,6 +26,25 @@ citation:
 ### Retrieval-Augmented Generation (RAG)
 
 
+#### Retrieval-Augmented Generation for Large Language Models: A Survey [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2312.10997.pdf)
+
+github link: [here](https://github.com/Tongji-KGLLM/RAG-Survey)
+
+citation:
+```bibtex
+@misc{gao2024retrievalaugmented,
+      title={Retrieval-Augmented Generation for Large Language Models: A Survey}, 
+      author={Yunfan Gao and Yun Xiong and Xinyu Gao and Kangxiang Jia and Jinliu Pan and Yuxi Bi and Yi Dai and Jiawei Sun and Qianyu Guo and Meng Wang and Haofen Wang},
+      year={2024},
+      eprint={2312.10997},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 #### Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2212.10496.pdf)

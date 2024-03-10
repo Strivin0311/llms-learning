@@ -6,6 +6,10 @@
 
 paper link: [here](https://arxiv.org/pdf/2107.02137)
 
+github link: [here](https://github.com/PaddlePaddle/ERNIE)
+
+homepage link: [here](https://wenxin.baidu.com/ernie3)
+
 citation: 
 ```bibtex
 @article{sun2021ernie,
@@ -20,6 +24,8 @@ citation:
 #### Ernie 2.0: A continual pre-training framework for language understanding [`UNREAD`]
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/6428/6284)
+
+github link: [here](https://github.com/PaddlePaddle/ERNIE)
 
 citation: 
 ```bibtex
@@ -38,6 +44,8 @@ citation:
 #### ERNIE: Enhanced language representation with informative entities [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1905.07129)
+
+github link: [here](https://github.com/PaddlePaddle/ERNIE)
 
 citation: 
 ```bibtex

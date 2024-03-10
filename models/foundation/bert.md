@@ -5,7 +5,14 @@
 
 #### Roberta: A robustly optimized bert pretraining approach [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/1907.11692.pdf%5C)
+paper link: [here](https://arxiv.org/pdf/1907.11692.pdf)
+
+model links: 
+
+|model name|link|
+|-|-|
+|roberta-large|[here](https://huggingface.co/FacebookAI/roberta-large)|
+|roberta-base|[here](https://huggingface.co/FacebookAI/roberta-base)|
 
 citation: 
 ```bibtex
@@ -21,6 +28,13 @@ citation:
 #### Bert: Pre-training of deep bidirectional transformers for language understanding [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrhhzxlCL6yTht2BRmH9atgvKFxHsxQ)
+
+model links: 
+
+|model name|link|
+|-|-|
+|bert-large-uncased|[here](https://huggingface.co/google-bert/bert-large-uncased)|
+|bert-base-uncased|[here](https://huggingface.co/google-bert/bert-base-uncased)|
 
 citation: 
 ```bibtex

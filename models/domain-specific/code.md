@@ -6,6 +6,8 @@
 
 paper link: [here](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
 
+blob link: [here](https://deepmind.google/discover/blog/competitive-programming-with-alphacode/)
+
 citation: 
 ```bibtex
 @inproceedings{AlphaCode2T,
@@ -135,7 +137,7 @@ citation:
 
 #### Competition-level code generation with alphacode [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2203.07814)
+paper link: [here](https://www.science.org/doi/10.1126/science.abq1158)
 
 citation: 
 ```bibtex

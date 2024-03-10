@@ -1,11 +1,13 @@
 # Miscellaneous Models
 *Here're some resources about Miscellaneous Models*
 
+
 #### Phi-2: The surprising power of small language models [`READ`]
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
 model links:
+
 |model name|link|
 |-|-|
 |Phi-2|[here](https://huggingface.co/microsoft/phi-2)|
@@ -26,6 +28,7 @@ citation:
 paper link: [here](https://arxiv.org/pdf/2309.05463.pdf)
 
 model links:
+
 |model name|link|
 |-|-|
 |Phi-1.5|[here](https://huggingface.co/microsoft/phi-1_5)|
@@ -47,6 +50,7 @@ citation:
 paper link: [here](https://arxiv.org/pdf/2306.11644.pdf)
 
 model links:
+
 |model name|link|
 |-|-|
 |Phi-1|[here](https://huggingface.co/microsoft/phi-1)|
@@ -86,22 +90,6 @@ citation:
 }
 ```
 
-
-#### Gemini: A Family of Highly Capable Multimodal Models [`UNREAD`]
-
-paper link: [here](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
-
-citation:
-```bibtex
-@article{gemini23google, 
-  title={Gemini: A Family of Highly Capable Multimodal Models}, 
-  url={https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf}, 
-  author={Gemini Team, Google},
-  year={2023}, 
-  month={Dec}, 
-  pages={62}
-}
-```
 
 #### Anima: the first open source 33B Chinese LLM [`READ`]
 
@@ -153,7 +141,7 @@ citation:
 }
 ```
 
-#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`UNREAD`]
+#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2304.01196)
 
@@ -208,24 +196,9 @@ citation:
   year={2022}
 }
 ```
-    
-
-#### Pangu-weather: A 3d high-resolution model for fast and accurate global weather forecast [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2211.02556)
-
-citation: 
-```bibtex
-@article{bi2022pangu,
-  title={Pangu-weather: A 3d high-resolution model for fast and accurate global weather forecast},
-  author={Bi, Kaifeng and Xie, Lingxi and Zhang, Hengheng and Chen, Xin and Gu, Xiaotao and Tian, Qi},
-  journal={arXiv preprint arXiv:2211.02556},
-  year={2022}
-}
-```
 
 
-#### Learning transferable visual models from natural language supervision (CLIP) [`UNREAD`]
+#### Learning transferable visual models from natural language supervision (CLIP) [`READ`]
 
 paper link: [here](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 
@@ -245,6 +218,8 @@ citation:
 #### LaMDA: Language Models for Dialog Applications [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2201.08239.pdf)
+
+blog link: [here](https://blog.google/technology/ai/lamda/)
 
 citation:
 ```bibtex

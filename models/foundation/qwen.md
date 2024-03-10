@@ -2,9 +2,45 @@
 *Here're some resources about Qwen*
 
 
+#### Introducing Qwen1.5 [`UNREAD`]
+
+blog link: [here](https://qwenlm.github.io/blog/qwen1.5/)
+
+github link: [Qwen](https://github.com/QwenLM/Qwen1.5)
+
+model links:
+
+|model name|link|
+|-|-|
+|Qwen1.5-72B-Chat|[here](https://huggingface.co/Qwen/Qwen1.5-72B-Chat)|
+|Qwen1.5-72B|[here](https://huggingface.co/Qwen/Qwen1.5-72B)|
+|Qwen1.5-14B-Chat|[here](https://huggingface.co/Qwen/Qwen1.5-14B-Chat)|
+|Qwen1.5-14B|[here](https://huggingface.co/Qwen/Qwen1.5-14B)|
+|Qwen1.5-7B-Chat|[here](https://huggingface.co/Qwen/Qwen1.5-7B-Chat)|
+|Qwen1.5-7B|[here](https://huggingface.co/Qwen/Qwen1.5-7B)|
+|Qwen1.5-4B-Chat|[here](https://huggingface.co/Qwen/Qwen1.5-4B-Chat)|
+|Qwen1.5-4B|[here](https://huggingface.co/Qwen/Qwen1.5-4B)|
+|Qwen1.5-1.8B-Chat|[here](https://huggingface.co/Qwen/Qwen1.5-1.8B-Chat)|
+|Qwen1.5-1.8B|[here](https://huggingface.co/Qwen/Qwen1.5-1.8B)|
+|Qwen1.5-0.5B-Chat|[here](https://huggingface.co/Qwen/Qwen1.5-0.5B-Chat)|
+|Qwen1.5-0.5B|[here](https://huggingface.co/Qwen/Qwen1.5-0.5B)|
+
+citation:
+```bibtex
+@article{qwen,
+  title={Qwen Technical Report},
+  author={Jinze Bai and Shuai Bai and Yunfei Chu and Zeyu Cui and Kai Dang and Xiaodong Deng and Yang Fan and Wenbin Ge and Yu Han and Fei Huang and Binyuan Hui and Luo Ji and Mei Li and Junyang Lin and Runji Lin and Dayiheng Liu and Gao Liu and Chengqiang Lu and Keming Lu and Jianxin Ma and Rui Men and Xingzhang Ren and Xuancheng Ren and Chuanqi Tan and Sinan Tan and Jianhong Tu and Peng Wang and Shijie Wang and Wei Wang and Shengguang Wu and Benfeng Xu and Jin Xu and An Yang and Hao Yang and Jian Yang and Shusheng Yang and Yang Yao and Bowen Yu and Hongyi Yuan and Zheng Yuan and Jianwei Zhang and Xingxuan Zhang and Yichang Zhang and Zhenru Zhang and Chang Zhou and Jingren Zhou and Xiaohuan Zhou and Tianhang Zhu},
+  journal={arXiv preprint arXiv:2309.16609},
+  year={2023}
+}
+```
+
+
 #### Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2311.07919.pdf)
+
+model links:
 
 |model name|link|
 |-|-|
@@ -26,6 +62,8 @@ citation:
 #### Qwen Technical Report [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2309.16609.pdf)
+
+model links:
 
 |model name|link|
 |-|-|
