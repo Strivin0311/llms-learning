@@ -2,6 +2,15 @@
 *Here're some resources about Miscellaneous Models*
 
 
+#### Grok-1: 314 billion parameter Mixture-of-Experts model trained from scratch by xAI [`READ`]
+
+blog link: [here](https://x.ai/blog/grok-os)
+
+github link: [here](https://github.com/xai-org/grok-1)
+
+model link: [here](https://huggingface.co/xai-org/grok-1)
+
+
 #### Phi-2: The surprising power of small language models [`READ`]
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
