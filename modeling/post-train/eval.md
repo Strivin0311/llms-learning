@@ -2,7 +2,42 @@
 *Here're some resources about Evaluation on LLMs*
 
 
-## Benchmarks
+## Benchmarking
+
+
+#### Rethinking Benchmark and Contamination for Language Models with Rephrased Samples ['READ']
+
+paper link: [here](https://arxiv.org/pdf/2311.04850)
+
+citation
+```bibtex
+@misc{yang2023rethinking,
+      title={Rethinking Benchmark and Contamination for Language Models with Rephrased Samples}, 
+      author={Shuo Yang and Wei-Lin Chiang and Lianmin Zheng and Joseph E. Gonzalez and Ion Stoica},
+      year={2023},
+      eprint={2311.04850},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Don't Make Your LLM an Evaluation Benchmark Cheater ['READ']
+
+paper link: [here](https://arxiv.org/pdf/2311.01964)
+
+citation
+```bibtex
+@misc{zhou2023dont,
+      title={Don't Make Your LLM an Evaluation Benchmark Cheater}, 
+      author={Kun Zhou and Yutao Zhu and Zhipeng Chen and Wentong Chen and Wayne Xin Zhao and Xu Chen and Yankai Lin and Ji-Rong Wen and Jiawei Han},
+      year={2023},
+      eprint={2311.01964},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
 #### GPT-Fathom- Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond ['READ']
 
@@ -88,9 +123,9 @@ citation:
 ```
 
 
-## English
+## English Benchmarks
 
-### Mutli-Domain
+### Mutli-Domain Tasks
 
 #### Openagi: When llm meets domain experts [`UNREAD`]
 
@@ -123,7 +158,30 @@ citation:
 }
 ```
 
-### Math
+### Math Tasks
+
+
+#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2309.12284)
+
+github link: [here](https://github.com/meta-math/MetaMath)
+
+dataset link: [here](https://huggingface.co/datasets/meta-math/MetaMathQA)
+
+citation:
+```bibtex
+@misc{yu2023metamath,
+      title={MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models}, 
+      author={Longhui Yu and Weisen Jiang and Han Shi and Jincheng Yu and Zhengying Liu and Yu Zhang and James T. Kwok and Zhenguo Li and Adrian Weller and Weiyang Liu},
+      year={2023},
+      eprint={2309.12284},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 
 #### Let's Verify Step by Step (PRM800K) [`READ`]
 
@@ -141,11 +199,34 @@ citation:
 }
 ```
 
-#### Measuring Mathematical Problem Solving With the MATH Dataset [`READ`]
+#### Training Verifiers to Solve Math Word Problems (GSM8k) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2110.14168v2)
+
+github link: [here](https://github.com/openai/grade-school-math)
+
+dataset link: [here](https://huggingface.co/datasets/gsm8k)
+
+citation:
+```bibtex
+@misc{cobbe2021training,
+      title={Training Verifiers to Solve Math Word Problems}, 
+      author={Karl Cobbe and Vineet Kosaraju and Mohammad Bavarian and Mark Chen and Heewoo Jun and Lukasz Kaiser and Matthias Plappert and Jerry Tworek and Jacob Hilton and Reiichiro Nakano and Christopher Hesse and John Schulman},
+      year={2021},
+      eprint={2110.14168},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Measuring Mathematical Problem Solving With the MATH Dataset (MATH) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2103.03874.pdf)
 
 github link: [here](https://github.com/hendrycks/math)
+
+dataset link: [here](https://huggingface.co/datasets/hendrycks/competition_math)
 
 citation:
 ```bibtex
@@ -158,7 +239,7 @@ citation:
 ```
 
 
-### Code
+### Code Tasks
 
 #### MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation [`UNREAD`]
 
@@ -199,10 +280,10 @@ citation:
 ```
 
 
-## Chinese
+## Chinese Benchmarks
 
 
-### Mutli-Domain
+### Mutli-Domain Tasks
 
 
 #### C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models [`UNREAD`]
@@ -221,7 +302,7 @@ citation:
     
 
 
-### Finance
+### Finance Tasks
 
 #### CGCE: A Chinese Generative Chat Evaluation Benchmark for General and Financial Domains [`UNREAD`]
 
@@ -238,10 +319,28 @@ citation:
 ```
 
 
-## Multi-Language
+## Multi-Language Benchmarks
 
 
+### Mutli-Domain Tasks
 
+#### LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2308.14508)
+
+github link: [here](https://github.com/THUDM/LongBench)
+
+citation:
+```bibtex
+@misc{bai2023longbench,
+      title={LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding}, 
+      author={Yushi Bai and Xin Lv and Jiajie Zhang and Hongchang Lyu and Jiankai Tang and Zhidian Huang and Zhengxiao Du and Xiao Liu and Aohan Zeng and Lei Hou and Yuxiao Dong and Jie Tang and Juanzi Li},
+      year={2023},
+      eprint={2308.14508},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 ## Metrics
