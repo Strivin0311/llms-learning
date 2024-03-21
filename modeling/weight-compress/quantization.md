@@ -46,6 +46,8 @@ citation:
 
 ### Quantization-Aware Training (QAT)
 
+
+
 #### LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2310.08659.pdf)
@@ -57,6 +59,23 @@ citation:
   author={Li, Yixiao and Yu, Yifan and Liang, Chen and He, Pengcheng and Karampatziakis, Nikos and Chen, Weizhu and Zhao, Tuo},
   journal={arXiv preprint arXiv:2310.08659},
   year={2023}
+}
+```
+
+
+#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.07147)
+
+citation:
+```bibtex
+@misc{li2023qft,
+      title={QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources}, 
+      author={Zhikai Li and Xiaoxuan Liu and Banghua Zhu and Zhen Dong and Qingyi Gu and Kurt Keutzer},
+      year={2023},
+      eprint={2310.07147},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 

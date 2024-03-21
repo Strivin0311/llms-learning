@@ -45,6 +45,23 @@ citation:
 ```
 
 
+#### Benchmarking Large Language Models in Retrieval-Augmented Generation [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2309.01431)
+
+citation:
+```bibtex
+@misc{chen2023benchmarking,
+      title={Benchmarking Large Language Models in Retrieval-Augmented Generation}, 
+      author={Jiawei Chen and Hongyu Lin and Xianpei Han and Le Sun},
+      year={2023},
+      eprint={2309.01431},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 #### Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2212.10496.pdf)

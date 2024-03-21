@@ -19,6 +19,23 @@ citation
 ```
 
 
+#### Benchmarking Large Language Models in Retrieval-Augmented Generation [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2309.01431)
+
+citation:
+```bibtex
+@misc{chen2023benchmarking,
+      title={Benchmarking Large Language Models in Retrieval-Augmented Generation}, 
+      author={Jiawei Chen and Hongyu Lin and Xianpei Han and Le Sun},
+      year={2023},
+      eprint={2309.01431},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 #### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.05685.pdf)
@@ -108,7 +125,7 @@ citation:
 
 ### Math
 
-#### Let's Verify Step by Step (PRM800K) [`UNREAD`]
+#### Let's Verify Step by Step (PRM800K) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2305.20050.pdf)
 
@@ -124,7 +141,7 @@ citation:
 }
 ```
 
-#### Measuring Mathematical Problem Solving With the MATH Dataset [`UNREAD`]
+#### Measuring Mathematical Problem Solving With the MATH Dataset [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2103.03874.pdf)
 

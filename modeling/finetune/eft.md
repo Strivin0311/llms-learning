@@ -2,9 +2,42 @@
 *Here're some resources about Efficient Fine-Tuning strategies for LLMs*
  
 
+### Full-Parameter Fine-Tuning (FPT)
+
+#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.07147)
+
+citation:
+```bibtex
+@misc{li2023qft,
+      title={QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources}, 
+      author={Zhikai Li and Xiaoxuan Liu and Banghua Zhu and Zhen Dong and Qingyi Gu and Kurt Keutzer},
+      year={2023},
+      eprint={2310.07147},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+#### Full Parameter Fine-tuning for Large Language Models with Limited Resources (LOMO) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2306.09782)
+
+citation: 
+```bibtex
+@article{lv2023full,
+  title={Full Parameter Fine-tuning for Large Language Models with Limited Resources},
+  author={Lv, Kai and Yang, Yuqing and Liu, Tengxiao and Gao, Qinghui and Guo, Qipeng and Qiu, Xipeng},
+  journal={arXiv preprint arXiv:2306.09782},
+  year={2023}
+}
+```
+
+
 ### Parameter-Efficient Fine-Tuning (PEFT)
 
-#### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [`READ`]
+#### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2401.04679.pdf)
 
@@ -35,7 +68,7 @@ citation:
 }
 ```
 
-#### LongLoRA: Efficient fine-tuning of long-context large language models [`UNREAD`]
+#### LongLoRA: Efficient fine-tuning of long-context large language models [`AREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
@@ -68,7 +101,7 @@ citation:
 ```
 
 
-#### On the effectiveness of parameter-efficient fine-tuning [`UNREAD`]
+#### On the effectiveness of parameter-efficient fine-tuning [`READ`]
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/26505/26277)
 
@@ -81,21 +114,6 @@ citation:
   volume={37},
   number={11},
   pages={12799--12807},
-  year={2023}
-}
-```
-
-
-#### Full Parameter Fine-tuning for Large Language Models with Limited Resources [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2306.09782)
-
-citation: 
-```bibtex
-@article{lv2023full,
-  title={Full Parameter Fine-tuning for Large Language Models with Limited Resources},
-  author={Lv, Kai and Yang, Yuqing and Liu, Tengxiao and Gao, Qinghui and Guo, Qipeng and Qiu, Xipeng},
-  journal={arXiv preprint arXiv:2306.09782},
   year={2023}
 }
 ```
@@ -261,7 +279,7 @@ citation:
 ```
 
 
-### Memory-Efficient Fine-Tuning
+### Memory-Efficient Fine-Tuning (MEFT)
 
 
 #### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning [`UNREAD`]
