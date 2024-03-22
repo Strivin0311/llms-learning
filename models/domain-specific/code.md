@@ -2,6 +2,35 @@
 *Here're some resources about Code LLMs, which are LLMs specific for code tasks*
 
 
+#### DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2401.14196)
+
+github link: [here](https://github.com/deepseek-ai/deepseek-coder)
+
+model links:
+
+|model name|link|
+|-|-|
+|deepseek-coder-33b-instruct|[here](https://huggingface.co/deepseek-ai/deepseek-coder-33b-instruct)|
+|deepseek-coder-7b-instruct-v1.5|[here](https://huggingface.co/deepseek-ai/deepseek-coder-7b-instruct-v1.5)|
+|deepseek-coder-6.7b-instruct|[here](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct)|
+|deepseek-coder-1.3b-instruct|[here](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct)|
+
+
+citation: 
+```bibtex
+@misc{guo2024deepseekcoder,
+      title={DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence}, 
+      author={Daya Guo and Qihao Zhu and Dejian Yang and Zhenda Xie and Kai Dong and Wentao Zhang and Guanting Chen and Xiao Bi and Y. Wu and Y. K. Li and Fuli Luo and Yingfei Xiong and Wenfeng Liang},
+      year={2024},
+      eprint={2401.14196},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+}
+```
+
+
 #### AlphaCode 2 Technical Report [`UNREAD`]
 
 paper link: [here](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)

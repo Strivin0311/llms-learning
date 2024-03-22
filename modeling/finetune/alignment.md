@@ -2,6 +2,25 @@
 *Here're some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
+#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
+
+github link: [here](https://github.com/deepseek-ai/DeepSeek-Math)
+
+
+citation:
+```bibtex
+@misc{shao2024deepseekmath,
+      title={DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models}, 
+      author={Zhihong Shao and Peiyi Wang and Qihao Zhu and Runxin Xu and Junxiao Song and Mingchuan Zhang and Y. K. Li and Y. Wu and Daya Guo},
+      year={2024},
+      eprint={2402.03300},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 #### Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models (SPIN) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2401.01335.pdf)

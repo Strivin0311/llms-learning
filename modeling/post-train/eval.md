@@ -161,7 +161,29 @@ citation:
 ### Math Tasks
 
 
-#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models [`READ`]
+#### OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2310.06786.pdf)
+
+github link: [here](https://github.com/keirp/OpenWebMath)
+
+dataset link: [here](https://huggingface.co/datasets/open-web-math/open-web-math)
+
+
+citation:
+```bibtex
+@misc{paster2023openwebmath,
+      title={OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text}, 
+      author={Keiran Paster and Marco Dos Santos and Zhangir Azerbayev and Jimmy Ba},
+      year={2023},
+      eprint={2310.06786},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+
+#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models (MetaMathQA) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2309.12284)
 
