@@ -2,6 +2,7 @@
 *Here're some resources about Miscellaneous Models*
 
 
+
 #### Grok-1: 314 billion parameter Mixture-of-Experts model trained from scratch by xAI [`READ`]
 
 blog link: [here](https://x.ai/blog/grok-os)
@@ -9,6 +10,34 @@ blog link: [here](https://x.ai/blog/grok-os)
 github link: [here](https://github.com/xai-org/grok-1)
 
 model link: [here](https://huggingface.co/xai-org/grok-1)
+
+citation:
+```bibtex
+@misc{grok2024xai,
+  title={Grok-1: 314 billion parameter Mixture-of-Experts model trained from scratch by xAI},
+  author={XAI},
+  howpublished={\url{https://github.com/xai-org/grok-1}},
+  year={2024},
+}
+
+```
+
+
+#### Sora: Video generation models as world simulators [`READ`]
+
+blog link: [here](https://openai.com/research/video-generation-models-as-world-simulators)
+
+homepage link: [here](https://openai.com/sora)
+
+citation:
+```bibtex
+@article{videoworldsimulators2024,
+  title={Video generation models as world simulators},
+  author={Tim Brooks and Bill Peebles and Connor Holmes and Will DePue and Yufei Guo and Li Jing and David Schnurr and Joe Taylor and Troy Luhman and Eric Luhman and Clarence Ng and Ricky Wang and Aditya Ramesh},
+  year={2024},
+  url={https://openai.com/research/video-generation-models-as-world-simulators},
+}
+```
 
 
 #### Phi-2: The surprising power of small language models [`READ`]
