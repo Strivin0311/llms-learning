@@ -3,9 +3,11 @@
 
 
 
-#### FP8-LM: Training FP8 Large Language Models [`UNREAD`]
+#### FP8-LM: Training FP8 Large Language Models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
+
+github link: [here](https://github.com/Azure/MS-AMP)
 
 citation:
 ```bibtex
@@ -20,9 +22,13 @@ citation:
 ```
 
 
-#### BitNet: Scaling 1-bit Transformers for Large Language Models [`UNREAD`]
+#### BitNet: Scaling 1-bit Transformers for Large Language Models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2310.11453)
+
+blog link: [here](https://thegenerality.com/agi/)
+
+github link: [here](https://github.com/microsoft/unilm)
 
 citation:
 ```bibtex
@@ -37,9 +43,9 @@ citation:
 ```
 
 
-#### Training and inference of large language models using 8-bit floating point [`UNREAD`]
+#### Training and inference of large language models using 8-bit floating point [`READ`]
 
-paper link: [here](https://arxiv.org/pdf/2204.02311.pdf)
+paper link: [here](https://arxiv.org/pdf/2309.17224)
 
 citation:
 ```bibtex
@@ -54,7 +60,7 @@ citation:
 ```
 
 
-#### Mixed Precision Training [`UNREAD`]
+#### Mixed Precision Training [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1710.03740)
 
