@@ -206,7 +206,42 @@ citation:
 ```
 
 
-### Math / Algorithm Problems
+### Math-Solving Problems
+
+
+#### Forward-Backward Reasoning in Large Language Models for Mathematical Verification [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2308.07758)
+
+citation:
+```bibtex
+@misc{jiang2024forwardbackward,
+      title={Forward-Backward Reasoning in Large Language Models for Mathematical Verification}, 
+      author={Weisen Jiang and Han Shi and Longhui Yu and Zhengying Liu and Yu Zhang and Zhenguo Li and James T. Kwok},
+      year={2024},
+      eprint={2308.07758},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+#### Scaling Relationship on Learning Mathematical Reasoning with Large Language Models (RFT) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2308.01825)
+
+github link: [here](https://github.com/OFA-Sys/gsm8k-ScRel)
+
+citation:
+```bibtex
+@misc{yuan2023scaling,
+      title={Scaling Relationship on Learning Mathematical Reasoning with Large Language Models}, 
+      author={Zheng Yuan and Hongyi Yuan and Chengpeng Li and Guanting Dong and Keming Lu and Chuanqi Tan and Chang Zhou and Jingren Zhou},
+      year={2023},
+      eprint={2308.01825},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 
 #### Don't Trust- Verify - Grounding LLM Quantitative Reasoning With AutoFormalization [`READ`]

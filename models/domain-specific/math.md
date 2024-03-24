@@ -2,7 +2,7 @@
 *Here're some resources about Math LLMs, which are LLMs specific for math computing / reasoning tasks*
 
 
-#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models [`UNREAD`]
+#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
 
@@ -29,7 +29,7 @@ citation:
 ```
 
 
-#### Llemma: An Open Language Model For Mathematics [`UNREAD`]
+#### Llemma: An Open Language Model For Mathematics [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2310.10631.pdf)
 

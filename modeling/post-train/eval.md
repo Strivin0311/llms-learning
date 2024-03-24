@@ -161,66 +161,6 @@ citation:
 ### Math Tasks
 
 
-#### OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2310.06786.pdf)
-
-github link: [here](https://github.com/keirp/OpenWebMath)
-
-dataset link: [here](https://huggingface.co/datasets/open-web-math/open-web-math)
-
-
-citation:
-```bibtex
-@misc{paster2023openwebmath,
-      title={OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text}, 
-      author={Keiran Paster and Marco Dos Santos and Zhangir Azerbayev and Jimmy Ba},
-      year={2023},
-      eprint={2310.06786},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-```
-
-
-#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models (MetaMathQA) [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2309.12284)
-
-github link: [here](https://github.com/meta-math/MetaMath)
-
-dataset link: [here](https://huggingface.co/datasets/meta-math/MetaMathQA)
-
-citation:
-```bibtex
-@misc{yu2023metamath,
-      title={MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models}, 
-      author={Longhui Yu and Weisen Jiang and Han Shi and Jincheng Yu and Zhengying Liu and Yu Zhang and James T. Kwok and Zhenguo Li and Adrian Weller and Weiyang Liu},
-      year={2023},
-      eprint={2309.12284},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-
-
-#### Let's Verify Step by Step (PRM800K) [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2305.20050.pdf)
-
-github link: [here](https://github.com/openai/prm800k)
-
-citation:
-```bibtex
-@article{lightman2023lets,
-      title={Let's Verify Step by Step}, 
-      author={Lightman, Hunter and Kosaraju, Vineet and Burda, Yura and Edwards, Harri and Baker, Bowen and Lee, Teddy and Leike, Jan and Schulman, John and Sutskever, Ilya and Cobbe, Karl},
-      journal={arXiv preprint arXiv:2305.20050},
-      year={2023}
-}
-```
-
 #### Training Verifiers to Solve Math Word Problems (GSM8k) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2110.14168v2)
@@ -256,6 +196,23 @@ citation:
   title={Measuring Mathematical Problem Solving With the MATH Dataset},
   author={Dan Hendrycks and Collin Burns and Saurav Kadavath and Akul Arora and Steven Basart and Eric Tang and Dawn Song and Jacob Steinhardt},
   journal={NeurIPS},
+  year={2021}
+}
+```
+
+
+#### MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2109.00110)
+
+github link: [here](https://github.com/openai/miniF2F/tree/main)
+
+citation:
+```bibtex
+@article{zheng2021minif2f,
+  title={MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics},
+  author={Zheng, Kunhao and Han, Jesse Michael and Polu, Stanislas},
+  journal={arXiv preprint arXiv:2109.00110},
   year={2021}
 }
 ```

@@ -2,7 +2,7 @@
 *Here're some resources about pretraining methodologies for LLMs*
 
 
-### Efficient Pretraining
+## Efficient Pretraining
 
 #### Efficient Online Data Mixing For Language Model Pre-Training [`READ`]
 
@@ -101,7 +101,7 @@ citation:
 ```
 
 
-### Effective Pretraining
+## Effective Pretraining
 
 #### Skill-it! A data-driven skills framework for understanding and training language models [`UNREAD`]
 
@@ -165,7 +165,11 @@ citation:
 ```
 
 
-### Pretraining Corpus
+## Pretraining Corpus
+
+
+### General
+
 
 #### RedPajama: an Open Dataset for Training Large Language Models [`READ`]
 
@@ -225,5 +229,110 @@ citation:
       eprint={2101.00027},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+}
+```
+
+
+
+### Math
+
+#### Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2312.17120)
+
+github link: [here](https://github.com/GAIR-NLP/MathPile/)
+
+dataset link: [here](https://huggingface.co/datasets/GAIR/MathPile)
+
+citation: 
+```bibtex
+@misc{wang2023generative,
+      title={Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math}, 
+      author={Zengzhi Wang and Rui Xia and Pengfei Liu},
+      year={2023},
+      eprint={2312.17120},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Llemma: An Open Language Model For Mathematics (Proof-Pile-2) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2310.10631.pdf)
+
+github link: [here](https://github.com/EleutherAI/math-lm)
+
+dataset link: [here](https://huggingface.co/datasets/EleutherAI/proof-pile-2)
+
+citation:
+```bibtex
+@misc{azerbayev2023llemma,
+      title={Llemma: An Open Language Model For Mathematics}, 
+      author={Zhangir Azerbayev and Hailey Schoelkopf and Keiran Paster and Marco Dos Santos and Stephen McAleer and Albert Q. Jiang and Jia Deng and Stella Biderman and Sean Welleck},
+      year={2023},
+      eprint={2310.10631},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2310.06786)
+
+github link: [here](https://github.com/keirp/OpenWebMath)
+
+dataset link: [here](https://huggingface.co/datasets/open-web-math/open-web-math)
+
+citation:
+```bibtex
+@misc{paster2023openwebmath,
+      title={OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text}, 
+      author={Keiran Paster and Marco Dos Santos and Zhangir Azerbayev and Jimmy Ba},
+      year={2023},
+      eprint={2310.06786},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+
+#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models (MetaMathQA) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2309.12284)
+
+github link: [here](https://github.com/meta-math/MetaMath)
+
+dataset link: [here](https://huggingface.co/datasets/meta-math/MetaMathQA)
+
+citation:
+```bibtex
+@misc{yu2023metamath,
+      title={MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models}, 
+      author={Longhui Yu and Weisen Jiang and Han Shi and Jincheng Yu and Zhengying Liu and Yu Zhang and James T. Kwok and Zhenguo Li and Adrian Weller and Weiyang Liu},
+      year={2023},
+      eprint={2309.12284},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+
+#### Let's Verify Step by Step (PRM800K) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2305.20050.pdf)
+
+github link: [here](https://github.com/openai/prm800k)
+
+citation:
+```bibtex
+@article{lightman2023lets,
+      title={Let's Verify Step by Step}, 
+      author={Lightman, Hunter and Kosaraju, Vineet and Burda, Yura and Edwards, Harri and Baker, Bowen and Lee, Teddy and Leike, Jan and Schulman, John and Sutskever, Ilya and Cobbe, Karl},
+      journal={arXiv preprint arXiv:2305.20050},
+      year={2023}
 }
 ```
