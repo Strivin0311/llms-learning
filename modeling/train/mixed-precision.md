@@ -2,7 +2,6 @@
 *Here're some resources about Mixed-Precision strategies for LLMs training*
 
 
-
 #### FP8-LM: Training FP8 Large Language Models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
@@ -60,7 +59,80 @@ citation:
 ```
 
 
-#### Mixed Precision Training [`READ`]
+#### NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8 (TE) [`READ`]
+
+blog link: [here](https://towardsdatascience.com/accelerating-pytorch-training-workloads-with-fp8-5a5123aec7d7)
+
+docs link: [here](https://docs.nvidia.com/deeplearning/transformer-engine/index.html)
+
+github link: [here](https://github.com/NVIDIA/TransformerEngine)
+
+citation:
+```bibtex
+@misc{NVIDIA2023TransformerEngine,
+  title={NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8 (TE)},
+  author={Chaim Rand, and NVIDIA},
+  howpublished = {\url{https://github.com/NVIDIA/TransformerEngine}},
+  year={2023},
+}
+```
+
+
+#### 8-bit Optimizers via Block-wise Quantization [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2110.02861)
+
+citation:
+```bibtex
+@misc{dettmers20228bit,
+      title={8-bit Optimizers via Block-wise Quantization}, 
+      author={Tim Dettmers and Mike Lewis and Sam Shleifer and Luke Zettlemoyer},
+      year={2022},
+      eprint={2110.02861},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks (HFP8) [`READ`]
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/65fc9fb4897a89789352e211ca2d398f-Paper.pdf)
+
+citation:
+```bibtex
+@inproceedings{NEURIPS2019_65fc9fb4,
+      author = {Sun, Xiao and Choi, Jungwook and Chen, Chia-Yu and Wang, Naigang and Venkataramani, Swagath and Srinivasan, Vijayalakshmi (Viji) and Cui, Xiaodong and Zhang, Wei and Gopalakrishnan, Kailash},
+      booktitle = {Advances in Neural Information Processing Systems},
+      editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+      pages = {},
+      publisher = {Curran Associates, Inc.},
+      title = {Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks},
+      url = {https://proceedings.neurips.cc/paper_files/paper/2019/file/65fc9fb4897a89789352e211ca2d398f-Paper.pdf},
+      volume = {32},
+      year = {2019}
+}  
+```
+
+
+#### Training Deep Neural Networks with 8-bit Floating Point Numbers (FP8) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/1812.08011)
+
+citation:
+```bibtex
+@misc{wang2018training,
+      title={Training Deep Neural Networks with 8-bit Floating Point Numbers}, 
+      author={Naigang Wang and Jungwook Choi and Daniel Brand and Chia-Yu Chen and Kailash Gopalakrishnan},
+      year={2018},
+      eprint={1812.08011},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Mixed Precision Training (FP16) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1710.03740)
 

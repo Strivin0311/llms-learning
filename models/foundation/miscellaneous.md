@@ -213,7 +213,7 @@ citation:
 
 #### OPT: Open pre-trained transformer language models [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2205.01068.pdf?fbclid=IwAR1_0YiQKgxIsy8unzoLvL9E2OA41_kze-H0YvhoCzIQUp_gk-MR9dUs2ZE)
+paper link: [here](https://arxiv.org/pdf/2205.01068.pdf)
 
 model links: 
 
@@ -251,6 +251,25 @@ citation:
   organization={PMLR}
 }
 ```
+
+
+#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
+
+citation:
+```bibtex
+@misc{smith2022using,
+      title={Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model}, 
+      author={Shaden Smith and Mostofa Patwary and Brandon Norick and Patrick LeGresley and Samyam Rajbhandari and Jared Casper and Zhun Liu and Shrimai Prabhumoye and George Zerveas and Vijay Korthikanti and Elton Zhang and Rewon Child and Reza Yazdani Aminabadi and Julie Bernauer and Xia Song and Mohammad Shoeybi and Yuxiong He and Michael Houston and Saurabh Tiwary and Bryan Catanzaro},
+      year={2022},
+      eprint={2201.11990},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
     
 
 #### LaMDA: Language Models for Dialog Applications [`UNREAD`]

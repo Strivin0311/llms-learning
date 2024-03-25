@@ -47,7 +47,6 @@ citation:
 ### Quantization-Aware Training (QAT)
 
 
-
 #### LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2310.08659.pdf)
@@ -162,6 +161,23 @@ citation:
   year={2023}
 }
 ```
+
+#### 8-bit Optimizers via Block-wise Quantization [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2110.02861)
+
+citation:
+```bibtex
+@misc{dettmers20228bit,
+      title={8-bit Optimizers via Block-wise Quantization}, 
+      author={Tim Dettmers and Mike Lewis and Sam Shleifer and Luke Zettlemoyer},
+      year={2022},
+      eprint={2110.02861},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 
 #### Q8BERT: Quantized 8Bit BERT [`READ`]
 

@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`UNREAD`]
+#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
 
