@@ -78,6 +78,25 @@ citation:
 ```
 
 
+#### FP8 Quantization: The Power of the Exponent [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
+
+github link: [here](https://github.com/Qualcomm-AI-research/FP8-quantization)
+
+citation:
+```bibtex
+@misc{kuzmin2024fp8,
+      title={FP8 Quantization: The Power of the Exponent}, 
+      author={Andrey Kuzmin and Mart Van Baalen and Yuwei Ren and Markus Nagel and Jorn Peters and Tijmen Blankevoort},
+      year={2024},
+      eprint={2208.09225},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
 #### 8-bit Optimizers via Block-wise Quantization [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2110.02861)
