@@ -155,6 +155,7 @@ citation:
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 
 citation:
+
 ```bibtex
 @article{fedus2022switch,
   title={Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity},
@@ -171,11 +172,35 @@ citation:
 
 ### Sequence Parallelism (SP)
 
+
+#### DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2309.14509)
+
+blog link: [here](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-ulysses/chinese/README.md)
+
+github link: [here](https://github.com/microsoft/DeepSpeed/tree/master)
+
+citation:
+
+```bibtex
+@misc{jacobs2023deepspeed,
+      title={DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models}, 
+      author={Sam Ade Jacobs and Masahiro Tanaka and Chengming Zhang and Minjia Zhang and Shuaiwen Leon Song and Samyam Rajbhandari and Yuxiong He},
+      year={2023},
+      eprint={2309.14509},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
 #### Reducing Activation Recomputation in Large Transformer Models (Sequence Parallelism) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2205.05198.pdf)
 
 citation:
+
 ```bibtex
 @misc{korthikanti2022reducing,
       title={Reducing Activation Recomputation in Large Transformer Models}, 
