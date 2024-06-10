@@ -21,6 +21,23 @@ citation:
 ```
 
 
+#### DiLoCo: Distributed Low-Communication Training of Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2311.08105)
+
+citation:
+
+```bibtex
+@misc{douillard2023diloco,
+      title={DiLoCo: Distributed Low-Communication Training of Language Models}, 
+      author={Arthur Douillard and Qixuan Feng and Andrei A. Rusu and Rachita Chhaparia and Yani Donchev and Adhiguna Kuncoro and Marc'Aurelio Ranzato and Arthur Szlam and Jiajun Shen},
+      year={2023},
+      eprint={2311.08105},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 #### Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models [`UNREAD`]
 
 paper link: [here](https://openreview.net/pdf?id=dWDEBW2raJ)
@@ -69,6 +86,43 @@ citation:
 }
 ```
 
+#### Efficient Algorithms for Device Placement of DNN Graph Operators [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2006.16423)
+
+citation:
+
+```bibtex
+@misc{tarnawski2020efficient,
+      title={Efficient Algorithms for Device Placement of DNN Graph Operators}, 
+      author={Jakub Tarnawski and Amar Phanishayee and Nikhil R. Devanur and Divya Mahajan and Fanny Nina Paravecino},
+      year={2020},
+      eprint={2006.16423},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+
+#### SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1801.04380)
+
+citation:
+```bibtex
+@inproceedings{Wang_2018, series={PPoPP ’18},
+   title={Superneurons: dynamic GPU memory management for training deep neural networks},
+   url={http://dx.doi.org/10.1145/3178487.3178491},
+   DOI={10.1145/3178487.3178491},
+   booktitle={Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming},
+   publisher={ACM},
+   author={Wang, Linnan and Ye, Jinmian and Zhao, Yiyang and Wu, Wei and Li, Ang and Song, Shuaiwen Leon and Xu, Zenglin and Kraska, Tim},
+   year={2018},
+   month=feb, collection={PPoPP ’18} 
+}
+```
+
 
 #### The reversible residual network: Backpropagation without storing activations (RevNet) [`UNREAD`]
 
@@ -102,6 +156,25 @@ citation:
 
 
 ## Effective Pretraining
+
+
+#### Spike No More: Stabilizing the Pre-training of Large Language Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2312.16903)
+
+citation:
+
+```bibtex
+@misc{takase2024spike,
+      title={Spike No More: Stabilizing the Pre-training of Large Language Models}, 
+      author={Sho Takase and Shun Kiyono and Sosuke Kobayashi and Jun Suzuki},
+      year={2024},
+      eprint={2312.16903},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
 #### Skill-it! A data-driven skills framework for understanding and training language models [`UNREAD`]
 
@@ -165,10 +238,27 @@ citation:
 ```
 
 
+#### An Empirical Model of Large-Batch Training [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/1812.06162)
+
+citation:
+```bibtex
+@misc{mccandlish2018empirical,
+      title={An Empirical Model of Large-Batch Training}, 
+      author={Sam McCandlish and Jared Kaplan and Dario Amodei and OpenAI Dota Team},
+      year={2018},
+      eprint={1812.06162},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
 ## Pretraining Corpus
 
 
-### General
+### Universal
 
 
 #### RedPajama: an Open Dataset for Training Large Language Models [`READ`]
@@ -334,5 +424,26 @@ citation:
       author={Lightman, Hunter and Kosaraju, Vineet and Burda, Yura and Edwards, Harri and Baker, Bowen and Lee, Teddy and Leike, Jan and Schulman, John and Sutskever, Ilya and Cobbe, Karl},
       journal={arXiv preprint arXiv:2305.20050},
       year={2023}
+}
+```
+
+
+
+## Pretraining Objectives
+
+
+#### Better & Faster Large Language Models via Multi-token Prediction [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2404.19737)
+
+citation:
+```bibtex
+@misc{gloeckle2024better,
+      title={Better & Faster Large Language Models via Multi-token Prediction}, 
+      author={Fabian Gloeckle and Badr Youbi Idrissi and Baptiste Rozière and David Lopez-Paz and Gabriel Synnaeve},
+      year={2024},
+      eprint={2404.19737},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```

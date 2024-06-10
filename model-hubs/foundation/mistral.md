@@ -24,7 +24,7 @@ citation:
 }
 ```
 
-#### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`UNREAD`]
+#### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`READ`]
 
 blog link: [here](https://mistral.ai/news/mixtral-of-experts/)
 
@@ -47,7 +47,7 @@ citation:
 ```
 
 
-#### Mistral 7B [`UNREAD`]
+#### Mistral 7B [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2310.06825.pdf)
 

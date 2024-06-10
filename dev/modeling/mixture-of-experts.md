@@ -2,7 +2,7 @@
 *Here're some resources about Mixture-of-Experts (MoE) structure design of LLMs*
 
 
-#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`READ`]
+#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
@@ -59,7 +59,7 @@ citation:
 ```
 
 
-#### Memory Augmented Language Models through Mixture of Word Experts [`READ`]
+#### Memory Augmented Language Models through Mixture of Word Experts [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2311.10768)
 
@@ -108,7 +108,7 @@ citation:
 ```
 
 
-#### OpenMoE: A family of open-sourced Mixture-of-Experts (MoE) Large Language Models [`READ`]
+#### OpenMoE: A family of open-sourced Mixture-of-Experts (MoE) Large Language Models [`UNREAD`]
 
 blog link: [here](https://xuefuzhao.notion.site/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879)
 
@@ -180,6 +180,42 @@ citation:
 ```
 
 
+
+#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2211.15841.pdf)
+
+github link: [here](https://github.com/stanford-futuredata/megablocks)
+
+citation:
+```bibtex
+@misc{gale2022megablocks,
+      title={MegaBlocks: Efficient Sparse Training with Mixture-of-Experts}, 
+      author={Trevor Gale and Deepak Narayanan and Cliff Young and Matei Zaharia},
+      year={2022},
+      eprint={2211.15841},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+#### Tutel: Adaptive Mixture-of-Experts at Scale [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2206.03382)
+
+citation:
+
+```bibtex
+@misc{hwang2023tutel,
+      title={Tutel: Adaptive Mixture-of-Experts at Scale}, 
+      author={Changho Hwang and Wei Cui and Yifan Xiong and Ziyue Yang and Ze Liu and Han Hu and Zilong Wang and Rafael Salas and Jithin Jose and Prabhat Ram and Joe Chau and Peng Cheng and Fan Yang and Mao Yang and Yongqiang Xiong},
+      year={2023},
+      eprint={2206.03382},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+```
+
 #### Evomoe: An evolutional mixture-of-experts training framework via dense-to-sparse gate [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2112.14397)
@@ -196,21 +232,20 @@ citation:
 ```
 
 
-#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE) [`UNREAD`]
+#### Mixture of Attention Heads: Selecting Attention Heads Per Token (MoA) [`UNREAD`]
 
-paper link: [here](https://arxiv.org/pdf/2211.15841.pdf)
-
-github link: [here](https://github.com/stanford-futuredata/megablocks)
+paper link: [here](https://arxiv.org/pdf/2210.05144)
 
 citation:
+
 ```bibtex
-@misc{gale2022megablocks,
-      title={MegaBlocks: Efficient Sparse Training with Mixture-of-Experts}, 
-      author={Trevor Gale and Deepak Narayanan and Cliff Young and Matei Zaharia},
+@misc{zhang2022mixture,
+      title={Mixture of Attention Heads: Selecting Attention Heads Per Token}, 
+      author={Xiaofeng Zhang and Yikang Shen and Zeyu Huang and Jie Zhou and Wenge Rong and Zhang Xiong},
       year={2022},
-      eprint={2211.15841},
+      eprint={2210.05144},
       archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      primaryClass={cs.CL}
 }
 ```
 
@@ -315,7 +350,7 @@ citation:
 ```
 
 
-#### Sparse is enough in scaling transformers [`READ`]
+#### Sparse is enough in scaling transformers [`UNREAD`]
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
 
@@ -332,7 +367,7 @@ citation:
 ```
 
 
-#### Gshard: Scaling giant models with conditional computation and automatic sharding [`READ`]
+#### Gshard: Scaling giant models with conditional computation and automatic sharding [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2006.16668.pdf)
 

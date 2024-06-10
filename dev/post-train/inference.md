@@ -4,7 +4,7 @@
 
 ### Efficient Inference
 
-#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`READ`]
+#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
@@ -158,7 +158,7 @@ citation:
 }
 ```
 
-#### ZeRO-Inference: Democratizing massive model inference [`READ`]
+#### ZeRO-Inference: Democratizing massive model inference [`UNREAD`]
 
 blog link: [here](https://www.deepspeed.ai/2022/09/09/zero-inference.html)
 
@@ -172,6 +172,27 @@ citation:
   year = {2022},
   month = {Sep},
   howpublished = {\url{https://www.deepspeed.ai/2022/09/09/zero-inference.html}},
+}
+```
+
+#### Orca: A Distributed Serving System for Transformer-Based Generative Models [`READ`]
+
+paper link: [here](https://www.usenix.org/system/files/osdi22-yu.pdf)
+
+citation:
+
+```bibtex
+@inproceedings {280922,
+  author = {Gyeong-In Yu and Joo Seong Jeong and Geon-Woo Kim and Soojeong Kim and Byung-Gon Chun},
+  title = {Orca: A Distributed Serving System for {Transformer-Based} Generative Models},
+  booktitle = {16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)},
+  year = {2022},
+  isbn = {978-1-939133-28-1},
+  address = {Carlsbad, CA},
+  pages = {521--538},
+  url = {https://www.usenix.org/conference/osdi22/presentation/yu},
+  publisher = {USENIX Association},
+  month = jul
 }
 ```
 
@@ -197,7 +218,7 @@ citation:
 }
 ```
 
-#### DeepSpeed Inference: Multi-GPU inference with customized inference kernels and quantization support [`READ`]
+#### DeepSpeed Inference: Multi-GPU inference with customized inference kernels and quantization support [`UNREAD`]
 
 blog link: [here](https://www.deepspeed.ai/2021/03/15/inference-kernel-optimization.html)
 
@@ -215,7 +236,7 @@ citation:
 ```
 
 
-#### Fast transformer decoding: One write-head is all you need [`READ`]
+#### Fast transformer decoding: One write-head is all you need [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1911.02150.pdf)
 
@@ -228,6 +249,60 @@ citation:
   year={2019}
 }
 ```
+
+### Effective Decoding
+
+
+#### The Consensus Game: Language Model Generation via Equilibrium Search [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2310.09139.pdf)
+
+citation:
+```bibtex
+@misc{jacob2023consensus,
+      title={The Consensus Game: Language Model Generation via Equilibrium Search}, 
+      author={Athul Paul Jacob and Yikang Shen and Gabriele Farina and Jacob Andreas},
+      year={2023},
+      eprint={2310.09139},
+      archivePrefix={arXiv},
+      primaryClass={cs.GT}
+}
+```
+
+#### Contrastive Decoding: Open-ended Text Generation as Optimization [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2210.15097.pdf)
+
+citation:
+```bibtex
+@misc{li2023contrastive,
+      title={Contrastive Decoding: Open-ended Text Generation as Optimization}, 
+      author={Xiang Lisa Li and Ari Holtzman and Daniel Fried and Percy Liang and Jason Eisner and Tatsunori Hashimoto and Luke Zettlemoyer and Mike Lewis},
+      year={2023},
+      eprint={2210.15097},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### The Curious Case of Neural Text Degeneration (Nucleus Sampling) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2209.11057.pdf)
+
+citation:
+```bibtex
+@misc{holtzman2020curious,
+      title={The Curious Case of Neural Text Degeneration}, 
+      author={Ari Holtzman and Jan Buys and Li Du and Maxwell Forbes and Yejin Choi},
+      year={2020},
+      eprint={1904.09751},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+    
+    
 
 
 ### Calibration
@@ -300,57 +375,3 @@ citation:
 }
 ```
 
-
-### Effective Decoding
-
-
-#### The Consensus Game: Language Model Generation via Equilibrium Search [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2310.09139.pdf)
-
-citation:
-```bibtex
-@misc{jacob2023consensus,
-      title={The Consensus Game: Language Model Generation via Equilibrium Search}, 
-      author={Athul Paul Jacob and Yikang Shen and Gabriele Farina and Jacob Andreas},
-      year={2023},
-      eprint={2310.09139},
-      archivePrefix={arXiv},
-      primaryClass={cs.GT}
-}
-```
-
-#### Contrastive Decoding: Open-ended Text Generation as Optimization [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2210.15097.pdf)
-
-citation:
-```bibtex
-@misc{li2023contrastive,
-      title={Contrastive Decoding: Open-ended Text Generation as Optimization}, 
-      author={Xiang Lisa Li and Ari Holtzman and Daniel Fried and Percy Liang and Jason Eisner and Tatsunori Hashimoto and Luke Zettlemoyer and Mike Lewis},
-      year={2023},
-      eprint={2210.15097},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-
-#### The Curious Case of Neural Text Degeneration (Nucleus Sampling) [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2209.11057.pdf)
-
-citation:
-```bibtex
-@misc{holtzman2020curious,
-      title={The Curious Case of Neural Text Degeneration}, 
-      author={Ari Holtzman and Jan Buys and Li Du and Maxwell Forbes and Yejin Choi},
-      year={2020},
-      eprint={1904.09751},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-    
-    

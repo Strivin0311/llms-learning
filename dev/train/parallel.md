@@ -1,25 +1,8 @@
-# Parallelism Optimization
-*Here're some resources about Parallelism optimization strategies in LLMs training*
+# Parallel Training Strategies
+*Here're some resources about parallel strategies in LLMs' multi-devices training*
 
 
 ### Integration of Parallelism
-
-
-#### PipeGoose: Large-scale 4D parallelism pre-training for transformers [`REEAD`]
-
-paper link: [here](https://github.com/xrsrke/pipegoose)
-
-citation:
-
-```bibtex
-@software{pipegoose,
-  title = {{pipegoose: Large-scale 4D parallelism pre-training for `transformers`}},
-  author = {xrsrke},
-  url = {https://github.com/xrsrke/pipegoose},
-  year = {2024},
-}
-```
-
 
 #### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`READ`]
 
@@ -38,7 +21,7 @@ citation:
 ```
 
 
-#### Colossal-ai: A unified deep learning system for large-scale parallel training (Auto Parallelism) [`UNREAD`]
+#### Colossal-ai: A unified deep learning system for large-scale parallel training [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2110.14883)
 
@@ -56,7 +39,7 @@ citation:
 ```
 
 
-#### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM [`UNREAD`]
+#### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (PTD-P) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2104.04473.pdf)
 
@@ -72,7 +55,7 @@ citation:
 }
 ```
 
-#### DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters (3D parallelism) [`READ`]
+#### DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters [`READ`]
 
 paper link: [here](https://dl.acm.org/doi/10.1145/3394486.3406703)
 
@@ -116,7 +99,7 @@ citation:
 }
 ```
 
-#### Accelerating distributed {MoE} training and inference with lina [`UNREAD`]
+#### Accelerating Distributed MoE Training and Inference with Lina [`UNREAD`]
 
 paper link: [here](https://www.usenix.org/system/files/atc23-li-jiamin.pdf)
 
@@ -129,6 +112,59 @@ citation:
   booktitle={2023 USENIX Annual Technical Conference (USENIX ATC 23)},
   pages={945--959},
   year={2023}
+}
+```
+
+#### FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models [`UNREAD`]
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3503221.3508418)
+
+citation:
+
+```bibtex
+@inproceedings{he2022fastermoe,
+  title={FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models},
+  author={He, Jiaao and Zhai, Jidong and Antunes, Tiago and Wang, Haojie and Luo, Fuwen and Shi, Shangfeng and Li, Qin},
+  booktitle={Proceedings of the 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming},
+  pages={120--134},
+  year={2022}
+}
+```
+
+
+#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2211.15841.pdf)
+
+github link: [here](https://github.com/stanford-futuredata/megablocks)
+
+citation:
+```bibtex
+@misc{gale2022megablocks,
+      title={MegaBlocks: Efficient Sparse Training with Mixture-of-Experts}, 
+      author={Trevor Gale and Deepak Narayanan and Cliff Young and Matei Zaharia},
+      year={2022},
+      eprint={2211.15841},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Tutel: Adaptive Mixture-of-Experts at Scale [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2206.03382)
+
+citation:
+
+```bibtex
+@misc{hwang2023tutel,
+      title={Tutel: Adaptive Mixture-of-Experts at Scale}, 
+      author={Changho Hwang and Wei Cui and Yifan Xiong and Ziyue Yang and Ze Liu and Han Hu and Zilong Wang and Rafael Salas and Jithin Jose and Prabhat Ram and Joe Chau and Peng Cheng and Fan Yang and Mao Yang and Yongqiang Xiong},
+      year={2023},
+      eprint={2206.03382},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
 }
 ```
 
@@ -150,6 +186,7 @@ citation:
 }
 ```
 
+
 #### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity (SMoE) [`READ`]
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
@@ -170,7 +207,7 @@ citation:
 ```
 
 
-### Sequence Parallelism (SP)
+### Context Parallelism (CP)
 
 
 #### DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models [`UNREAD`]
@@ -195,24 +232,7 @@ citation:
 ```
 
 
-#### Reducing Activation Recomputation in Large Transformer Models (Sequence Parallelism) [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2205.05198.pdf)
-
-citation:
-
-```bibtex
-@misc{korthikanti2022reducing,
-      title={Reducing Activation Recomputation in Large Transformer Models}, 
-      author={Vijay Korthikanti and Jared Casper and Sangkug Lym and Lawrence McAfee and Michael Andersch and Mohammad Shoeybi and Bryan Catanzaro},
-      year={2022},
-      eprint={2205.05198},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-#### Sequence parallelism: Long sequence training from system perspective [`READ`]
+#### Sequence parallelism: Long sequence training from system perspective (Ring Self-Attention) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2105.13120)
 
@@ -231,7 +251,86 @@ citation:
 ### Pipeline Parallelism (PP)
 
 
-#### GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [`UNREAD`]
+#### BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models [`UNREAD`]
+
+paper link: [here](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{pmlr-v202-kim23l,
+  title = {{BP}ipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models},
+  author = {Kim, Taebum and Kim, Hyoungjoo and Yu, Gyeong-In and Chun, Byung-Gon},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  pages = {16639--16653},
+  year = {2023},
+  editor = {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = {202},
+  series = {Proceedings of Machine Learning Research},
+  month = {23--29 Jul},
+  publisher = {PMLR},
+  url = {https://proceedings.mlr.press/v202/kim23l.html},
+}
+```
+
+
+#### Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2107.06925)
+
+citation:
+
+```bibtex
+@inproceedings{Li_2021, series={SC ’21},
+   title={Chimera: efficiently training large-scale neural networks with bidirectional pipelines},
+   url={http://dx.doi.org/10.1145/3458817.3476145},
+   DOI={10.1145/3458817.3476145},
+   booktitle={Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis},
+   publisher={ACM},
+   author={Li, Shigang and Hoefler, Torsten},
+   year={2021},
+   month=nov, collection={SC ’21} 
+}
+```
+
+
+#### DAPPLE: A Pipelined Data Parallel Approach for Training Large Models [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2007.01045)
+
+citation:
+
+```bibtex
+@misc{fan2020dapple,
+      title={DAPPLE: A Pipelined Data Parallel Approach for Training Large Models}, 
+      author={Shiqing Fan and Yi Rong and Chen Meng and Zongyan Cao and Siyu Wang and Zhen Zheng and Chuan Wu and Guoping Long and Jun Yang and Lixue Xia and Lansong Diao and Xiaoyong Liu and Wei Lin},
+      year={2020},
+      eprint={2007.01045},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+```
+
+
+#### Memory-Efficient Pipeline-Parallel DNN Training (PipeDream-2BW) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2006.09503)
+
+citation:
+
+```bibtex
+@misc{narayanan2021memoryefficient,
+      title={Memory-Efficient Pipeline-Parallel DNN Training}, 
+      author={Deepak Narayanan and Amar Phanishayee and Kaiyu Shi and Xie Chen and Matei Zaharia},
+      year={2021},
+      eprint={2006.09503},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1811.06965.pdf)
 
@@ -250,10 +349,103 @@ citation:
 ```
 
 
+#### PipeDream: Fast and Efficient Pipeline Parallel DNN Training [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/1806.03377)
+
+citation:
+
+```bibtex
+@misc{harlap2018pipedream,
+      title={PipeDream: Fast and Efficient Pipeline Parallel DNN Training}, 
+      author={Aaron Harlap and Deepak Narayanan and Amar Phanishayee and Vivek Seshadri and Nikhil Devanur and Greg Ganger and Phil Gibbons},
+      year={2018},
+      eprint={1806.03377},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+```
+
+
+### Sequence Parallelism (SP)
+
+#### Reducing Activation Recomputation in Large Transformer Models (SP) [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2205.05198.pdf)
+
+citation:
+
+```bibtex
+@misc{korthikanti2022reducing,
+      title={Reducing Activation Recomputation in Large Transformer Models}, 
+      author={Vijay Korthikanti and Jared Casper and Sangkug Lym and Lawrence McAfee and Michael Andersch and Mohammad Shoeybi and Bryan Catanzaro},
+      year={2022},
+      eprint={2205.05198},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
 ### Tensor Parallelism (TP)
 
 
-#### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (Tensor Parallelism) [`READ`]
+#### Maximizing Parallelism in Distributed Training for Huge Neural Networks (3D TP) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2105.14450)
+
+citation:
+
+```bibtex
+@misc{bian2021maximizing,
+      title={Maximizing Parallelism in Distributed Training for Huge Neural Networks}, 
+      author={Zhengda Bian and Qifan Xu and Boxiang Wang and Yang You},
+      year={2021},
+      eprint={2105.14450},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC}
+}
+```
+
+#### Tesseract: Parallelize the Tensor Parallelism Efficiently (2.5D TP) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2105.14500)
+
+citation:
+
+```bibtex
+@inproceedings{Wang_2022, series={ICPP ’22},
+   title={Tesseract: Parallelize the Tensor Parallelism Efficiently},
+   url={http://dx.doi.org/10.1145/3545008.3545087},
+   DOI={10.1145/3545008.3545087},
+   booktitle={Proceedings of the 51st International Conference on Parallel Processing},
+   publisher={ACM},
+   author={Wang, Boxiang and Xu, Qifan and Bian, Zhengda and You, Yang},
+   year={2022},
+   month=aug, collection={ICPP ’22} }
+
+```
+
+
+#### An Efficient 2D Method for Training Super-Large Deep Learning Models (2D TP) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2104.05343)
+
+citation:
+
+```bibtex
+@misc{xu2021efficient,
+      title={An Efficient 2D Method for Training Super-Large Deep Learning Models}, 
+      author={Qifan Xu and Shenggui Li and Chaoyu Gong and Yang You},
+      year={2021},
+      eprint={2104.05343},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (1D TP) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/1909.08053.pdf)
 
@@ -266,6 +458,7 @@ github links:
 
 
 citation:
+
 ```bibtex
 @misc{shoeybi2020megatronlm,
       title={Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism}, 
@@ -282,6 +475,7 @@ citation:
 paper link: [here](https://arxiv.org/pdf/1805.09767.pdf)
 
 citation:
+
 ```bibtex
 @misc{stich2019local,
       title={Local SGD Converges Fast and Communicates Little}, 
@@ -314,7 +508,7 @@ citation:
 ### Data Parallelism (DP)
 
 
-#### ZeRO++: Extremely Efficient Collective Communication for Giant Model Training [`READ`]
+#### ZeRO++: Extremely Efficient Collective Communication for Giant Model Training [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2306.10209.pdf)
 
@@ -352,7 +546,7 @@ citation:
 ```
 
 
-#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning [`READ`]
+#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2104.07857.pdf)
 
@@ -365,24 +559,6 @@ citation:
       author={Samyam Rajbhandari and Olatunji Ruwase and Jeff Rasley and Shaden Smith and Yuxiong He},
       year={2021},
       eprint={2104.07857},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC}
-}
-```
-
-#### ZeRO-Offload: Democratizing Billion-Scale Model Training [`READ`]
-
-paper link: [here](https://arxiv.org/pdf/2101.06840.pdf)
-
-blog link: [here](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
-
-citation:
-```bibtex
-@misc{ren2021zerooffload,
-      title={ZeRO-Offload: Democratizing Billion-Scale Model Training}, 
-      author={Jie Ren and Samyam Rajbhandari and Reza Yazdani Aminabadi and Olatunji Ruwase and Shuangyan Yang and Minjia Zhang and Dong Li and Yuxiong He},
-      year={2021},
-      eprint={2101.06840},
       archivePrefix={arXiv},
       primaryClass={cs.DC}
 }
@@ -442,3 +618,6 @@ citation:
       url={https://pytorch.org/docs/master/notes/ddp.html}
 }
 ```
+
+
+
