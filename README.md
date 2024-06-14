@@ -81,14 +81,13 @@ A repository sharing the literatures and resources about Large Language Models (
   * [LLMs powered Generation](./app/gen.md)
   * [LLMs as Tool Caller](./app/tool.md)
 * [Survey](./survey.md)
-* [Tutorials](./tutorial.md)
-
-
-
+* [Tutorials (TODO ...)](./tutorial.md)
 
 
 ## More to Learn
 
-* This repo is a sub-repo for my [dgm-learning](https://github.com/Strivin0311/dgm-learning) repo, where you can learn more technologies about the deep generative models.
+* This repo is a sub-repo for my [dgm-learning](https://github.com/Strivin0311/dgm-learning) repo, where you can learn more technologies about the deep generative models. Moreover, on the top of all, there's a repo called [ai-learning](https://github.com/Strivin0311/ai-learning), which is a general hub for all ML-based AI technologies and applications.
+
 * I've also built another sub-repo [long-llms-learning](https://github.com/Strivin0311/long-llms-learning), to specifically share the literature about how to model and evaluate the long-context capabilities of LLMs, with a survey paper attached.
+
 * I've also built another sub-repo [mmlms-learning](https://github.com/Strivin0311/mmlms-learning), to specifically share the literature about Multi-Modal Language Modeles (MMLMs).
