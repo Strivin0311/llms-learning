@@ -24,7 +24,10 @@ citation:
 }
 ```
 
-#### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`READ`]
+
+#### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2401.04088)
 
 blog link: [here](https://mistral.ai/news/mixtral-of-experts/)
 
@@ -38,11 +41,13 @@ model links:
 
 citation:
 ```bibtex
-@misc{mixtral2023mistralai,
-  author = {Mistral AI},
-  title = {Mixtral of Experts: A High-Quality Sparse Mixture-of-Experts},
-  year = {2023},
-  howpublished = {\url{https://mistral.ai/news/mixtral-of-experts/}}
+@misc{jiang2024mixtral,
+      title={Mixtral of Experts}, 
+      author={Albert Q. Jiang and Alexandre Sablayrolles and Antoine Roux and Arthur Mensch and Blanche Savary and Chris Bamford and Devendra Singh Chaplot and Diego de las Casas and Emma Bou Hanna and Florian Bressand and Gianna Lengyel and Guillaume Bour and Guillaume Lample and Lélio Renard Lavaud and Lucile Saulnier and Marie-Anne Lachaux and Pierre Stock and Sandeep Subramanian and Sophia Yang and Szymon Antoniak and Teven Le Scao and Théophile Gervet and Thibaut Lavril and Thomas Wang and Timothée Lacroix and William El Sayed},
+      year={2024},
+      eprint={2401.04088},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.LG' full_name='Machine Learning' is_active=True alt_name=None in_archive='cs' is_general=False description='Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology. cs.LG is also an appropriate primary category for applications of machine learning methods.'}
 }
 ```
 

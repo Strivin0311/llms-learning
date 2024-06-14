@@ -39,6 +39,23 @@ citation:
 ```
 
 
+#### GSPMD: General and Scalable Parallelization for ML Computation Graphs [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2105.04663)
+
+citation:
+
+```bibtex
+@misc{xu2021gspmd,
+      title={GSPMD: General and Scalable Parallelization for ML Computation Graphs}, 
+      author={Yuanzhong Xu and HyoukJoong Lee and Dehao Chen and Blake Hechtman and Yanping Huang and Rahul Joshi and Maxim Krikun and Dmitry Lepikhin and Andy Ly and Marcello Maggioni and Ruoming Pang and Noam Shazeer and Shibo Wang and Tao Wang and Yonghui Wu and Zhifeng Chen},
+      year={2021},
+      eprint={2105.04663},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.DC' full_name='Distributed, Parallel, and Cluster Computing' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers fault-tolerance, distributed algorithms, stabilility, parallel computation, and cluster computing. Roughly includes material in ACM Subject Classes C.1.2, C.1.4, C.2.4, D.1.3, D.4.5, D.4.7, E.1.'}
+}
+```
+
 #### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (PTD-P) [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2104.04473.pdf)
@@ -75,6 +92,22 @@ citation:
   year={2020}
 }
 ```
+
+
+#### Gshard: Scaling giant models with conditional computation and automatic sharding [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2006.16668.pdf)
+
+citation:
+```bibtex
+@article{lepikhin2020gshard,
+  title={Gshard: Scaling giant models with conditional computation and automatic sharding},
+  author={Lepikhin, Dmitry and Lee, HyoukJoong and Xu, Yuanzhong and Chen, Dehao and Firat, Orhan and Huang, Yanping and Krikun, Maxim and Shazeer, Noam and Chen, Zhifeng},
+  journal={arXiv preprint arXiv:2006.16668},
+  year={2020}
+}
+```
+
 
 
 ### Expert Parallelism (EP)
