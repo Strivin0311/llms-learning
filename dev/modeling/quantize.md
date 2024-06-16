@@ -1,48 +1,6 @@
-# Quantization on LLMs
-*Here're some resources about Quantization on LLMs*
+# Quantization Strategies for LLMs
+*Here're some resources about Quantization Strategies for LLMs*
 
-
-## Post-Quantization
-
-#### LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2208.07339.pdf)
-
-blog link: [here](https://huggingface.co/blog/hf-bitsandbytes-integration)
-
-github link: [here](https://github.com/TimDettmers/bitsandbytes)
-
-citation:
-```bibtex
-@misc{dettmers2022llmint8,
-      title={LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale}, 
-      author={Tim Dettmers and Mike Lewis and Younes Belkada and Luke Zettlemoyer},
-      year={2022},
-      eprint={2208.07339},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-#### 8-bit Optimizers via Block-wise Quantization [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2110.02861.pdf)
-
-github link: [here](https://github.com/TimDettmers/bitsandbytes)
-
-citation:
-```bibtex
-@misc{dettmers20228bit,
-      title={8-bit Optimizers via Block-wise Quantization}, 
-      author={Tim Dettmers and Mike Lewis and Sam Shleifer and Luke Zettlemoyer},
-      year={2022},
-      eprint={2110.02861},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-## Pre-Quantization 
 
 ### Quantization-Aware Training (QAT)
 
@@ -123,7 +81,7 @@ citation:
 }
 ```
 
-#### Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization [`READ`]
+#### Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization [`UNREAD`]
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/7183f4fc87598f6c6e947b96714acbd6-Paper-Conference.pdf)
 
@@ -140,7 +98,7 @@ citation:
 ```
 
 
-#### Qlora: Efficient finetuning of quantized llms [`READ`]
+#### Qlora: Efficient finetuning of quantized llms [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
@@ -162,7 +120,7 @@ citation:
 }
 ```
 
-#### 8-bit Optimizers via Block-wise Quantization [`READ`]
+#### 8-bit Optimizers via Block-wise Quantization [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2110.02861)
 
@@ -179,7 +137,7 @@ citation:
 ```
 
 
-#### Q8BERT: Quantized 8Bit BERT [`READ`]
+#### Q8BERT: Quantized 8Bit BERT [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/1910.06188.pdf)
 
@@ -199,7 +157,7 @@ citation:
 
 ### Post-Training Quantization (PTQ)
 
-#### HQQ: Half-Quadratic Quantization of Large Machine Learning Models [`READ`]
+#### HQQ: Half-Quadratic Quantization of Large Machine Learning Models [`UNREAD`]
 
 blog link: [here](https://mobiusml.github.io/hqq_blog/)
 
@@ -246,7 +204,7 @@ citation:
 }
 ```
 
-#### GGUF: GPT-Generated Unified Format (llama.cpp) [`READ`]
+#### GGUF: GPT-Generated Unified Format (llama.cpp) [`UNREAD`]
 
 github link: [here](https://github.com/ggerganov/llama.cpp)
 
@@ -296,7 +254,28 @@ citation:
 }
 ```
 
-#### GGML: GPT-Generated Model Language [`READ`]
+
+#### LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2208.07339.pdf)
+
+blog link: [here](https://huggingface.co/blog/hf-bitsandbytes-integration)
+
+github link: [here](https://github.com/TimDettmers/bitsandbytes)
+
+citation:
+```bibtex
+@misc{dettmers2022llmint8,
+      title={LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale}, 
+      author={Tim Dettmers and Mike Lewis and Younes Belkada and Luke Zettlemoyer},
+      year={2022},
+      eprint={2208.07339},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+#### GGML: GPT-Generated Model Language [`UNREAD`]
 
 github link: [here](https://github.com/ggerganov/ggml)
 
@@ -310,7 +289,7 @@ citation:
 }
 ```
 
-#### FP8 Quantization: The Power of the Exponent [`READ`]
+#### FP8 Quantization: The Power of the Exponent [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 
@@ -326,3 +305,8 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+```
+
+
+
+

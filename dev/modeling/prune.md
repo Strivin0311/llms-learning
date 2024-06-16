@@ -1,5 +1,5 @@
-# Pruning on LLMs
-*Here're some resources about Pruning on LLMs*
+# Model Pruning Strategies for LLMs
+*Here're some resources about Model Pruning Strategies for LLMs*
 
 
 #### A Simple and Effective Pruning Approach for Large Language Models (Wanda) [`UNREAD`]
@@ -34,7 +34,7 @@ citation:
 ```
 
 
-#### LLM-Pruner: On the Structural Pruning of Large Language Models [`READ`]
+#### LLM-Pruner: On the Structural Pruning of Large Language Models [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2305.11627.pdf)
 
@@ -47,6 +47,24 @@ citation:
       eprint={2305.11627},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+}
+```
+
+
+#### SCOP: Scientific Control for Reliable Neural Network Pruning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2010.10732)
+
+citation:
+
+```bibtex
+@misc{tang2021scop,
+      title={SCOP: Scientific Control for Reliable Neural Network Pruning}, 
+      author={Yehui Tang and Yunhe Wang and Yixing Xu and Dacheng Tao and Chunjing Xu and Chao Xu and Chang Xu},
+      year={2021},
+      eprint={2010.10732},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
 }
 ```
 

@@ -1,5 +1,5 @@
-# Model Editing Abilities of LLMs
-*Here're some resources about understanding and leveraging Editing Abilities of LLMs, including (De)composition, Fusion / Stacking / Ensembling, and even Unlearning*
+# Model Editing for LLMs
+*Here're some resources about Model Editing for LLMs, including (De)composition, Fusion / Stacking / Ensembling, and even Unlearning*
 
 
 #### Large Language Model Unlearning [`UNREAD`]

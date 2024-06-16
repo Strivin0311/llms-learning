@@ -1,5 +1,5 @@
-# Mixed-Precision Training
-*Here're some resources about Mixed-Precision strategies for LLMs training*
+# Automatic Mixed-Precision (AMP) Training for LLMs
+*Here're some resources about Automatic Mixed-Precision strategies for LLMs training for LLMs*
 
 
 #### FP8-LM: Training FP8 Large Language Models [`READ`]
