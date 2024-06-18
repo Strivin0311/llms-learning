@@ -303,6 +303,23 @@ citation:
 ```
 
 
+#### Unified Scaling Laws for Routed Language Models (Sinkhorn-BASE) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2202.01169)
+
+citation:
+
+```bibtex
+@misc{clark2022unified,
+      title={Unified Scaling Laws for Routed Language Models}, 
+      author={Aidan Clark and Diego de las Casas and Aurelia Guy and Arthur Mensch and Michela Paganini and Jordan Hoffmann and Bogdan Damoc and Blake Hechtman and Trevor Cai and Sebastian Borgeaud and George van den Driessche and Eliza Rutherford and Tom Hennigan and Matthew Johnson and Katie Millican and Albin Cassirer and Chris Jones and Elena Buchatskaya and David Budden and Laurent Sifre and Simon Osindero and Oriol Vinyals and Jack Rae and Erich Elsen and Koray Kavukcuoglu and Karen Simonyan},
+      year={2022},
+      eprint={2202.01169},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
+}
+```
+
 #### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity (SMoE) [`READ`]
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
@@ -333,6 +350,26 @@ citation:
   author={Kudugunta, Sneha and Huang, Yanping and Bapna, Ankur and Krikun, Maxim and Lepikhin, Dmitry and Luong, Minh-Thang and Firat, Orhan},
   journal={arXiv preprint arXiv:2110.03742},
   year={2021}
+}
+```
+
+
+#### BASE Layers: Simplifying Training of Large, Sparse Models (BASE) [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2103.16716)
+
+updated version: [here](#unified-scaling-laws-for-routed-language-models-sinkhorn-base-unread)
+
+citation:
+
+```bibtex
+@misc{lewis2021base,
+      title={BASE Layers: Simplifying Training of Large, Sparse Models}, 
+      author={Mike Lewis and Shruti Bhosale and Tim Dettmers and Naman Goyal and Luke Zettlemoyer},
+      year={2021},
+      eprint={2103.16716},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CL' full_name='Computation and Language' is_active=True alt_name='cmp-lg' in_archive='cs' is_general=False description='Covers natural language processing. Roughly includes material in ACM Subject Class I.2.7. Note that work on artificial languages (programming languages, logics, formal systems) that does not explicitly address natural-language issues broadly construed (natural-language processing, computational linguistics, speech, text retrieval, etc.) is not appropriate for this area.'}
 }
 ```
 
