@@ -2,6 +2,24 @@
 *Here're some resources about optimizers for LLMs*
 
 
+#### AGD: an Auto-switchable Optimizer using Stepwise Gradient Difference for Preconditioning Matrix [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2312.01658)
+
+citation:
+
+```bibtex
+@misc{yue2023agdautoswitchableoptimizerusing,
+      title={AGD: an Auto-switchable Optimizer using Stepwise Gradient Difference for Preconditioning Matrix}, 
+      author={Yun Yue and Zhiling Ye and Jiadi Jiang and Yongchao Liu and Ke Zhang},
+      year={2023},
+      eprint={2312.01658},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+      url={https://arxiv.org/abs/2312.01658}, 
+}
+```
+
 #### AdaLomo: Low-memory Optimization with Adaptive Learning Rate [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2310.10195)

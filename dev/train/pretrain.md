@@ -4,6 +4,24 @@
 
 ## Efficient Pretraining
 
+#### Flash Checkpoint to Recover Large Model Training From Failure in Seconds [`UNREAD`]
+
+blog link: [here](https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md)
+
+github link: [here](https://github.com/intelligent-machine-learning/dlrover)
+
+citation:
+
+```bibtex
+@misc{zhang2022flash,
+      title={Flash Checkpoint to Recover Large Model Training From Failure in Seconds}, 
+      author={Qinlong Wang},
+      year={2024},
+      howpublished={https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md},
+}
+```
+
+
 #### Efficient Online Data Mixing For Language Model Pre-Training [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2312.02406.pdf)
