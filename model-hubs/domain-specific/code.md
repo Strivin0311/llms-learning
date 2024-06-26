@@ -2,6 +2,37 @@
 *Here're some resources about Code LLMs, which are LLMs specific for code tasks*
 
 
+#### DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.11931)
+
+github link: [here](https://github.com/deepseek-ai/deepseek-coder-v2)
+
+model links:
+
+|model name|link|
+|-|-|
+|DeepSeek-Coder-V2-Instruct|[here](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Instruct)|
+|DeepSeek-Coder-V2-Base|[here](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Base)|
+|DeepSeek-Coder-V2-Lite-Instruct|[here](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct)|
+|DeepSeek-Coder-V2-Lite-Base|[here](https://huggingface.co/deepseek-ai/DeepSeek-Coder-V2-Lite-Base)|
+
+citation:
+
+```bibtex
+@misc{deepseekai2024deepseekcoderv2breakingbarrierclosedsource,
+      title={DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence}, 
+      author={DeepSeek-AI and Qihao Zhu and Daya Guo and Zhihong Shao and Dejian Yang and Peiyi Wang and Runxin Xu and Y. Wu and Yukun Li and Huazuo Gao and Shirong Ma and Wangding Zeng and Xiao Bi and Zihui Gu and Hanwei Xu and Damai Dai and Kai Dong and Liyue Zhang and Yishi Piao and Zhibin Gou and Zhenda Xie and Zhewen Hao and Bingxuan Wang and Junxiao Song and Deli Chen and Xin Xie and Kang Guan and Yuxiang You and Aixin Liu and Qiushi Du and Wenjun Gao and Xuan Lu and Qinyu Chen and Yaohui Wang and Chengqi Deng and Jiashi Li and Chenggang Zhao and Chong Ruan and Fuli Luo and Wenfeng Liang},
+      year={2024},
+      eprint={2406.11931},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE}
+      url={https://arxiv.org/abs/2406.11931}, 
+}
+```
+
+
+
 #### DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2401.14196)

@@ -5,6 +5,58 @@
 
 ### Methods
 
+
+#### TextGrad: Automatic "Differentiation" via Text [`READ`]
+
+paper link: [here](https://arxiv.org/pdf/2406.07496)
+
+github link: [here](https://github.com/zou-group/textgrad)
+
+citation:
+
+```bibtex
+@misc{yuksekgonul2024textgradautomaticdifferentiationtext,
+      title={TextGrad: Automatic "Differentiation" via Text}, 
+      author={Mert Yuksekgonul and Federico Bianchi and Joseph Boen and Sheng Liu and Zhi Huang and Carlos Guestrin and James Zou},
+      year={2024},
+      eprint={2406.07496},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+      url={https://arxiv.org/abs/2406.07496}, 
+}
+```
+
+#### Husky- A Unified, Open-Source Language Agent for Multi-Step Reasoning [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.06469)
+
+github link: [here](https://github.com/agent-husky/Husky-v1)
+
+model links:
+
+|model name|link|
+|-|-|
+|Husky-v1-math-deepseekmath-7b-instruct|[here](https://huggingface.co/agent-husky/husky-v1-math-deepseekmath-7b-instruct)|
+|Husky-v1-code-deepseekcoder-7b-instruct|[here](https://huggingface.co/agent-husky/husky-v1-code-deepseekcoder-7b-instruct)|
+|Husky-v1-action-llama2-13b|[here](https://huggingface.co/agent-husky/husky-v1-action-llama2-13b)|
+|Husky-v1-action-llama2-7b|[here](https://huggingface.co/agent-husky/husky-v1-action-llama2-7b)|
+|Husky-v1-query-llama2-7b|[here](https://huggingface.co/agent-husky/husky-v1-query-llama2-7b)|
+
+
+citation:
+
+```bibtex
+@misc{kim2024huskyunifiedopensourcelanguage,
+      title={Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning}, 
+      author={Joongwon Kim and Bhargavi Paranjape and Tushar Khot and Hannaneh Hajishirzi},
+      year={2024},
+      eprint={2406.06469},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+      url={https://arxiv.org/abs/2406.06469}, 
+}
+```
+
 #### LLM Augmented Hierarchical Agents [`UNREAD`]
 
 paper link: [here](https://arxiv.org/pdf/2311.05596.pdf)

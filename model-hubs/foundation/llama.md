@@ -2,6 +2,34 @@
 *Here're some resources about Llama*
     
 
+#### Introducing Meta Llama 3: The most capable openly available LLM to date [`UNREAD`]
+
+blog link: [here](https://ai.meta.com/blog/meta-llama-3/)
+
+model card link: [here](https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md)
+
+github link: [here](https://github.com/meta-llama/llama3)
+
+model links:
+
+|model name|link|
+|-|-|
+|Meta-Llama-3-70B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)|
+|Meta-Llama-3-70B|[here](https://huggingface.co/meta-llama/Meta-Llama-3-70B)|
+|Meta-Llama-3-8B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)|
+|Meta-Llama-3-8B|[here](https://huggingface.co/meta-llama/Meta-Llama-3-8B)|
+
+citation:
+
+```bibtex
+@article{llama3modelcard,
+  title={Llama 3 Model Card},
+  author={AI@Meta},
+  year={2024},
+  url = {https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md}
+}
+```
+
 #### Llama 2: Open foundation and fine-tuned chat models [`READ`]
 
 paper link: [here](https://arxiv.org/pdf/2307.09288.pdf)
@@ -23,21 +51,6 @@ citation:
   title={Llama 2: Open foundation and fine-tuned chat models},
   author={Touvron, Hugo and Martin, Louis and Stone, Kevin and Albert, Peter and Almahairi, Amjad and Babaei, Yasmine and Bashlykov, Nikolay and Batra, Soumya and Bhargava, Prajjwal and Bhosale, Shruti and others},
   journal={arXiv preprint arXiv:2307.09288},
-  year={2023}
-}
-```
-
-
-#### Lima: Less is more for alignment [`UNREAD`]
-
-paper link: [here](https://arxiv.org/pdf/2305.11206)
-
-citation: 
-```bibtex
-@article{zhou2023lima,
-  title={Lima: Less is more for alignment},
-  author={Zhou, Chunting and Liu, Pengfei and Xu, Puxin and Iyer, Srini and Sun, Jiao and Mao, Yuning and Ma, Xuezhe and Efrat, Avia and Yu, Ping and Yu, Lili and others},
-  journal={arXiv preprint arXiv:2305.11206},
   year={2023}
 }
 ```

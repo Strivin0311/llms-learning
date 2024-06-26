@@ -1,7 +1,25 @@
 # LLMs for Generative Applications
 *Here're some resources about LLMs for Generative Applications beyond chat*
 
+### Image generation
 
+#### Autoregressive Model Beats Diffusion- Llama for Scalable Image Generation [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.06525)
+
+citation:
+
+```bibtex
+@misc{sun2024autoregressivemodelbeatsdiffusion,
+      title={Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation}, 
+      author={Peize Sun and Yi Jiang and Shoufa Chen and Shilong Zhang and Bingyue Peng and Ping Luo and Zehuan Yuan},
+      year={2024},
+      eprint={2406.06525},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+      url={https://arxiv.org/abs/2406.06525}, 
+}
+```
 
 ### Procedural Content Generation (PCG)
 

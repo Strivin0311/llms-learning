@@ -208,6 +208,42 @@ citation:
 
 ### Math-Solving Problems
 
+#### Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2406.07394)
+
+citation:
+
+```bibtex
+@misc{zhang2024accessinggpt4levelmathematical,
+      title={Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B}, 
+      author={Di Zhang and Xiaoshui Huang and Dongzhan Zhou and Yuqiang Li and Wanli Ouyang},
+      year={2024},
+      eprint={2406.07394},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+      url={https://arxiv.org/abs/2406.07394}, 
+}
+```
+
+#### AlphaMath Almost Zero: process Supervision without process [`UNREAD`]
+
+paper link: [here](https://arxiv.org/pdf/2405.03553)
+
+citation:
+
+```bibtex
+@misc{chen2024alphamathzeroprocesssupervision,
+      title={AlphaMath Almost Zero: process Supervision without process}, 
+      author={Guoxin Chen and Minpeng Liao and Chengxi Li and Kai Fan},
+      year={2024},
+      eprint={2405.03553},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+      url={https://arxiv.org/abs/2405.03553}, 
+}
+```
+
 
 #### Forward-Backward Reasoning in Large Language Models for Mathematical Verification [`READ`]
 
