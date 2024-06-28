@@ -5,6 +5,8 @@
 
 paper link: [here](https://arxiv.org/pdf/2405.08748)
 
+github link: [here](https://github.com/Tencent/HunyuanDiT)
+
 citation:
 
 ```bibtex
