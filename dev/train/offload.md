@@ -3,7 +3,7 @@
 
 
 
-#### ZeRO-Offload: Democratizing Billion-Scale Model Training [`UNREAD`]
+#### ZeRO-Offload: Democratizing Billion-Scale Model Training
 
 paper link: [here](https://arxiv.org/pdf/2101.06840.pdf)
 
@@ -23,7 +23,7 @@ citation:
 
 
 
-#### Training Large Neural Networks with Constant Memory using a New Execution Algorithm [`UNREAD`]
+#### Training Large Neural Networks with Constant Memory using a New Execution Algorithm
 
 
 paper link: [here](https://arxiv.org/pdf/2002.05645)
@@ -41,7 +41,7 @@ citation:
 ```
 
 
-#### vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design [`UNREAD`]
+#### vDNN: Virtualized Deep Neural Networks for Scalable, Memory-Efficient Neural Network Design
 
 paper link: [here](https://arxiv.org/pdf/1602.08124)
 

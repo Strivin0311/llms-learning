@@ -5,7 +5,7 @@
 ### SSMs
 
 
-#### Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling [`UNREAD`]
+#### Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 
 paper link: [here](https://arxiv.org/pdf/2406.07522)
 
@@ -23,7 +23,7 @@ citation:
 }
 ```
 
-#### Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality [`UNREAD`]
+#### Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
 
 paper link: [here](https://arxiv.org/pdf/2405.21060)
 
@@ -42,7 +42,7 @@ citation:
 ```
 
 
-#### Mamba: Linear-Time Sequence Modeling with Selective State Spaces [`UNREAD`]
+#### Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 
 paper link: [here](https://arxiv.org/abs/2312.00752)
 
@@ -58,7 +58,7 @@ citation:
     
 
 
-#### Resurrecting recurrent neural networks for long sequences (LRU) [`UNREAD`]
+#### Resurrecting recurrent neural networks for long sequences (LRU)
 
 paper link: [here](https://arxiv.org/pdf/2303.06349)
 
@@ -72,7 +72,7 @@ citation:
 }
 ```
 
-#### Effectively modeling time series with simple discrete state spaces (SpaceTime) [`UNREAD`]
+#### Effectively modeling time series with simple discrete state spaces (SpaceTime)
 
 paper link: [here](https://arxiv.org/pdf/2303.09489)
 
@@ -89,7 +89,7 @@ citation:
     
 
 
-#### Diagonal state space augmented transformers for speech recognition (DSS) [`UNREAD`]
+#### Diagonal state space augmented transformers for speech recognition (DSS)
 
 paper link: [here](https://arxiv.org/pdf/2302.14120)
 
@@ -107,7 +107,7 @@ citation:
     
 
 
-#### Simplified state space layers for sequence modeling (S5) [`UNREAD`]
+#### Simplified state space layers for sequence modeling (S5)
 
 paper link: [here](https://arxiv.org/pdf/2208.04933)
 
@@ -121,7 +121,7 @@ citation:
 }
 ```
 
-#### Long range language modeling via gated state spaces (GSS) [`UNREAD`]
+#### Long range language modeling via gated state spaces (GSS)
 
 paper link: [here](https://arxiv.org/pdf/2206.13947)
 
@@ -137,7 +137,7 @@ citation:
     
     
 
-#### Efficiently modeling long sequences with structured state spaces (S4) [`UNREAD`]
+#### Efficiently modeling long sequences with structured state spaces (S4)
 
 paper link: [here](https://arxiv.org/pdf/2111.00396)
 
@@ -155,7 +155,7 @@ citation:
 ### LongConv
 
 
-#### Sequence modeling with multiresolution convolutional memory (MultiRes) [`UNREAD`]
+#### Sequence modeling with multiresolution convolutional memory (MultiRes)
 
 paper link: [here](https://proceedings.mlr.press/v202/shi23f/shi23f.pdf)
 
@@ -173,7 +173,7 @@ citation:
     
 
 
-#### Hyena hierarchy: Towards larger convolutional language models [`UNREAD`]
+#### Hyena hierarchy: Towards larger convolutional language models
 
 paper link: [here](https://arxiv.org/pdf/2302.10866)
 
@@ -187,7 +187,7 @@ citation:
 }
 ```
 
-#### Ckconv: Continuous kernel convolution for sequential data [`UNREAD`]
+#### Ckconv: Continuous kernel convolution for sequential data
 
 paper link: [here](https://arxiv.org/pdf/2102.02611)
 
@@ -204,7 +204,7 @@ citation:
 
 ### Miscellaneous
 
-#### Scalable MatMul-free Language Modeling [`UNREAD`]
+#### Scalable MatMul-free Language Modeling
 
 paper link: [here](https://arxiv.org/pdf/2406.02528)
 
@@ -225,7 +225,7 @@ citation:
 ```
 
 
-#### Deep equilibrium models [`UNREAD`]
+#### Deep equilibrium models
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/01386bd6d8e091c2ab4c7c7de644d37b-Paper.pdf)
 
@@ -240,7 +240,7 @@ citation:
 }
 ```
 
-#### Based: An Educational and Effective Sequence Mixer [`UNREAD`]
+#### Based: An Educational and Effective Sequence Mixer
 
 blog link: [here](https://hazyresearch.stanford.edu/blog/2023-12-11-zoology2-based)
 
@@ -256,7 +256,7 @@ citation:
 ```
 
 
-#### Zoology: Measuring and Improving Recall in Efficient Language Models [`UNREAD`]
+#### Zoology: Measuring and Improving Recall in Efficient Language Models
 
 paper link: [here](https://arxiv.org/pdf/2312.04927)
 
@@ -273,7 +273,7 @@ citation:
 }
 ```
 
-#### Monarch Mixer: A simple sub-quadratic GEMM-based architecture [`UNREAD`]
+#### Monarch Mixer: A simple sub-quadratic GEMM-based architecture
 
 paper link: [here](https://arxiv.org/pdf/2310.12109)
 
@@ -287,7 +287,7 @@ citation:
 }
 ```
 
-#### Bayesian flow networks [`UNREAD`]
+#### Bayesian flow networks
 
 paper link: [here](https://arxiv.org/pdf/2308.07037)
 
@@ -302,7 +302,7 @@ citation:
 ```
 
 
-#### Retentive network: A successor to transformer for large language models [`UNREAD`]
+#### Retentive network: A successor to transformer for large language models
 
 paper link: [here](https://arxiv.org/pdf/2307.08621)
 

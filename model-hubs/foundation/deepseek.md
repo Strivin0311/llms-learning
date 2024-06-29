@@ -1,7 +1,7 @@
 # DeepSeek
 *Here're some resources about DeepSeek LLMs*
 
-#### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model [`UNREAD`]
+#### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 paper link: [here](https://arxiv.org/pdf/2405.04434)
 
@@ -31,7 +31,7 @@ citation:
 ```
 
 
-#### DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models [`UNREAD`]
+#### DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models
 
 paper link: [here](https://arxiv.org/pdf/2401.06066)
 
@@ -59,7 +59,7 @@ citation:
 ```
 
 
-#### DeepSeek LLM: Scaling Open-Source Language Models with Longtermism [`UNREAD`]
+#### DeepSeek LLM: Scaling Open-Source Language Models with Longtermism
 
 paper link: [here](https://arxiv.org/pdf/2401.02954)
 

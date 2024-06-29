@@ -2,7 +2,7 @@
 *Here're some resources about optimizers for LLMs*
 
 
-#### AGD: an Auto-switchable Optimizer using Stepwise Gradient Difference for Preconditioning Matrix [`UNREAD`]
+#### AGD: an Auto-switchable Optimizer using Stepwise Gradient Difference for Preconditioning Matrix
 
 paper link: [here](https://arxiv.org/pdf/2312.01658)
 
@@ -20,7 +20,7 @@ citation:
 }
 ```
 
-#### AdaLomo: Low-memory Optimization with Adaptive Learning Rate [`UNREAD`]
+#### AdaLomo: Low-memory Optimization with Adaptive Learning Rate
 
 paper link: [here](https://arxiv.org/pdf/2310.10195)
 
@@ -37,7 +37,7 @@ citation:
 ```
 
 
-#### Full Parameter Fine-tuning for Large Language Models with Limited Resources (LOMO) [`UNREAD`]
+#### Full Parameter Fine-tuning for Large Language Models with Limited Resources (LOMO)
 
 paper link: [here](https://arxiv.org/pdf/2306.09782)
 
@@ -52,7 +52,7 @@ citation:
 ```
 
 
-#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed [`UNREAD`]
+#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed
 
 paper link: [here](https://arxiv.org/pdf/2102.02888.pdf)
 
@@ -69,7 +69,7 @@ citation:
 ```
 
 
-#### Why AdamW matters [`READ`]
+#### Why AdamW matters
 
 blog link: [here](https://towardsdatascience.com/why-adamw-matters-736223f31b5d)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Code LLMs, which are LLMs specific for code tasks*
 
 
-#### DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence [`UNREAD`]
+#### DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 
 paper link: [here](https://arxiv.org/pdf/2406.11931)
 
@@ -33,7 +33,7 @@ citation:
 
 
 
-#### DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence [`UNREAD`]
+#### DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence
 
 paper link: [here](https://arxiv.org/pdf/2401.14196)
 
@@ -62,7 +62,7 @@ citation:
 ```
 
 
-#### AlphaCode 2 Technical Report [`UNREAD`]
+#### AlphaCode 2 Technical Report
 
 paper link: [here](https://storage.googleapis.com/deepmind-media/AlphaCode2/AlphaCode2_Tech_Report.pdf)
 
@@ -78,7 +78,7 @@ citation:
 ```
 
 
-#### Code llama: Open foundation models for code [`UNREAD`]
+#### Code llama: Open foundation models for code
 
 paper link: [here](https://arxiv.org/pdf/2308.12950.pdf)
 
@@ -110,7 +110,7 @@ citation:
 }
 ```
 
-#### LongCoder: A Long-Range Pre-trained Language Model for Code Completion [`UNREAD`]
+#### LongCoder: A Long-Range Pre-trained Language Model for Code Completion
 
 paper link: [here](https://arxiv.org/pdf/2306.14893.pdf)
 
@@ -138,7 +138,7 @@ citation:
 ```
 
 
-#### WizardCoder: Empowering Code Large Language Models with Evol-Instruct [`UNREAD`]
+#### WizardCoder: Empowering Code Large Language Models with Evol-Instruct
 
 paper link: [here](https://arxiv.org/pdf/2306.08568.pdf)
 
@@ -169,7 +169,7 @@ citation:
 ```
 
 
-#### StarCoder: may the source be with you! [`UNREAD`]
+#### StarCoder: may the source be with you!
 
 paper link: [here](https://arxiv.org/pdf/2305.06161.pdf)
 
@@ -195,7 +195,7 @@ citation:
 ```
     
 
-#### Competition-level code generation with alphacode [`UNREAD`]
+#### Competition-level code generation with alphacode
 
 paper link: [here](https://www.science.org/doi/10.1126/science.abq1158)
 

@@ -2,7 +2,7 @@
 *Here're some resources about ERNIE*
 
 
-#### Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation [`UNREAD`]
+#### Ernie 3.0: Large-scale knowledge enhanced pre-training for language understanding and generation
 
 paper link: [here](https://arxiv.org/pdf/2107.02137)
 
@@ -21,7 +21,7 @@ citation:
 ```
     
 
-#### Ernie 2.0: A continual pre-training framework for language understanding [`UNREAD`]
+#### Ernie 2.0: A continual pre-training framework for language understanding
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/6428/6284)
 
@@ -41,7 +41,7 @@ citation:
 ```
     
 
-#### ERNIE: Enhanced language representation with informative entities [`UNREAD`]
+#### ERNIE: Enhanced language representation with informative entities
 
 paper link: [here](https://arxiv.org/pdf/1905.07129)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Llama*
     
 
-#### Introducing Meta Llama 3: The most capable openly available LLM to date [`UNREAD`]
+#### Introducing Meta Llama 3: The most capable openly available LLM to date
 
 blog link: [here](https://ai.meta.com/blog/meta-llama-3/)
 
@@ -30,7 +30,7 @@ citation:
 }
 ```
 
-#### Llama 2: Open foundation and fine-tuned chat models [`READ`]
+#### Llama 2: Open foundation and fine-tuned chat models
 
 paper link: [here](https://arxiv.org/pdf/2307.09288.pdf)
 
@@ -56,7 +56,7 @@ citation:
 ```
 
 
-#### WizardLM: Empowering Large Language Models to Follow Complex Instructions [`UNREAD`]
+#### WizardLM: Empowering Large Language Models to Follow Complex Instructions
 
 paper link: [here](https://arxiv.org/pdf/2304.12244.pdf)
 
@@ -84,7 +84,7 @@ citation:
 ```
     
 
-#### Llama: Open and efficient foundation language models [`READ`]
+#### Llama: Open and efficient foundation language models
 
 paper link: [here](https://arxiv.org/pdf/2302.13971)
 

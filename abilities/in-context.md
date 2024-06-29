@@ -4,7 +4,7 @@
 ### Survey
 
 
-#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models [`READ`]
+#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models
 
 paper link: [here](https://arxiv.org/pdf/2402.17671.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### A survey for in-context learning [`UNREAD`]
+#### A survey for in-context learning
 
 paper link: [here](https://arxiv.org/pdf/2301.00234)
 
@@ -36,7 +36,7 @@ citation:
 ```
     
 
-#### Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing [`READ`]
+#### Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3560815?trk=public_post_comment-text)
 
@@ -57,7 +57,7 @@ citation:
     
 ### Empirical Study
 
-#### How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations [`UNREAD`]
+#### How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations
 
 paper link: [here](https://arxiv.org/pdf/2310.10616)
 
@@ -72,7 +72,7 @@ citation:
 ```
 
 
-#### Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection [`UNREAD`]
+#### Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
 
 paper link: [here](https://arxiv.org/pdf/2306.04637)
 
@@ -87,7 +87,7 @@ citation:
 ```
 
 
-#### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting [`UNREAD`]
+#### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
 
 paper link: [here](https://arxiv.org/pdf/2305.04388.pdf)
 
@@ -101,7 +101,7 @@ citation:
 }
 ```
 
-#### Larger language models do in-context learning differently [`READ`]
+#### Larger language models do in-context learning differently
 
 paper link: [here](https://arxiv.org/pdf/2303.03846.pdf)
 
@@ -121,7 +121,7 @@ citation:
 ### Chain-of-Thoughts
 
 
-#### PathFinder: Guided Search over Multi-Step Reasoning Paths [`READ`]
+#### PathFinder: Guided Search over Multi-Step Reasoning Paths
 
 paper link: [here](https://arxiv.org/pdf/2312.05180.pdf)
 
@@ -139,7 +139,7 @@ citation:
 ```
 
 
-#### Graph of thoughts: Solving elaborate problems with large language models (GoT) [`READ`]
+#### Graph of thoughts: Solving elaborate problems with large language models (GoT)
 
 paper link: [here](https://arxiv.org/pdf/2308.09687.pdf)
 
@@ -153,7 +153,7 @@ citation:
 }
 ```
 
-#### Tree of thoughts: Deliberate problem solving with large language models (ToT) [`READ`]
+#### Tree of thoughts: Deliberate problem solving with large language models (ToT)
 
 paper link: [here](https://arxiv.org/pdf/2305.10601)
 
@@ -167,7 +167,7 @@ citation:
 }
 ```
 
-#### Self-consistency improves chain of thought reasoning in language models [`UNREAD`]
+#### Self-consistency improves chain of thought reasoning in language models
 
 paper link: [here](https://arxiv.org/pdf/2203.11171.pdf)
 
@@ -181,7 +181,7 @@ citation:
 }
 ```
 
-#### Chain-of-thought prompting elicits reasoning in large language models (CoT) [`UNREAD`]
+#### Chain-of-thought prompting elicits reasoning in large language models (CoT)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
 
@@ -202,7 +202,7 @@ citation:
 
 ### Miscellaneous
 
-#### ICL Markup: Structuring In-Context Learning using Soft-Token Tags [`READ`]
+#### ICL Markup: Structuring In-Context Learning using Soft-Token Tags
 
 paper link: [here](https://arxiv.org/pdf/2312.07405.pdf)
 
@@ -219,7 +219,7 @@ citation:
 ```
 
 
-#### Flexible visual prompts for in-context learning in computer vision [`READ`]
+#### Flexible visual prompts for in-context learning in computer vision
 
 paper link: [here](https://arxiv.org/pdf/2312.06592.pdf)
 
@@ -235,7 +235,7 @@ citation:
 }
 ```
 
-#### Plum: Prompt Learning using Metaheuristic [`UNREAD`]
+#### Plum: Prompt Learning using Metaheuristic
 
 paper link: [here](https://arxiv.org/pdf/2311.08364)
 
@@ -250,7 +250,7 @@ citation:
 ```
 
 
-#### Ddcot: Duty-distinct chain-of-thought prompting for multimodal reasoning in language models (DDCoT) [`UNREAD`]
+#### Ddcot: Duty-distinct chain-of-thought prompting for multimodal reasoning in language models (DDCoT)
 
 paper link: [here](https://arxiv.org/pdf/2310.16436)
 
@@ -265,7 +265,7 @@ citation:
 ```
 
 
-#### Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing [`READ`]
+#### Evoke: Evoking Critical Thinking Abilities in LLMs via Reviewer-Author Prompt Editing
 
 paper link: [here](https://arxiv.org/pdf/2310.13855.pdf)
 
@@ -282,7 +282,7 @@ citation:
 ```
 
 
-#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [`READ`]
+#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition
 
 paper link: [here](https://arxiv.org/pdf/2307.13269)
 
@@ -302,7 +302,7 @@ citation:
 }
 ```
 
-#### Joint Prompt Optimization of Stacked LLMs using Variational Inference [`UNREAD`]
+#### Joint Prompt Optimization of Stacked LLMs using Variational Inference
 
 paper link: [here](https://arxiv.org/pdf/2306.12509.pdf)
 
@@ -316,7 +316,7 @@ paper link: [here](https://arxiv.org/pdf/2306.12509.pdf)
 ```
 
 
-#### Dr.ICL: Demonstration-Retrieved In-context Learning [`READ`]
+#### Dr.ICL: Demonstration-Retrieved In-context Learning
 
 paper link: [here](https://arxiv.org/pdf/2305.14128.pdf)
 
@@ -333,7 +333,7 @@ citation:
 ```
 
 
-#### Query Expansion by Prompting Large Language Models [`UNREAD`]
+#### Query Expansion by Prompting Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2305.03653.pdf)
 
@@ -350,7 +350,7 @@ citation:
 ```
 
 
-#### EvoPrompting: Language Models for Code-Level Neural Architecture Search [`UNREAD`]
+#### EvoPrompting: Language Models for Code-Level Neural Architecture Search
 
 paper link: [here](https://arxiv.org/pdf/2302.14838)
 
@@ -364,7 +364,7 @@ citation:
 }
 ```
 
-#### General-Purpose In-Context Learning by Meta-Learning Transformers [`READ`]
+#### General-Purpose In-Context Learning by Meta-Learning Transformers
 
 paper link: [here](https://arxiv.org/pdf/2212.04458.pdf)
 
@@ -381,7 +381,7 @@ citation:
 ``` 
     
 
-#### Progprompt: Generating situated robot task plans using large language models [`UNREAD`]
+#### Progprompt: Generating situated robot task plans using large language models
 
 paper link: [here](https://arxiv.org/pdf/2209.11302)
 
@@ -398,7 +398,7 @@ citation:
 ```
     
 
-#### RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning [`READ`]
+#### RLPrompt: Optimizing Discrete Text Prompts with Reinforcement Learning
 
 paper link: [here](https://arxiv.org/pdf/2205.12548)
 
@@ -413,7 +413,7 @@ citation:
 ```
 
 
-#### Maple: Multi-modal prompt learning [`UNREAD`]
+#### Maple: Multi-modal prompt learning
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Khattak_MaPLe_Multi-Modal_Prompt_Learning_CVPR_2023_paper.pdf)
 
@@ -428,7 +428,7 @@ citation:
 }
 ```
 
-#### Structured prompting: Scaling in-context learning to 1,000 examples [`UNREAD`]
+#### Structured prompting: Scaling in-context learning to 1,000 examples
 
 paper link: [here](https://arxiv.org/pdf/2212.06713)
 
@@ -443,7 +443,7 @@ citation:
 ```
 
 
-#### Large language models are human-level prompt engineers [`UNREAD`]
+#### Large language models are human-level prompt engineers
 
 paper link: [here](https://arxiv.org/pdf/2211.01910.pdf)
 
@@ -457,7 +457,7 @@ citation:
 }
 ```
 
-#### Large language models can self-improve [`UNREAD`]
+#### Large language models can self-improve
 
 paper link: [here](https://arxiv.org/pdf/2210.11610.pdf)
 
@@ -473,7 +473,7 @@ citation:
     
 
 
-#### Conditional prompt learning for vision-language models [`UNREAD`]
+#### Conditional prompt learning for vision-language models
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)
 
@@ -488,7 +488,7 @@ citation:
 }
 ```
     
-#### Promptsource: An integrated development environment and repository for natural language prompts [`READ`]
+#### Promptsource: An integrated development environment and repository for natural language prompts
 
 paper link: [here](https://arxiv.org/pdf/2202.01279.pdf)
 
@@ -505,7 +505,7 @@ citation:
 ```
 
 
-#### Calibrate before use: Improving few-shot performance of language models [`UNREAD`]
+#### Calibrate before use: Improving few-shot performance of language models
 
 paper link: [here](http://proceedings.mlr.press/v139/zhao21c/zhao21c.pdf)
 
@@ -523,7 +523,7 @@ citation:
     
 
 
-#### Multitask prompted training enables zero-shot task generalization [`UNREAD`]
+#### Multitask prompted training enables zero-shot task generalization
 
 paper link: [here](https://arxiv.org/pdf/2110.08207)
 

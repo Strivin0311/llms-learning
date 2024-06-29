@@ -2,7 +2,7 @@
 *Here're some resources about Mistral*
 
 
-#### Starling-7B- Increasing LLM Helpfulness & Harmlessness with RLAIF [`UNREAD`]
+#### Starling-7B- Increasing LLM Helpfulness & Harmlessness with RLAIF
 
 blog link: [here](https://starling.cs.berkeley.edu/)
 
@@ -25,7 +25,7 @@ citation:
 ```
 
 
-#### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`UNREAD`]
+#### Mixtral of experts: A high quality Sparse Mixture-of-Experts
 
 paper link: [here](https://arxiv.org/pdf/2401.04088)
 
@@ -52,7 +52,7 @@ citation:
 ```
 
 
-#### Mistral 7B [`READ`]
+#### Mistral 7B
 
 paper link: [here](https://arxiv.org/pdf/2310.06825.pdf)
 
@@ -81,7 +81,7 @@ citation:
 ```
 
 
-#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data [`UNREAD`]
+#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data
 
 paper link: [here](https://arxiv.org/pdf/2309.11235.pdf)
 

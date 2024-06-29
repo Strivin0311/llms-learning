@@ -2,7 +2,7 @@
 *Here're some resources about Baichuan*
 
 
-#### Baichuan 2: Open Large-scale Language Models [`UNREAD`]
+#### Baichuan 2: Open Large-scale Language Models
 
 paper link: [here](https://arxiv.org/pdf/2309.10305.pdf)
 

@@ -2,7 +2,7 @@
 *Here're some resources about LLMs-for-Embodied-AI*
 
 
-#### Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond [`UNREAD`]
+#### Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond
 
 paper link: [here](https://arxiv.org/pdf/2310.02071)
 
@@ -16,7 +16,7 @@ citation:
 }
 ```
 
-#### Language Models Meet World Models: Embodied Experiences Enhance Language Models [`UNREAD`]
+#### Language Models Meet World Models: Embodied Experiences Enhance Language Models
 
 paper link: [here](https://arxiv.org/pdf/2305.10626)
 
@@ -39,7 +39,7 @@ citation:
 ### Robotics
 
 
-#### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation [`READ`]
+#### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
 
 paper link: [here](https://arxiv.org/pdf/2311.01455.pdf)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Qwen*
 
 
-#### Introducing Qwen1.5 [`UNREAD`]
+#### Introducing Qwen1.5
 
 blog link: [here](https://qwenlm.github.io/blog/qwen1.5/)
 
@@ -36,7 +36,7 @@ citation:
 ```
 
 
-#### Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models [`UNREAD`]
+#### Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.07919.pdf)
 
@@ -59,7 +59,7 @@ citation:
 }
 ```
 
-#### Qwen Technical Report [`UNREAD`]
+#### Qwen Technical Report
 
 paper link: [here](https://arxiv.org/pdf/2309.16609.pdf)
 
@@ -97,7 +97,7 @@ citation:
 ```
 
 
-#### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond [`UNREAD`]
+#### Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
 
 paper link: [here](https://arxiv.org/pdf/2308.12966.pdf)
 

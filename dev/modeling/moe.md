@@ -2,7 +2,7 @@
 *Here're some resources about Mixture-of-Experts (MoE) structure design of LLMs*
 
 
-#### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model [`UNREAD`]
+#### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 paper link: [here](https://arxiv.org/pdf/2405.04434)
 
@@ -31,7 +31,7 @@ citation:
 }
 ```
 
-#### DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models [`UNREAD`]
+#### DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models
 
 paper link: [here](https://arxiv.org/pdf/2401.06066)
 
@@ -58,7 +58,7 @@ citation:
 }
 ```
 
-#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`UNREAD`]
+#### Fast Inference of Mixture-of-Experts Language Models with Offloading
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
@@ -76,7 +76,7 @@ citation:
 }
 ```
 
-#### SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention [`UNREAD`]
+#### SwitchHead: Accelerating Transformers with Mixture-of-Experts Attention
 
 paper link: [here](https://arxiv.org/pdf/2312.07987v2.pdf)
 
@@ -92,7 +92,7 @@ citation:
 ```
 
 
-#### Mixtral of experts: A high quality Sparse Mixture-of-Experts [`UNREAD`]
+#### Mixtral of experts: A high quality Sparse Mixture-of-Experts
 
 paper link: [here](https://arxiv.org/pdf/2401.04088)
 
@@ -119,7 +119,7 @@ citation:
 ```
 
 
-#### Memory Augmented Language Models through Mixture of Word Experts [`UNREAD`]
+#### Memory Augmented Language Models through Mixture of Word Experts
 
 paper link: [here](https://arxiv.org/pdf/2311.10768)
 
@@ -135,7 +135,7 @@ citation:
 ```
 
 
-#### QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models [`UNREAD`]
+#### QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models
 
 paper link: [here](https://arxiv.org/pdf/2310.16795.pdf)
 
@@ -152,7 +152,7 @@ citation:
 ```
 
 
-#### From sparse to soft mixtures of experts (Soft MoE) [`READ`]
+#### From sparse to soft mixtures of experts (Soft MoE)
 
 paper link: [here](https://arxiv.org/pdf/2308.00951)
 
@@ -168,7 +168,7 @@ citation:
 ```
 
 
-#### OpenMoE: A family of open-sourced Mixture-of-Experts (MoE) Large Language Models [`UNREAD`]
+#### OpenMoE: A family of open-sourced Mixture-of-Experts (MoE) Large Language Models
 
 blog link: [here](https://xuefuzhao.notion.site/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879)
 
@@ -187,7 +187,7 @@ citation:
 ```
 
 
-#### Accelerating distributed {MoE} training and inference with lina [`UNREAD`]
+#### Accelerating distributed {MoE} training and inference with lina
 
 paper link: [here](https://www.usenix.org/system/files/atc23-li-jiamin.pdf)
 
@@ -204,7 +204,7 @@ citation:
 ```
 
 
-#### AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts [`UNREAD`]
+#### AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts
 
 paper link: [here](http://openaccess.thecvf.com/content/ICCV2023/papers/Chen_AdaMV-MoE_Adaptive_Multi-Task_Vision_Mixture-of-Experts_ICCV_2023_paper.pdf)
 
@@ -220,7 +220,7 @@ citation:
 ```
 
 
-#### FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement [`UNREAD`]
+#### FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement
 
 paper link: [here](https://arxiv.org/pdf/2304.03946)
 
@@ -241,7 +241,7 @@ citation:
 
 
 
-#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE) [`READ`]
+#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE)
 
 paper link: [here](https://arxiv.org/pdf/2211.15841.pdf)
 
@@ -259,7 +259,7 @@ citation:
 }
 ```
 
-#### Tutel: Adaptive Mixture-of-Experts at Scale [`UNREAD`]
+#### Tutel: Adaptive Mixture-of-Experts at Scale
 
 paper link: [here](https://arxiv.org/pdf/2206.03382)
 
@@ -276,7 +276,7 @@ citation:
 }
 ```
 
-#### Evomoe: An evolutional mixture-of-experts training framework via dense-to-sparse gate [`UNREAD`]
+#### Evomoe: An evolutional mixture-of-experts training framework via dense-to-sparse gate
 
 paper link: [here](https://arxiv.org/pdf/2112.14397)
 
@@ -292,7 +292,7 @@ citation:
 ```
 
 
-#### Mixture of Attention Heads: Selecting Attention Heads Per Token (MoA) [`UNREAD`]
+#### Mixture of Attention Heads: Selecting Attention Heads Per Token (MoA)
 
 paper link: [here](https://arxiv.org/pdf/2210.05144)
 
@@ -309,7 +309,7 @@ citation:
 }
 ```
 
-#### FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models [`UNREAD`]
+#### FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3503221.3508418)
 
@@ -325,7 +325,7 @@ citation:
 }
 ```
 
-#### Deepspeed-moe: Advancing mixture-of-experts inference and training to power next-generation ai scale [`UNREAD`]
+#### Deepspeed-moe: Advancing mixture-of-experts inference and training to power next-generation ai scale
 
 paper link: [here](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
 
@@ -342,7 +342,7 @@ citation:
 }
 ```
 
-#### Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners [`UNREAD`]
+#### Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners
 
 paper link: [here](https://arxiv.org/pdf/2204.07689.pdf)
 
@@ -359,7 +359,7 @@ citation:
 ```
 
 
-#### Unified Scaling Laws for Routed Language Models (Sinkhorn-BASE) [`UNREAD`]
+#### Unified Scaling Laws for Routed Language Models (Sinkhorn-BASE)
 
 paper link: [here](https://arxiv.org/pdf/2202.01169)
 
@@ -376,7 +376,7 @@ citation:
 }
 ```
 
-#### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity (SMoE) [`READ`]
+#### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity (SMoE)
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 
@@ -394,7 +394,7 @@ citation:
 }
 ```
 
-#### Beyond distillation: Task-level mixture-of-experts for efficient inference [`UNREAD`]
+#### Beyond distillation: Task-level mixture-of-experts for efficient inference
 
 paper link: [here](https://arxiv.org/pdf/2110.03742)
 
@@ -410,7 +410,7 @@ citation:
 ```
 
 
-#### BASE Layers: Simplifying Training of Large, Sparse Models (BASE) [`UNREAD`]
+#### BASE Layers: Simplifying Training of Large, Sparse Models (BASE)
 
 paper link: [here](https://arxiv.org/pdf/2103.16716)
 
@@ -430,7 +430,7 @@ citation:
 ```
 
 
-#### Hash layers for large sparse models [`UNREAD`]
+#### Hash layers for large sparse models
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/92bf5e6240737e0326ea59846a83e076-Paper.pdf)
 
@@ -448,7 +448,7 @@ citation:
 ```
 
 
-#### Sparse is enough in scaling transformers [`UNREAD`]
+#### Sparse is enough in scaling transformers
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
 
@@ -465,7 +465,7 @@ citation:
 ```
 
 
-#### Gshard: Scaling giant models with conditional computation and automatic sharding [`READ`]
+#### Gshard: Scaling giant models with conditional computation and automatic sharding
 
 paper link: [here](https://arxiv.org/pdf/2006.16668.pdf)
 
@@ -479,7 +479,7 @@ citation:
 }
 ```
 
-#### Outrageously large neural networks: The sparsely-gated mixture-of-experts layer (Sparse MoE) [`READ`]
+#### Outrageously large neural networks: The sparsely-gated mixture-of-experts layer (Sparse MoE)
 
 paper link: [here](https://arxiv.org/pdf/1701.06538.pdf)
 
@@ -493,7 +493,7 @@ citation:
 }
 ```
 
-#### Adaptive Mixture of Local Experts [`READ`]
+#### Adaptive Mixture of Local Experts
 
 paper link: [here](http://www.cs.utoronto.ca/~hinton/absps/jjnh91.ps)
 

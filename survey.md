@@ -5,7 +5,7 @@
 ## Paper
 
 
-#### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems [`READ`]
+#### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems
 
 paper link: [here](https://arxiv.org/pdf/2312.15234.pdf)
 
@@ -21,7 +21,7 @@ citation:
 }
 ```
 
-#### Retrieval-Augmented Generation for Large Language Models: A Survey [`UNREAD`]
+#### Retrieval-Augmented Generation for Large Language Models: A Survey
 
 paper link: [here](https://arxiv.org/pdf/2312.10997.pdf)
 
@@ -40,7 +40,7 @@ citation:
 ```
 
 
-#### Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey [`READ`]
+#### Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey
 
 paper link: [here](https://arxiv.org/pdf/2311.12351.pdf)
 
@@ -60,7 +60,7 @@ citation:
 ```
 
 
-#### Challenges and applications of large language models [`UNREAD`]
+#### Challenges and applications of large language models
 
 paper link: [here](https://arxiv.org/pdf/2307.10169)
 
@@ -76,7 +76,7 @@ citation:
     
 
 
-#### A comprehensive overview of large language models [`UNREAD`]
+#### A comprehensive overview of large language models
 
 paper link: [here](https://arxiv.org/pdf/2307.06435)
 
@@ -92,7 +92,7 @@ citation:
     
 
 
-#### ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope [`READ`]
+#### ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S266734522300024X)
 
@@ -109,7 +109,7 @@ citation:
     
 
 
-#### Augmented language models: a survey [`UNREAD`]
+#### Augmented language models: a survey
 
 paper link: [here](https://arxiv.org/pdf/2302.07842)
 
@@ -123,7 +123,7 @@ citation:
 }
 ```
 
-#### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning [`READ`]
+#### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning
 
 blog link: [here](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 
@@ -142,7 +142,7 @@ citation:
 
 ## Textbook
 
-#### What Are ChatGPT and Its Friends [`UNREAD`]
+#### What Are ChatGPT and Its Friends
 
 book link: [here](https://pan.baidu.com/s/1ttXkaG2Y5G48j4vw5g7gYg), with extraction code: `vva7`
 

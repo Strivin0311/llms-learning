@@ -3,7 +3,7 @@
 
 
 
-#### Roberta: A robustly optimized bert pretraining approach [`UNREAD`]
+#### Roberta: A robustly optimized bert pretraining approach
 
 paper link: [here](https://arxiv.org/pdf/1907.11692.pdf)
 
@@ -25,7 +25,7 @@ citation:
 ```
     
 
-#### Bert: Pre-training of deep bidirectional transformers for language understanding [`READ`]
+#### Bert: Pre-training of deep bidirectional transformers for language understanding
 
 paper link: [here](https://arxiv.org/pdf/1810.04805.pdf&usg=ALkJrhhzxlCL6yTht2BRmH9atgvKFxHsxQ)
 

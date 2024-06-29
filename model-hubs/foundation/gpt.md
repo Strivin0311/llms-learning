@@ -3,7 +3,7 @@
 
 
 
-#### Sparks of artificial general intelligence: Early experiments with gpt-4 [`READ`]
+#### Sparks of artificial general intelligence: Early experiments with gpt-4
 
 paper link: [here](https://arxiv.org/pdf/2303.12712.pdf?utm_source=webtekno)
 
@@ -19,7 +19,7 @@ citation:
     
     
 
-#### GPT-4 Technical Report [`READ`]
+#### GPT-4 Technical Report
 
 paper link: [here](https://arxiv.org/pdf/2303.08774.pdf)
 
@@ -36,7 +36,7 @@ citation:
 }
 ```
 
-#### Reasearch on GPT4  [`READ`]
+#### Reasearch on GPT4 
 
 blog link: [here](https://openai.com/research/gpt-4)
 
@@ -51,7 +51,7 @@ citation:
 ```
 
 
-#### Introducing ChatGPT  [`READ`]
+#### Introducing ChatGPT 
 
 blog link: [here](https://openai.com/blog/chatgpt)
 
@@ -69,7 +69,7 @@ citation:
 
 
 
-#### Language models are unsupervised multitask learners (GPT3) [`READ`]
+#### Language models are unsupervised multitask learners (GPT3)
 
 paper link: [here](https://insightcivic.s3.us-east-1.amazonaws.com/language-models.pdf)
 
@@ -88,7 +88,7 @@ citation:
     
 
 
-#### Language models are few-shot learners (GPT2) [`READ`]
+#### Language models are few-shot learners (GPT2)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
 
@@ -115,7 +115,7 @@ citation:
     
 
 
-#### Improving language understanding by generative pre-training (GPT1) [`READ`]
+#### Improving language understanding by generative pre-training (GPT1)
 
 paper link: [here](https://www.mikecaptain.com/resources/pdf/GPT-1.pdf)
 

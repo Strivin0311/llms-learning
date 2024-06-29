@@ -6,7 +6,7 @@
 ### General Tools
 
 
-#### Toolllm: Facilitating large language models to master 16000+ real-world apis [`READ`]
+#### Toolllm: Facilitating large language models to master 16000+ real-world apis
 
 paper link: [here](https://arxiv.org/pdf/2307.16789.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings [`UNREAD`]
+#### ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
 
 paper link: [here](https://arxiv.org/pdf/2305.11554)
 
@@ -36,7 +36,7 @@ citation:
 ```
 
 
-#### Toolformer: Language models can teach themselves to use tools [`UNREAD`]
+#### Toolformer: Language models can teach themselves to use tools
 
 paper link: [here](https://arxiv.org/pdf/2302.04761.pdf)
 
@@ -54,7 +54,7 @@ citation:
 ### Mathematical Tools
 
 
-#### LeanDojo: Theorem Proving with Retrieval-Augmented Language Models [`READ`]
+#### LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.15626.pdf)
 

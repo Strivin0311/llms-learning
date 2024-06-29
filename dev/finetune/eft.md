@@ -4,7 +4,7 @@
 
 ### Full-Parameter Fine-Tuning (FPT)
 
-#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources [`UNREAD`]
+#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
 
 paper link: [here](https://arxiv.org/pdf/2310.07147)
 
@@ -20,7 +20,7 @@ citation:
 }
 ```
 
-#### Full Parameter Fine-tuning for Large Language Models with Limited Resources (LOMO) [`UNREAD`]
+#### Full Parameter Fine-tuning for Large Language Models with Limited Resources (LOMO)
 
 paper link: [here](https://arxiv.org/pdf/2306.09782)
 
@@ -37,7 +37,7 @@ citation:
 
 ### Parameter-Efficient Fine-Tuning (PEFT)
 
-#### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation [`UNREAD`]
+#### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation
 
 paper link: [here](https://arxiv.org/pdf/2401.04679.pdf)
 
@@ -54,7 +54,7 @@ citation:
 ```
 
 
-#### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [`UNREAD`]
+#### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2309.14717)
 
@@ -82,7 +82,7 @@ citation:
 }
 ```
 
-#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [`READ`]
+#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition
 
 paper link: [here](https://arxiv.org/pdf/2307.13269)
 github link: [here](https://github.com/sail-sg/lorahub)
@@ -101,7 +101,7 @@ citation:
 ```
 
 
-#### On the effectiveness of parameter-efficient fine-tuning [`READ`]
+#### On the effectiveness of parameter-efficient fine-tuning
 
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/26505/26277)
 
@@ -119,7 +119,7 @@ citation:
 ```
     
 
-#### Qlora: Efficient finetuning of quantized llms [`READ`]
+#### Qlora: Efficient finetuning of quantized llms
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
@@ -141,7 +141,7 @@ citation:
 }
 ```
 
-#### Hypertuning: Toward adapting large language models without back-propagation [`READ`]
+#### Hypertuning: Toward adapting large language models without back-propagation
 
 paper link: [here](https://proceedings.mlr.press/v202/phang23a.html)
 
@@ -158,7 +158,7 @@ citation:
 ```
 
 
-#### LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models [`UNREAD`]
+#### LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2304.01933.pdf)
 
@@ -175,7 +175,7 @@ citation:
 ```
     
 
-#### Scaling down to scale up: A guide to parameter-efficient fine-tuning [`UNREAD`]
+#### Scaling down to scale up: A guide to parameter-efficient fine-tuning
 
 paper link: [here](https://arxiv.org/pdf/2303.15647)
 
@@ -190,7 +190,7 @@ citation:
 ```
 
 
-#### Scaling instruction-finetuned language models [`UNREAD`]
+#### Scaling instruction-finetuned language models
 
 paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
 
@@ -204,7 +204,7 @@ citation:
 }
 ```
 
-#### PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods [`READ`]
+#### PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods
 
 blog link: [here](https://huggingface.co/blog/peft)
 
@@ -220,7 +220,7 @@ citation:
 }
 ```
 
-#### Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models [`READ`]
+#### Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models
 
 paper link: [here](https://arxiv.org/pdf/2203.06904)
 
@@ -234,7 +234,7 @@ citation:
 }
 ```
 
-#### The power of scale for parameter-efficient prompt tuning [`UNREAD`]
+#### The power of scale for parameter-efficient prompt tuning
 
 paper link: [here](https://arxiv.org/pdf/2104.08691)
 
@@ -250,7 +250,7 @@ citation:
     
 
 
-#### Prefix-tuning: Optimizing continuous prompts for generation [`READ`]
+#### Prefix-tuning: Optimizing continuous prompts for generation
 
 paper link: [here](https://arxiv.org/pdf/2101.00190)
 
@@ -264,7 +264,7 @@ citation:
 }
 ```
     
-#### Lora: Low-rank adaptation of large language models [`READ`]
+#### Lora: Low-rank adaptation of large language models
 
 paper link: [here](https://arxiv.org/pdf/2106.09685.pdf%C2%A0)
 
@@ -282,7 +282,7 @@ citation:
 ### Memory-Efficient Fine-Tuning (MEFT)
 
 
-#### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning [`UNREAD`]
+#### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning
 
 paper link: [here](https://arxiv.org/pdf/2306.00477)
 

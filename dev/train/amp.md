@@ -2,7 +2,7 @@
 *Here're some resources about Automatic Mixed-Precision strategies for LLMs training for LLMs*
 
 
-#### FP8-LM: Training FP8 Large Language Models [`READ`]
+#### FP8-LM: Training FP8 Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### BitNet: Scaling 1-bit Transformers for Large Language Models [`READ`]
+#### BitNet: Scaling 1-bit Transformers for Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2310.11453)
 
@@ -42,7 +42,7 @@ citation:
 ```
 
 
-#### Training and inference of large language models using 8-bit floating point [`READ`]
+#### Training and inference of large language models using 8-bit floating point
 
 paper link: [here](https://arxiv.org/pdf/2309.17224)
 
@@ -59,7 +59,7 @@ citation:
 ```
 
 
-#### NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8 (TE) [`READ`]
+#### NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8 (TE)
 
 blog link: [here](https://towardsdatascience.com/accelerating-pytorch-training-workloads-with-fp8-5a5123aec7d7)
 
@@ -78,7 +78,7 @@ citation:
 ```
 
 
-#### FP8 Quantization: The Power of the Exponent [`READ`]
+#### FP8 Quantization: The Power of the Exponent
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 
@@ -97,7 +97,7 @@ citation:
 ```
 
 
-#### 8-bit Optimizers via Block-wise Quantization [`READ`]
+#### 8-bit Optimizers via Block-wise Quantization
 
 paper link: [here](https://arxiv.org/pdf/2110.02861)
 
@@ -114,7 +114,7 @@ citation:
 ```
 
 
-#### Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks (HFP8) [`READ`]
+#### Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks (HFP8)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/65fc9fb4897a89789352e211ca2d398f-Paper.pdf)
 
@@ -134,7 +134,7 @@ citation:
 ```
 
 
-#### Training Deep Neural Networks with 8-bit Floating Point Numbers (FP8) [`READ`]
+#### Training Deep Neural Networks with 8-bit Floating Point Numbers (FP8)
 
 paper link: [here](https://arxiv.org/pdf/1812.08011)
 
@@ -151,7 +151,7 @@ citation:
 ```
 
 
-#### Mixed Precision Training (FP16) [`READ`]
+#### Mixed Precision Training (FP16)
 
 paper link: [here](https://arxiv.org/pdf/1710.03740)
 

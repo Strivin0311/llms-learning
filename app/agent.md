@@ -6,7 +6,7 @@
 ### Methods
 
 
-#### TextGrad: Automatic "Differentiation" via Text [`READ`]
+#### TextGrad: Automatic "Differentiation" via Text
 
 paper link: [here](https://arxiv.org/pdf/2406.07496)
 
@@ -26,7 +26,7 @@ citation:
 }
 ```
 
-#### Husky- A Unified, Open-Source Language Agent for Multi-Step Reasoning [`UNREAD`]
+#### Husky- A Unified, Open-Source Language Agent for Multi-Step Reasoning
 
 paper link: [here](https://arxiv.org/pdf/2406.06469)
 
@@ -57,7 +57,7 @@ citation:
 }
 ```
 
-#### LLM Augmented Hierarchical Agents [`UNREAD`]
+#### LLM Augmented Hierarchical Agents
 
 paper link: [here](https://arxiv.org/pdf/2311.05596.pdf)
 
@@ -74,7 +74,7 @@ citation:
 ```
 
 
-#### ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models [`UNREAD`]
+#### ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2309.00986)
 
@@ -88,7 +88,7 @@ citation:
 }
 ```
 
-#### AutoAgents: A Framework for Automatic Agent Generation [`READ`]
+#### AutoAgents: A Framework for Automatic Agent Generation
 
 paper link: [here](https://arxiv.org/pdf/2309.17288)
 
@@ -109,7 +109,7 @@ citation:
 ```
 
 
-#### Agents: An Open-source Framework for Autonomous Language Agents [`READ`]
+#### Agents: An Open-source Framework for Autonomous Language Agents
 
 paper link: [here](https://arxiv.org/pdf/2309.07870)
 
@@ -125,7 +125,7 @@ citation:
     
 
 
-#### Autogen: Enabling next-gen llm applications via multi-agent conversation framework [`READ`]
+#### Autogen: Enabling next-gen llm applications via multi-agent conversation framework
 
 paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
 
@@ -140,7 +140,7 @@ citation:
 ```
     
 
-#### Communicative agents for software development [`UNREAD`]
+#### Communicative agents for software development
 
 paper link: [here](https://arxiv.org/pdf/2307.07924.pdf)
 
@@ -155,7 +155,7 @@ citation:
 ```
 
 
-#### Voyager: An Open-Ended Embodied Agent with Large Language Models [`UNREAD`]
+#### Voyager: An Open-Ended Embodied Agent with Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2305.16291.pdf)
 
@@ -172,7 +172,7 @@ citation:
 ```
 
 
-#### Generative agents: Interactive simulacra of human behavior [`READ`]
+#### Generative agents: Interactive simulacra of human behavior
 
 paper link: [here](https://arxiv.org/pdf/2304.03442.pdf)
 
@@ -187,7 +187,7 @@ citation:
 ```
 
 
-#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast [`READ`]
+#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast
 
 paper link: [here](https://www.researchgate.net/profile/Oguzhan-Topsakal/publication/372669736_Creating_Large_Language_Model_Applications_Utilizing_LangChain_A_Primer_on_Developing_LLM_Apps_Fast/links/64d114a840a524707ba4a419/Creating-Large-Language-Model-Applications-Utilizing-LangChain-A-Primer-on-Developing-LLM-Apps-Fast.pdf)
 
@@ -203,7 +203,7 @@ citation:
 }
 ```
 
-#### LangChain: Building applications with LLMs through composability [`READ`]
+#### LangChain: Building applications with LLMs through composability
 
 github link: [here](https://github.com/langchain-ai/langchain)
 
@@ -229,7 +229,7 @@ citation:
 
 ### Benchmark
 
-#### Agentbench: Evaluating llms as agents [`READ`]
+#### Agentbench: Evaluating llms as agents
 
 paper link: [here](https://arxiv.org/pdf/2308.03688)
 
@@ -243,7 +243,7 @@ citation:
 }
 ```
 
-#### RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models [`UNREAD`]
+#### RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2310.00746)
 
@@ -257,7 +257,7 @@ citation:
 }
 ```
 
-#### SmartPlay: A Benchmark for LLMs as Intelligent Agents [`UNREAD`]
+#### SmartPlay: A Benchmark for LLMs as Intelligent Agents
 
 paper link: [here](https://arxiv.org/pdf/2310.01557)
 
@@ -275,7 +275,7 @@ citation:
 ### Survey
 
 
-#### The rise and potential of large language model based agents: A survey [`READ`]
+#### The rise and potential of large language model based agents: A survey
 
 paper link: [here](https://arxiv.org/pdf/2309.07864)
 
@@ -292,7 +292,7 @@ citation:
 ```
 
 
-#### Mindstorms in Natural Language-Based Societies of Mind [`READ`]
+#### Mindstorms in Natural Language-Based Societies of Mind
 
 paper link: [here](https://arxiv.org/pdf/2305.17066.pdf)
 

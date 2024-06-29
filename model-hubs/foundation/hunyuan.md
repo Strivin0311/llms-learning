@@ -1,7 +1,7 @@
 # Hunyuan
 *Here're some resources about Tencent Hunyuan LLMs*
 
-#### Hunyuan-DiT- A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding [`UNREAD`]
+#### Hunyuan-DiT- A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding
 
 paper link: [here](https://arxiv.org/pdf/2405.08748)
 

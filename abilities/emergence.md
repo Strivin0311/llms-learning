@@ -2,7 +2,7 @@
 *Here're some resources about understanding and leveraging Emergent Abilities of LLMs*
 
 
-#### Are emergent abilities of Large Language Models a mirage? [`UNREAD`]
+#### Are emergent abilities of Large Language Models a mirage?
 
 paper link: [here](https://arxiv.org/pdf/2304.15004.pdf?)
 
@@ -18,7 +18,7 @@ citation:
     
 
 
-#### Emergent abilities of large language models [`READ`]
+#### Emergent abilities of large language models
 
 paper link: [here](https://arxiv.org/pdf/2206.07682.pdf?trk=cndc-detail)
 

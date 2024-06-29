@@ -3,7 +3,7 @@
 
 ### Image generation
 
-#### Autoregressive Model Beats Diffusion- Llama for Scalable Image Generation [`UNREAD`]
+#### Autoregressive Model Beats Diffusion- Llama for Scalable Image Generation
 
 paper link: [here](https://arxiv.org/pdf/2406.06525)
 
@@ -24,7 +24,7 @@ citation:
 ### Procedural Content Generation (PCG)
 
 
-#### MarioGPT: Open-Ended Text2Level Generation through Large Language Models [`UNREAD`]
+#### MarioGPT: Open-Ended Text2Level Generation through Large Language Models
 
 paper link: [here](https://arxiv.org/abs/2302.05981)
 
@@ -44,7 +44,7 @@ citation:
 ### Retrieval-Augmented Generation (RAG)
 
 
-#### Retrieval-Augmented Generation for Large Language Models: A Survey [`UNREAD`]
+#### Retrieval-Augmented Generation for Large Language Models: A Survey
 
 paper link: [here](https://arxiv.org/pdf/2312.10997.pdf)
 
@@ -63,7 +63,7 @@ citation:
 ```
 
 
-#### Benchmarking Large Language Models in Retrieval-Augmented Generation [`READ`]
+#### Benchmarking Large Language Models in Retrieval-Augmented Generation
 
 paper link: [here](https://arxiv.org/pdf/2309.01431)
 
@@ -82,7 +82,7 @@ citation:
 ```
 
 
-#### Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE) [`READ`]
+#### Precise Zero-Shot Dense Retrieval without Relevance Labels (HyDE)
 
 paper link: [here](https://arxiv.org/pdf/2212.10496.pdf)
 
@@ -99,7 +99,7 @@ citation:
 ```
 
 
-#### Generate rather than retrieve: Large language models are strong context generators (GenRead) [`READ`]
+#### Generate rather than retrieve: Large language models are strong context generators (GenRead)
 
 paper link: [here](https://arxiv.org/pdf/2209.10063)
 
@@ -121,7 +121,7 @@ citation:
 ```
 
 
-#### Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers: Successes and Pitfalls (PRF) [`UNREAD`]
+#### Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers: Successes and Pitfalls (PRF)
 
 paper link: [here](https://arxiv.org/pdf/2108.11044.pdf)
 
@@ -138,7 +138,7 @@ citation:
 ```
 
 
-#### Retrieval-augmented generation for knowledge-intensive nlp tasks (RAG) [`READ`]
+#### Retrieval-augmented generation for knowledge-intensive nlp tasks (RAG)
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/6b493230205f780e1bc26945df7481e5-Paper.pdf)
 
@@ -157,7 +157,7 @@ citation:
 ### Motion Generation 
 
 
-#### MotionGPT: Human Motion as a Foreign Language [`UNREAD`]
+#### MotionGPT: Human Motion as a Foreign Language
 
 paper link: [here](https://arxiv.org/pdf/2306.14795)
 

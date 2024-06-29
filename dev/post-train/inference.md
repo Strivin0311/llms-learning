@@ -4,7 +4,7 @@
 
 ### Efficient Inference
 
-#### Fast Inference of Mixture-of-Experts Language Models with Offloading [`UNREAD`]
+#### Fast Inference of Mixture-of-Experts Language Models with Offloading
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
@@ -22,7 +22,7 @@ citation:
 }
 ```
 
-#### PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU [`UNREAD`]
+#### PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU
 
 paper link: [here](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 
@@ -38,7 +38,7 @@ citation:
 }
 ```
 
-#### LLM in a flash: Efficient Large Language Model Inference with Limited Memory [`UNREAD`]
+#### LLM in a flash: Efficient Large Language Model Inference with Limited Memory
 
 paper link: [here](https://arxiv.org/pdf/2312.11514.pdf)
 
@@ -52,7 +52,7 @@ citation:
 }
 ```
 
-#### S-LoRA: Serving Thousands of Concurrent LoRA Adapters [`READ`]
+#### S-LoRA: Serving Thousands of Concurrent LoRA Adapters
 
 paper link: [here](https://arxiv.org/pdf/2311.03285)
 
@@ -66,7 +66,7 @@ citation:
 }
 ```
 
-#### Punica: Multi-Tenant LoRA Serving [`UNREAD`]
+#### Punica: Multi-Tenant LoRA Serving
 
 paper link: [here](https://arxiv.org/pdf/2310.18547.pdf)
 
@@ -82,7 +82,7 @@ citation:
 }
 ```
 
-#### CacheGen: Fast Context Loading for Language Model Applications [`UNREAD`]
+#### CacheGen: Fast Context Loading for Language Model Applications
 
 paper link: [here](https://arxiv.org/pdf/2310.07240)
 
@@ -98,7 +98,7 @@ citation:
 ```
 
 
-#### DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference [`READ`]
+#### DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference
 
 blog link: [here](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)
 
@@ -122,7 +122,7 @@ citation:
 ```
 
 
-#### AirLLM: inference 70B LLM with 4GB single GPU [`READ`]
+#### AirLLM: inference 70B LLM with 4GB single GPU
 
 github link: [here](https://github.com/lyogavin/Anima/tree/main/air_llm)
 
@@ -144,7 +144,7 @@ citation
 ```
 
 
-#### High-throughput generative inference of large language models with a single gpu [`UNREAD`]
+#### High-throughput generative inference of large language models with a single gpu
 
 paper link: [here](https://arxiv.org/pdf/2303.06865)
 
@@ -158,7 +158,7 @@ citation:
 }
 ```
 
-#### ZeRO-Inference: Democratizing massive model inference [`UNREAD`]
+#### ZeRO-Inference: Democratizing massive model inference
 
 blog link: [here](https://www.deepspeed.ai/2022/09/09/zero-inference.html)
 
@@ -175,7 +175,7 @@ citation:
 }
 ```
 
-#### Orca: A Distributed Serving System for Transformer-Based Generative Models [`READ`]
+#### Orca: A Distributed Serving System for Transformer-Based Generative Models
 
 paper link: [here](https://www.usenix.org/system/files/osdi22-yu.pdf)
 
@@ -197,7 +197,7 @@ citation:
 ```
 
 
-#### A BetterTransformer for Fast Transformer Inference [`READ`]
+#### A BetterTransformer for Fast Transformer Inference
 
 blog link: [here](https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/)
 
@@ -218,7 +218,7 @@ citation:
 }
 ```
 
-#### DeepSpeed Inference: Multi-GPU inference with customized inference kernels and quantization support [`UNREAD`]
+#### DeepSpeed Inference: Multi-GPU inference with customized inference kernels and quantization support
 
 blog link: [here](https://www.deepspeed.ai/2021/03/15/inference-kernel-optimization.html)
 
@@ -236,7 +236,7 @@ citation:
 ```
 
 
-#### Fast transformer decoding: One write-head is all you need [`UNREAD`]
+#### Fast transformer decoding: One write-head is all you need
 
 paper link: [here](https://arxiv.org/pdf/1911.02150.pdf)
 
@@ -253,7 +253,7 @@ citation:
 ### Effective Decoding
 
 
-#### The Consensus Game: Language Model Generation via Equilibrium Search [`UNREAD`]
+#### The Consensus Game: Language Model Generation via Equilibrium Search
 
 paper link: [here](https://arxiv.org/pdf/2310.09139.pdf)
 
@@ -269,7 +269,7 @@ citation:
 }
 ```
 
-#### Contrastive Decoding: Open-ended Text Generation as Optimization [`UNREAD`]
+#### Contrastive Decoding: Open-ended Text Generation as Optimization
 
 paper link: [here](https://arxiv.org/pdf/2210.15097.pdf)
 
@@ -286,7 +286,7 @@ citation:
 ```
 
 
-#### The Curious Case of Neural Text Degeneration (Nucleus Sampling) [`UNREAD`]
+#### The Curious Case of Neural Text Degeneration (Nucleus Sampling)
 
 paper link: [here](https://arxiv.org/pdf/2209.11057.pdf)
 
@@ -308,7 +308,7 @@ citation:
 ### Calibration
 
 
-#### Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering (BC) [`READ`]
+#### Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering (BC)
 
 paper link: [here](https://arxiv.org/pdf/2309.17249.pdf)
 
@@ -325,7 +325,7 @@ citation:
 ```
 
 
-####  Mitigating label biases for in-context learning (DC) [`READ`]
+####  Mitigating label biases for in-context learning (DC)
 
 paper link: [here](https://arxiv.org/pdf/2305.19148.pdf)
 
@@ -342,7 +342,7 @@ citation:
 ```
 
 
-#### Prototypical Calibration for Few-shot Learning of Language Models (PC) [`READ`]
+#### Prototypical Calibration for Few-shot Learning of Language Models (PC)
 
 paper link: [here](https://arxiv.org/pdf/2205.10183.pdf)
 
@@ -359,7 +359,7 @@ citation:
 ```
 
 
-#### Calibrate before use: Improving few-shot performance of language models (CC) [`READ`]
+#### Calibrate before use: Improving few-shot performance of language models (CC)
 
 paper link: [here](http://proceedings.mlr.press/v139/zhao21c/zhao21c.pdf)
 

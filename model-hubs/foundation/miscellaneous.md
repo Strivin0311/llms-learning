@@ -3,7 +3,7 @@
 
 
 
-#### Grok-1: 314 billion parameter Mixture-of-Experts model trained from scratch by xAI [`READ`]
+#### Grok-1: 314 billion parameter Mixture-of-Experts model trained from scratch by xAI
 
 blog link: [here](https://x.ai/blog/grok-os)
 
@@ -23,7 +23,7 @@ citation:
 ```
 
 
-#### Sora: Video generation models as world simulators [`READ`]
+#### Sora: Video generation models as world simulators
 
 blog link: [here](https://openai.com/research/video-generation-models-as-world-simulators)
 
@@ -40,7 +40,7 @@ citation:
 ```
 
 
-#### Phi-2: The surprising power of small language models [`READ`]
+#### Phi-2: The surprising power of small language models
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
 
@@ -61,7 +61,7 @@ citation:
 }
 ```
 
-#### Textbooks Are All You Need II: phi-1.5 technical report [`UNREAD`]
+#### Textbooks Are All You Need II: phi-1.5 technical report
 
 paper link: [here](https://arxiv.org/pdf/2309.05463.pdf)
 
@@ -83,7 +83,7 @@ citation:
 ```
 
 
-#### Textbooks Are All You Need (Phi-1) [`UNREAD`]
+#### Textbooks Are All You Need (Phi-1)
 
 paper link: [here](https://arxiv.org/pdf/2306.11644.pdf)
 
@@ -105,7 +105,7 @@ citation:
 
 
 
-#### Orca 2: Teaching Small Language Models How to Reason [`UNREAD`]
+#### Orca 2: Teaching Small Language Models How to Reason
 
 paper link: [here](https://arxiv.org/pdf/2311.11045.pdf)
 
@@ -130,7 +130,7 @@ citation:
 
 
 
-#### Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2 [`UNREAD`]
+#### Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2
 
 paper link: [here](https://arxiv.org/pdf/2311.10702)
 
@@ -159,7 +159,7 @@ citation:
     
 
 
-#### How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Tulu) [`UNREAD`]
+#### How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Tulu)
 
 paper link: [here](https://arxiv.org/pdf/2306.04751)
 
@@ -175,7 +175,7 @@ citation:
 }
 ```
 
-#### Anima: the first open source 33B Chinese LLM [`READ`]
+#### Anima: the first open source 33B Chinese LLM
 
 github link: [here](https://github.com/lyogavin/Anima)
 
@@ -198,7 +198,7 @@ citation:
 ```
 
 
-#### Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality [`READ`]
+#### Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
 
 blog link: [here](https://lmsys.org/blog/2023-03-30-vicuna/)
 
@@ -225,7 +225,7 @@ citation:
 }
 ```
 
-#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`READ`]
+#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data
 
 paper link: [here](https://arxiv.org/pdf/2304.01196)
 
@@ -240,7 +240,7 @@ citation:
 ```
 
 
-#### Flamingo: a visual language model for few-shot learning [`READ`]
+#### Flamingo: a visual language model for few-shot learning
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/960a172bc7fbf0177ccccbb411a7d800-Paper-Conference.pdf)
 
@@ -257,7 +257,7 @@ citation:
 ```
 
 
-#### OPT: Open pre-trained transformer language models [`UNREAD`]
+#### OPT: Open pre-trained transformer language models
 
 paper link: [here](https://arxiv.org/pdf/2205.01068.pdf)
 
@@ -282,7 +282,7 @@ citation:
 ```
 
 
-#### Learning transferable visual models from natural language supervision (CLIP) [`READ`]
+#### Learning transferable visual models from natural language supervision (CLIP)
 
 paper link: [here](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf)
 
@@ -299,7 +299,7 @@ citation:
 ```
 
 
-#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`READ`]
+#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model
 
 paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
 
@@ -318,7 +318,7 @@ citation:
 
     
 
-#### LaMDA: Language Models for Dialog Applications [`UNREAD`]
+#### LaMDA: Language Models for Dialog Applications
 
 paper link: [here](https://arxiv.org/pdf/2201.08239.pdf)
 

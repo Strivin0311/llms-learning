@@ -2,7 +2,7 @@
 *Here're some resources about GLM*
 
 
-#### Glm-130b: An open bilingual pre-trained model [`UNREAD`]
+#### Glm-130b: An open bilingual pre-trained model
 
 paper link: [here](https://arxiv.org/pdf/2210.02414)
 
@@ -33,7 +33,7 @@ citation:
     
 
 
-#### Glm: General language model pretraining with autoregressive blank infilling [`UNREAD`]
+#### Glm: General language model pretraining with autoregressive blank infilling
 
 paper link: [here](https://arxiv.org/pdf/2103.10360)
 

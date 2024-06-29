@@ -3,7 +3,7 @@
 
 
 
-#### Gemma: Introducing new state-of-the-art open models [`READ`]
+#### Gemma: Introducing new state-of-the-art open models
 
 blog link: [here](https://blog.google/technology/developers/gemma-open-models/)
 
@@ -29,7 +29,7 @@ citation:
 ```
 
 
-#### Gemini: A Family of Highly Capable Multimodal Models [`UNREAD`]
+#### Gemini: A Family of Highly Capable Multimodal Models
 
 paper link: [here](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
 
@@ -48,7 +48,7 @@ citation:
 ```
 
 
-#### An overview of Bard: an early experiment with generative AI [`UNREAD`]
+#### An overview of Bard: an early experiment with generative AI
 
 paper link: [here](https://ai.google/static/documents/google-about-bard.pdf)
 

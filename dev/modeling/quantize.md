@@ -5,7 +5,7 @@
 ### Quantization-Aware Training (QAT)
 
 
-#### LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models [`UNREAD`]
+#### LoftQ: LoRA-Fine-Tuning-Aware Quantization for Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2310.08659.pdf)
 
@@ -20,7 +20,7 @@ citation:
 ```
 
 
-#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources [`UNREAD`]
+#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
 
 paper link: [here](https://arxiv.org/pdf/2310.07147)
 
@@ -37,7 +37,7 @@ citation:
 ```
 
 
-#### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models [`UNREAD`]
+#### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2309.14717)
 
@@ -52,7 +52,7 @@ citation:
 ```
 
 
-#### SqueezeLLM: Dense-and-Sparse Quantization [`UNREAD`]
+#### SqueezeLLM: Dense-and-Sparse Quantization
 
 paper link: [here](https://arxiv.org/pdf/2306.07629)
 
@@ -67,7 +67,7 @@ citation:
 ```
 
 
-#### SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression [`UNREAD`]
+#### SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression
 
 paper link: [here](https://arxiv.org/pdf/2306.03078)
 
@@ -81,7 +81,7 @@ citation:
 }
 ```
 
-#### Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization [`UNREAD`]
+#### Memory-efficient fine-tuning of compressed large language models via sub-4-bit integer quantization
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/7183f4fc87598f6c6e947b96714acbd6-Paper-Conference.pdf)
 
@@ -98,7 +98,7 @@ citation:
 ```
 
 
-#### Qlora: Efficient finetuning of quantized llms [`UNREAD`]
+#### Qlora: Efficient finetuning of quantized llms
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
@@ -120,7 +120,7 @@ citation:
 }
 ```
 
-#### 8-bit Optimizers via Block-wise Quantization [`UNREAD`]
+#### 8-bit Optimizers via Block-wise Quantization
 
 paper link: [here](https://arxiv.org/pdf/2110.02861)
 
@@ -137,7 +137,7 @@ citation:
 ```
 
 
-#### Q8BERT: Quantized 8Bit BERT [`UNREAD`]
+#### Q8BERT: Quantized 8Bit BERT
 
 paper link: [here](https://arxiv.org/pdf/1910.06188.pdf)
 
@@ -157,7 +157,7 @@ citation:
 
 ### Post-Training Quantization (PTQ)
 
-#### HQQ: Half-Quadratic Quantization of Large Machine Learning Models [`UNREAD`]
+#### HQQ: Half-Quadratic Quantization of Large Machine Learning Models
 
 blog link: [here](https://mobiusml.github.io/hqq_blog/)
 
@@ -174,7 +174,7 @@ citation:
 }
 ```
 
-#### ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats [`UNREAD`]
+#### ZeroQuant-FP: A Leap Forward in LLMs Post-Training W4A8 Quantization Using Floating-Point Formats
 
 paper link: [here](https://arxiv.org/pdf/2307.09782)
 
@@ -188,7 +188,7 @@ citation:
 }
 ```
 
-#### AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration [`UNREAD`]
+#### AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration
 
 paper link: [here](https://arxiv.org/pdf/2306.00978.pdf)
 
@@ -204,7 +204,7 @@ citation:
 }
 ```
 
-#### GGUF: GPT-Generated Unified Format (llama.cpp) [`UNREAD`]
+#### GGUF: GPT-Generated Unified Format (llama.cpp)
 
 github link: [here](https://github.com/ggerganov/llama.cpp)
 
@@ -219,7 +219,7 @@ citation:
 }
 ```
 
-#### SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models [`UNREAD`]
+#### SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2211.10438.pdf)
 
@@ -236,7 +236,7 @@ citation:
 ```
 
 
-#### GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers [`UNREAD`]
+#### GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers
 
 paper link: [here](https://arxiv.org/pdf/2210.17323.pdf)
 
@@ -255,7 +255,7 @@ citation:
 ```
 
 
-#### LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale [`UNREAD`]
+#### LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale
 
 paper link: [here](https://arxiv.org/pdf/2208.07339.pdf)
 
@@ -275,7 +275,7 @@ citation:
 }
 ```
 
-#### GGML: GPT-Generated Model Language [`UNREAD`]
+#### GGML: GPT-Generated Model Language
 
 github link: [here](https://github.com/ggerganov/ggml)
 
@@ -289,7 +289,7 @@ citation:
 }
 ```
 
-#### FP8 Quantization: The Power of the Exponent [`UNREAD`]
+#### FP8 Quantization: The Power of the Exponent
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 

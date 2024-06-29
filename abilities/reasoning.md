@@ -6,7 +6,7 @@
 
 ### General
 
-#### Chameleon: Plug-and-play compositional reasoning with large language models [`UNREAD`]
+#### Chameleon: Plug-and-play compositional reasoning with large language models
 
 paper link: [here](https://arxiv.org/pdf/2304.09842)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Why think step-by-step? Reasoning emerges from the locality of experience [`READ`]
+#### Why think step-by-step? Reasoning emerges from the locality of experience
 
 paper link: [here](https://arxiv.org/pdf/2304.03843)
 
@@ -35,7 +35,7 @@ citation:
 }
 ```
 
-#### Pal: Program-aided language models [`UNREAD`]
+#### Pal: Program-aided language models
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf)
 
@@ -51,7 +51,7 @@ citation:
 }
 ```
 
-#### Visual programming: Compositional visual reasoning without training [`READ`]
+#### Visual programming: Compositional visual reasoning without training
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)
 
@@ -67,7 +67,7 @@ citation:
 ```
 
 
-#### Large language models can self-improve [`UNREAD`]
+#### Large language models can self-improve
 
 paper link: [here](https://arxiv.org/pdf/2210.11610.pdf)
 
@@ -81,7 +81,7 @@ citation:
 }
 ```
 
-#### React: Synergizing reasoning and acting in language models [`UNREAD`]
+#### React: Synergizing reasoning and acting in language models
 
 paper link: [here](https://arxiv.org/pdf/2210.03629.pdf)
 
@@ -97,7 +97,7 @@ citation:
 
 
 
-#### Language models show human-like content effects on reasoning [`UNREAD`]
+#### Language models show human-like content effects on reasoning
 
 paper link: [here](https://arxiv.org/pdf/2207.07051.pdf)
 
@@ -112,7 +112,7 @@ citation:
 ```
 
 
-#### Self-consistency improves chain of thought reasoning in language models [`UNREAD`]
+#### Self-consistency improves chain of thought reasoning in language models
 
 paper link: [here](https://arxiv.org/pdf/2203.11171.pdf)
 
@@ -130,7 +130,7 @@ citation:
 ### Decision Making / Planning
 
 
-#### Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond [`UNREAD`]
+#### Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond
 
 paper link: [here](https://arxiv.org/pdf/2310.02071)
 
@@ -145,7 +145,7 @@ citation:
 ```
     
 
-#### ChessGPT: Bridging Policy Learning and Language Modeling [`UNREAD`]
+#### ChessGPT: Bridging Policy Learning and Language Modeling
 
 paper link: [here](https://arxiv.org/pdf/2306.09200)
 
@@ -159,7 +159,7 @@ citation:
 }
 ```
 
-#### Language models can solve computer tasks [`UNREAD`]
+#### Language models can solve computer tasks
 
 paper link: [here](https://arxiv.org/pdf/2303.17491)
 
@@ -173,7 +173,7 @@ citation:
 }
 ```
 
-#### Progprompt: Generating situated robot task plans using large language models [`UNREAD`]
+#### Progprompt: Generating situated robot task plans using large language models
 
 paper link: [here](https://arxiv.org/pdf/2209.11302)
 
@@ -189,7 +189,7 @@ citation:
 }
 ```
 
-#### Language models as zero-shot planners: Extracting actionable knowledge for embodied agents [`UNREAD`]
+#### Language models as zero-shot planners: Extracting actionable knowledge for embodied agents
 
 paper link: [here](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
 
@@ -208,7 +208,7 @@ citation:
 
 ### Math-Solving Problems
 
-#### Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B [`UNREAD`]
+#### Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B
 
 paper link: [here](https://arxiv.org/pdf/2406.07394)
 
@@ -226,7 +226,7 @@ citation:
 }
 ```
 
-#### AlphaMath Almost Zero: process Supervision without process [`UNREAD`]
+#### AlphaMath Almost Zero: process Supervision without process
 
 paper link: [here](https://arxiv.org/pdf/2405.03553)
 
@@ -245,7 +245,7 @@ citation:
 ```
 
 
-#### Forward-Backward Reasoning in Large Language Models for Mathematical Verification [`READ`]
+#### Forward-Backward Reasoning in Large Language Models for Mathematical Verification
 
 paper link: [here](https://arxiv.org/pdf/2308.07758)
 
@@ -261,7 +261,7 @@ citation:
 }
 ```
 
-#### Scaling Relationship on Learning Mathematical Reasoning with Large Language Models (RFT) [`READ`]
+#### Scaling Relationship on Learning Mathematical Reasoning with Large Language Models (RFT)
 
 paper link: [here](https://arxiv.org/pdf/2308.01825)
 
@@ -280,7 +280,7 @@ citation:
 ```
 
 
-#### Don't Trust- Verify - Grounding LLM Quantitative Reasoning With AutoFormalization [`READ`]
+#### Don't Trust- Verify - Grounding LLM Quantitative Reasoning With AutoFormalization
 
 paper link: [here](https://openreview.net/pdf?id=V5tdi14ple)
 
@@ -296,7 +296,7 @@ citation:
 ```
 
 
-#### LeanDojo: Theorem Proving with Retrieval-Augmented Language Models [`READ`]
+#### LeanDojo: Theorem Proving with Retrieval-Augmented Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.15626.pdf)
 
@@ -313,7 +313,7 @@ citation:
 ```
 
 
-#### An Empirical Study on Challenging Math Problem Solving with GPT-4 [`READ`]
+#### An Empirical Study on Challenging Math Problem Solving with GPT-4
 
 paper link: [here](https://arxiv.org/pdf/2306.01337.pdf)
 
@@ -329,7 +329,7 @@ citation:
 }
 ```
 
-#### Can Language Models Solve Graph Problems in Natural Language? [`UNREAD`]
+#### Can Language Models Solve Graph Problems in Natural Language?
 
 paper link: [here](https://arxiv.org/pdf/2305.10037)
 
@@ -345,7 +345,7 @@ citation:
     
 
 
-#### ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [`UNREAD`]
+#### ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving
 
 paper link: [here](https://arxiv.org/pdf/2309.17452)
 
@@ -360,7 +360,7 @@ citation:
 ```    
 
 
-#### Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem [`UNREAD`]
+#### Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem
 
 paper link: [here](https://arxiv.org/pdf/2210.11694)
 

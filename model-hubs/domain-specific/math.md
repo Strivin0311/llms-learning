@@ -2,7 +2,7 @@
 *Here're some resources about Math LLMs, which are LLMs specific for math computing / reasoning tasks*
 
 
-#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models [`READ`]
+#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 
 paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
 
@@ -29,7 +29,7 @@ citation:
 ```
 
 
-#### Llemma: An Open Language Model For Mathematics [`READ`]
+#### Llemma: An Open Language Model For Mathematics
 
 paper link: [here](https://arxiv.org/pdf/2310.10631.pdf)
 
@@ -58,7 +58,7 @@ citation:
 }
 ```
 
-#### WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct [`UNREAD`]
+#### WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct
 
 paper link: [here](https://arxiv.org/pdf/2308.09583.pdf)
 

@@ -4,7 +4,7 @@
 
 ## Efficient Pretraining
 
-#### Flash Checkpoint to Recover Large Model Training From Failure in Seconds [`UNREAD`]
+#### Flash Checkpoint to Recover Large Model Training From Failure in Seconds
 
 blog link: [here](https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md)
 
@@ -22,7 +22,7 @@ citation:
 ```
 
 
-#### Efficient Online Data Mixing For Language Model Pre-Training [`READ`]
+#### Efficient Online Data Mixing For Language Model Pre-Training
 
 paper link: [here](https://arxiv.org/pdf/2312.02406.pdf)
 
@@ -39,7 +39,7 @@ citation:
 ```
 
 
-#### DiLoCo: Distributed Low-Communication Training of Language Models [`UNREAD`]
+#### DiLoCo: Distributed Low-Communication Training of Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.08105)
 
@@ -56,7 +56,7 @@ citation:
 }
 ```
 
-#### Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models [`UNREAD`]
+#### Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models
 
 paper link: [here](https://openreview.net/pdf?id=dWDEBW2raJ)
 
@@ -71,7 +71,7 @@ citation:
 ```
 
 
-#### Transcending Scaling Laws with 0.1% Extra Compute (UL2R, U-PaLM) [`UNREAD`]
+#### Transcending Scaling Laws with 0.1% Extra Compute (UL2R, U-PaLM)
 
 paper link: [here](https://arxiv.org/pdf/2210.11399.pdf)
 
@@ -88,7 +88,7 @@ citation:
 ```
     
 
-#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed [`UNREAD`]
+#### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed
 
 paper link: [here](https://arxiv.org/pdf/2102.02888.pdf)
 
@@ -104,7 +104,7 @@ citation:
 }
 ```
 
-#### Efficient Algorithms for Device Placement of DNN Graph Operators [`UNREAD`]
+#### Efficient Algorithms for Device Placement of DNN Graph Operators
 
 paper link: [here](https://arxiv.org/pdf/2006.16423)
 
@@ -123,7 +123,7 @@ citation:
 
 
 
-#### SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks [`UNREAD`]
+#### SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/1801.04380)
 
@@ -142,7 +142,7 @@ citation:
 ```
 
 
-#### The reversible residual network: Backpropagation without storing activations (RevNet) [`UNREAD`]
+#### The reversible residual network: Backpropagation without storing activations (RevNet)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
 
@@ -158,7 +158,7 @@ citation:
 ```
 
 
-#### Training deep nets with sublinear memory cost [`UNREAD`]
+#### Training deep nets with sublinear memory cost
 
 paper link: [here](https://arxiv.org/pdf/1604.06174)
 
@@ -176,7 +176,7 @@ citation:
 ## Effective Pretraining
 
 
-#### Spike No More: Stabilizing the Pre-training of Large Language Models [`UNREAD`]
+#### Spike No More: Stabilizing the Pre-training of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2312.16903)
 
@@ -194,7 +194,7 @@ citation:
 ```
 
 
-#### Skill-it! A data-driven skills framework for understanding and training language models [`UNREAD`]
+#### Skill-it! A data-driven skills framework for understanding and training language models
 
 paper link: [here](https://arxiv.org/pdf/2307.14430)
 
@@ -208,7 +208,7 @@ citation:
 }
 ```
 
-#### UL2: Unifying Language Learning Paradigms (MoD) [`UNREAD`]
+#### UL2: Unifying Language Learning Paradigms (MoD)
 
 paper link: [here](https://arxiv.org/pdf/2205.05131.pdf)
 
@@ -225,7 +225,7 @@ citation:
 ```
 
 
-#### Training compute-optimal large language models [`READ`]
+#### Training compute-optimal large language models
 
 paper link: [here](https://arxiv.org/pdf/2203.15556)
 
@@ -240,7 +240,7 @@ citation:
 ```
     
 
-#### Selfdoc: Self-supervised document representation learning [`READ`]
+#### Selfdoc: Self-supervised document representation learning
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf)
 
@@ -256,7 +256,7 @@ citation:
 ```
 
 
-#### An Empirical Model of Large-Batch Training [`UNREAD`]
+#### An Empirical Model of Large-Batch Training
 
 paper link: [here](https://arxiv.org/pdf/1812.06162)
 
@@ -279,7 +279,7 @@ citation:
 ### Universal
 
 
-#### RedPajama: an Open Dataset for Training Large Language Models [`READ`]
+#### RedPajama: an Open Dataset for Training Large Language Models
 
 blog link: [here](https://together.ai/blog/redpajama-data-v2)
 
@@ -299,7 +299,7 @@ citation:
 ```
 
 
-#### The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset [`UNREAD`]
+#### The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/ce9e92e3de2372a4b93353eb7f3dc0bd-Paper-Datasets_and_Benchmarks.pdf)
 
@@ -320,7 +320,7 @@ citation:
 ```
 
 
-#### The Pile: An 800GB Dataset of Diverse Text for Language Modeling [`READ`]
+#### The Pile: An 800GB Dataset of Diverse Text for Language Modeling
 
 paper link: [here](https://arxiv.org/pdf/2101.00027.pdf)
 
@@ -344,7 +344,7 @@ citation:
 
 ### Math
 
-#### Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math [`READ`]
+#### Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math
 
 paper link: [here](https://arxiv.org/pdf/2312.17120)
 
@@ -365,7 +365,7 @@ citation:
 ```
 
 
-#### Llemma: An Open Language Model For Mathematics (Proof-Pile-2) [`READ`]
+#### Llemma: An Open Language Model For Mathematics (Proof-Pile-2)
 
 paper link: [here](https://arxiv.org/pdf/2310.10631.pdf)
 
@@ -386,7 +386,7 @@ citation:
 ```
 
 
-#### OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text [`READ`]
+#### OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text
 
 paper link: [here](https://arxiv.org/pdf/2310.06786)
 
@@ -407,7 +407,7 @@ citation:
 ```
 
 
-#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models (MetaMathQA) [`READ`]
+#### MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models (MetaMathQA)
 
 paper link: [here](https://arxiv.org/pdf/2309.12284)
 
@@ -429,7 +429,7 @@ citation:
 
 
 
-#### Let's Verify Step by Step (PRM800K) [`READ`]
+#### Let's Verify Step by Step (PRM800K)
 
 paper link: [here](https://arxiv.org/pdf/2305.20050.pdf)
 
@@ -450,7 +450,7 @@ citation:
 ## Pretraining Objectives
 
 
-#### Better & Faster Large Language Models via Multi-token Prediction [`UNREAD`]
+#### Better & Faster Large Language Models via Multi-token Prediction
 
 paper link: [here](https://arxiv.org/pdf/2404.19737)
 

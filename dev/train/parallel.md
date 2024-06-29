@@ -4,7 +4,7 @@
 
 ### Integration of Parallelism
 
-#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model [`READ`]
+#### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model
 
 paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
 
@@ -21,7 +21,7 @@ citation:
 ```
 
 
-#### Colossal-ai: A unified deep learning system for large-scale parallel training [`READ`]
+#### Colossal-ai: A unified deep learning system for large-scale parallel training
 
 paper link: [here](https://arxiv.org/pdf/2110.14883)
 
@@ -39,7 +39,7 @@ citation:
 ```
 
 
-#### GSPMD: General and Scalable Parallelization for ML Computation Graphs [`UNREAD`]
+#### GSPMD: General and Scalable Parallelization for ML Computation Graphs
 
 paper link: [here](https://arxiv.org/pdf/2105.04663)
 
@@ -56,7 +56,7 @@ citation:
 }
 ```
 
-#### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (PTD-P) [`READ`]
+#### Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM (PTD-P)
 
 paper link: [here](https://arxiv.org/pdf/2104.04473.pdf)
 
@@ -72,7 +72,7 @@ citation:
 }
 ```
 
-#### DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters [`READ`]
+#### DeepSpeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters
 
 paper link: [here](https://dl.acm.org/doi/10.1145/3394486.3406703)
 
@@ -94,7 +94,7 @@ citation:
 ```
 
 
-#### Gshard: Scaling giant models with conditional computation and automatic sharding [`READ`]
+#### Gshard: Scaling giant models with conditional computation and automatic sharding
 
 paper link: [here](https://arxiv.org/pdf/2006.16668.pdf)
 
@@ -113,7 +113,7 @@ citation:
 ### Expert Parallelism (EP)
 
 
-#### FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement [`UNREAD`]
+#### FlexMoE: Scaling Large-scale Sparse Pre-trained Model Training via Dynamic Device Placement
 
 paper link: [here](https://arxiv.org/pdf/2304.03946)
 
@@ -132,7 +132,7 @@ citation:
 }
 ```
 
-#### Accelerating Distributed MoE Training and Inference with Lina [`UNREAD`]
+#### Accelerating Distributed MoE Training and Inference with Lina
 
 paper link: [here](https://www.usenix.org/system/files/atc23-li-jiamin.pdf)
 
@@ -148,7 +148,7 @@ citation:
 }
 ```
 
-#### FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models [`UNREAD`]
+#### FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3503221.3508418)
 
@@ -165,7 +165,7 @@ citation:
 ```
 
 
-#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE) [`READ`]
+#### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts (dMoE)
 
 paper link: [here](https://arxiv.org/pdf/2211.15841.pdf)
 
@@ -184,7 +184,7 @@ citation:
 ```
 
 
-#### Tutel: Adaptive Mixture-of-Experts at Scale [`UNREAD`]
+#### Tutel: Adaptive Mixture-of-Experts at Scale
 
 paper link: [here](https://arxiv.org/pdf/2206.03382)
 
@@ -202,7 +202,7 @@ citation:
 ```
 
 
-#### Deepspeed-moe: Advancing mixture-of-experts inference and training to power next-generation ai scale [`UNREAD`]
+#### Deepspeed-moe: Advancing mixture-of-experts inference and training to power next-generation ai scale
 
 paper link: [here](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
 
@@ -220,7 +220,7 @@ citation:
 ```
 
 
-#### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity (SMoE) [`READ`]
+#### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity (SMoE)
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 
@@ -243,7 +243,7 @@ citation:
 ### Context Parallelism (CP)
 
 
-#### DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models [`UNREAD`]
+#### DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models
 
 paper link: [here](https://arxiv.org/pdf/2309.14509)
 
@@ -265,7 +265,7 @@ citation:
 ```
 
 
-#### Sequence parallelism: Long sequence training from system perspective (Ring Self-Attention) [`READ`]
+#### Sequence parallelism: Long sequence training from system perspective (Ring Self-Attention)
 
 paper link: [here](https://arxiv.org/pdf/2105.13120)
 
@@ -284,7 +284,7 @@ citation:
 ### Pipeline Parallelism (PP)
 
 
-#### BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models [`UNREAD`]
+#### BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models
 
 paper link: [here](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf)
 
@@ -307,7 +307,7 @@ citation:
 ```
 
 
-#### Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines [`UNREAD`]
+#### Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines
 
 paper link: [here](https://arxiv.org/pdf/2107.06925)
 
@@ -327,7 +327,7 @@ citation:
 ```
 
 
-#### DAPPLE: A Pipelined Data Parallel Approach for Training Large Models [`UNREAD`]
+#### DAPPLE: A Pipelined Data Parallel Approach for Training Large Models
 
 paper link: [here](https://arxiv.org/pdf/2007.01045)
 
@@ -345,7 +345,7 @@ citation:
 ```
 
 
-#### Memory-Efficient Pipeline-Parallel DNN Training (PipeDream-2BW) [`READ`]
+#### Memory-Efficient Pipeline-Parallel DNN Training (PipeDream-2BW)
 
 paper link: [here](https://arxiv.org/pdf/2006.09503)
 
@@ -363,7 +363,7 @@ citation:
 ```
 
 
-#### GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism [`READ`]
+#### GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
 
 paper link: [here](https://arxiv.org/pdf/1811.06965.pdf)
 
@@ -382,7 +382,7 @@ citation:
 ```
 
 
-#### PipeDream: Fast and Efficient Pipeline Parallel DNN Training [`READ`]
+#### PipeDream: Fast and Efficient Pipeline Parallel DNN Training
 
 paper link: [here](https://arxiv.org/pdf/1806.03377)
 
@@ -402,7 +402,7 @@ citation:
 
 ### Sequence Parallelism (SP)
 
-#### Reducing Activation Recomputation in Large Transformer Models (SP) [`READ`]
+#### Reducing Activation Recomputation in Large Transformer Models (SP)
 
 paper link: [here](https://arxiv.org/pdf/2205.05198.pdf)
 
@@ -423,7 +423,7 @@ citation:
 ### Tensor Parallelism (TP)
 
 
-#### Maximizing Parallelism in Distributed Training for Huge Neural Networks (3D TP) [`UNREAD`]
+#### Maximizing Parallelism in Distributed Training for Huge Neural Networks (3D TP)
 
 paper link: [here](https://arxiv.org/pdf/2105.14450)
 
@@ -440,7 +440,7 @@ citation:
 }
 ```
 
-#### Tesseract: Parallelize the Tensor Parallelism Efficiently (2.5D TP) [`UNREAD`]
+#### Tesseract: Parallelize the Tensor Parallelism Efficiently (2.5D TP)
 
 paper link: [here](https://arxiv.org/pdf/2105.14500)
 
@@ -460,7 +460,7 @@ citation:
 ```
 
 
-#### An Efficient 2D Method for Training Super-Large Deep Learning Models (2D TP) [`UNREAD`]
+#### An Efficient 2D Method for Training Super-Large Deep Learning Models (2D TP)
 
 paper link: [here](https://arxiv.org/pdf/2104.05343)
 
@@ -478,7 +478,7 @@ citation:
 ```
 
 
-#### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (1D TP) [`READ`]
+#### Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism (1D TP)
 
 paper link: [here](https://arxiv.org/pdf/1909.08053.pdf)
 
@@ -503,7 +503,7 @@ citation:
 }
 ```
 
-#### Local SGD Converges Fast and Communicates Little [`UNREAD`]
+#### Local SGD Converges Fast and Communicates Little
 
 paper link: [here](https://arxiv.org/pdf/1805.09767.pdf)
 
@@ -521,7 +521,7 @@ citation:
 ```
 
 
-#### Parallel SGD: When does averaging help? [`UNREAD`]
+#### Parallel SGD: When does averaging help?
 
 paper link: [here](https://arxiv.org/pdf/1606.07365.pdf)
 
@@ -541,7 +541,7 @@ citation:
 ### Data Parallelism (DP)
 
 
-#### ZeRO++: Extremely Efficient Collective Communication for Giant Model Training [`UNREAD`]
+#### ZeRO++: Extremely Efficient Collective Communication for Giant Model Training
 
 paper link: [here](https://arxiv.org/pdf/2306.10209.pdf)
 
@@ -560,7 +560,7 @@ citation:
 ```
 
 
-#### Pytorch FSDP: experiences on scaling fully sharded data parallel [`READ`]
+#### Pytorch FSDP: experiences on scaling fully sharded data parallel
 
 paper link: [here](https://arxiv.org/pdf/2304.11277)
 
@@ -579,7 +579,7 @@ citation:
 ```
 
 
-#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning [`UNREAD`]
+#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning
 
 paper link: [here](https://arxiv.org/pdf/2104.07857.pdf)
 
@@ -598,7 +598,7 @@ citation:
 ```
 
 
-#### Automatic Cross-Replica Sharding of Weight Update in Data-Parallel Training [`UNREAD`]
+#### Automatic Cross-Replica Sharding of Weight Update in Data-Parallel Training
 
 paper link: [here](https://arxiv.org/pdf/2004.13336.pdf)
 
@@ -615,7 +615,7 @@ citation:
 ```
 
 
-#### ZeRO: Memory Optimizations Toward Training Trillion Parameter Models [`READ`]
+#### ZeRO: Memory Optimizations Toward Training Trillion Parameter Models
 
 paper link: [here](https://arxiv.org/pdf/1910.02054.pdf)
 
@@ -634,7 +634,7 @@ citation:
 ```
 
 
-#### Distributed Data Parallelism (DDP) [`READ`]
+#### Distributed Data Parallelism (DDP)
 
 blog link: [here](https://pytorch.org/docs/master/notes/ddp.html)
 

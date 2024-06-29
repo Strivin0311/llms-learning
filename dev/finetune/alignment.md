@@ -2,7 +2,7 @@
 *Here're some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
-#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO) [`UNREAD`]
+#### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO)
 
 paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
 
@@ -21,7 +21,7 @@ citation:
 }
 ```
 
-#### Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models (SPIN) [`READ`]
+#### Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models (SPIN)
 
 paper link: [here](https://arxiv.org/pdf/2401.01335.pdf)
 
@@ -38,7 +38,7 @@ citation:
 ```
 
 
-#### Zephyr: Direct Distillation of LM Alignment [`UNREAD`]
+#### Zephyr: Direct Distillation of LM Alignment
 
 paper link: [here](https://arxiv.org/pdf/2310.16944.pdf)
 
@@ -55,7 +55,7 @@ citation:
 ```
 
 
-#### FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning [`UNREAD`]
+#### FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning
 
 paper link: [here](https://arxiv.org/pdf/2310.15105)
 
@@ -69,7 +69,7 @@ citation:
 }
 ```
 
-#### Group Preference Optimization: Few-Shot Alignment of Large Language Models (GPO) [`READ`]
+#### Group Preference Optimization: Few-Shot Alignment of Large Language Models (GPO)
 
 paper link: [here](https://arxiv.org/pdf/2310.11523.pdf)
 
@@ -86,7 +86,7 @@ citation:
 ```
 
 
-#### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment (P3O) ['READ']
+#### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment (P3O)
 
 paper link: [here](https://arxiv.org/pdf/2310.00212.pdf)
 
@@ -104,7 +104,7 @@ citation:
 
 
 
-#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (C-RLFT) [`UNREAD`]
+#### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (C-RLFT)
 
 paper link: [here](https://arxiv.org/pdf/2309.11235.pdf)
 
@@ -119,7 +119,7 @@ citation:
 ```
 
 
-#### Fine-Tuning Language Models with Advantage-Induced Policy Alignment (APA) [`UNREAD`]
+#### Fine-Tuning Language Models with Advantage-Induced Policy Alignment (APA)
 
 paper link: [here](https://arxiv.org/abs/2306.02231)
 
@@ -137,7 +137,7 @@ citation:
     
 
 
-#### Direct preference optimization: Your language model is secretly a reward model (DPO) [`READ`]
+#### Direct preference optimization: Your language model is secretly a reward model (DPO)
 
 paper link: [here](https://arxiv.org/pdf/2305.18290.pdf)
 
@@ -151,7 +151,7 @@ citation:
 }
 ```
 
-#### Lima: Less is more for alignment [`UNREAD`]
+#### Lima: Less is more for alignment
 
 paper link: [here](https://arxiv.org/pdf/2305.11206)
 
@@ -166,7 +166,7 @@ citation:
 ```
     
 
-#### RRHF: Rank responses to align language models with human feedback without tears [`UNREAD`]
+#### RRHF: Rank responses to align language models with human feedback without tears
 
 paper link: [here](https://arxiv.org/pdf/2304.05302)
 
@@ -180,7 +180,7 @@ citation:
 }
 ```
 
-#### Openagi: When llm meets domain experts (RLTF) [`UNREAD`]
+#### Openagi: When llm meets domain experts (RLTF)
 
 paper link: [here](https://arxiv.org/pdf/2304.04370.pdf)
 
@@ -194,7 +194,7 @@ citation:
 }
 ```
     
-#### Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons [`UNREAD`]
+#### Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons
 
 paper link: [here](https://arxiv.org/pdf/2301.11270.pdf)
 
@@ -211,7 +211,7 @@ citation:
 ```
 
 
-#### Constitutional ai: Harmlessness from ai feedback (RLAIF) [`UNREAD`]
+#### Constitutional ai: Harmlessness from ai feedback (RLAIF)
 
 paper link: [here](https://arxiv.org/pdf/2212.08073.pdf)
 
@@ -226,7 +226,7 @@ citation:
 ```
 
 
-#### Scaling Laws for Reward Model Overoptimization [`UNREAD`]
+#### Scaling Laws for Reward Model Overoptimization
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
 
@@ -243,7 +243,7 @@ citation:
 ```
 
 
-#### Illustrating Reinforcement Learning from Human Feedback (RLHF) [`UNREAD`]
+#### Illustrating Reinforcement Learning from Human Feedback (RLHF)
 
 blog link: [here](https://huggingface.co/blog/rlhf)
 
@@ -259,7 +259,7 @@ citation:
 ```
 
 
-#### Fine-tuning language models from human preferences (RLHF) [`UNREAD`]
+#### Fine-tuning language models from human preferences (RLHF)
 
 paper link: [here](https://arxiv.org/pdf/1909.08593.pdf)
 

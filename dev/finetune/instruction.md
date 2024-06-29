@@ -2,7 +2,7 @@
 *Here're some resources about Instruction Following Fine-Tuning (IFT) for LLMs*
 
 
-#### Self-QA: Unsupervised Knowledge Guided Language Model Alignment [`READ`]
+#### Self-QA: Unsupervised Knowledge Guided Language Model Alignment
 
 paper link: [here](https://arxiv.org/pdf/2305.11952)
 
@@ -18,7 +18,7 @@ citation:
     
     
 
-#### Principle-driven self-alignment of language models from scratch with minimal human supervision [`READ`]
+#### Principle-driven self-alignment of language models from scratch with minimal human supervision
 
 paper link: [here](https://arxiv.org/pdf/2305.03047)
 
@@ -32,7 +32,7 @@ citation:
 }
 ```
 
-#### WizardLM: Empowering Large Language Models to Follow Complex Instructions [`UNREAD`]
+#### WizardLM: Empowering Large Language Models to Follow Complex Instructions
 
 paper link: [here](https://arxiv.org/pdf/2304.12244.pdf)
 
@@ -59,7 +59,7 @@ citation:
 }
 ```
 
-#### Visual instruction tuning [`UNREAD`]
+#### Visual instruction tuning
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
@@ -75,7 +75,7 @@ citation:
     
 
 
-#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data [`READ`]
+#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data
 
 paper link: [here](https://arxiv.org/pdf/2304.01196)
 
@@ -90,7 +90,7 @@ citation:
 ```
 
 
-#### Self-Prompting Large Language Models for Zero-Shot Open-Domain QA ['READ']
+#### Self-Prompting Large Language Models for Zero-Shot Open-Domain QA
 
 paper link: [here](https://arxiv.org/pdf/2212.08635.pdf)
 
@@ -107,7 +107,7 @@ citation:
 ```
 
 
-#### Self-instruct: Aligning language model with self generated instructions [`READ`]
+#### Self-instruct: Aligning language model with self generated instructions
 
 paper link: [here](https://arxiv.org/pdf/2212.10560)
 
@@ -121,7 +121,7 @@ citation:
 }
 ```
 
-#### Training language models to follow instructions with human feedback (InstructGPT) [`READ`]
+#### Training language models to follow instructions with human feedback (InstructGPT)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
@@ -138,7 +138,7 @@ citation:
 ```
 
 
-#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM) [`READ`]
+#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM)
 
 paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
 
@@ -155,7 +155,7 @@ citation:
 ```
 
 
-#### Finetuned language models are zero-shot learners (FLAN) [`READ`]
+#### Finetuned language models are zero-shot learners (FLAN)
 
 paper link: [here](https://arxiv.org/pdf/2109.01652)
 

@@ -2,7 +2,7 @@
 *Here're some resources about Finance LLMs, which are LLMs specific for finance domain*
 
 
-#### FinPT: Financial Risk Prediction with Profile Tuning on Pretrained Foundation Models [`UNREAD`]
+#### FinPT: Financial Risk Prediction with Profile Tuning on Pretrained Foundation Models
 
 paper link: [here](https://arxiv.org/abs/2308.00065)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### FinGPT: Democratizing Internet-scale Data for Financial Large Language Models [`UNREAD`]
+#### FinGPT: Democratizing Internet-scale Data for Financial Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2307.10485.pdf)
 
@@ -36,7 +36,7 @@ citation:
 ```
 
 
-#### Xuanyuan 2.0: A large chinese financial chat model with hundreds of billions parameters [`UNREAD`]
+#### Xuanyuan 2.0: A large chinese financial chat model with hundreds of billions parameters
 
 paper link: [here](https://arxiv.org/pdf/2305.12002)
 
@@ -53,7 +53,7 @@ citation:
     
 
 
-#### Bloomberggpt: A large language model for finance [`UNREAD`]
+#### Bloomberggpt: A large language model for finance
 
 paper link: [here](https://arxiv.org/pdf/2303.17564.pdf)
 

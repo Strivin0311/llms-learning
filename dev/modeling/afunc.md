@@ -2,7 +2,7 @@
 *Here're some resources about Activation Functions designed for Transformer-based LLMs beyond softmax*
 
 
-#### Primer: Searching for Efficient Transformers for Language Modeling (Squared ReLU) [`UNREAD`]
+#### Primer: Searching for Efficient Transformers for Language Modeling (Squared ReLU)
 
 paper link: [here](https://arxiv.org/pdf/2109.08668.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### Glu variants improve transformer (ReGLU) [`UNREAD`]
+#### Glu variants improve transformer (ReGLU)
 
 paper link: [here](https://arxiv.org/pdf/2002.05202.pdf)
 
@@ -34,7 +34,7 @@ citation:
 ```
 
 
-#### Deep Learning using Rectified Linear Units (ReLU) [`UNREAD`]
+#### Deep Learning using Rectified Linear Units (ReLU)
 
 paper link: [here](https://arxiv.org/pdf/1803.08375.pdf)
 
@@ -51,7 +51,7 @@ citation:
 ```
 
 
-#### Searching for activation functions (Swish) [`UNREAD`]
+#### Searching for activation functions (Swish)
 
 paper link: [here](https://arxiv.org/pdf/1710.05941.pdf)
 
@@ -66,7 +66,7 @@ citation:
 ```
 
 
-#### Gaussian Error Linear Units (GELUs) [`UNREAD`]
+#### Gaussian Error Linear Units (GELUs)
 
 paper link: [here](https://arxiv.org/pdf/1606.08415.pdf)
 
@@ -83,7 +83,7 @@ citation:
 ```
 
 
-#### Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs) [`UNREAD`]
+#### Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)
 
 paper link: [here](https://arxiv.org/pdf/1511.07289.pdf)
 

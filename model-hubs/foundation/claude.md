@@ -2,7 +2,7 @@
 *Here're some resources about Claude*
 
 
-#### Model Card and Evaluations for Claude Models (Claude 2) [`UNREAD`]
+#### Model Card and Evaluations for Claude Models (Claude 2)
 
 paper link: [here](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
 

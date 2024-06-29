@@ -3,7 +3,7 @@
 
 
 
-#### Bloom: A 176b-parameter open-access multilingual language model [`UNREAD`]
+#### Bloom: A 176b-parameter open-access multilingual language model
 
 paper link: [here](https://arxiv.org/pdf/2211.05100)
 

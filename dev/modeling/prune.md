@@ -2,7 +2,7 @@
 *Here're some resources about Model Pruning Strategies for LLMs*
 
 
-#### A Simple and Effective Pruning Approach for Large Language Models (Wanda) [`UNREAD`]
+#### A Simple and Effective Pruning Approach for Large Language Models (Wanda)
 
 paper link: [here](https://arxiv.org/pdf/2306.11695.pdf)
 
@@ -18,7 +18,7 @@ citation:
 }
 ```
 
-#### GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints [`READ`]
+#### GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
 
 paper link: [here](https://arxiv.org/pdf/2305.13245)
 
@@ -34,7 +34,7 @@ citation:
 ```
 
 
-#### LLM-Pruner: On the Structural Pruning of Large Language Models [`UNREAD`]
+#### LLM-Pruner: On the Structural Pruning of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2305.11627.pdf)
 
@@ -51,7 +51,7 @@ citation:
 ```
 
 
-#### SCOP: Scientific Control for Reliable Neural Network Pruning [`UNREAD`]
+#### SCOP: Scientific Control for Reliable Neural Network Pruning
 
 paper link: [here](https://arxiv.org/pdf/2010.10732)
 
@@ -68,7 +68,7 @@ citation:
 }
 ```
 
-#### Fast transformer decoding: One write-head is all you need (MQA) [`READ`]
+#### Fast transformer decoding: One write-head is all you need (MQA)
 
 paper link: [here](https://arxiv.org/pdf/1911.02150.pdf?trk=public_post_comment-text)
 
@@ -84,7 +84,7 @@ citation:
 ```
 
 
-#### Are sixteen heads really better than one? [`READ`]
+#### Are sixteen heads really better than one?
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf)
 

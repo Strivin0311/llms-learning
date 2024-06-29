@@ -2,7 +2,7 @@
 *Here're some resources about Model Editing for LLMs, including (De)composition, Fusion / Stacking / Ensembling, and even Unlearning*
 
 
-#### Large Language Model Unlearning [`UNREAD`]
+#### Large Language Model Unlearning
 
 paper link: [here](https://arxiv.org/pdf/2310.10683.pdf)
 
@@ -19,7 +19,7 @@ citation:
 ```
 
 
-#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition [`READ`]
+#### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition
 
 paper link: [here](https://arxiv.org/pdf/2307.13269)
 

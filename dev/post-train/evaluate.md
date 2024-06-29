@@ -5,7 +5,7 @@
 ## Benchmarking
 
 
-#### Rethinking Benchmark and Contamination for Language Models with Rephrased Samples ['READ']
+#### Rethinking Benchmark and Contamination for Language Models with Rephrased Samples
 
 paper link: [here](https://arxiv.org/pdf/2311.04850)
 
@@ -22,7 +22,7 @@ citation
 ```
 
 
-#### Don't Make Your LLM an Evaluation Benchmark Cheater ['READ']
+#### Don't Make Your LLM an Evaluation Benchmark Cheater
 
 paper link: [here](https://arxiv.org/pdf/2311.01964)
 
@@ -39,7 +39,7 @@ citation
 ```
 
 
-#### GPT-Fathom- Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond ['READ']
+#### GPT-Fathom- Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond
 
 paper link: [here](https://arxiv.org/pdf/2309.16583)
 
@@ -54,7 +54,7 @@ citation
 ```
 
 
-#### Benchmarking Large Language Models in Retrieval-Augmented Generation [`READ`]
+#### Benchmarking Large Language Models in Retrieval-Augmented Generation
 
 paper link: [here](https://arxiv.org/pdf/2309.01431)
 
@@ -71,7 +71,7 @@ citation:
 ```
 
 
-#### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena [`UNREAD`]
+#### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 
 paper link: [here](https://arxiv.org/pdf/2306.05685.pdf)
 
@@ -90,7 +90,7 @@ citation:
 ```
 
 
-#### InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models [`UNREAD`]
+#### InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2306.04757.pdf)
 
@@ -108,7 +108,7 @@ citation:
     
 
 
-#### Holistic evaluation of language models (HELM) [`UNREAD`]
+#### Holistic evaluation of language models (HELM)
 
 paper link: [here](https://arxiv.org/pdf/2211.09110.pdf)
 
@@ -127,7 +127,7 @@ citation:
 
 ### Mutli-Domain Tasks
 
-#### Openagi: When llm meets domain experts [`UNREAD`]
+#### Openagi: When llm meets domain experts
 
 paper link: [here](https://arxiv.org/pdf/2304.04370.pdf)
 
@@ -142,7 +142,7 @@ citation:
 ```
 
 
-#### Measuring massive multitask language understanding (MMLU) [`UNREAD`]
+#### Measuring massive multitask language understanding (MMLU)
 
 paper link: [here](https://arxiv.org/pdf/2009.03300)
 
@@ -161,7 +161,7 @@ citation:
 ### Math Tasks
 
 
-#### Training Verifiers to Solve Math Word Problems (GSM8k) [`READ`]
+#### Training Verifiers to Solve Math Word Problems (GSM8k)
 
 paper link: [here](https://arxiv.org/pdf/2110.14168v2)
 
@@ -182,7 +182,7 @@ citation:
 ```
 
 
-#### Measuring Mathematical Problem Solving With the MATH Dataset (MATH) [`READ`]
+#### Measuring Mathematical Problem Solving With the MATH Dataset (MATH)
 
 paper link: [here](https://arxiv.org/pdf/2103.03874.pdf)
 
@@ -201,7 +201,7 @@ citation:
 ```
 
 
-#### MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics [`READ`]
+#### MiniF2F: a cross-system benchmark for formal Olympiad-level mathematics
 
 paper link: [here](https://arxiv.org/pdf/2109.00110)
 
@@ -220,7 +220,7 @@ citation:
 
 ### Code Tasks
 
-#### MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation [`UNREAD`]
+#### MultiPL-E: A Scalable and Polyglot Approach to Benchmarking Neural Code Generation
 
 paper link: [here](https://ieeexplore.ieee.org/iel7/32/4359463/10103177.pdf)
 
@@ -240,7 +240,7 @@ citation:
 ```
 
 
-#### Evaluating Large Language Models Trained on Code (HumanEval) [`UNREAD`]
+#### Evaluating Large Language Models Trained on Code (HumanEval)
 
 paper link: [here](https://arxiv.org/pdf/2107.03374.pdf)
 
@@ -265,7 +265,7 @@ citation:
 ### Mutli-Domain Tasks
 
 
-#### C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models [`UNREAD`]
+#### C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models
 
 paper link: [here](https://arxiv.org/pdf/2305.08322)
 
@@ -283,7 +283,7 @@ citation:
 
 ### Finance Tasks
 
-#### CGCE: A Chinese Generative Chat Evaluation Benchmark for General and Financial Domains [`UNREAD`]
+#### CGCE: A Chinese Generative Chat Evaluation Benchmark for General and Financial Domains
 
 paper link: [here](https://arxiv.org/pdf/2305.14471)
 
@@ -303,7 +303,7 @@ citation:
 
 ### Mutli-Domain Tasks
 
-#### LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding [`READ`]
+#### LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding
 
 paper link: [here](https://arxiv.org/pdf/2308.14508)
 
@@ -324,7 +324,7 @@ citation:
 
 ## Metrics
 
-#### Language model evaluation beyond perplexity [`UNREAD`]
+#### Language model evaluation beyond perplexity
 
 paper link: [here](https://arxiv.org/pdf/2106.00085)
 

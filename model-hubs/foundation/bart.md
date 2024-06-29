@@ -2,7 +2,7 @@
 *Here're some resources about BART*
 
 
-#### Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension [`READ`]
+#### Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension
 
 paper link: [here](https://arxiv.org/pdf/1910.13461)
 

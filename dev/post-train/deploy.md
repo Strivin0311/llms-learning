@@ -1,7 +1,7 @@
 # Deployment on LLMs
 *Here're some resources about Deployment on LLMs*
 
-#### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems [`READ`]
+#### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems
 
 paper link: [here](https://arxiv.org/pdf/2312.15234.pdf)
 

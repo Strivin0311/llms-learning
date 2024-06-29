@@ -5,7 +5,7 @@
 ### Adversarial Attack
 
 
-#### Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation [`READ`]
+#### Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation
 
 paper link: [here](https://arxiv.org/pdf/2311.03348.pdf)
 
@@ -22,7 +22,7 @@ citation:
 ```
 
 
-#### Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game [`READ`]
+#### Tensor Trust: Interpretable Prompt Injection Attacks from an Online Game
 
 paper link: [here](https://arxiv.org/pdf/2311.01011.pdf)
 
@@ -39,7 +39,7 @@ citation:
 ```
 
 
-#### Break it, Imitate it, Fix it: Robustness by Generating Human-Like Attacks [`READ`]
+#### Break it, Imitate it, Fix it: Robustness by Generating Human-Like Attacks
 
 paper link: [here](https://arxiv.org/pdf/2310.16955.pdf)
 
@@ -56,7 +56,7 @@ citation:
 ```
 
 
-#### AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models [`READ`]
+#### AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2310.15140.pdf)
 
@@ -73,7 +73,7 @@ citation:
 ```
 
 
-#### Jailbreaking Black Box Large Language Models in Twenty Queries [`READ`]
+#### Jailbreaking Black Box Large Language Models in Twenty Queries
 
 paper link: [here](https://arxiv.org/pdf/2310.08419.pdf)
 
@@ -89,7 +89,7 @@ citation:
 }
 ```
 
-#### Low-Resource Languages Jailbreak GPT-4 [`READ`]
+#### Low-Resource Languages Jailbreak GPT-4
 
 paper link: [here](https://arxiv.org/pdf/2310.02446.pdf)
 
@@ -106,7 +106,7 @@ citation:
 ```
 
 
-#### Universal and Transferable Adversarial Attacks on Aligned Language Models [`READ`]
+#### Universal and Transferable Adversarial Attacks on Aligned Language Models
 
 paper link: [here](https://arxiv.org/pdf/2307.15043.pdf)
 
@@ -127,7 +127,7 @@ citation:
 ### Adversarial Defence
 
 
-#### Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks [`READ`]
+#### Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks
 
 paper link: [here](https://arxiv.org/pdf/2401.17263.pdf)
 
@@ -143,7 +143,7 @@ citation:
 }
 ```
 
-#### Weakly Supervised Detection of Hallucinations in LLM Activations [`READ`]
+#### Weakly Supervised Detection of Hallucinations in LLM Activations
 
 paper link: [here](https://arxiv.org/pdf/2312.02798.pdf)
 
@@ -160,7 +160,7 @@ citation:
 ```
 
 
-#### Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization [`READ`]
+#### Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization
 
 paper link: [here](https://arxiv.org/pdf/2311.09096.pdf)
 
@@ -177,7 +177,7 @@ citation:
 ```
 
 
-#### SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks [`READ`]
+#### SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks
 
 paper link: [here](https://arxiv.org/pdf/2310.03684.pdf)
 
@@ -193,7 +193,7 @@ citation:
 }
 ```
 
-#### Can LLM-Generated Misinformation Be Detected? [`READ`]
+#### Can LLM-Generated Misinformation Be Detected?
 
 paper link: [here](https://arxiv.org/pdf/2309.13788.pdf)
 
@@ -210,7 +210,7 @@ citation:
 ```
 
 
-#### Baseline Defenses for Adversarial Attacks Against Aligned Language Models [`READ`]
+#### Baseline Defenses for Adversarial Attacks Against Aligned Language Models
 
 paper link: [here](https://arxiv.org/pdf/2309.00614.pdf)
 
@@ -226,7 +226,7 @@ citation:
 }
 ```
 
-#### Detecting language model attacks with perplexity [`READ`]
+#### Detecting language model attacks with perplexity
 
 paper link: [here](https://arxiv.org/pdf/2308.14132.pdf)
 
@@ -243,7 +243,7 @@ citation:
 ```
 
 
-#### Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks [`READ`]
+#### Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks
 
 paper link: [here](https://arxiv.org/pdf/2305.14965.pdf)
 
@@ -264,7 +264,7 @@ citation:
 ### Robustness Evaluation
 
 
-#### Quantifying Uncertainty in Natural Language Explanations of Large Language Models [`READ`]
+#### Quantifying Uncertainty in Natural Language Explanations of Large Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.03533.pdf)
 
@@ -280,7 +280,7 @@ citation:
 }
 ```
 
-#### Estimating Uncertainty in Multimodal Foundation Models using Public Internet Data [`READ`]
+#### Estimating Uncertainty in Multimodal Foundation Models using Public Internet Data
 
 paper link: [here](https://arxiv.org/pdf/2310.09926.pdf)
 
@@ -297,7 +297,7 @@ citation:
 ```
 
 
-#### Risk Assessment and Statistical Significance in the Age of Foundation Models [`READ`]
+#### Risk Assessment and Statistical Significance in the Age of Foundation Models
 
 paper link: [here](https://arxiv.org/pdf/2310.07132.pdf)
 
@@ -314,7 +314,7 @@ citation:
 ```
 
 
-#### Evaluating Superhuman Models with Consistency Checks [`READ`]
+#### Evaluating Superhuman Models with Consistency Checks
 
 paper link: [here](https://arxiv.org/pdf/2306.09983.pdf)
 
@@ -335,7 +335,7 @@ citation:
 ### Emiprical Study
 
 
-#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models [`READ`]
+#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models
 
 paper link: [here](https://arxiv.org/pdf/2402.17671.pdf)
 
@@ -352,7 +352,7 @@ citation:
 ```
 
 
-#### Are Large Language Models Really Robust to Word-Level Perturbations? [`READ`]
+#### Are Large Language Models Really Robust to Word-Level Perturbations?
 
 paper link: [here](https://arxiv.org/pdf/2309.11166.pdf)
 
@@ -369,7 +369,7 @@ citation:
 ```
 
 
-#### Jailbroken: How does llm safety training fail? [`READ`]
+#### Jailbroken: How does llm safety training fail?
 
 paper link: [here](https://arxiv.org/pdf/2307.02483.pdf)
 
@@ -386,7 +386,7 @@ citation:
 ```
 
 
-#### Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study [`READ`]
+#### Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study
 
 paper link: [here](https://arxiv.org/pdf/2305.13860.pdf)
 
@@ -403,7 +403,7 @@ citation:
 ```
 
 
-#### On Evaluating Adversarial Robustness of Large Vision-Language Models [`UNREAD`]
+#### On Evaluating Adversarial Robustness of Large Vision-Language Models
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/a97b58c4f7551053b0512f92244b0810-Paper-Conference.pdf)
 
