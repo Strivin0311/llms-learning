@@ -2,7 +2,6 @@
 *Here're some resources about Miscellaneous Models*
 
 
-
 #### Grok-1: 314 billion parameter Mixture-of-Experts model trained from scratch by xAI
 
 blog link: [here](https://x.ai/blog/grok-os)
@@ -156,7 +155,7 @@ citation:
   year={2023}
 }
 ```
-    
+
 
 
 #### How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources (Tulu)
@@ -172,28 +171,6 @@ citation:
   author={Wang, Yizhong and Ivison, Hamish and Dasigi, Pradeep and Hessel, Jack and Khot, Tushar and Chandu, Khyathi Raghavi and Wadden, David and MacMillan, Kelsey and Smith, Noah A and Beltagy, Iz and others},
   journal={arXiv preprint arXiv:2306.04751},
   year={2023}
-}
-```
-
-#### Anima: the first open source 33B Chinese LLM
-
-github link: [here](https://github.com/lyogavin/Anima)
-
-model links: 
-
-|model name|link|
-|-|-|
-|Anima-7B-100K|[here](https://huggingface.co/lyogavin/Anima-7B-100K)|
-|Anima-33B-merged|[here](https://huggingface.co/lyogavin/Anima33B-merged)|
-|Anima-33B|[here](https://huggingface.co/lyogavin/Anima33B)|
-
-citation:
-```bibtex
-@misc{anima2023github,
-  author = {Gavin Li, Ikko Eltociear Ashimine, Naozumi},
-  title = {Anima: the first open source 33B Chinese LLM},
-  year = {2023},
-  howpublished = {\url{https://github.com/lyogavin/Anima}},
 }
 ```
 

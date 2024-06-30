@@ -2,6 +2,33 @@
 *Here're some resources about Mixture-of-Experts (MoE) structure design of LLMs*
 
 
+#### Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models
+
+paper link: [here](https://arxiv.org/pdf/2406.06563)
+
+github link: [here](https://github.com/SkyworkAI/Skywork-MOE)
+
+model links:
+
+|model name|link|
+|-|-|
+|Skywork-MoE-Base-FP8|[here](https://huggingface.co/Skywork/Skywork-MoE-Base-FP8)|
+|Skywork-MoE-Base|[here](https://huggingface.co/Skywork/Skywork-MoE-Base)|
+
+citation:
+
+```bibtex
+@misc{wei2024skyworkmoedeepdivetraining,
+      title={Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models}, 
+      author={Tianwen Wei and Bo Zhu and Liang Zhao and Cheng Cheng and Biye Li and Weiwei Lü and Peng Cheng and Jianhao Zhang and Xiaoyu Zhang and Liang Zeng and Xiaokun Wang and Yutuan Ma and Rui Hu and Shuicheng Yan and Han Fang and Yahui Zhou},
+      year={2024},
+      eprint={2406.06563},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.06563}, 
+}
+```
+
 #### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
 paper link: [here](https://arxiv.org/pdf/2405.04434)

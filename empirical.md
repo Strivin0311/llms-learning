@@ -1,8 +1,5 @@
-# Survey on LLMs
-*Here're some resources about Survey on LLMs*
-
-
-## Paper
+# Empirical Study on LLMs
+*Here're some resources about Empirical Research on LLMs, especially surveys*
 
 
 #### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems
@@ -56,6 +53,24 @@ citation:
       eprint={2311.12351},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
+}
+```
+
+#### Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models
+
+paper link: [here](https://arxiv.org/pdf/2311.03687)
+
+citation:
+
+```bibtex
+@misc{zhang2023dissectingruntimeperformancetraining,
+      title={Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models}, 
+      author={Longteng Zhang and Xiang Liu and Zeyu Li and Xinglin Pan and Peijie Dong and Ruibo Fan and Rui Guo and Xin Wang and Qiong Luo and Shaohuai Shi and Xiaowen Chu},
+      year={2023},
+      eprint={2311.03687},
+      archivePrefix={arXiv},
+      primaryClass={cs.PF},
+      url={https://arxiv.org/abs/2311.03687}, 
 }
 ```
 
@@ -140,10 +155,5 @@ citation:
     
 
 
-## Textbook
-
-#### What Are ChatGPT and Its Friends
-
-book link: [here](https://pan.baidu.com/s/1ttXkaG2Y5G48j4vw5g7gYg), with extraction code: `vva7`
 
 

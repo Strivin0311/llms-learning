@@ -79,13 +79,14 @@ A repository sharing the literatures and resources about Large Language Models (
     * [Mistral](./model-hubs/foundation/mistral.md)
     * [PaLM](./model-hubs/foundation/palm.md)
     * [Qwen](./model-hubs/foundation/qwen.md)
+    * [Skywork](./model-hubs/foundation/skywork.md)
     * [T5](./model-hubs/foundation/t5.md)
     * [Miscellaneous](./model-hubs/foundation/miscellaneous.md)
   * [Domain Specific Models](./model-hubs/domain-specific)
     * [Code LLMs](./model-hubs/domain-specific/code.md)
     * [Math LLMs](./model-hubs/domain-specific/math.md)
     * [Financial LLMs](./model-hubs/domain-specific/finance.md)
-* [Survey](./survey.md)
+* [Empirical Study (Surveys)](./empirical.md)
 * [Tutorials (TODO ...)](./tutorial.md)
 
 
