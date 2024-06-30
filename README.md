@@ -91,8 +91,16 @@ A repository sharing the literatures and resources about Large Language Models (
 
 ## More to Learn
 
-* This repo is a sub-repo for my [dgm-learning](https://github.com/Strivin0311/dgm-learning) repo, where you can learn more technologies about the deep generative models. Moreover, on the top of all, there's a repo called [ai-learning](https://github.com/Strivin0311/ai-learning), which is a general hub for all ML-based AI technologies and applications.
+* This repo is a sub-repo of [dgm-learning](https://github.com/Strivin0311/ai-learning/tree/main/techs/dl/dgm) sharing a broader literature about Deep Generative Models (DGMs) including Diffusers, SSMs, GANs, VAEs, etc, as a subtrack of my root repo [ai-learning](https://github.com/Strivin0311/ai-learning), which is a general resource hub (mainly papers and codes) for all ML-based AI technologies and applications.
 
-* I've also built another sub-repo [long-llms-learning](https://github.com/Strivin0311/long-llms-learning), to specifically share the literature about how to model and evaluate the long-context capabilities of LLMs, with a survey paper attached.
+* Moreover, I've also built another sub-repo [long-llms-learning](https://github.com/Strivin0311/long-llms-learning), to specifically share the literature about how to activate the potential of LLMs'  long-context capabilities across all stages from modeling, training to inference and evaluation, with a [survey](https://arxiv.org/abs/2311.12351) attached.
 
-* I've also built another sub-repo [mmlms-learning](https://github.com/Strivin0311/mmlms-learning), to specifically share the literature about Multi-Modal Language Modeles (MMLMs).
+* Last but not least, recently I've also built another sub-repo [mmlms-learning](https://github.com/Strivin0311/mmlms-learning), to specifically share the literature about Multi-Modal Language Modeles (MMLMs), which, as I believe, is the most intriguing field of AGI.
+
+
+
+---
+
+**Note**:
+* In each markdown file, the collected paper may be roughly sorted by the `published year` in descending order, i.e. the newer the paper, the topper it will be put on the file, but it's not one-hundred percent sure since the `published year` is not always clear.
+* The taxonomy is too complicated to be orthogonal, so don't be confused when the same paper is collected in different tracks for many times.

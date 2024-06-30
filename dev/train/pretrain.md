@@ -21,6 +21,26 @@ citation:
 }
 ```
 
+#### MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs
+
+paper link: [here](https://arxiv.org/pdf/2402.15627)
+
+github link: [here](https://github.com/volcengine/veScale)
+
+citation:
+
+```bibtex
+@misc{jiang2024megascalescalinglargelanguage,
+      title={MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs}, 
+      author={Ziheng Jiang and Haibin Lin and Yinmin Zhong and Qi Huang and Yangrui Chen and Zhi Zhang and Yanghua Peng and Xiang Li and Cong Xie and Shibiao Nong and Yulu Jia and Sun He and Hongmin Chen and Zhihao Bai and Qi Hou and Shipeng Yan and Ding Zhou and Yiyao Sheng and Zhuo Jiang and Haohan Xu and Haoran Wei and Zhang Zhang and Pengfei Nie and Leqi Zou and Sida Zhao and Liang Xiang and Zherui Liu and Zhe Li and Xiaoying Jia and Jianxi Ye and Xin Jin and Xin Liu},
+      year={2024},
+      eprint={2402.15627},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2402.15627}, 
+}
+```
+
 
 #### Efficient Online Data Mixing For Language Model Pre-Training
 
