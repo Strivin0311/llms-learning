@@ -308,5 +308,38 @@ citation:
 ```
 
 
+#### Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation
+
+paper link: [here](https://arxiv.org/pdf/2004.09602)
+
+citation:
+
+```bibtex
+@misc{wu2020integerquantizationdeeplearning,
+      title={Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation}, 
+      author={Hao Wu and Patrick Judd and Xiaojie Zhang and Mikhail Isaev and Paulius Micikevicius},
+      year={2020},
+      eprint={2004.09602},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2004.09602}, 
+}
+```
 
 
+#### Quantizing deep convolutional networks for efficient inference: A whitepaper
+
+paper link: [here](https://arxiv.org/pdf/1806.08342)
+
+citation:
+
+```bibtex
+@misc{krishnamoorthi2018quantizing,
+      title={Quantizing deep convolutional networks for efficient inference: A whitepaper}, 
+      author={Raghuraman Krishnamoorthi},
+      year={2018},
+      eprint={1806.08342},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.LG' full_name='Machine Learning' is_active=True alt_name=None in_archive='cs' is_general=False description='Papers on all aspects of machine learning research (supervised, unsupervised, reinforcement learning, bandit problems, and so on) including also robustness, explanation, fairness, and methodology. cs.LG is also an appropriate primary category for applications of machine learning methods.'}
+}
+```

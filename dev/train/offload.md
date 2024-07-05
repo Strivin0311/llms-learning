@@ -2,6 +2,24 @@
 *Here're some resources about offloading strategies in LLMs heterogeneous training*
 
 
+#### Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU
+
+
+paper link: [here](https://arxiv.org/pdf/2403.06504)
+
+citation:
+
+```bibtex
+@misc{liao2024addingnvmessdsenable,
+      title={Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU}, 
+      author={Changyue Liao and Mo Sun and Zihan Yang and Kaiqi Chen and Binhang Yuan and Fei Wu and Zeke Wang},
+      year={2024},
+      eprint={2403.06504},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2403.06504}, 
+}
+```
 
 #### ZeRO-Offload: Democratizing Billion-Scale Model Training
 

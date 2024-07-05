@@ -1,6 +1,24 @@
 # Automatic Mixed-Precision (AMP) Training for LLMs
 *Here're some resources about Automatic Mixed-Precision strategies for LLMs training for LLMs*
 
+#### eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization
+
+paper link: [here](https://arxiv.org/pdf/2405.13938)
+
+citation:
+
+```bibtex
+@misc{agrawal2024exmydatatypetechnique,
+      title={eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization}, 
+      author={Aditya Agrawal and Matthew Hedlund and Blake Hechtman},
+      year={2024},
+      eprint={2405.13938},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.13938}, 
+}
+```
+
 
 #### FP8-LM: Training FP8 Large Language Models
 
@@ -55,6 +73,25 @@ citation:
       eprint={2309.17224},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+```
+
+
+#### Unit Scaling: Out-of-the-Box Low-Precision Training
+
+paper link: [here](https://arxiv.org/pdf/2303.11257)
+
+citation:
+
+```bibtex
+@misc{blake2023unitscalingoutoftheboxlowprecision,
+      title={Unit Scaling: Out-of-the-Box Low-Precision Training}, 
+      author={Charlie Blake and Douglas Orr and Carlo Luschi},
+      year={2023},
+      eprint={2303.11257},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2303.11257}, 
 }
 ```
 
