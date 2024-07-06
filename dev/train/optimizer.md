@@ -69,6 +69,25 @@ citation:
 ```
 
 
+#### Large Batch Optimization for Deep Learning: Training BERT in 76 minutes (LAMB)
+
+paper link: [here](https://arxiv.org/pdf/1904.00962.pdf)
+
+citation:
+
+```bibtex
+@misc{you2020largebatchoptimizationdeep,
+      title={Large Batch Optimization for Deep Learning: Training BERT in 76 minutes}, 
+      author={Yang You and Jing Li and Sashank Reddi and Jonathan Hseu and Sanjiv Kumar and Srinadh Bhojanapalli and Xiaodan Song and James Demmel and Kurt Keutzer and Cho-Jui Hsieh},
+      year={2020},
+      eprint={1904.00962},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/1904.00962}, 
+}
+```
+
+
 #### Why AdamW matters
 
 blog link: [here](https://towardsdatascience.com/why-adamw-matters-736223f31b5d)
