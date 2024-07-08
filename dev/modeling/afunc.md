@@ -51,7 +51,7 @@ citation:
 ```
 
 
-#### Searching for activation functions (Swish)
+#### Searching for activation functions (SwiGLU)
 
 paper link: [here](https://arxiv.org/pdf/1710.05941.pdf)
 
@@ -79,6 +79,25 @@ citation:
       eprint={1606.08415},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+```
+
+
+#### Deep Learning with S-shaped Rectified Linear Activation Units (SReLU)
+
+paper link: [here](https://arxiv.org/pdf/1512.07030)
+
+citation:
+
+```bibtex
+@misc{jin2015deeplearningsshapedrectified,
+      title={Deep Learning with S-shaped Rectified Linear Activation Units}, 
+      author={Xiaojie Jin and Chunyan Xu and Jiashi Feng and Yunchao Wei and Junjun Xiong and Shuicheng Yan},
+      year={2015},
+      eprint={1512.07030},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/1512.07030}, 
 }
 ```
 
