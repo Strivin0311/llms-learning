@@ -186,6 +186,26 @@ citation:
 }
 ```
 
+#### CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
+
+paper link: [here](https://arxiv.org/pdf/2303.17760v2)
+
+github link: [here](https://github.com/camel-ai/camel)
+
+citation:
+
+```bibtex
+@misc{li2023camelcommunicativeagentsmind,
+      title={CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society}, 
+      author={Guohao Li and Hasan Abed Al Kader Hammoud and Hani Itani and Dmitrii Khizbullin and Bernard Ghanem},
+      year={2023},
+      eprint={2303.17760},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2303.17760}, 
+}
+```
+
 
 #### Creating large language model applications utilizing langchain: A primer on developing llm apps fast
 

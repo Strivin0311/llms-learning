@@ -5,6 +5,26 @@
 ## Benchmarking
 
 
+#### On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards
+
+paper link: [here](https://arxiv.org/pdf/2407.04065v2)
+
+github link: [here](https://github.com/sailresearch/awesome-foundation-model-leaderboards)
+
+citation:
+
+```bibtex
+@misc{zhao2024workflowssmellsleaderboardoperations,
+      title={On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboards}, 
+      author={Zhimin Zhao and Abdul Ali Bangash and Filipe Roseiro Côgo and Bram Adams and Ahmed E. Hassan},
+      year={2024},
+      eprint={2407.04065},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2407.04065}, 
+}
+```
+
 #### Rethinking Benchmark and Contamination for Language Models with Rephrased Samples
 
 paper link: [here](https://arxiv.org/pdf/2311.04850)

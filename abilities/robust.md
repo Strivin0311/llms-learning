@@ -1,6 +1,27 @@
 # Robustness Abilities of LLMs
-*Here're some resources about Robustness Abilities of LLMs*
+*Here're some resources about Robustness Abilities of LLMs, towards adversarial attack, jailbreak, etc*
 
+### Hallucinations Mitigation
+
+#### Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps
+
+paper link: [here](https://arxiv.org/pdf/2407.07071v1)
+
+github link: [here](https://github.com/voidism/lookback-lens)
+
+citation:
+
+```bibtex
+@misc{chuang2024lookbacklensdetectingmitigating,
+      title={Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps}, 
+      author={Yung-Sung Chuang and Linlu Qiu and Cheng-Yu Hsieh and Ranjay Krishna and Yoon Kim and James Glass},
+      year={2024},
+      eprint={2407.07071},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.07071}, 
+}
+```
 
 ### Adversarial Attack
 
@@ -126,6 +147,25 @@ citation:
 
 ### Adversarial Defence
 
+#### Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training
+
+paper link: [here](https://arxiv.org/pdf/2407.09121v1)
+
+github link: [here](https://github.com/robustnlp/derta)
+
+citation:
+
+```bibtex
+@misc{yuan2024refusefeelunsafeimproving,
+      title={Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training}, 
+      author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Jiahao Xu and Tian Liang and Pinjia He and Zhaopeng Tu},
+      year={2024},
+      eprint={2407.09121},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.09121}, 
+}
+```
 
 #### Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks
 

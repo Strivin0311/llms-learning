@@ -4,6 +4,27 @@
 
 ## Efficient Pretraining
 
+
+#### OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training
+
+paper link: [here](https://arxiv.org/pdf/2407.07852v1)
+
+github link: [here](https://github.com/PrimeIntellect-ai/OpenDiLoCo)
+
+citation:
+
+```bibtex
+@misc{jaghouar2024opendilocoopensourceframeworkglobally,
+      title={OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training}, 
+      author={Sami Jaghouar and Jack Min Ong and Johannes Hagemann},
+      year={2024},
+      eprint={2407.07852},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.07852}, 
+}
+```
+
 #### Flash Checkpoint to Recover Large Model Training From Failure in Seconds
 
 blog link: [here](https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md)
@@ -62,6 +83,8 @@ citation:
 #### DiLoCo: Distributed Low-Communication Training of Language Models
 
 paper link: [here](https://arxiv.org/pdf/2311.08105)
+
+open-source version: [here](https://arxiv.org/pdf/2407.07852v1)
 
 citation:
 
@@ -195,6 +218,26 @@ citation:
 
 ## Effective Pretraining
 
+
+#### Pre-training Small Base LMs with Fewer Tokens
+
+paper link: [here](https://arxiv.org/pdf/2404.08634v1)
+
+github link: [here](https://github.com/Lightning-AI/lit-gpt)
+
+citation:
+
+```bibtex
+@misc{sanyal2024pretrainingsmallbaselms,
+      title={Pre-training Small Base LMs with Fewer Tokens}, 
+      author={Sunny Sanyal and Sujay Sanghavi and Alexandros G. Dimakis},
+      year={2024},
+      eprint={2404.08634},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.08634}, 
+}
+```
 
 #### Spike No More: Stabilizing the Pre-training of Large Language Models
 
