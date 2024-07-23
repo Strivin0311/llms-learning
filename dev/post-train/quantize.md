@@ -178,6 +178,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2307.09782)
 
+github link: [here](https://github.com/microsoft/DeepSpeed)
+
 citation:
 ```bibtex
 @article{wu2023zeroquant,
@@ -218,6 +220,30 @@ citation:
     url = {\url{https://github.com/ggerganov/llama.cpp}},
 }
 ```
+
+
+#### ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation
+
+paper link: [here](https://arxiv.org/pdf/2303.08302)
+
+github link: [here](https://github.com/microsoft/DeepSpeed)
+
+updated version: [here](https://arxiv.org/pdf/2307.09782)
+
+citation:
+
+```bibtex
+@misc{yao2023zeroquantv2exploringposttrainingquantization,
+      title={ZeroQuant-V2: Exploring Post-training Quantization in LLMs from Comprehensive Study to Low Rank Compensation}, 
+      author={Zhewei Yao and Xiaoxia Wu and Cheng Li and Stephen Youn and Yuxiong He},
+      year={2023},
+      eprint={2303.08302},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2303.08302}, 
+}
+```
+
 
 #### SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models
 
@@ -304,6 +330,29 @@ citation:
       eprint={2208.09225},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+```
+
+
+#### ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers
+
+paper link: [here](https://arxiv.org/pdf/2206.01861)
+
+github link: [here](https://github.com/microsoft/DeepSpeed)
+
+updated version: [here](https://arxiv.org/pdf/2303.08302)
+
+citation:
+
+```bibtex
+@misc{yao2022zeroquantefficientaffordableposttraining,
+      title={ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers}, 
+      author={Zhewei Yao and Reza Yazdani Aminabadi and Minjia Zhang and Xiaoxia Wu and Conglong Li and Yuxiong He},
+      year={2022},
+      eprint={2206.01861},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2206.01861}, 
 }
 ```
 
