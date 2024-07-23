@@ -326,6 +326,24 @@ citation:
 }
 ```
 
+#### Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets (STE)
+
+paper link: [here](https://arxiv.org/pdf/1903.05662)
+
+citation:
+
+```bibtex
+@misc{yin2019understandingstraightthroughestimatortraining,
+      title={Understanding Straight-Through Estimator in Training Activation Quantized Neural Nets}, 
+      author={Penghang Yin and Jiancheng Lyu and Shuai Zhang and Stanley Osher and Yingyong Qi and Jack Xin},
+      year={2019},
+      eprint={1903.05662},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/1903.05662}, 
+}
+```
+
 
 #### Quantizing deep convolutional networks for efficient inference: A whitepaper
 

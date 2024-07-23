@@ -342,6 +342,26 @@ citation:
 ### Universal
 
 
+#### DataComp-LM: In search of the next generation of training sets for language models (DCLM)
+
+paper link: [here](https://arxiv.org/pdf/2406.11794v3)
+
+github link: [here](https://github.com/mlfoundations/dclm)
+
+citation:
+
+```bibtex
+@misc{li2024datacomplmsearchgenerationtraining,
+      title={DataComp-LM: In search of the next generation of training sets for language models}, 
+      author={Jeffrey Li and Alex Fang and Georgios Smyrnis and Maor Ivgi and Matt Jordan and Samir Gadre and Hritik Bansal and Etash Guha and Sedrick Keh and Kushal Arora and Saurabh Garg and Rui Xin and Niklas Muennighoff and Reinhard Heckel and Jean Mercat and Mayee Chen and Suchin Gururangan and Mitchell Wortsman and Alon Albalak and Yonatan Bitton and Marianna Nezhurina and Amro Abbas and Cheng-Yu Hsieh and Dhruba Ghosh and Josh Gardner and Maciej Kilian and Hanlin Zhang and Rulin Shao and Sarah Pratt and Sunny Sanyal and Gabriel Ilharco and Giannis Daras and Kalyani Marathe and Aaron Gokaslan and Jieyu Zhang and Khyathi Chandu and Thao Nguyen and Igor Vasiljevic and Sham Kakade and Shuran Song and Sujay Sanghavi and Fartash Faghri and Sewoong Oh and Luke Zettlemoyer and Kyle Lo and Alaaeldin El-Nouby and Hadi Pouransari and Alexander Toshev and Stephanie Wang and Dirk Groeneveld and Luca Soldaini and Pang Wei Koh and Jenia Jitsev and Thomas Kollar and Alexandros G. Dimakis and Yair Carmon and Achal Dave and Ludwig Schmidt and Vaishaal Shankar},
+      year={2024},
+      eprint={2406.11794},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.11794}, 
+}
+```
+
 #### RedPajama: an Open Dataset for Training Large Language Models
 
 blog link: [here](https://together.ai/blog/redpajama-data-v2)
