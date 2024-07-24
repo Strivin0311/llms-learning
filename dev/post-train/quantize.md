@@ -356,6 +356,26 @@ citation:
 }
 ```
 
+#### Training Deep Neural Networks with Joint Quantization and Pruning of Weights and Activations
+
+paper link: [here](https://arxiv.org/pdf/2110.08271)
+
+github link: [here](https://github.com/mlzxy/qsparse)
+
+citation:
+
+```bibtex
+@misc{zhang2021trainingdeepneuralnetworks,
+      title={Training Deep Neural Networks with Joint Quantization and Pruning of Weights and Activations}, 
+      author={Xinyu Zhang and Ian Colbert and Ken Kreutz-Delgado and Srinjoy Das},
+      year={2021},
+      eprint={2110.08271},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2110.08271}, 
+}
+```
+
 
 #### Integer Quantization for Deep Learning Inference: Principles and Empirical Evaluation
 

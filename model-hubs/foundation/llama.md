@@ -1,12 +1,12 @@
 # Llama
 *Here're some resources about Llama*
-    
 
-#### Introducing Meta Llama 3: The most capable openly available LLM to date
 
-blog link: [here](https://ai.meta.com/blog/meta-llama-3/)
+#### The Llama 3 Herd of Models
 
-model card link: [here](https://github.com/meta-llama/llama3/blob/main/MODEL_CARD.md)
+paper link: [here](https://scontent-nrt1-2.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgGe0d3N&_nc_ht=scontent-nrt1-2.xx&oh=00_AYCycEIul53gqCvm5rnsI2IDC5842Ip5NBDPpnXIoWZmVw&oe=66A60A8D)
+
+blog link: [llama-3](https://ai.meta.com/blog/meta-llama-3/) | [llama-3.1](https://ai.meta.com/blog/meta-llama-3-1/)
 
 github link: [here](https://github.com/meta-llama/llama3)
 
@@ -14,6 +14,14 @@ model links:
 
 |model name|link|
 |-|-|
+|Meta-Llama-3.1-405B-Instruct-FP8|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-405B-Instruct-FP8)|
+|Meta-Llama-3.1-405B-FP8|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-405B-FP8)|
+|Meta-Llama-3.1-405B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-405B-Instruct)|
+|Meta-Llama-3.1-405B|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-405B)|
+|Meta-Llama-3.1-70B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-70B-Instruct)|
+|Meta-Llama-3.1-70B|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-70B)|
+|Meta-Llama-3.1-8B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct)|
+|Meta-Llama-3.1-8B|[here](https://huggingface.co/meta-llama/Meta-Llama-3.1-8B)|
 |Meta-Llama-3-70B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)|
 |Meta-Llama-3-70B|[here](https://huggingface.co/meta-llama/Meta-Llama-3-70B)|
 |Meta-Llama-3-8B-Instruct|[here](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct)|
