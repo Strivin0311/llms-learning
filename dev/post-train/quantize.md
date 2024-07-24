@@ -249,6 +249,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2211.10438.pdf)
 
+github link: [here](https://github.com/mit-han-lab/smoothquant)
+
 citation:
 ```bibtex
 @inproceedings{xiao2023smoothquant,
