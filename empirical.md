@@ -2,6 +2,8 @@
 *Here're some resources about Empirical Research on LLMs, especially surveys*
 
 
+## Surveys
+
 #### Towards Efficient Generative Large Language Model Serving: A Survey from Algorithms to Systems
 
 paper link: [here](https://arxiv.org/pdf/2312.15234.pdf)
@@ -152,8 +154,3 @@ citation:
   howpublished = {\url{https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/}},
 }
 ```
-    
-
-
-
-

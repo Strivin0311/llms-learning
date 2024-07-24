@@ -319,6 +319,24 @@ citation:
 ```
 
 
+#### Scaling Laws for Neural Language Models
+
+paper link: [here](https://arxiv.org/pdf/2001.08361)
+
+citation:
+
+```bibtex
+@misc{kaplan2020scalinglawsneurallanguage,
+      title={Scaling Laws for Neural Language Models}, 
+      author={Jared Kaplan and Sam McCandlish and Tom Henighan and Tom B. Brown and Benjamin Chess and Rewon Child and Scott Gray and Alec Radford and Jeffrey Wu and Dario Amodei},
+      year={2020},
+      eprint={2001.08361},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2001.08361}, 
+}
+```
+
 #### An Empirical Model of Large-Batch Training
 
 paper link: [here](https://arxiv.org/pdf/1812.06162)
