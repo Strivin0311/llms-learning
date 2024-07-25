@@ -1,6 +1,7 @@
-# Activation Functions
-*Here're some resources about Activation Functions designed for Transformer-based LLMs beyond softmax*
+# Submodule Design of LLMs
+*Here're some resources about submodule design of Large Language Models*
 
+## Activation Functions
 
 #### Primer: Searching for Efficient Transformers for Language Modeling (Squared ReLU)
 
@@ -113,5 +114,27 @@ citation:
   author={Clevert, Djork-Arn{\'e} and Unterthiner, Thomas and Hochreiter, Sepp},
   journal={arXiv preprint arXiv:1511.07289},
   year={2015}
+}
+```
+
+## Normalization
+
+#### DeepNet: Scaling Transformers to 1,000 Layers (DeepNorm)
+
+paper link: [here](https://arxiv.org/pdf/2203.00555)
+
+github link: [here](https://github.com/microsoft/unilm)
+
+citation:
+
+```bibtex
+@misc{wang2022deepnetscalingtransformers1000,
+      title={DeepNet: Scaling Transformers to 1,000 Layers}, 
+      author={Hongyu Wang and Shuming Ma and Li Dong and Shaohan Huang and Dongdong Zhang and Furu Wei},
+      year={2022},
+      eprint={2203.00555},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2203.00555}, 
 }
 ```
