@@ -138,3 +138,22 @@ citation:
       url={https://arxiv.org/abs/2203.00555}, 
 }
 ```
+
+
+#### On Layer Normalization in the Transformer Architecture
+
+paper link: [here](https://arxiv.org/pdf/2002.04745)
+
+citation:
+
+```bibtex
+@misc{xiong2020layernormalizationtransformerarchitecture,
+      title={On Layer Normalization in the Transformer Architecture}, 
+      author={Ruibin Xiong and Yunchang Yang and Di He and Kai Zheng and Shuxin Zheng and Chen Xing and Huishuai Zhang and Yanyan Lan and Liwei Wang and Tie-Yan Liu},
+      year={2020},
+      eprint={2002.04745},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2002.04745}, 
+}
+```
