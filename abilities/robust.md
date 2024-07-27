@@ -1,6 +1,50 @@
 # Robustness Abilities of LLMs
 *Here're some resources about Robustness Abilities of LLMs, towards adversarial attack, jailbreak, etc*
 
+
+### Safety Guardrails
+
+#### Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training
+
+paper link: [here](https://arxiv.org/pdf/2407.09121v1)
+
+github link: [here](https://github.com/robustnlp/derta)
+
+citation:
+
+```bibtex
+@misc{yuan2024refusefeelunsafeimproving,
+      title={Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training}, 
+      author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Jiahao Xu and Tian Liang and Pinjia He and Zhaopeng Tu},
+      year={2024},
+      eprint={2407.09121},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.09121}, 
+}
+```
+
+#### Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations
+
+paper link: [here](https://arxiv.org/pdf/2312.06674)
+
+github link: [here](https://github.com/meta-llama/PurpleLlama/tree/main/Llama-Guard)
+
+citation:
+
+```bibtex
+@misc{inan2023llamaguardllmbasedinputoutput,
+      title={Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations}, 
+      author={Hakan Inan and Kartikeya Upasani and Jianfeng Chi and Rashi Rungta and Krithika Iyer and Yuning Mao and Michael Tontchev and Qing Hu and Brian Fuller and Davide Testuggine and Madian Khabsa},
+      year={2023},
+      eprint={2312.06674},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2312.06674}, 
+}
+```
+
+
 ### Hallucinations Mitigation
 
 #### Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps
@@ -23,8 +67,71 @@ citation:
 }
 ```
 
-### Adversarial Attack
+#### Weakly Supervised Detection of Hallucinations in LLM Activations
 
+paper link: [here](https://arxiv.org/pdf/2312.02798.pdf)
+
+citation:
+```bibtex
+@misc{rateike2023weakly,
+      title={Weakly Supervised Detection of Hallucinations in LLM Activations}, 
+      author={Miriam Rateike and Celia Cintas and John Wamburu and Tanya Akumu and Skyler Speakman},
+      year={2023},
+      eprint={2312.02798},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+#### Can LLM-Generated Misinformation Be Detected?
+
+paper link: [here](https://arxiv.org/pdf/2309.13788.pdf)
+
+citation:
+```bibtex
+@misc{chen2023llmgenerated,
+      title={Can LLM-Generated Misinformation Be Detected?}, 
+      author={Canyu Chen and Kai Shu},
+      year={2023},
+      eprint={2309.13788},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+### Adversarial Attack&Defence
+
+#### Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks
+
+paper link: [here](https://arxiv.org/pdf/2401.17263.pdf)
+
+citation:
+```bibtex
+@misc{zhou2024robust,
+      title={Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks}, 
+      author={Andy Zhou and Bo Li and Haohan Wang},
+      year={2024},
+      eprint={2401.17263},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+#### Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization
+
+paper link: [here](https://arxiv.org/pdf/2311.09096.pdf)
+
+citation:
+```bibtex
+@misc{zhang2023defending,
+      title={Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization}, 
+      author={Zhexin Zhang and Junxiao Yang and Pei Ke and Minlie Huang},
+      year={2023},
+      eprint={2311.09096},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 #### Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation
 
@@ -110,6 +217,22 @@ citation:
 }
 ```
 
+#### SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks
+
+paper link: [here](https://arxiv.org/pdf/2310.03684.pdf)
+
+citation:
+```bibtex
+@misc{robey2023smoothllm,
+      title={SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks}, 
+      author={Alexander Robey and Eric Wong and Hamed Hassani and George J. Pappas},
+      year={2023},
+      eprint={2310.03684},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 #### Low-Resource Languages Jailbreak GPT-4
 
 paper link: [here](https://arxiv.org/pdf/2310.02446.pdf)
@@ -121,6 +244,40 @@ citation:
       author={Zheng-Xin Yong and Cristina Menghini and Stephen H. Bach},
       year={2024},
       eprint={2310.02446},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Baseline Defenses for Adversarial Attacks Against Aligned Language Models
+
+paper link: [here](https://arxiv.org/pdf/2309.00614.pdf)
+
+citation:
+```bibtex
+@misc{jain2023baseline,
+      title={Baseline Defenses for Adversarial Attacks Against Aligned Language Models}, 
+      author={Neel Jain and Avi Schwarzschild and Yuxin Wen and Gowthami Somepalli and John Kirchenbauer and Ping-yeh Chiang and Micah Goldblum and Aniruddha Saha and Jonas Geiping and Tom Goldstein},
+      year={2023},
+      eprint={2309.00614},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Detecting language model attacks with perplexity
+
+paper link: [here](https://arxiv.org/pdf/2308.14132.pdf)
+
+citation:
+```bibtex
+@misc{alon2023detecting,
+      title={Detecting Language Model Attacks with Perplexity}, 
+      author={Gabriel Alon and Michael Kamfonas},
+      year={2023},
+      eprint={2308.14132},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
@@ -144,143 +301,22 @@ citation:
 ```
 
 
+#### Jailbroken: How does llm safety training fail?
 
-### Adversarial Defence
-
-#### Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training
-
-paper link: [here](https://arxiv.org/pdf/2407.09121v1)
-
-github link: [here](https://github.com/robustnlp/derta)
-
-citation:
-
-```bibtex
-@misc{yuan2024refusefeelunsafeimproving,
-      title={Refuse Whenever You Feel Unsafe: Improving Safety in LLMs via Decoupled Refusal Training}, 
-      author={Youliang Yuan and Wenxiang Jiao and Wenxuan Wang and Jen-tse Huang and Jiahao Xu and Tian Liang and Pinjia He and Zhaopeng Tu},
-      year={2024},
-      eprint={2407.09121},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2407.09121}, 
-}
-```
-
-#### Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks
-
-paper link: [here](https://arxiv.org/pdf/2401.17263.pdf)
+paper link: [here](https://arxiv.org/pdf/2307.02483.pdf)
 
 citation:
 ```bibtex
-@misc{zhou2024robust,
-      title={Robust Prompt Optimization for Defending Language Models Against Jailbreaking Attacks}, 
-      author={Andy Zhou and Bo Li and Haohan Wang},
-      year={2024},
-      eprint={2401.17263},
+@misc{wei2023jailbroken,
+      title={Jailbroken: How Does LLM Safety Training Fail?}, 
+      author={Alexander Wei and Nika Haghtalab and Jacob Steinhardt},
+      year={2023},
+      eprint={2307.02483},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
 ```
 
-#### Weakly Supervised Detection of Hallucinations in LLM Activations
-
-paper link: [here](https://arxiv.org/pdf/2312.02798.pdf)
-
-citation:
-```bibtex
-@misc{rateike2023weakly,
-      title={Weakly Supervised Detection of Hallucinations in LLM Activations}, 
-      author={Miriam Rateike and Celia Cintas and John Wamburu and Tanya Akumu and Skyler Speakman},
-      year={2023},
-      eprint={2312.02798},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-#### Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization
-
-paper link: [here](https://arxiv.org/pdf/2311.09096.pdf)
-
-citation:
-```bibtex
-@misc{zhang2023defending,
-      title={Defending Large Language Models Against Jailbreaking Attacks Through Goal Prioritization}, 
-      author={Zhexin Zhang and Junxiao Yang and Pei Ke and Minlie Huang},
-      year={2023},
-      eprint={2311.09096},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-
-#### SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks
-
-paper link: [here](https://arxiv.org/pdf/2310.03684.pdf)
-
-citation:
-```bibtex
-@misc{robey2023smoothllm,
-      title={SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks}, 
-      author={Alexander Robey and Eric Wong and Hamed Hassani and George J. Pappas},
-      year={2023},
-      eprint={2310.03684},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-#### Can LLM-Generated Misinformation Be Detected?
-
-paper link: [here](https://arxiv.org/pdf/2309.13788.pdf)
-
-citation:
-```bibtex
-@misc{chen2023llmgenerated,
-      title={Can LLM-Generated Misinformation Be Detected?}, 
-      author={Canyu Chen and Kai Shu},
-      year={2023},
-      eprint={2309.13788},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-
-#### Baseline Defenses for Adversarial Attacks Against Aligned Language Models
-
-paper link: [here](https://arxiv.org/pdf/2309.00614.pdf)
-
-citation:
-```bibtex
-@misc{jain2023baseline,
-      title={Baseline Defenses for Adversarial Attacks Against Aligned Language Models}, 
-      author={Neel Jain and Avi Schwarzschild and Yuxin Wen and Gowthami Somepalli and John Kirchenbauer and Ping-yeh Chiang and Micah Goldblum and Aniruddha Saha and Jonas Geiping and Tom Goldstein},
-      year={2023},
-      eprint={2309.00614},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-#### Detecting language model attacks with perplexity
-
-paper link: [here](https://arxiv.org/pdf/2308.14132.pdf)
-
-citation:
-```bibtex
-@misc{alon2023detecting,
-      title={Detecting Language Model Attacks with Perplexity}, 
-      author={Gabriel Alon and Michael Kamfonas},
-      year={2023},
-      eprint={2308.14132},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
 
 
 #### Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks
@@ -296,132 +332,6 @@ citation:
       eprint={2305.14965},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
-}
-```
-
-
-
-### Robustness Evaluation
-
-
-#### Quantifying Uncertainty in Natural Language Explanations of Large Language Models
-
-paper link: [here](https://arxiv.org/pdf/2311.03533.pdf)
-
-citation:
-```bibtex
-@misc{tanneru2023quantifying,
-      title={Quantifying Uncertainty in Natural Language Explanations of Large Language Models}, 
-      author={Sree Harsha Tanneru and Chirag Agarwal and Himabindu Lakkaraju},
-      year={2023},
-      eprint={2311.03533},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-#### Estimating Uncertainty in Multimodal Foundation Models using Public Internet Data
-
-paper link: [here](https://arxiv.org/pdf/2310.09926.pdf)
-
-citation:
-```bibtex
-@misc{dutta2023estimating,
-      title={Estimating Uncertainty in Multimodal Foundation Models using Public Internet Data}, 
-      author={Shiladitya Dutta and Hongbo Wei and Lars van der Laan and Ahmed M. Alaa},
-      year={2023},
-      eprint={2310.09926},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-```
-
-
-#### Risk Assessment and Statistical Significance in the Age of Foundation Models
-
-paper link: [here](https://arxiv.org/pdf/2310.07132.pdf)
-
-citation:
-```bibtex
-@misc{nitsure2024risk,
-      title={Risk Assessment and Statistical Significance in the Age of Foundation Models}, 
-      author={Apoorva Nitsure and Youssef Mroueh and Mattia Rigotti and Kristjan Greenewald and Brian Belgodere and Mikhail Yurochkin and Jiri Navratil and Igor Melnyk and Jerret Ross},
-      year={2024},
-      eprint={2310.07132},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-#### Evaluating Superhuman Models with Consistency Checks
-
-paper link: [here](https://arxiv.org/pdf/2306.09983.pdf)
-
-citation:
-```bibtex
-@misc{fluri2023evaluating,
-      title={Evaluating Superhuman Models with Consistency Checks}, 
-      author={Lukas Fluri and Daniel Paleka and Florian Tramèr},
-      year={2023},
-      eprint={2306.09983},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-
-### Emiprical Study
-
-
-#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models
-
-paper link: [here](https://arxiv.org/pdf/2402.17671.pdf)
-
-citation:
-```bibtex
-@misc{huang2024securing,
-      title={Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models}, 
-      author={Yunpeng Huang and Yaonan Gu and Jingwei Xu and Zhihong Zhu and Zhaorun Chen and Xiaoxing Ma},
-      year={2024},
-      eprint={2402.17671},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-#### Are Large Language Models Really Robust to Word-Level Perturbations?
-
-paper link: [here](https://arxiv.org/pdf/2309.11166.pdf)
-
-citation:
-```bibtex
-@misc{wang2023large,
-      title={Are Large Language Models Really Robust to Word-Level Perturbations?}, 
-      author={Haoyu Wang and Guozheng Ma and Cong Yu and Ning Gui and Linrui Zhang and Zhiqi Huang and Suwei Ma and Yongzhe Chang and Sen Zhang and Li Shen and Xueqian Wang and Peilin Zhao and Dacheng Tao},
-      year={2023},
-      eprint={2309.11166},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-
-#### Jailbroken: How does llm safety training fail?
-
-paper link: [here](https://arxiv.org/pdf/2307.02483.pdf)
-
-citation:
-```bibtex
-@misc{wei2023jailbroken,
-      title={Jailbroken: How Does LLM Safety Training Fail?}, 
-      author={Alexander Wei and Nika Haghtalab and Jacob Steinhardt},
-      year={2023},
-      eprint={2307.02483},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
 }
 ```
 
@@ -443,20 +353,12 @@ citation:
 ```
 
 
-#### On Evaluating Adversarial Robustness of Large Vision-Language Models
 
-paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/a97b58c4f7551053b0512f92244b0810-Paper-Conference.pdf)
 
-citation:
-```bibtex
-@article{zhao2024evaluating,
-  title={On evaluating adversarial robustness of large vision-language models},
-  author={Zhao, Yunqing and Pang, Tianyu and Du, Chao and Yang, Xiao and Li, Chongxuan and Cheung, Ngai-Man Man and Lin, Min},
-  journal={Advances in Neural Information Processing Systems},
-  volume={36},
-  year={2024}
-}
-```
+
+
+
+
 
 
 
