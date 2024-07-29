@@ -380,6 +380,24 @@ citation:
 }
 ```
 
+#### Does your data spark joy? Performance gains from domain upsampling at the end of training
+
+paper link: [here](https://arxiv.org/pdf/2406.03476)
+
+citation:
+
+```bibtex
+@misc{blakeney2024doesdatasparkjoy,
+      title={Does your data spark joy? Performance gains from domain upsampling at the end of training}, 
+      author={Cody Blakeney and Mansheej Paul and Brett W. Larsen and Sean Owen and Jonathan Frankle},
+      year={2024},
+      eprint={2406.03476},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.03476}, 
+}
+```
+
 #### RedPajama: an Open Dataset for Training Large Language Models
 
 blog link: [here](https://together.ai/blog/redpajama-data-v2)
