@@ -284,6 +284,24 @@ citation:
 ### Pipeline Parallelism (PP)
 
 
+#### Zero Bubble Pipeline Parallelism
+
+paper link: [here](https://arxiv.org/pdf/2401.10241)
+
+citation:
+
+```bibtex
+@misc{qi2023zerobubblepipelineparallelism,
+      title={Zero Bubble Pipeline Parallelism}, 
+      author={Penghui Qi and Xinyi Wan and Guangxing Huang and Min Lin},
+      year={2023},
+      eprint={2401.10241},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2401.10241}, 
+}
+```
+
 #### BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models
 
 paper link: [here](https://proceedings.mlr.press/v202/kim23l/kim23l.pdf)
