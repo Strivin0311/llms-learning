@@ -307,6 +307,25 @@ citation:
 ```
 
 
+#### Breadth-First Pipeline Parallelism
+
+paper link: [here](https://arxiv.org/pdf/2211.05953)
+
+citation:
+
+```bibtex
+@misc{lamypoirier2023breadthfirstpipelineparallelism,
+      title={Breadth-First Pipeline Parallelism}, 
+      author={Joel Lamy-Poirier},
+      year={2023},
+      eprint={2211.05953},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2211.05953}, 
+}
+```
+
+
 #### Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines
 
 paper link: [here](https://arxiv.org/pdf/2107.06925)
