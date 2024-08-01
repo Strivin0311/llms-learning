@@ -2,6 +2,25 @@
 *Here're some resources about Mixture-of-Experts (MoE) structure design of LLMs*
 
 
+#### Mixture of A Million Experts (PEER)
+
+paper link: [here](https://web3.arxiv.org/pdf/2407.04153)
+
+citation:
+
+```bibtex
+@misc{he2024mixturemillionexperts,
+      title={Mixture of A Million Experts}, 
+      author={Xu Owen He},
+      year={2024},
+      eprint={2407.04153},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.04153}, 
+}
+```
+
+
 #### Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models
 
 paper link: [here](https://arxiv.org/pdf/2406.06563)
