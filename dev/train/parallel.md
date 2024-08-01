@@ -460,6 +460,27 @@ citation:
 ### Tensor Parallelism (TP)
 
 
+#### FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion
+
+paper link: [here](https://arxiv.org/pdf/2406.06858)
+
+github link: [here](https://github.com/bytedance/flux)
+
+citation:
+
+```bibtex
+@misc{chang2024fluxfastsoftwarebasedcommunication,
+      title={FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion}, 
+      author={Li-Wen Chang and Wenlei Bao and Qi Hou and Chengquan Jiang and Ningxin Zheng and Yinmin Zhong and Xuanrun Zhang and Zuquan Song and Ziheng Jiang and Haibin Lin and Xin Jin and Xin Liu},
+      year={2024},
+      eprint={2406.06858},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.06858}, 
+}
+```
+
+
 #### Maximizing Parallelism in Distributed Training for Huge Neural Networks (3D TP)
 
 paper link: [here](https://arxiv.org/pdf/2105.14450)
