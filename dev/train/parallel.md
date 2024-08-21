@@ -4,6 +4,46 @@
 
 ### Integration of Parallelism
 
+
+#### Fold3D: Rethinking and Parallelizing Computational and Communicational Tasks in the Training of Large DNN Models
+
+paper link: [here](https://ieeexplore.ieee.org/document/10050126)
+
+citation:
+
+```bibtex
+@article{10050126,
+  author={Li, Fanxin and Zhao, Shixiong and Qing, Yuhao and Chen, Xusheng and Guan, Xiuxian and Wang, Sen and Zhang, Gong and Cui, Heming},
+  journal={IEEE Transactions on Parallel and Distributed Systems}, 
+  title={Fold3D: Rethinking and Parallelizing Computational and Communicational Tasks in the Training of Large DNN Models}, 
+  year={2023},
+  volume={34},
+  number={5},
+  pages={1432-1449},
+  keywords={Task analysis;Training;Three-dimensional displays;Processor scheduling;Graphics processing units;Pipeline processing;Computational modeling;3D parallelism;DNN;deep learning;distributed training;GPU;machine learning;pipeline parallelism},
+  doi={10.1109/TPDS.2023.3247883}
+}
+```
+
+#### On Optimizing the Communication of Model Parallelism
+
+paper link: [here](https://arxiv.org/pdf/2211.05322)
+
+citation:
+
+```bibtex
+@misc{zhuang2024optimizingcommunicationmodelparallelism,
+      title={On Optimizing the Communication of Model Parallelism}, 
+      author={Yonghao Zhuang and Hexu Zhao and Lianmin Zheng and Zhuohan Li and Eric P. Xing and Qirong Ho and Joseph E. Gonzalez and Ion Stoica and Hao Zhang},
+      year={2024},
+      eprint={2211.05322},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2211.05322}, 
+}
+```
+
+
 #### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model
 
 paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
@@ -89,21 +129,6 @@ citation:
   author={Rasley, Jeff and Rajbhandari, Samyam and Ruwase, Olatunji and He, Yuxiong},
   booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
   pages={3505--3506},
-  year={2020}
-}
-```
-
-
-#### Gshard: Scaling giant models with conditional computation and automatic sharding
-
-paper link: [here](https://arxiv.org/pdf/2006.16668.pdf)
-
-citation:
-```bibtex
-@article{lepikhin2020gshard,
-  title={Gshard: Scaling giant models with conditional computation and automatic sharding},
-  author={Lepikhin, Dmitry and Lee, HyoukJoong and Xu, Yuanzhong and Chen, Dehao and Firat, Orhan and Huang, Yanping and Krikun, Maxim and Shazeer, Noam and Chen, Zhifeng},
-  journal={arXiv preprint arXiv:2006.16668},
   year={2020}
 }
 ```
@@ -239,6 +264,20 @@ citation:
 }
 ```
 
+#### Gshard: Scaling giant models with conditional computation and automatic sharding
+
+paper link: [here](https://arxiv.org/pdf/2006.16668.pdf)
+
+citation:
+```bibtex
+@article{lepikhin2020gshard,
+  title={Gshard: Scaling giant models with conditional computation and automatic sharding},
+  author={Lepikhin, Dmitry and Lee, HyoukJoong and Xu, Yuanzhong and Chen, Dehao and Firat, Orhan and Huang, Yanping and Krikun, Maxim and Shazeer, Noam and Chen, Zhifeng},
+  journal={arXiv preprint arXiv:2006.16668},
+  year={2020}
+}
+```
+
 
 ### Context Parallelism (CP)
 
@@ -283,6 +322,24 @@ citation:
 
 ### Pipeline Parallelism (PP)
 
+
+#### Pipeline Parallelism with Controllable Memory
+
+paper link: [here](https://arxiv.org/pdf/2405.15362)
+
+citation:
+
+```bibtex
+@misc{qi2024pipelineparallelismcontrollablememory,
+      title={Pipeline Parallelism with Controllable Memory}, 
+      author={Penghui Qi and Xinyi Wan and Nyamdavaa Amar and Min Lin},
+      year={2024},
+      eprint={2405.15362},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.15362}, 
+}
+```
 
 #### Zero Bubble Pipeline Parallelism
 
@@ -344,6 +401,8 @@ citation:
 ```
 
 
+
+
 #### Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines
 
 paper link: [here](https://arxiv.org/pdf/2107.06925)
@@ -360,6 +419,23 @@ citation:
    author={Li, Shigang and Hoefler, Torsten},
    year={2021},
    month=nov, collection={SC ’21} 
+}
+```
+
+#### GEMS: GPU-Enabled Memory-Aware Model-Parallelism System for Distributed DNN Training
+
+paper link: [here](https://par.nsf.gov/servlets/purl/10300202)
+
+citation:
+
+```bibtex
+@inproceedings{jain2020gems,
+  title={Gems: Gpu-enabled memory-aware model-parallelism system for distributed dnn training},
+  author={Jain, Arpan and Awan, Ammar Ahmad and Aljuhani, Asmaa M and Hashmi, Jahanzeb Maqbool and Anthony, Quentin G and Subramoni, Hari and Panda, Dhableswar K and Machiraju, Raghu and Parwani, Anil},
+  booktitle={SC20: International Conference for High Performance Computing, Networking, Storage and Analysis},
+  pages={1--15},
+  year={2020},
+  organization={IEEE}
 }
 ```
 
@@ -399,6 +475,44 @@ citation:
 }
 ```
 
+
+#### PipeMare: Asynchronous Pipeline Parallel DNN Training
+
+paper link: [here](https://arxiv.org/pdf/1910.05124)
+
+citation:
+
+```bibtex
+@misc{yang2020pipemareasynchronouspipelineparallel,
+      title={PipeMare: Asynchronous Pipeline Parallel DNN Training}, 
+      author={Bowen Yang and Jian Zhang and Jonathan Li and Christopher Ré and Christopher R. Aberger and Christopher De Sa},
+      year={2020},
+      eprint={1910.05124},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/1910.05124}, 
+}
+```
+
+#### Pipe-Torch: Pipeline-Based Distributed Deep Learning in a GPU Cluster with Heterogeneous Networking
+
+paper link: [here](https://ieeexplore.ieee.org/document/8916305)
+
+citation:
+
+```bibtex
+@inproceedings{8916305,
+  author={Zhan, Jun and Zhang, Jinghui},
+  booktitle={2019 Seventh International Conference on Advanced Cloud and Big Data (CBD)}, 
+  title={Pipe-Torch: Pipeline-Based Distributed Deep Learning in a GPU Cluster with Heterogeneous Networking}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={55-60},
+  keywords={Graphics processing units;Training;Parallel processing;Computational modeling;Data models;Pipelines;Load modeling;Distributed deep learning;Pipeline-hybrid parallelism;Heterogeneous network environment},
+  doi={10.1109/CBD.2019.00020}
+}
+```
 
 #### GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
 

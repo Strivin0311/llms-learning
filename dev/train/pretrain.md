@@ -165,6 +165,24 @@ citation:
 ```
 
 
+#### Communication-Efficient Distributed Deep Learning: A Comprehensive Survey
+
+paper link: [here](https://arxiv.org/pdf/2003.06307)
+
+citation:
+
+```bibtex
+@misc{tang2023communicationefficientdistributeddeeplearning,
+      title={Communication-Efficient Distributed Deep Learning: A Comprehensive Survey}, 
+      author={Zhenheng Tang and Shaohuai Shi and Wei Wang and Bo Li and Xiaowen Chu},
+      year={2023},
+      eprint={2003.06307},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2003.06307}, 
+}
+```
+
 
 #### SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks
 
