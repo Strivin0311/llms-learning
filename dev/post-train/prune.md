@@ -2,6 +2,25 @@
 *Here're some resources about Model Pruning Strategies for LLMs*
 
 
+#### Compact Language Models via Pruning and Knowledge Distillation (Minitron)
+
+paper link: [here](https://arxiv.org/pdf/2407.14679)
+
+github link: [here](https://github.com/NVlabs/Minitron)
+
+```bibtex
+@misc{muralidharan2024compactlanguagemodelspruning,
+      title={Compact Language Models via Pruning and Knowledge Distillation}, 
+      author={Saurav Muralidharan and Sharath Turuvekere Sreenivas and Raviraj Joshi and Marcin Chochowski and Mostofa Patwary and Mohammad Shoeybi and Bryan Catanzaro and Jan Kautz and Pavlo Molchanov},
+      year={2024},
+      eprint={2407.14679},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.14679}, 
+}
+```
+
+
 #### A Simple and Effective Pruning Approach for Large Language Models (Wanda)
 
 paper link: [here](https://arxiv.org/pdf/2306.11695.pdf)
