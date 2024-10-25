@@ -2,6 +2,29 @@
 *Here're some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
+#### RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
+
+tag: `RLAIF-V`
+
+paper link: [here](https://arxiv.org/pdf/2405.17220)
+
+github link: [here](https://github.com/RLHF-V/RLAIF-V)
+
+citation:
+
+```bibtex
+@misc{yu2024rlaifvaligningmllmsopensource,
+      title={RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness}, 
+      author={Tianyu Yu and Haoye Zhang and Yuan Yao and Yunkai Dang and Da Chen and Xiaoman Lu and Ganqu Cui and Taiwen He and Zhiyuan Liu and Tat-Seng Chua and Maosong Sun},
+      year={2024},
+      eprint={2405.17220},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2405.17220}, 
+}
+```
+
+
 #### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (GRPO)
 
 paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
