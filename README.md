@@ -11,6 +11,9 @@ Hope you find this repository useful! 😊
   * Welcome to watch our new online free **LLMs intro course** on [bilibili](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310)! 
   * We also open-source and keep updating the [course assignments](./tutorial/assignment/README.md) for you to take a deep dive into LLMs.
   * If you like this course or this repository, you can subscribe to the teacher's [bilibili account](https://space.bilibili.com/390606417) and maybe `star` this GitHub repo 😜.
+* [2023.03.18]
+  * We offer a comprehensive [notebook tutorial](./tutorial/notebook/tutorial_triton.ipynb) on efficient GPU kernel coding using [Triton](https://github.com/triton-lang/triton), building upon the [official tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html) and extending them with additional hands-on examples, such as the **Flash Attention 2 forward/backward kernel**.
+  * In addition, we also provide a step-by-step [algorithm derivation](./dev/modeling/lm/transformer/attn/fa2_deri.md) of [Flash Attention 2](https://arxiv.org/abs/2307.08691), enabling a deeper understanding of its underlying mechanics.
 
 
 ## Table of Contents
