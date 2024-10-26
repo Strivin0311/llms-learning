@@ -4,13 +4,38 @@
 
 ### Efficient Inference
 
+
+#### 1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs
+
+tag: `BitNet 1.1`
+
+paper link: [here](https://arxiv.org/pdf/2410.16144v2)
+
+github link: [here](https://github.com/microsoft/bitnet)
+
+citation:
+
+```bibtex
+@misc{wang20241bitaiinfra11,
+      title={1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs}, 
+      author={Jinheng Wang and Hansong Zhou and Ting Song and Shaoguang Mao and Shuming Ma and Hongyu Wang and Yan Xia and Furu Wei},
+      year={2024},
+      eprint={2410.16144},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.16144}, 
+}
+```
+
+
 #### Fast Inference of Mixture-of-Experts Language Models with Offloading
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
 github link: [here](https://github.com/dvmazur/mixtral-offloading)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{eliseev2023fast,
       title={Fast Inference of Mixture-of-Experts Language Models with Offloading}, 
@@ -58,7 +83,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2311.03285)
 
-citation: 
+citation:
+
 ```bibtex
 @article{sheng2023s,
   title={S-LoRA: Serving Thousands of Concurrent LoRA Adapters},
@@ -107,11 +133,7 @@ blog link: [here](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deeps
 
 github link: [here](https://github.com/microsoft/DeepSpeed-MII)
 
-tutorial links:
-
-|tutorial name|public date|main-lib version|notebook link|
-|-|-|-|-|
-|tutorial_deepspeed_infer|2024.01|deepspeed=0.12.6, deepspeed-mii=0.1.3, transformers=4.36.2|[here](../notebooks/tutorial_deepspeed_infer.ipynb)|
+tutorial link: [here](../../tutorial/notebook/tutorial_deepspeed_infer.ipynb)
 
 citation:
 
@@ -130,11 +152,7 @@ citation:
 
 github link: [here](https://github.com/lyogavin/Anima/tree/main/air_llm)
 
-tutorial links:
-
-|tutorial name|public date|main-lib version|notebook link|
-|-|-|-|-|
-|tutorial_airllm|2024.01|airllm=2.8.3|[here](../notebooks/tutorial_airllm.ipynb)|
+tutorial link: [here](../../tutorial/notebook/tutorial_airllm.ipynb)
 
 citation
 ```bibtex
@@ -152,7 +170,8 @@ citation
 
 paper link: [here](https://arxiv.org/pdf/2303.06865)
 
-citation: 
+citation:
+
 ```bibtex
 @article{sheng2023high,
   title={High-throughput generative inference of large language models with a single gpu},
@@ -208,7 +227,7 @@ blog link: [here](https://pytorch.org/blog/a-better-transformer-for-fast-transfo
 
 homepage link: [here](https://huggingface.co/docs/optimum/bettertransformer/overview)
 
-tutorial link: [here](../notebooks/BetterTransformerDemo.ipynb)
+tutorial link: [here](../../tutorial/notebook/BetterTransformerDemo.ipynb)
 
 supported model list link: [here](https://huggingface.co/docs/optimum/bettertransformer/overview#supported-models)
 
@@ -247,7 +266,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/1911.02150.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{shazeer2019fast,
   title={Fast transformer decoding: One write-head is all you need},
@@ -274,6 +294,28 @@ citation:
       eprint={2310.09139},
       archivePrefix={arXiv},
       primaryClass={cs.GT}
+}
+```
+
+#### Fast Inference from Transformers via Speculative Decoding
+
+tag: `Speculative Decoding`
+
+paper link: [here](https://arxiv.org/pdf/2211.17192v2)
+
+github link: [here](https://github.com/lucidrains/speculative-decoding)
+
+citation:
+
+```bibtex
+@misc{leviathan2023fastinferencetransformersspeculative,
+      title={Fast Inference from Transformers via Speculative Decoding}, 
+      author={Yaniv Leviathan and Matan Kalman and Yossi Matias},
+      year={2023},
+      eprint={2211.17192},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2211.17192}, 
 }
 ```
 

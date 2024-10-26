@@ -124,7 +124,8 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2110.15343)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2021scatterbrain,
   title={Scatterbrain: Unifying sparse and low-rank attention approximation},
@@ -151,7 +152,8 @@ $$
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/14319d9cfc6123106878dc20b94fbaf3-Paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ma2021luna,
   title={Luna: Linear unified nested attention},
@@ -170,7 +172,8 @@ tag: `RFA`
 
 paper link: [here](https://arxiv.org/pdf/2103.02143)
 
-citation: 
+citation:
+
 ```bibtex
 @article{peng2021random,
   title={Random feature attention},
@@ -198,7 +201,8 @@ paper link: [here](https://arxiv.org/pdf/2009.14794)
 
 github link: [here](https://github.com/google-research/google-research/tree/master/performer)
 
-citation: 
+citation:
+
 ```bibtex
 @article{choromanski2020rethinking,
   title={Rethinking attention with performers},
@@ -222,7 +226,8 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2006.04768)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wang2020linformer,
   title={Linformer: Self-attention with linear complexity},
@@ -247,7 +252,8 @@ $$
 
 paper link: [here](http://proceedings.mlr.press/v119/katharopoulos20a/katharopoulos20a.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{katharopoulos2020transformers,
   title={Transformers are rnns: Fast autoregressive transformers with linear attention},

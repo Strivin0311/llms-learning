@@ -34,6 +34,29 @@ citation:
 ```
 
 
+#### Spirit LM: Interleaved Spoken and Written Language Model
+
+tag: `Spirit LM`
+
+paper link: [here](https://arxiv.org/pdf/2402.05755v2)
+
+github link: [here](https://github.com/facebookresearch/spiritlm)
+
+citation:
+
+```bibtex
+@misc{nguyen2024spiritlminterleavedspoken,
+      title={Spirit LM: Interleaved Spoken and Written Language Model}, 
+      author={Tu Anh Nguyen and Benjamin Muller and Bokai Yu and Marta R. Costa-jussa and Maha Elbayad and Sravya Popuri and Christophe Ropers and Paul-Ambroise Duquenne and Robin Algayres and Ruslan Mavlyutov and Itai Gat and Mary Williamson and Gabriel Synnaeve and Juan Pino and Benoit Sagot and Emmanuel Dupoux},
+      year={2024},
+      eprint={2402.05755},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2402.05755}, 
+}
+```
+
+
 ## Benchmarks
 
 

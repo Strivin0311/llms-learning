@@ -6,7 +6,8 @@
 
 paper link: [here](https://arxiv.org/pdf/2304.15004.pdf?)
 
-citation: 
+citation:
+
 ```bibtex
 @article{schaeffer2023emergent,
   title={Are emergent abilities of Large Language Models a mirage?},
@@ -22,7 +23,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2206.07682.pdf?trk=cndc-detail)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wei2022emergent,
   title={Emergent abilities of large language models},

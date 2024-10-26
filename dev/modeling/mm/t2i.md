@@ -4,6 +4,29 @@
 ## Methods
 
 
+#### Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation
+
+tag: `Janus`
+
+paper link: [here](https://arxiv.org/pdf/2410.13848v1)
+
+github link: [here](https://github.com/deepseek-ai/Janus)
+
+citation:
+
+```bibtex
+@misc{wu2024janusdecouplingvisualencoding,
+      title={Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation}, 
+      author={Chengyue Wu and Xiaokang Chen and Zhiyu Wu and Yiyang Ma and Xingchao Liu and Zizheng Pan and Wen Liu and Zhenda Xie and Xingkai Yu and Chong Ruan and Ping Luo},
+      year={2024},
+      eprint={2410.13848},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.13848}, 
+}
+```
+
+
 #### Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
 
 tag: `Eagle`

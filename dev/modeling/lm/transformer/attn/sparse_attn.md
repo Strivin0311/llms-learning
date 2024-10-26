@@ -50,7 +50,8 @@ tag: `Attention Sink` | `StreamingLLM`
 
 paper link: [here](https://arxiv.org/pdf/2309.17453)
 
-citation: 
+citation:
+
 ```bibtex
 @article{xiao2023efficient,
   title={Efficient streaming language models with attention sinks},
@@ -69,7 +70,8 @@ paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
 github link: [here](https://github.com/dvlab-research/LongLoRA)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023longlora,
   title={Longlora: Efficient fine-tuning of long-context large language models},
@@ -88,7 +90,8 @@ paper link: [here](https://arxiv.org/pdf/2308.16137)
 
 github link: [here](https://github.com/Glaciohound/LM-Infinite)
 
-citation: 
+citation:
+
 ```bibtex
 @article{han2023lm,
   title={Lm-infinite: Simple on-the-fly length generalization for large language models},
@@ -107,7 +110,8 @@ paper link: [here](https://arxiv.org/pdf/2307.02486.pdf)
 
 github link: [here](https://github.com/microsoft/unilm)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ding2023longnet,
   title={Longnet: Scaling transformers to 1,000,000,000 tokens},
@@ -126,7 +130,8 @@ paper link: [here](https://arxiv.org/pdf/2305.16300)
 
 github link: [here](https://github.com/epfml/landmark-attention/)
 
-citation: 
+citation:
+
 ```bibtex
 @article{mohtashami2023landmark,
   title={Landmark Attention: Random-Access Infinite Context Length for Transformers},
@@ -185,7 +190,8 @@ tag: `Routing Transformer`
 
 paper link: [here](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00353/1923932/tacl_a_00353.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{roy2021efficient,
   title={Efficient content-based sparse attention with routing transformers},
@@ -205,7 +211,8 @@ tag: `Expire-Span`
 
 paper link: [here](http://proceedings.mlr.press/v139/sukhbaatar21a/sukhbaatar21a.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{sukhbaatar2021not,
   title={Not all memories are created equal: Learning to forget by expiring},
@@ -241,7 +248,8 @@ tag: `Lite Transformer`
 
 paper link: [here](https://arxiv.org/pdf/2004.11886)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wu2020lite,
   title={Lite transformer with long-short range attention},
@@ -278,7 +286,8 @@ tag: `Big Bird`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zaheer2020big,
   title={Big bird: Transformers for longer sequences},
@@ -319,7 +328,8 @@ tag: `Reformer`
 
 paper link: [here](https://arxiv.org/pdf/2001.04451)
 
-citation: 
+citation:
+
 ```bibtex
 @article{kitaev2020reformer,
   title={Reformer: The efficient transformer},
@@ -338,7 +348,8 @@ paper link: [here](https://arxiv.org/pdf/1911.02972)
 
 github link: [here](https://github.com/xptree/BlockBERT)
 
-citation: 
+citation:
+
 ```bibtex
 @article{qiu2019blockwise,
   title={Blockwise self-attention for long document understanding},
@@ -355,7 +366,8 @@ tag: `LogSparse`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/6775a0635c302542da2c32aa19d86be0-Paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{li2019enhancing,
   title={Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting},
@@ -374,7 +386,8 @@ paper link: [here](https://arxiv.org/pdf/1905.07799)
 
 github link: [here](https://github.com/facebookresearch/adaptive-span)
 
-citation: 
+citation:
+
 ```bibtex
 @article{sukhbaatar2019adaptive,
   title={Adaptive attention span in transformers},
@@ -393,7 +406,8 @@ paper link: [here](https://arxiv.org/pdf/1904.10509)
 
 github link: [here](https://openai.com/index/sparse-transformer/)
 
-citation: 
+citation:
+
 ```bibtex
 @article{child2019generating,
   title={Generating long sequences with sparse transformers},
@@ -409,7 +423,8 @@ tag: `Star Transformer`
 
 paper link: [here](https://arxiv.org/pdf/1902.09113)
 
-citation: 
+citation:
+
 ```bibtex
 @article{guo2019star,
   title={Star-transformer},

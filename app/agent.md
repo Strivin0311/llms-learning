@@ -1,33 +1,78 @@
-# LLMs-as-Agents
-*Here're some resources about LLMs-as-Agents*
+# LLMs as Agents
+*Here're some resources about LLMs as Agents*
 
 
+## Methods
 
-### Methods
+#### Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents
 
-#### MindSearch
+tag: `Chain of Ideas` | `CoI`
 
-#### TextGrad: Automatic "Differentiation" via Text
+paper link: [here](https://arxiv.org/pdf/2410.13185v3)
 
-paper link: [here](https://arxiv.org/pdf/2406.07496)
-
-github link: [here](https://github.com/zou-group/textgrad)
+github link: [here](https://github.com/DAMO-NLP-SG/CoI-Agent)
 
 citation:
 
 ```bibtex
-@misc{yuksekgonul2024textgradautomaticdifferentiationtext,
-      title={TextGrad: Automatic "Differentiation" via Text}, 
-      author={Mert Yuksekgonul and Federico Bianchi and Joseph Boen and Sheng Liu and Zhi Huang and Carlos Guestrin and James Zou},
+@misc{li2024chainideasrevolutionizingresearch,
+      title={Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents}, 
+      author={Long Li and Weiwen Xu and Jiayan Guo and Ruochen Zhao and Xinxuan Li and Yuqian Yuan and Boqiang Zhang and Yuming Jiang and Yifei Xin and Ronghao Dang and Deli Zhao and Yu Rong and Tian Feng and Lidong Bing},
       year={2024},
-      eprint={2406.07496},
+      eprint={2410.13185},
       archivePrefix={arXiv},
-      primaryClass={cs.CL}
-      url={https://arxiv.org/abs/2406.07496}, 
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2410.13185}, 
+}
+```
+
+#### MindSearch: Mimicking Human Minds Elicits Deep AI Searcher
+
+tag: `MindSearch`
+
+paper link: [here](https://arxiv.org/pdf/2407.20183)
+
+github link: [here](https://github.com/InternLM/MindSearch)
+
+citation:
+
+```bibtex
+@misc{chen2024mindsearchmimickinghumanminds,
+      title={MindSearch: Mimicking Human Minds Elicits Deep AI Searcher}, 
+      author={Zehui Chen and Kuikun Liu and Qiuchen Wang and Jiangning Liu and Wenwei Zhang and Kai Chen and Feng Zhao},
+      year={2024},
+      eprint={2407.20183},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.20183}, 
+}
+```
+
+#### Symbolic Learning Enables Self-Evolving Agents
+
+tag: `Agents 2.0` | `Symbolic Learning`
+
+paper link: [here](https://arxiv.org/pdf/2406.18532)
+
+github link: [here](https://github.com/aiwaves-cn/agents)
+
+citation:
+
+```bibtex
+@misc{zhou2024symboliclearningenablesselfevolving,
+      title={Symbolic Learning Enables Self-Evolving Agents}, 
+      author={Wangchunshu Zhou and Yixin Ou and Shengwei Ding and Long Li and Jialong Wu and Tiannan Wang and Jiamin Chen and Shuai Wang and Xiaohua Xu and Ningyu Zhang and Huajun Chen and Yuchen Eleanor Jiang},
+      year={2024},
+      eprint={2406.18532},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.18532}, 
 }
 ```
 
 #### Husky- A Unified, Open-Source Language Agent for Multi-Step Reasoning
+
+tag: `Husky`
 
 paper link: [here](https://arxiv.org/pdf/2406.06469)
 
@@ -58,27 +103,9 @@ citation:
 }
 ```
 
-#### SGLang: Efficient Execution of Structured Language Model Programs (RadixAttention)
-
-paper link: [here](https://arxiv.org/pdf/2312.07104v2)
-
-github link: [here](https://github.com/sgl-project/sglang/)
-
-citation:
-
-```bibtex
-@misc{zheng2024sglangefficientexecutionstructured,
-      title={SGLang: Efficient Execution of Structured Language Model Programs}, 
-      author={Lianmin Zheng and Liangsheng Yin and Zhiqiang Xie and Chuyue Sun and Jeff Huang and Cody Hao Yu and Shiyi Cao and Christos Kozyrakis and Ion Stoica and Joseph E. Gonzalez and Clark Barrett and Ying Sheng},
-      year={2024},
-      eprint={2312.07104},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2312.07104}, 
-}
-```
-
 #### LLM Augmented Hierarchical Agents
+
+tag: `LLM-HRL`
 
 paper link: [here](https://arxiv.org/pdf/2311.05596.pdf)
 
@@ -98,9 +125,14 @@ citation:
 
 #### ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models
 
+tag: `ModelScope-Agent`
+
 paper link: [here](https://arxiv.org/pdf/2309.00986)
 
-citation: 
+github link: [here](https://github.com/modelscope/modelscope-agent)
+
+citation:
+
 ```bibtex
 @article{li2023modelscope,
   title={ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models},
@@ -112,15 +144,16 @@ citation:
 
 #### AutoAgents: A Framework for Automatic Agent Generation
 
+tag: `AutoAgents`
+
 paper link: [here](https://arxiv.org/pdf/2309.17288)
 
-tutorial links:
+github link: [here](https://github.com/Link-AGI/AutoAgents)
 
-|tutorial name|public date|main-lib version|notebook link|
-|-|-|-|-|
-|tutorial_autogen|2024.01|pyautogen=0.2.0,langchain=0.0.352|[here](../notebooks/tutorial_autogen.ipynb)|
+tutorial link: [here](../tutorial/notebook/tutorial_autogen.ipynb)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023autoagents,
   title={AutoAgents: A Framework for Automatic Agent Generation},
@@ -133,9 +166,16 @@ citation:
 
 #### Agents: An Open-source Framework for Autonomous Language Agents
 
+tag: `Agents`
+
 paper link: [here](https://arxiv.org/pdf/2309.07870)
 
-citation: 
+github link: [here](https://github.com/aiwaves-cn/agents)
+
+follow-up work: [here](https://arxiv.org/pdf/2406.18532)
+
+citation:
+
 ```bibtex
 @article{zhou2023agents,
   title={Agents: An Open-source Framework for Autonomous Language Agents},
@@ -144,12 +184,14 @@ citation:
   year={2023}
 }
 ```
-    
-
 
 #### Autogen: Enabling next-gen llm applications via multi-agent conversation framework
 
+tag: `AutoGen`
+
 paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
+
+github link: [here](https://github.com/microsoft/autogen)
 
 citation:
 
@@ -161,13 +203,36 @@ citation:
   year={2023}
 }
 ```
-    
 
-#### Communicative agents for software development
+
+#### Toolllm: Facilitating large language models to master 16000+ real-world apis
+
+tag: `Toolllm`
+
+paper link: [here](https://arxiv.org/pdf/2307.16789.pdf)
+
+citation:
+
+```bibtex
+@article{qin2023toolllm,
+  title={Toolllm: Facilitating large language models to master 16000+ real-world apis},
+  author={Qin, Yujia and Liang, Shihao and Ye, Yining and Zhu, Kunlun and Yan, Lan and Lu, Yaxi and Lin, Yankai and Cong, Xin and Tang, Xiangru and Qian, Bill and others},
+  journal={arXiv preprint arXiv:2307.16789},
+  year={2023}
+}
+```
+
+
+#### ChatDev: Communicative Agents for Software Development
+
+tag: `ChatDev`
 
 paper link: [here](https://arxiv.org/pdf/2307.07924.pdf)
 
-citation: 
+github link: [here](https://github.com/OpenBMB/ChatDev)
+
+citation:
+
 ```bibtex
 @article{qian2023communicative,
   title={Communicative agents for software development},
@@ -180,9 +245,16 @@ citation:
 
 #### Voyager: An Open-Ended Embodied Agent with Large Language Models
 
+tag: `Voyager`
+
 paper link: [here](https://arxiv.org/pdf/2305.16291.pdf)
 
-citation: 
+github link: [here](https://github.com/MineDojo/Voyager)
+
+homepage link: [here](https://voyager.minedojo.org/)
+
+citation:
+
 ```bibtex
 @misc{wang2023voyager,
       title={Voyager: An Open-Ended Embodied Agent with Large Language Models}, 
@@ -195,11 +267,34 @@ citation:
 ```
 
 
+#### ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
+
+tag: `ToolkenGPT`
+
+paper link: [here](https://arxiv.org/pdf/2305.11554)
+
+citation:
+
+```bibtex
+@article{hao2023toolkengpt,
+  title={ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings},
+  author={Hao, Shibo and Liu, Tianyang and Wang, Zhen and Hu, Zhiting},
+  journal={arXiv preprint arXiv:2305.11554},
+  year={2023}
+}
+```
+
+
 #### Generative agents: Interactive simulacra of human behavior
+
+tag: `Generative Agents`
 
 paper link: [here](https://arxiv.org/pdf/2304.03442.pdf)
 
-citation: 
+github link: [here](https://github.com/joonspk-research/generative_agents)
+
+citation:
+
 ```bibtex
 @article{park2023generative,
   title={Generative agents: Interactive simulacra of human behavior},
@@ -210,6 +305,8 @@ citation:
 ```
 
 #### CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
+
+tag: `CAMEL`
 
 paper link: [here](https://arxiv.org/pdf/2303.17760v2)
 
@@ -230,35 +327,32 @@ citation:
 ```
 
 
-#### Creating large language model applications utilizing langchain: A primer on developing llm apps fast
+#### Toolformer: Language models can teach themselves to use tools
 
-paper link: [here](https://www.researchgate.net/profile/Oguzhan-Topsakal/publication/372669736_Creating_Large_Language_Model_Applications_Utilizing_LangChain_A_Primer_on_Developing_LLM_Apps_Fast/links/64d114a840a524707ba4a419/Creating-Large-Language-Model-Applications-Utilizing-LangChain-A-Primer-on-Developing-LLM-Apps-Fast.pdf)
+tag: `Toolformer`
+
+paper link: [here](https://arxiv.org/pdf/2302.04761.pdf)
 
 citation:
 
 ```bibtex
-@inproceedings{topsakal2023creating,
-    author = "Topsakal, Oguzhan and Akinci, Tahir Cetin",
-    title = "Creating large language model applications utilizing langchain: A primer on developing llm apps fast",
-    booktitle = "International Conference on Applied Engineering and Natural Sciences",
-    volume = "1",
-    pages = "1050--1056",
-    year = "2023"
+@article{schick2023toolformer,
+  title={Toolformer: Language models can teach themselves to use tools},
+  author={Schick, Timo and Dwivedi-Yu, Jane and Dess{\`\i}, Roberto and Raileanu, Roberta and Lomeli, Maria and Zettlemoyer, Luke and Cancedda, Nicola and Scialom, Thomas},
+  journal={arXiv preprint arXiv:2302.04761},
+  year={2023}
 }
 ```
 
 #### LangChain: Building applications with LLMs through composability
 
+tag: `LangChain`
+
 github link: [here](https://github.com/langchain-ai/langchain)
 
 doc link: [here](https://python.langchain.com/docs/get_started/introduction)
 
-tutorial links:
-
-|tutorial name|public date|main-lib version|notebook link|
-|-|-|-|-|
-|tutorial_langchain|2023.12|langchain=0.0.352, openai=1.6.1|[here](../notebooks/tutorial_langchain.ipynb)|
-
+tutorial link: [here](../tutorial/notebook/tutorial_langchain.ipynb)
 
 citation:
 
@@ -272,27 +366,39 @@ citation:
 }
 ```
 
-### Benchmark
 
-#### Agentbench: Evaluating llms as agents
+## Benchmark
 
-paper link: [here](https://arxiv.org/pdf/2308.03688)
+#### SmartPlay: A Benchmark for LLMs as Intelligent Agents
 
-citation: 
+tag: `SmartPlay`
+
+paper link: [here](https://arxiv.org/pdf/2310.01557)
+
+github link: [here](https://github.com/microsoft/SmartPlay)
+
+citation:
+
 ```bibtex
-@article{liu2023agentbench,
-  title={Agentbench: Evaluating llms as agents},
-  author={Liu, Xiao and Yu, Hao and Zhang, Hanchen and Xu, Yifan and Lei, Xuanyu and Lai, Hanyu and Gu, Yu and Ding, Hangliang and Men, Kaiwen and Yang, Kejuan and others},
-  journal={arXiv preprint arXiv:2308.03688},
+@article{wu2023smartplay,
+  title={SmartPlay: A Benchmark for LLMs as Intelligent Agents},
+  author={Wu, Yue and Tang, Xuan and Mitchell, Tom M and Li, Yuanzhi},
+  journal={arXiv preprint arXiv:2310.01557},
   year={2023}
 }
 ```
 
+
 #### RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
+
+tag: `RoleLLM`
 
 paper link: [here](https://arxiv.org/pdf/2310.00746)
 
-citation: 
+github link: [here](https://github.com/InteractiveNLP-Team/RoleLLM-public)
+
+citation:
+
 ```bibtex
 @article{wang2023rolellm,
   title={RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models},
@@ -302,46 +408,36 @@ citation:
 }
 ```
 
-#### SmartPlay: A Benchmark for LLMs as Intelligent Agents
+#### Agentbench: Evaluating llms as agents
 
-paper link: [here](https://arxiv.org/pdf/2310.01557)
+tag: `Agentbench`
 
-citation: 
+paper link: [here](https://arxiv.org/pdf/2308.03688)
+
+github link: [here](https://github.com/THUDM/AgentBench)
+
+citation:
+
 ```bibtex
-@article{wu2023smartplay,
-  title={SmartPlay: A Benchmark for LLMs as Intelligent Agents},
-  author={Wu, Yue and Tang, Xuan and Mitchell, Tom M and Li, Yuanzhi},
-  journal={arXiv preprint arXiv:2310.01557},
+@article{liu2023agentbench,
+  title={Agentbench: Evaluating llms as agents},
+  author={Liu, Xiao and Yu, Hao and Zhang, Hanchen and Xu, Yifan and Lei, Xuanyu and Lai, Hanyu and Gu, Yu and Ding, Hangliang and Men, Kaiwen and Yang, Kejuan and others},
+  journal={arXiv preprint arXiv:2308.03688},
   year={2023}
 }
 ```
     
 
-### Survey
-
-
-#### The rise and potential of large language model based agents: A survey
-
-paper link: [here](https://arxiv.org/pdf/2309.07864)
-
-github link: [here](https://github.com/WooooDyy/LLM-Agent-Paper-List)
-
-citation: 
-```bibtex
-@article{xi2023rise,
-  title={The rise and potential of large language model based agents: A survey},
-  author={Xi, Zhiheng and Chen, Wenxiang and Guo, Xin and He, Wei and Ding, Yiwen and Hong, Boyang and Zhang, Ming and Wang, Junzhe and Jin, Senjie and Zhou, Enyu and others},
-  journal={arXiv preprint arXiv:2309.07864},
-  year={2023}
-}
-```
-
+## Empirical Study
 
 #### Mindstorms in Natural Language-Based Societies of Mind
 
+tag: `NLSOMs`
+
 paper link: [here](https://arxiv.org/pdf/2305.17066.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{zhuge2023mindstorms,
       title={Mindstorms in Natural Language-Based Societies of Mind}, 
@@ -350,6 +446,28 @@ citation:
       eprint={2305.17066},
       archivePrefix={arXiv},
       primaryClass={cs.AI}
+}
+```
+  
+
+## Survey
+
+#### The rise and potential of large language model based agents: A survey
+
+tag: `LLM Agents Survey`
+
+paper link: [here](https://arxiv.org/pdf/2309.07864)
+
+github link: [here](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+
+citation:
+
+```bibtex
+@article{xi2023rise,
+  title={The rise and potential of large language model based agents: A survey},
+  author={Xi, Zhiheng and Chen, Wenxiang and Guo, Xin and He, Wei and Ding, Yiwen and Hong, Boyang and Zhang, Ming and Wang, Junzhe and Jin, Senjie and Zhou, Enyu and others},
+  journal={arXiv preprint arXiv:2309.07864},
+  year={2023}
 }
 ```
     

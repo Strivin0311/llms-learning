@@ -78,7 +78,8 @@ github link: [here](https://github.com/state-spaces/mamba)
 
 follow-up work: [here](https://arxiv.org/pdf/2405.21060)
 
-citation: 
+citation:
+
 ```bibtex
 @article{gu2023mamba,
   title={Mamba: Linear-Time Sequence Modeling with Selective State Spaces},
@@ -97,7 +98,8 @@ paper link: [here](https://arxiv.org/pdf/2307.08621)
 
 github link: [here](https://github.com/microsoft/unilm/tree/master/retnet)
 
-citation: 
+citation:
+
 ```bibtex
 @article{sun2023retentive,
   title={Retentive network: A successor to transformer for large language models},
@@ -140,7 +142,8 @@ tag: `LRU`
 
 paper link: [here](https://arxiv.org/pdf/2303.06349)
 
-citation: 
+citation:
+
 ```bibtex
 @article{orvieto2023resurrecting,
   title={Resurrecting recurrent neural networks for long sequences},
@@ -159,7 +162,8 @@ paper link: [here](https://arxiv.org/pdf/2208.04933)
 
 github link: [here](https://github.com/lindermanlab/S5)
 
-citation: 
+citation:
+
 ```bibtex
 @article{smith2022simplified,
   title={Simplified state space layers for sequence modeling},
@@ -175,7 +179,8 @@ tag: `GSS`
 
 paper link: [here](https://arxiv.org/pdf/2206.13947)
 
-citation: 
+citation:
+
 ```bibtex
 @article{mehta2022long,
   title={Long range language modeling via gated state spaces},
@@ -234,7 +239,8 @@ tag: `S4`
 
 paper link: [here](https://arxiv.org/pdf/2111.00396)
 
-citation: 
+citation:
+
 ```bibtex
 @article{gu2021efficiently,
   title={Efficiently modeling long sequences with structured state spaces},

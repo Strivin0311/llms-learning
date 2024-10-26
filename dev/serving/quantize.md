@@ -43,7 +43,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2309.14717)
 
-citation: 
+citation:
+
 ```bibtex
 @article{xu2023qa,
   title={QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models},
@@ -108,13 +109,10 @@ paper link: [here](https://arxiv.org/pdf/2305.14314)
 
 github link: [here](https://github.com/artidoro/qlora)
 
-tutorial links:
+tutorial link: [here](../../tutorial/notebook/tutorial_qlora.ipynb)
 
-|tutorial name|public date|main-lib version|notebook link|
-|-|-|-|-|
-|tutorial_qlora|2024.01|bitsandbytes=0.41.3, peft=0.7.1|[here](../notebooks/tutorial_qlora.ipynb)|
+citation:
 
-citation: 
 ```bibtex
 @article{dettmers2023qlora,
   title={Qlora: Efficient finetuning of quantized llms},

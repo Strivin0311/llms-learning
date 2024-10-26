@@ -68,7 +68,8 @@ paper link: [here](https://arxiv.org/pdf/2110.14883)
 
 github link: [here](https://github.com/hpcaitech/ColossalAI)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{li2023colossal,
       title={Colossal-ai: A unified deep learning system for large-scale parallel training},
@@ -778,7 +779,8 @@ blog link: [here](https://pytorch.org/blog/introducing-pytorch-fully-sharded-dat
 
 docs link: [here](https://pytorch.org/docs/stable/fsdp.html)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zhao2023pytorch,
   title={Pytorch FSDP: experiences on scaling fully sharded data parallel},

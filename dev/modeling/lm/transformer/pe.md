@@ -113,7 +113,8 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2308.10882)
 
-citation: 
+citation:
+
 ```bibtex
 @article{pal2023giraffe,
   title={Giraffe: Adventures in expanding context lengths in llms},
@@ -139,7 +140,8 @@ $$
 
 blog link: [NTK-Aware Scaled RoPE](https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/) | [Dynamic NTK-aware RoPE](https://www.reddit.com/r/LocalLLaMA/comments/14mrgpr/dynamically_scaled_rope_further_increases/) | [NTK-mixed RoPE]([here](https://spaces.ac.cn/archives/9706))
 
-citation: 
+citation:
+
 ```bibtex
 @misc{ntk-aware-rope,
     author = "bloc97",
@@ -165,7 +167,8 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2306.15595)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023extending,
   title={Extending context window of large language models via positional interpolation},
@@ -182,7 +185,8 @@ tag: `Random Padding PE`
 
 paper link: [here](https://arxiv.org/pdf/2305.04859)
 
-citation: 
+citation:
+
 ```bibtex
 @article{tao2023frustratingly,
   title={A Frustratingly Easy Improvement for Position Embeddings via Random Padding},
@@ -198,7 +202,8 @@ tag: `Randomized PE`
 
 paper link: [here](https://arxiv.org/pdf/2305.16843)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ruoss2023randomized,
   title={Randomized Positional Encodings Boost Length Generalization of Transformers},
@@ -224,7 +229,8 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2212.10554)
 
-citation: 
+citation:
+
 ```bibtex
 @article{sun2022length,
   title={A length-extrapolatable transformer},
@@ -241,7 +247,8 @@ tag: `SHAPE`
 
 paper link: [here](https://arxiv.org/pdf/2109.05644)
 
-citation: 
+citation:
+
 ```bibtex
 @article{kiyono2021shape,
   title={SHAPE: Shifted absolute position embedding for transformers},
@@ -258,7 +265,8 @@ tag: `Permuteformer`
 
 paper link: [here](https://arxiv.org/pdf/2109.02377)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2021permuteformer,
   title={Permuteformer: Efficient relative position encoding for long sequences},

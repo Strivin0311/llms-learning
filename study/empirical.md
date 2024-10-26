@@ -83,7 +83,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2307.10169)
 
-citation: 
+citation:
+
 ```bibtex
 @article{kaddour2023challenges,
   title={Challenges and applications of large language models},
@@ -99,7 +100,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2307.06435)
 
-citation: 
+citation:
+
 ```bibtex
 @article{naveed2023comprehensive,
   title={A comprehensive overview of large language models},
@@ -115,7 +117,8 @@ citation:
 
 paper link: [here](https://www.sciencedirect.com/science/article/pii/S266734522300024X)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ray2023chatgpt,
   title={ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope},
@@ -132,7 +135,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2302.07842)
 
-citation: 
+citation:
+
 ```bibtex
 @article{mialon2023augmented,
   title={Augmented language models: a survey},

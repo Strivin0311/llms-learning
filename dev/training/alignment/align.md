@@ -67,7 +67,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2310.16944.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{tunstall2023zephyr,
       title={Zephyr: Direct Distillation of LM Alignment}, 
@@ -84,7 +85,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2310.15105)
 
-citation: 
+citation:
+
 ```bibtex
 @article{song2023fd,
   title={FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning},
@@ -163,14 +165,14 @@ citation:
       primaryClass={cs.CL}
 }
 ```
-    
 
 
 #### Direct preference optimization: Your language model is secretly a reward model (DPO)
 
 paper link: [here](https://arxiv.org/pdf/2305.18290.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{rafailov2023direct,
   title={Direct preference optimization: Your language model is secretly a reward model},
@@ -184,12 +186,30 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.11206)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zhou2023lima,
   title={Lima: Less is more for alignment},
   author={Zhou, Chunting and Liu, Pengfei and Xu, Puxin and Iyer, Srini and Sun, Jiao and Mao, Yuning and Ma, Xuezhe and Efrat, Avia and Yu, Ping and Yu, Lili and others},
   journal={arXiv preprint arXiv:2305.11206},
+  year={2023}
+}
+```
+
+#### Principle-driven self-alignment of language models from scratch with minimal human supervision
+
+tag: `Self-Alignment`
+
+paper link: [here](https://arxiv.org/pdf/2305.03047)
+
+citation:
+
+```bibtex
+@article{sun2023principle,
+  title={Principle-driven self-alignment of language models from scratch with minimal human supervision},
+  author={Sun, Zhiqing and Shen, Yikang and Zhou, Qinhong and Zhang, Hongxin and Chen, Zhenfang and Cox, David and Yang, Yiming and Gan, Chuang},
+  journal={arXiv preprint arXiv:2305.03047},
   year={2023}
 }
 ```
@@ -199,7 +219,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2304.05302)
 
-citation: 
+citation:
+
 ```bibtex
 @article{yuan2023rrhf,
   title={Rrhf: Rank responses to align language models with human feedback without tears},
@@ -213,7 +234,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2304.04370.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ge2023openagi,
   title={Openagi: When llm meets domain experts},
@@ -227,7 +249,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2301.11270.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{zhu2023principled,
       title={Principled Reinforcement Learning with Human Feedback from Pairwise or $K$-wise Comparisons}, 
@@ -244,7 +267,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2212.08073.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{bai2022constitutional,
   title={Constitutional ai: Harmlessness from ai feedback},
@@ -259,7 +283,8 @@ citation:
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{gao2023scaling,
   title={Scaling laws for reward model overoptimization},
@@ -293,7 +318,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/1909.08593.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ziegler2019fine,
   title={Fine-tuning language models from human preferences},

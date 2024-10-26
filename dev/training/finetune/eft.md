@@ -6,6 +6,8 @@
 
 #### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
 
+tag: `QFT`
+
 paper link: [here](https://arxiv.org/pdf/2310.07147)
 
 citation:
@@ -21,11 +23,14 @@ citation:
 }
 ```
 
-#### Full Parameter Fine-tuning for Large Language Models with Limited Resources (LOMO)
+#### Full Parameter Fine-tuning for Large Language Models with Limited Resources
+
+tag: `LOMO`
 
 paper link: [here](https://arxiv.org/pdf/2306.09782)
 
-citation: 
+citation:
+
 ```bibtex
 @article{lv2023full,
   title={Full Parameter Fine-tuning for Large Language Models with Limited Resources},
@@ -38,7 +43,32 @@ citation:
 
 ### Parameter-Efficient Fine-Tuning (PEFT)
 
+
+#### LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning
+
+tag: `LISA`
+
+paper link: [here](https://arxiv.org/pdf/2403.17919)
+
+github link: [here](https://github.com/OptimalScale/LMFlow)
+
+citation:
+
+```bibtex
+@misc{pan2024lisalayerwiseimportancesampling,
+      title={LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning}, 
+      author={Rui Pan and Xiang Liu and Shizhe Diao and Renjie Pi and Jipeng Zhang and Chi Han and Tong Zhang},
+      year={2024},
+      eprint={2403.17919},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2403.17919}, 
+}
+```
+
 #### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation
+
+tag: `RoSA`
 
 paper link: [here](https://arxiv.org/pdf/2401.04679.pdf)
 
@@ -58,9 +88,12 @@ citation:
 
 #### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
 
+tag: `QA-LoRA`
+
 paper link: [here](https://arxiv.org/pdf/2309.14717)
 
-citation: 
+citation:
+
 ```bibtex
 @article{xu2023qa,
   title={QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models},
@@ -70,11 +103,14 @@ citation:
 }
 ```
 
-#### LongLoRA: Efficient fine-tuning of long-context large language models [`AREAD`]
+#### LongLoRA: Efficient fine-tuning of long-context large language models
+
+tag: `LongLoRA`
 
 paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023longlora,
   title={Longlora: Efficient fine-tuning of long-context large language models},
@@ -86,9 +122,11 @@ citation:
 
 #### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition
 
+tag: `LoraHub`
+
 paper link: [here](https://arxiv.org/pdf/2307.13269)
+
 github link: [here](https://github.com/sail-sg/lorahub)
-hfhub link: [here](https://huggingface.co/lorahub)
 
 citation:
 
@@ -106,9 +144,12 @@ citation:
 
 #### On the effectiveness of parameter-efficient fine-tuning
 
+tag: `PEFT`
+
 paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/26505/26277)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{fu2023effectiveness,
   title={On the effectiveness of parameter-efficient fine-tuning},
@@ -124,17 +165,16 @@ citation:
 
 #### Qlora: Efficient finetuning of quantized llms
 
+tag: `QLoRA`
+
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
 github link: [here](https://github.com/artidoro/qlora)
 
-tutorial links:
+tutorial link: [here](../../../tutorial/notebook/tutorial_qlora.ipynb)
 
-|tutorial name|public date|main-lib version|notebook link|
-|-|-|-|-|
-|tutorial_qlora|2024.01|bitsandbytes=0.41.3, peft=0.7.1|[here](../notebooks/tutorial_qlora.ipynb)|
+citation:
 
-citation: 
 ```bibtex
 @article{dettmers2023qlora,
   title={Qlora: Efficient finetuning of quantized llms},
@@ -145,6 +185,8 @@ citation:
 ```
 
 #### Hypertuning: Toward adapting large language models without back-propagation
+
+tag: `Hyper-Tuning`
 
 paper link: [here](https://proceedings.mlr.press/v202/phang23a.html)
 
@@ -164,6 +206,8 @@ citation:
 
 #### LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models
 
+tag: `LLM-Adapters`
+
 paper link: [here](https://arxiv.org/pdf/2304.01933.pdf)
 
 citation:
@@ -182,9 +226,12 @@ citation:
 
 #### Scaling down to scale up: A guide to parameter-efficient fine-tuning
 
+tag: `PEFT Scaling Law`
+
 paper link: [here](https://arxiv.org/pdf/2303.15647)
 
-citation: 
+citation:
+
 ```bibtex
 @article{lialin2023scaling,
   title={Scaling down to scale up: A guide to parameter-efficient fine-tuning},
@@ -195,21 +242,9 @@ citation:
 ```
 
 
-#### Scaling instruction-finetuned language models
-
-paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
-
-citation: 
-```bibtex
-@article{chung2022scaling,
-  title={Scaling instruction-finetuned language models},
-  author={Chung, Hyung Won and Hou, Le and Longpre, Shayne and Zoph, Barret and Tay, Yi and Fedus, William and Li, Yunxuan and Wang, Xuezhi and Dehghani, Mostafa and Brahma, Siddhartha and others},
-  journal={arXiv preprint arXiv:2210.11416},
-  year={2022}
-}
-```
-
 #### PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods
+
+tag: `PEFT`
 
 blog link: [here](https://huggingface.co/blog/peft)
 
@@ -228,9 +263,12 @@ citation:
 
 #### Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models
 
+tag: `Delta Tuning`
+
 paper link: [here](https://arxiv.org/pdf/2203.06904)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ding2022delta,
   title={Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models},
@@ -242,9 +280,12 @@ citation:
 
 #### The power of scale for parameter-efficient prompt tuning
 
+tag: `PEPT`
+
 paper link: [here](https://arxiv.org/pdf/2104.08691)
 
-citation: 
+citation:
+
 ```bibtex
 @article{lester2021power,
   title={The power of scale for parameter-efficient prompt tuning},
@@ -258,9 +299,12 @@ citation:
 
 #### Prefix-tuning: Optimizing continuous prompts for generation
 
+tag: `Prefix Tuning`
+
 paper link: [here](https://arxiv.org/pdf/2101.00190)
 
-citation: 
+citation:
+
 ```bibtex
 @article{li2021prefix,
   title={Prefix-tuning: Optimizing continuous prompts for generation},
@@ -272,9 +316,12 @@ citation:
     
 #### Lora: Low-rank adaptation of large language models
 
+tag: `LoRA`
+
 paper link: [here](https://arxiv.org/pdf/2106.09685.pdf%C2%A0)
 
-citation: 
+citation:
+
 ```bibtex
 @article{hu2021lora,
   title={Lora: Low-rank adaptation of large language models},
@@ -290,9 +337,12 @@ citation:
 
 #### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning
 
+tag: `MEFT`
+
 paper link: [here](https://arxiv.org/pdf/2306.00477)
 
-citation: 
+citation:
+
 ```bibtex
 @article{liao2023make,
   title={Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning},

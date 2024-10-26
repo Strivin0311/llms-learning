@@ -3,6 +3,28 @@
 
 
 
+#### Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation
+
+tag: `Hallo2`
+
+paper link: [here](https://arxiv.org/pdf/2410.07718)
+
+github link: [here](https://github.com/fudan-generative-vision/hallo2)
+
+citation:
+
+```bibtex
+@misc{cui2024hallo2longdurationhighresolutionaudiodriven,
+      title={Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation}, 
+      author={Jiahao Cui and Hui Li and Yao Yao and Hao Zhu and Hanlin Shang and Kaihui Cheng and Hang Zhou and Siyu Zhu and Jingdong Wang},
+      year={2024},
+      eprint={2410.07718},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.07718}, 
+}
+```
+
 
 #### mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models
 
@@ -23,5 +45,33 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2408.04840}, 
+}
+```
+
+
+
+#### Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
+
+tag: `Hallo`
+
+paper link: [here](https://arxiv.org/pdf/2406.08801)
+
+github link: [here](https://github.com/fudan-generative-vision/hallo)
+
+homepage link: [here](https://fudan-generative-vision.github.io/hallo/#/)
+
+follow-up work: [here](https://arxiv.org/pdf/2410.07718)
+
+citation:
+
+```bibtex
+@misc{xu2024hallohierarchicalaudiodrivenvisual,
+      title={Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation}, 
+      author={Mingwang Xu and Hui Li and Qingkun Su and Hanlin Shang and Liwei Zhang and Ce Liu and Jingdong Wang and Yao Yao and Siyu Zhu},
+      year={2024},
+      eprint={2406.08801},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.08801}, 
 }
 ```

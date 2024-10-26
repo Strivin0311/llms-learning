@@ -2,6 +2,29 @@
 *Here're are some resources about Text-to-Omni and Omni-to-Text modeling, understanding, generation in Multi-Modal LLMs*
 
 
+#### Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities
+
+tag: `Mini-Omni 2`
+
+paper link: [here](https://arxiv.org/pdf/2410.11190v2)
+
+github link: [here](https://github.com/gpt-omni/mini-omni2)
+
+citation:
+
+```bibtex
+@misc{xie2024miniomni2opensourcegpt4ovision,
+      title={Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities}, 
+      author={Zhifei Xie and Changqiao Wu},
+      year={2024},
+      eprint={2410.11190},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2410.11190}, 
+}
+```
+
+
 #### LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 
 tag: `LLaMA-Omni`
@@ -24,6 +47,52 @@ citation:
   author={Fang, Qingkai and Guo, Shoutao and Zhou, Yan and Ma, Zhengrui and Zhang, Shaolei and Feng, Yang},
   journal={arXiv preprint arXiv:2409.06666},
   year={2024}
+}
+```
+
+
+#### Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
+
+tag: `Mini-Omni`
+
+paper link: [here](https://arxiv.org/pdf/2408.16725)
+
+github link: [here](https://github.com/gpt-omni/mini-omni)
+
+follow-up work: [here](https://arxiv.org/pdf/2410.11190v2)
+
+citation:
+
+```bibtex
+@misc{xie2024miniomnilanguagemodelshear,
+      title={Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming}, 
+      author={Zhifei Xie and Changqiao Wu},
+      year={2024},
+      eprint={2408.16725},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2408.16725}, 
+}
+```
+
+
+#### Hello GPT-4o
+
+tag: `GPT-4o`
+
+blog link: [here](https://openai.com/index/hello-gpt-4o/)
+
+platform link: [here](https://platform.openai.com/docs/models/gpt-4o)
+
+citation:
+
+```bibtex
+@misc{openai2024gpt4o,
+  author = {OpenAI},
+  title = {Hello GPT-4o},
+  howpublished = {\url{https://openai.com/index/hello-gpt-4o/}},
+  month = {May},
+  year  = {2024},
 }
 ```
 

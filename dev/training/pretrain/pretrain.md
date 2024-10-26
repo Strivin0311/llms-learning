@@ -104,7 +104,8 @@ citation:
 
 paper link: [here](https://openreview.net/pdf?id=dWDEBW2raJ)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{shi2023train,
   title={Train Faster, Perform Better: Modular Adaptive Training in Over-Parameterized Models},
@@ -211,7 +212,8 @@ citation:
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{gomez2017reversible,
   title={The reversible residual network: Backpropagation without storing activations},
@@ -227,7 +229,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/1604.06174)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2016training,
   title={Training deep nets with sublinear memory cost},
@@ -283,7 +286,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2307.14430)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023skill,
   title={Skill-it! A data-driven skills framework for understanding and training language models},
@@ -298,7 +302,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2203.15556)
 
-citation: 
+citation:
+
 ```bibtex
 @article{hoffmann2022training,
   title={Training compute-optimal large language models},
@@ -313,7 +318,8 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_SelfDoc_Self-Supervised_Document_Representation_Learning_CVPR_2021_paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{li2021selfdoc,
   title={Selfdoc: Self-supervised document representation learning},
@@ -413,7 +419,8 @@ github link: [here](https://github.com/togethercomputer/RedPajama-Data)
 
 dataset link: [here](https://huggingface.co/datasets/togethercomputer/RedPajama-Data-V2)
 
-citation: 
+citation:
+
 ```bibtex
 @software{together2023redpajama,
   author = {Together Computer},
@@ -433,7 +440,8 @@ github link: [here](https://github.com/bigscience-workshop/data-preparation)
 
 dataset link: [here](https://huggingface.co/bigscience-data)
 
-citation: 
+citation:
+
 ```bibtex
 @article{laurenccon2022bigscience,
   title={The bigscience roots corpus: A 1.6 tb composite multilingual dataset},
@@ -454,7 +462,8 @@ github link: [here](https://github.com/EleutherAI/the-pile)
 
 dataset link: [here](https://the-eye.eu/public/AI/pile/)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{gao2020pile,
       title={The Pile: An 800GB Dataset of Diverse Text for Language Modeling}, 
@@ -478,7 +487,8 @@ github link: [here](https://github.com/GAIR-NLP/MathPile/)
 
 dataset link: [here](https://huggingface.co/datasets/GAIR/MathPile)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{wang2023generative,
       title={Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math}, 

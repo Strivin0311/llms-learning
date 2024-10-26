@@ -58,7 +58,8 @@ paper link: [here](https://arxiv.org/pdf/2307.08691.pdf)
 
 github link: [here](https://github.com/Dao-AILab/flash-attention)
 
-citation: 
+citation:
+
 ```bibtex
 @article{dao2023flashattention,
   title={Flashattention-2: Faster attention with better parallelism and work partitioning},
@@ -75,7 +76,8 @@ tag: `SCFA`
 
 paper link: [here](https://arxiv.org/pdf/2306.01160)
 
-citation: 
+citation:
+
 ```bibtex
 @article{pagliardini2023faster,
   title={Faster Causal Attention Over Large Sequences Through Sparse Flash Attention},
@@ -103,7 +105,8 @@ paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/67
 
 github link: [here](https://github.com/Dao-AILab/flash-attention)
 
-citation: 
+citation:
+
 ```bibtex
 @article{dao2022flashattention,
   title={Flashattention: Fast and memory-efficient exact attention with io-awareness},
@@ -146,7 +149,8 @@ paper link: [here](https://arxiv.org/pdf/2309.06180)
 
 github link: [here](https://github.com/vllm-project/vllm)
 
-citation: 
+citation:
+
 ```bibtex
 @article{kwon2023efficient,
   title={Efficient memory management for large language model serving with pagedattention},
@@ -163,7 +167,8 @@ tag: `Online Softmax`
 
 paper link: [here](https://arxiv.org/pdf/2112.05682)
 
-citation: 
+citation:
+
 ```bibtex
 @article{rabe2021self,
   title={Self-attention Does Not Need $ O (n\^{} 2) $ Memory},

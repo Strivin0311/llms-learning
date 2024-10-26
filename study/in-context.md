@@ -26,7 +26,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2301.00234)
 
-citation: 
+citation:
+
 ```bibtex
 @article{dong2022survey,
   title={A survey for in-context learning},
@@ -41,7 +42,8 @@ citation:
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3560815?trk=public_post_comment-text)
 
-citation: 
+citation:
+
 ```bibtex
 @article{liu2023pre,
   title={Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing},
@@ -62,7 +64,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2310.10616)
 
-citation: 
+citation:
+
 ```bibtex
 @article{guo2023transformers,
   title={How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations},
@@ -77,7 +80,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2306.04637)
 
-citation: 
+citation:
+
 ```bibtex
 @article{bai2023transformers,
   title={Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection},
@@ -92,7 +96,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.04388.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{turpin2023language,
   title={Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting},
@@ -145,7 +150,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2308.09687.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{besta2023graph,
   title={Graph of thoughts: Solving elaborate problems with large language models},
@@ -159,7 +165,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.10601)
 
-citation: 
+citation:
+
 ```bibtex
 @article{yao2023tree,
   title={Tree of thoughts: Deliberate problem solving with large language models},
@@ -173,7 +180,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2203.11171.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wang2022self,
   title={Self-consistency improves chain of thought reasoning in language models},
@@ -187,7 +195,8 @@ citation:
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wei2022chain,
   title={Chain-of-thought prompting elicits reasoning in large language models},
@@ -243,7 +252,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2311.08364)
 
-citation: 
+citation:
+
 ```bibtex
 @article{pan2023plum,
   title={Plum: Prompt Learning using Metaheuristic},
@@ -258,7 +268,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2310.16436)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zheng2023ddcot,
   title={Ddcot: Duty-distinct chain-of-thought prompting for multimodal reasoning in language models},
@@ -362,7 +373,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2302.14838)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023evoprompting,
   title={EvoPrompting: Language Models for Code-Level Neural Architecture Search},
@@ -394,7 +406,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2209.11302)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{singh2023progprompt,
   title={Progprompt: Generating situated robot task plans using large language models},
@@ -411,7 +424,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2205.12548)
 
-citation: 
+citation:
+
 ```bibtex
 @article{deng2022rlprompt,
   title={Rlprompt: Optimizing discrete text prompts with reinforcement learning},
@@ -426,7 +440,8 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Khattak_MaPLe_Multi-Modal_Prompt_Learning_CVPR_2023_paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{khattak2023maple,
   title={Maple: Multi-modal prompt learning},
@@ -441,7 +456,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2212.06713)
 
-citation: 
+citation:
+
 ```bibtex
 @article{hao2022structured,
   title={Structured prompting: Scaling in-context learning to 1,000 examples},
@@ -456,7 +472,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2211.01910.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zhou2022large,
   title={Large language models are human-level prompt engineers},
@@ -470,7 +487,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2210.11610.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{huang2022large,
   title={Large language models can self-improve},
@@ -486,7 +504,8 @@ citation:
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{zhou2022conditional,
   title={Conditional prompt learning for vision-language models},
@@ -519,7 +538,8 @@ citation:
 
 paper link: [here](http://proceedings.mlr.press/v139/zhao21c/zhao21c.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{zhao2021calibrate,
   title={Calibrate before use: Improving few-shot performance of language models},
@@ -537,7 +557,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2110.08207)
 
-citation: 
+citation:
+
 ```bibtex
 @article{sanh2021multitask,
   title={Multitask prompted training enables zero-shot task generalization},

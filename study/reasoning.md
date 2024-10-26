@@ -10,7 +10,8 @@
 
 paper link: [here](https://arxiv.org/pdf/2304.09842)
 
-citation: 
+citation:
+
 ```bibtex
 @article{lu2023chameleon,
   title={Chameleon: Plug-and-play compositional reasoning with large language models},
@@ -25,7 +26,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2304.03843)
 
-citation: 
+citation:
+
 ```bibtex
 @article{prystawski2023think,
   title={Why think step-by-step? Reasoning emerges from the locality of experience},
@@ -39,7 +41,8 @@ citation:
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{gao2023pal,
   title={Pal: Program-aided language models},
@@ -55,7 +58,8 @@ citation:
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{gupta2023visual,
   title={Visual programming: Compositional visual reasoning without training},
@@ -71,7 +75,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2210.11610.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{huang2022large,
   title={Large language models can self-improve},
@@ -85,7 +90,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2210.03629.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{yao2022react,
   title={React: Synergizing reasoning and acting in language models},
@@ -101,7 +107,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2207.07051.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{dasgupta2022language,
   title={Language models show human-like content effects on reasoning},
@@ -116,7 +123,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2203.11171.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wang2022self,
   title={Self-consistency improves chain of thought reasoning in language models},
@@ -134,7 +142,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2310.02071)
 
-citation: 
+citation:
+
 ```bibtex
 @article{chen2023towards,
   title={Towards end-to-end embodied decision making via multi-modal large language model: Explorations with gpt4-vision and beyond},
@@ -149,7 +158,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2306.09200)
 
-citation: 
+citation:
+
 ```bibtex
 @article{feng2023chessgpt,
   title={ChessGPT: Bridging Policy Learning and Language Modeling},
@@ -163,7 +173,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2303.17491)
 
-citation: 
+citation:
+
 ```bibtex
 @article{kim2023language,
   title={Language models can solve computer tasks},
@@ -177,7 +188,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2209.11302)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{singh2023progprompt,
   title={Progprompt: Generating situated robot task plans using large language models},
@@ -193,7 +205,8 @@ citation:
 
 paper link: [here](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @inproceedings{huang2022language,
   title={Language models as zero-shot planners: Extracting actionable knowledge for embodied agents},
@@ -338,7 +351,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.10037)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wang2023can,
   title={Can Language Models Solve Graph Problems in Natural Language?},
@@ -354,7 +368,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2309.17452)
 
-citation: 
+citation:
+
 ```bibtex
 @article{gou2023tora,
   title={ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving},
@@ -369,7 +384,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2210.11694)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zhang2022multi,
   title={Multi-View Reasoning: Consistent Contrastive Learning for Math Word Problem},

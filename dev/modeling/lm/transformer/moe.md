@@ -391,7 +391,8 @@ tag: `MoE`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{jaszczur2021sparse,
   title={Sparse is enough in scaling transformers},

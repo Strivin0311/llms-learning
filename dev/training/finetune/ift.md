@@ -2,11 +2,15 @@
 *Here're some resources about Instruction Following Fine-Tuning (IFT) for LLMs*
 
 
+
 #### Self-QA: Unsupervised Knowledge Guided Language Model Alignment
+
+tag: `Self-QA`
 
 paper link: [here](https://arxiv.org/pdf/2305.11952)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zhang2023self,
   title={Self-QA: Unsupervised Knowledge Guided Language Model Alignment},
@@ -15,24 +19,11 @@ citation:
   year={2023}
 }
 ```
-    
-    
 
-#### Principle-driven self-alignment of language models from scratch with minimal human supervision
-
-paper link: [here](https://arxiv.org/pdf/2305.03047)
-
-citation: 
-```bibtex
-@article{sun2023principle,
-  title={Principle-driven self-alignment of language models from scratch with minimal human supervision},
-  author={Sun, Zhiqing and Shen, Yikang and Zhou, Qinhong and Zhang, Hongxin and Chen, Zhenfang and Cox, David and Yang, Yiming and Gan, Chuang},
-  journal={arXiv preprint arXiv:2305.03047},
-  year={2023}
-}
-```
 
 #### WizardLM: Empowering Large Language Models to Follow Complex Instructions
+
+tag: `WizardLM`
 
 paper link: [here](https://arxiv.org/pdf/2304.12244.pdf)
 
@@ -60,42 +51,40 @@ citation:
 }
 ```
 
-#### Visual instruction tuning
+
+#### Visual Instruction Tuning
+
+tag: `LLaVA`
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
-citation: 
+github link: [here](https://github.com/haotian-liu/LLaVA)
+
+homepage link: [here](https://llava-vl.github.io/)
+
+citation:
+
 ```bibtex
-@article{liu2023visual,
-  title={Visual instruction tuning},
-  author={Liu, Haotian and Li, Chunyuan and Wu, Qingyang and Lee, Yong Jae},
-  journal={arXiv preprint arXiv:2304.08485},
-  year={2023}
-}
-```
-    
-
-
-#### Baize: An open-source chat model with parameter-efficient tuning on self-chat data
-
-paper link: [here](https://arxiv.org/pdf/2304.01196)
-
-citation: 
-```bibtex
-@article{xu2023baize,
-  title={Baize: An open-source chat model with parameter-efficient tuning on self-chat data},
-  author={Xu, Canwen and Guo, Daya and Duan, Nan and McAuley, Julian},
-  journal={arXiv preprint arXiv:2304.01196},
-  year={2023}
+@misc{liu2023visualinstructiontuning,
+      title={Visual Instruction Tuning}, 
+      author={Haotian Liu and Chunyuan Li and Qingyang Wu and Yong Jae Lee},
+      year={2023},
+      eprint={2304.08485},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2304.08485}, 
 }
 ```
 
 
 #### Self-Prompting Large Language Models for Zero-Shot Open-Domain QA
 
+tag: `Self-Prompting`
+
 paper link: [here](https://arxiv.org/pdf/2212.08635.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{li2023selfprompting,
   title={Self-Prompting Large Language Models for Zero-Shot Open-Domain QA}, 
@@ -110,9 +99,12 @@ citation:
 
 #### Self-instruct: Aligning language model with self generated instructions
 
+tag: `Self-instruct`
+
 paper link: [here](https://arxiv.org/pdf/2212.10560)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wang2022self,
   title={Self-instruct: Aligning language model with self generated instructions},
@@ -122,11 +114,14 @@ citation:
 }
 ```
 
-#### Training language models to follow instructions with human feedback (InstructGPT)
+#### Training language models to follow instructions with human feedback
+
+tag: `InstructGPT`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ouyang2022training,
   title={Training language models to follow instructions with human feedback},
@@ -139,11 +134,14 @@ citation:
 ```
 
 
-#### Scaling Instruction-Finetuned Language Models (FLAN-T5, FLAN-PaLM)
+#### Scaling Instruction-Finetuned Language Models
+
+tag: `FLAN-T5` | `FLAN-PaLM`
 
 paper link: [here](https://arxiv.org/pdf/2210.11416.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{chung2022scaling,
       title={Scaling Instruction-Finetuned Language Models}, 
@@ -156,11 +154,14 @@ citation:
 ```
 
 
-#### Finetuned language models are zero-shot learners (FLAN)
+#### Finetuned language models are zero-shot learners
+
+tag: `FLAN`
 
 paper link: [here](https://arxiv.org/pdf/2109.01652)
 
-citation: 
+citation:
+
 ```bibtex
 @article{wei2021finetuned,
   title={Finetuned language models are zero-shot learners},

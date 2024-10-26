@@ -116,7 +116,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2306.04757.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{chia2023instructeval,
       title={INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models}, 
@@ -134,7 +135,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2211.09110.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{liang2022holistic,
   title={Holistic evaluation of language models},
@@ -153,7 +155,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2304.04370.pdf)
 
-citation: 
+citation:
+
 ```bibtex
 @article{ge2023openagi,
   title={Openagi: When llm meets domain experts},
@@ -170,7 +173,8 @@ paper link: [here](https://arxiv.org/pdf/2009.03300)
 
 github link: [here](https://github.com/hendrycks/test)
 
-citation: 
+citation:
+
 ```bibtex
 @article{hendrycks2020measuring,
   title={Measuring massive multitask language understanding},
@@ -253,7 +257,8 @@ github link: [here](https://github.com/nuprl/MultiPL-E)
 
 leaderboard link: [here](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)
     
-citation: 
+citation:
+
 ```bibtex
 @article{cassano2023multipl,
   title={MultiPL-E: a scalable and polyglot approach to benchmarking neural code generation},
@@ -271,7 +276,8 @@ paper link: [here](https://arxiv.org/pdf/2107.03374.pdf)
 
 dataset link: [here](https://huggingface.co/datasets/openai_humaneval)
 
-citation: 
+citation:
+
 ```bibtex
 @misc{chen2021evaluating,
       title={Evaluating Large Language Models Trained on Code}, 
@@ -294,7 +300,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.08322)
 
-citation: 
+citation:
+
 ```bibtex
 @article{huang2023c,
   title={C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models},
@@ -312,7 +319,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2305.14471)
 
-citation: 
+citation:
+
 ```bibtex
 @article{zhang2023cgce,
   title={CGCE: A Chinese Generative Chat Evaluation Benchmark for General and Financial Domains},
@@ -354,7 +362,8 @@ citation:
 
 paper link: [here](https://arxiv.org/pdf/2106.00085)
 
-citation: 
+citation:
+
 ```bibtex
 @article{meister2021language,
   title={Language model evaluation beyond perplexity},
