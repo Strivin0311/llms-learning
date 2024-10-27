@@ -188,26 +188,6 @@ citation:
 ```
 
 
-#### SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks
-
-paper link: [here](https://arxiv.org/pdf/1801.04380)
-
-citation:
-
-```bibtex
-@inproceedings{Wang_2018, series={PPoPP ’18},
-   title={Superneurons: dynamic GPU memory management for training deep neural networks},
-   url={http://dx.doi.org/10.1145/3178487.3178491},
-   DOI={10.1145/3178487.3178491},
-   booktitle={Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming},
-   publisher={ACM},
-   author={Wang, Linnan and Ye, Jinmian and Zhao, Yiyang and Wu, Wei and Li, Ang and Song, Shuaiwen Leon and Xu, Zenglin and Kraska, Tim},
-   year={2018},
-   month=feb, collection={PPoPP ’18} 
-}
-```
-
-
 #### The reversible residual network: Backpropagation without storing activations (RevNet)
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)

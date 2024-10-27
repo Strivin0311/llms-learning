@@ -791,26 +791,6 @@ citation:
 ```
 
 
-#### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning
-
-paper link: [here](https://arxiv.org/pdf/2104.07857.pdf)
-
-blog link: [here](https://www.microsoft.com/en-us/research/blog/zero-infinity-and-deepspeed-unlocking-unprecedented-model-scale-for-deep-learning-training/)
-
-citation:
-
-```bibtex
-@misc{rajbhandari2021zeroinfinity,
-      title={ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning}, 
-      author={Samyam Rajbhandari and Olatunji Ruwase and Jeff Rasley and Shaden Smith and Yuxiong He},
-      year={2021},
-      eprint={2104.07857},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC}
-}
-```
-
-
 #### Automatic Cross-Replica Sharding of Weight Update in Data-Parallel Training
 
 paper link: [here](https://arxiv.org/pdf/2004.13336.pdf)

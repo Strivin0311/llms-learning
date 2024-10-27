@@ -1,7 +1,11 @@
-# Automatic Mixed-Precision (AMP) Training for LLMs
-*Here're some resources about Automatic Mixed-Precision strategies for LLMs training for LLMs*
+# Mixed-Precision Training for LLMs
+*Here're some resources about Mixed-Precision strategies, especially low-precision training for LLMs*
+*Note that many of the methods here can be shared with the ones in quantization*
+
 
 #### eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization
+
+tag: `eXmY`
 
 paper link: [here](https://arxiv.org/pdf/2405.13938)
 
@@ -20,7 +24,30 @@ citation:
 ```
 
 
+#### A Stochastic Rounding-Enabled Low-Precision Floating-Point MAC for DNN Training
+
+tag: `Optimized SR` | `Stochastic Rounding`
+
+paper link: [here](https://arxiv.org/pdf/2404.14010)
+
+citation:
+
+```bibtex
+@misc{ali2024stochasticroundingenabledlowprecisionfloatingpoint,
+      title={A Stochastic Rounding-Enabled Low-Precision Floating-Point MAC for DNN Training}, 
+      author={Sami Ben Ali and Silviu-Ioan Filip and Olivier Sentieys},
+      year={2024},
+      eprint={2404.14010},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR},
+      url={https://arxiv.org/abs/2404.14010}, 
+}
+```
+
+
 #### FP8-LM: Training FP8 Large Language Models
+
+tag: `FP8-LM` | `FP8 Optimizer`
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
 
@@ -42,6 +69,8 @@ citation:
 
 #### BitNet: Scaling 1-bit Transformers for Large Language Models
 
+tag: `BitNet`
+
 paper link: [here](https://arxiv.org/pdf/2310.11453)
 
 blog link: [here](https://thegenerality.com/agi/)
@@ -62,7 +91,32 @@ citation:
 ```
 
 
+#### Microscaling Data Formats for Deep Learning
+
+tag: `Microscaling` | `MX` | `MXFP8` | `MXFP6` | `MXFP4`
+
+paper link: [here](https://arxiv.org/pdf/2310.10537)
+
+spec link: [here](https://www.opencompute.org/documents/ocp-microscaling-formats-mx-v1-0-spec-final-pdf)
+
+citation:
+
+```bibtex
+@misc{rouhani2023microscalingdataformatsdeep,
+      title={Microscaling Data Formats for Deep Learning}, 
+      author={Bita Darvish Rouhani and Ritchie Zhao and Ankit More and Mathew Hall and Alireza Khodamoradi and Summer Deng and Dhruv Choudhary and Marius Cornea and Eric Dellinger and Kristof Denolf and Stosic Dusan and Venmugil Elango and Maximilian Golub and Alexander Heinecke and Phil James-Roxby and Dharmesh Jani and Gaurav Kolhe and Martin Langhammer and Ada Li and Levi Melnick and Maral Mesmakhosroshahi and Andres Rodriguez and Michael Schulte and Rasoul Shafipour and Lei Shao and Michael Siu and Pradeep Dubey and Paulius Micikevicius and Maxim Naumov and Colin Verrilli and Ralph Wittig and Doug Burger and Eric Chung},
+      year={2023},
+      eprint={2310.10537},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2310.10537}, 
+}
+```
+
+
 #### Training and inference of large language models using 8-bit floating point
+
+tag: `FP8 Scaling Bias`
 
 paper link: [here](https://arxiv.org/pdf/2309.17224)
 
@@ -82,6 +136,8 @@ citation:
 
 #### Unit Scaling: Out-of-the-Box Low-Precision Training
 
+tag: `Unit Scaling` | `SNR Analysis`
+
 paper link: [here](https://arxiv.org/pdf/2303.11257)
 
 citation:
@@ -99,7 +155,9 @@ citation:
 ```
 
 
-#### NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8 (TE)
+#### NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8
+
+tag: `TE FP8`
 
 blog link: [here](https://towardsdatascience.com/accelerating-pytorch-training-workloads-with-fp8-5a5123aec7d7)
 
@@ -119,7 +177,28 @@ citation:
 ```
 
 
+#### NVIDIA Train With Mixed Precision
+
+tag: `Mixed Precision`
+
+doc link: [here](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html)
+
+citation:
+
+```bibtex
+@manual{nvidia2024mixed,
+  title = {Train With Mixed Precision},
+  author= {{NVIDIA Corporation}},
+  month = {February},
+  year  = {2023},
+  howpublished = {\url{https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html}}
+}
+```
+
+
 #### FP8 Quantization: The Power of the Exponent
+
+tag: `FP8 Quantization`
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 
@@ -141,6 +220,8 @@ citation:
 
 #### 8-bit Optimizers via Block-wise Quantization
 
+tag: `FP8 Optimizer` | `Blockwise Quantization` | `Dynamic Tree Quantization`
+
 paper link: [here](https://arxiv.org/pdf/2110.02861)
 
 citation:
@@ -157,7 +238,9 @@ citation:
 ```
 
 
-#### Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks (HFP8)
+#### Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks
+
+tag: `HFP8` | `Hybrid FP8`      
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/65fc9fb4897a89789352e211ca2d398f-Paper.pdf)
 
@@ -177,8 +260,27 @@ citation:
 }  
 ```
 
+#### BFloat16: The secret to high performance on Cloud TPUs
 
-#### Training Deep Neural Networks with 8-bit Floating Point Numbers (FP8)
+tag: `BF16`
+
+blog link: [here](https://cloud.google.com/blog/products/ai-machine-learning/bfloat16-the-secret-to-high-performance-on-cloud-tpus)
+
+citation:
+
+```bibtex
+@misc{shibo2019bfloat16,
+  author = {Shibo Wang and Pankaj Kanwar},
+  title  = {bfloat16: The secret to high performance on Cloud TPUs},
+  year   = {2019},
+  howpublished = {\url{https://cloud.google.com/blog/products/ai-machine-learning/bfloat16-the-secret-to-high-performance-on-cloud-tpus}}
+}
+```
+
+
+#### Training Deep Neural Networks with 8-bit Floating Point Numbers
+
+tag: `FP8-E5M2` | `Chunk-based Accumulation` | `Stochastic Rounding`
 
 paper link: [here](https://arxiv.org/pdf/1812.08011)
 
@@ -196,7 +298,9 @@ citation:
 ```
 
 
-#### Mixed Precision Training (FP16)
+#### Mixed Precision Training
+
+tag: `FP16` | `Loss Scaling`
 
 paper link: [here](https://arxiv.org/pdf/1710.03740)
 

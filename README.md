@@ -58,9 +58,10 @@ Hope you find this repository useful! 😊
         * [Tensor Parallelism (TP)](./dev/training/pretrain/parallel.md#tensor-parallelism-tp)
         * [Data Parallelism (DP)](./dev/training/pretrain/parallel.md#data-parallelism-dp)
       * [Offloading](./dev/training/pretrain/offload.md)
-      * [Automatic Mixed-Precision (AMP)](./dev/training/pretrain/amp.md)
+      * [Checkpointing](./dev/training/pretrain/ckpt.md)
+      * [Mixed-Precision](./dev/training/pretrain/mp.md)
       * [Optimizer](./dev/training/pretrain/optimizer.md)
-      * [Objectives](./dev/training/pretrain/objective.md)
+      * [Objectives / Loss Functions](./dev/training/pretrain/objective.md)
     * [Fine-Tuning](./dev/training/finetune/)
       * [Efficient Fine-Tuning (EFT)](./dev/training/finetune/peft.md)
       * [Instruction Fine-Tuning (IFT)](./dev/training/finetune/ift.md)
@@ -79,7 +80,9 @@ Hope you find this repository useful! 😊
   * [Transferability](./study/transfer.md)
   * [In-Context Learning (ICL)](./study/in-context.md)
   * [Long-Context Capabilities](./study/long-context.md)
-  * [Empirical Study](./study/empirical.md)
+  * [General Empirical Study](./study/empirical.md)
+  * [General Surveys](./study/survey.md)
+* [Basics](./base/)
 * [Assets](./asset/)
 
 

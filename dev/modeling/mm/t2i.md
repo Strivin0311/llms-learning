@@ -240,7 +240,29 @@ citation:
    author={Cherti, Mehdi and Beaumont, Romain and Wightman, Ross and Wortsman, Mitchell and Ilharco, Gabriel and Gordon, Cade and Schuhmann, Christoph and Schmidt, Ludwig and Jitsev, Jenia},
    year={2023},
    month=jun }
+```
 
+
+#### EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
+
+tag: `EVA`
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.pdf)
+
+github link: [here](https://github.com/baaivision/EVA)
+
+citation:
+
+```bibtex
+@misc{fang2022evaexploringlimitsmasked,
+      title={EVA: Exploring the Limits of Masked Visual Representation Learning at Scale}, 
+      author={Yuxin Fang and Wen Wang and Binhui Xie and Quan Sun and Ledell Wu and Xinggang Wang and Tiejun Huang and Xinlong Wang and Yue Cao},
+      year={2022},
+      eprint={2211.07636},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2211.07636}, 
+}
 ```
 
 

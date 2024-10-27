@@ -122,23 +122,6 @@ citation:
 }
 ```
 
-#### 8-bit Optimizers via Block-wise Quantization
-
-paper link: [here](https://arxiv.org/pdf/2110.02861)
-
-citation:
-
-```bibtex
-@misc{dettmers20228bit,
-      title={8-bit Optimizers via Block-wise Quantization}, 
-      author={Tim Dettmers and Mike Lewis and Sam Shleifer and Luke Zettlemoyer},
-      year={2022},
-      eprint={2110.02861},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
 
 #### Q8BERT: Quantized 8Bit BERT
 
@@ -160,6 +143,27 @@ citation:
 
 
 ### Post-Training Quantization (PTQ)
+
+
+#### eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization
+
+tag: `eXmY`
+
+paper link: [here](https://arxiv.org/pdf/2405.13938)
+
+citation:
+
+```bibtex
+@misc{agrawal2024exmydatatypetechnique,
+      title={eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization}, 
+      author={Aditya Agrawal and Matthew Hedlund and Blake Hechtman},
+      year={2024},
+      eprint={2405.13938},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.13938}, 
+}
+```
 
 #### HQQ: Half-Quadratic Quantization of Large Machine Learning Models
 
