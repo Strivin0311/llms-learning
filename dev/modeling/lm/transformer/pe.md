@@ -317,7 +317,7 @@ citation:
 
 #### Attention is all you need
 
-tag: `SinPE` | `Sinusoidal PE`
+tag: `SinPE` | `Sinusoidal PE` | `NIPS17` | `Google`
 
 overview:
 
@@ -335,7 +335,7 @@ $$
     \quad where\quad  \theta := \beta^{-1}, \space  \beta := base^{\frac{2}{d}}, \space n\in\{0,1,\cdots, L-1\}
 $$
 
-paper link: [here](https://arxiv.org/pdf/1706.03762)
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 citation:
 

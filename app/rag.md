@@ -1,7 +1,7 @@
 # Retrieval-Augmented Generation (RAG)
 *Here're some resources about Retrieval-Augmented Generation with LLMs*
 
-## Methods
+## Method
 
 #### VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents
 

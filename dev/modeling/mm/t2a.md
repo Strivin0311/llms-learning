@@ -2,7 +2,7 @@
 *Here're are some resources about Text-to-Audio and Audio-to-Text modeling, understanding, generation in Multi-Modal LLMs*
 
 
-## Methods
+## Method
 
 #### Qwen2-Audio Technical Report
 
@@ -57,8 +57,7 @@ citation:
 ```
 
 
-## Benchmarks
-
+## Benchmark
 
 #### AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
 

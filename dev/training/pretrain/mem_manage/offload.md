@@ -1,5 +1,5 @@
-# Offloading Strategies for LLMs
-*Here're some resources about offloading strategies for LLMs*
+# Offloading Strategies for LLMs Training
+*Here're some resources about Offloading Strategies for LLMs Training*
 
 
 #### LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs
@@ -69,6 +69,25 @@ citation:
 }
 ```
 
+#### NVIDIA Transformer-Engine CPU Offloading
+
+tag: `TE-Offloading` | `Transformer-Engine` | `NVIDIA`
+
+github link: [here](https://github.com/NVIDIA/TransformerEngine/blob/main/transformer_engine/pytorch/cpu_offload.py)
+
+docs link: [here](https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/api/pytorch.html?highlight=offload#transformer_engine.pytorch.get_cpu_offload_context)
+
+citation: 
+
+```bibtex
+@misc{transformerenginecpuoffload2024nvidia,
+  author = {NVIDIA},
+  title  = {NVIDIA Transformer-Engine CPU Offloading},
+  year   = {2024},
+  howpublished = {\url{https://github.com/NVIDIA/TransformerEngine/blob/main/transformer_engine/pytorch/cpu_offload.py}},
+}
+```
+
 
 #### STR: Hybrid Tensor Re-Generation to Break Memory Wall for DNN Training
 
@@ -79,7 +98,7 @@ paper link: [here](https://ieeexplore.ieee.org/document/10098636)
 citation:
 
 ```bibtex
-@ARTICLE{zong2023str,
+@article{zong2023str,
   author={Zong, Zan and Lin, Li and Lin, Leilei and Wen, Lijie and Sun, Yu},
   journal={IEEE Transactions on Parallel and Distributed Systems}, 
   title={STR: Hybrid Tensor Re-Generation to Break Memory Wall for DNN Training}, 
@@ -88,8 +107,8 @@ citation:
   number={8},
   pages={2403-2418},
   keywords={Tensors;Graphics processing units;Training;Optimization;Costs;Bandwidth;Memory management;DNN training;offload memory;recomputation;rematerialization;swap},
-  doi={10.1109/TPDS.2023.3266110}}
-
+  doi={10.1109/TPDS.2023.3266110}
+}
 ```
 
 #### MPress: Democratizing Billion-Scale Model Training on Multi-GPU Servers via Memory-Saving Inter-Operator Parallelism
@@ -133,6 +152,27 @@ citation:
   pages={1-17},
   keywords={Training;Deep learning;Codes;Computational modeling;Memory management;Graphics processing units;Random access memory;Deep learning;Distributed training;DNNs training acceleration},
   doi={10.1109/SC41404.2022.00076}
+}
+```
+
+
+#### DELTA: Memory-Eficient Training via Dynamic Fine-Grained Recomputation and Swapping
+
+tag: `DELTA` | `Tensor Swapping` | `Tensor Recomputation` | `ACM TACO24`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3689338)
+
+citation:
+
+```bibtex
+@misc{tang2022deltadynamicallyoptimizinggpu,
+      title={DELTA: Dynamically Optimizing GPU Memory beyond Tensor Recomputation}, 
+      author={Yu Tang and Chenyu Wang and Yufan Zhang and Yuliang Liu and Xingcheng Zhang and Linbo Qiao and Zhiquan Lai and Dongsheng Li},
+      year={2022},
+      eprint={2203.15980},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2203.15980}, 
 }
 ```
 

@@ -1,7 +1,7 @@
 # Text-to-Image and Image-to-Text
 *Here're are some resources about Text-to-Image and Image-to-Text modeling, understanding, generation in Multi-Modal LLMs*
 
-## Methods
+## Method
 
 
 #### Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation

@@ -192,7 +192,7 @@ citation:
     
 #### On the Parameterization and Initialization of Diagonal State Space Models
 
-tag: `DSS`
+tag: `DSS` | `S4D`
 
 paper link: [here](https://arxiv.org/pdf/2206.11893)
 

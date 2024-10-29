@@ -1,5 +1,5 @@
-# Checkpointing Systems for LLMs
-*Here're some resources about checkpointing systems for LLMs*
+# Checkpointing Systems for LLMs Training
+*Here're some resources about checkpointing systems for LLMs Training*
 
 
 #### ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development
@@ -23,11 +23,31 @@ citation:
 ```
 
 
+#### Flash Checkpoint to Recover Large Model Training From Failure in Seconds
+
+tag: `Flash Checkpoint` | `DLrover` | `AntGroup`
+
+blog link: [here](https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md)
+
+github link: [here](https://github.com/intelligent-machine-learning/dlrover)
+
+citation:
+
+```bibtex
+@misc{zhang2022flash,
+      title={Flash Checkpoint to Recover Large Model Training From Failure in Seconds}, 
+      author={Qinlong Wang},
+      year={2024},
+      howpublished={https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md},
+}
+```
+
+
 #### NVIDIA Megatron Distributed Checkpointing
 
 tag: `Megatron DistCheckpointing` | `NVIDIA`
 
-doc link: [here](https://docs.nvidia.com/megatron-core/developer-guide/latest/api-guide/dist_checkpointing.html)
+docs link: [here](https://docs.nvidia.com/megatron-core/developer-guide/latest/api-guide/dist_checkpointing.html)
 
 citation:
 
@@ -75,7 +95,7 @@ citation:
 
 tag: `DCP` | `PyTorch`
 
-doc link: [here](https://pytorch.org/tutorials/recipes/distributed_checkpoint_recipe.html)
+docs link: [here](https://pytorch.org/tutorials/recipes/distributed_checkpoint_recipe.html)
 
 citation:
 

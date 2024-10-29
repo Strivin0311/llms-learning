@@ -2,7 +2,7 @@
 *Here're some resources about LLMs as Agents*
 
 
-## Methods
+## Method
 
 #### Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents
 
@@ -350,7 +350,7 @@ tag: `LangChain`
 
 github link: [here](https://github.com/langchain-ai/langchain)
 
-doc link: [here](https://python.langchain.com/docs/get_started/introduction)
+docs link: [here](https://python.langchain.com/docs/get_started/introduction)
 
 tutorial link: [here](../tutorial/notebook/tutorial_langchain.ipynb)
 

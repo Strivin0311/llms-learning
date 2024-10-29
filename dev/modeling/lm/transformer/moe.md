@@ -1,10 +1,10 @@
-# Mixture-of-Experts (MoE)
-*Here're some resources about Mixture-of-Experts (MoE) structure design of LLMs*
+# Mixture-of-Experts (MoE) Sparse Transformer Language Modeling for LLMs
+*Here're some resources about Mixture-of-Experts (MoE) Sparse Transformer Language Modeling for LLMs*
 
 
 #### OLMoE: Open Mixture-of-Experts Language Models
 
-tag: `OLMoE`
+tag: `OLMoE` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2409.02060)
 
@@ -27,7 +27,7 @@ citation:
 
 #### Mixture of A Million Experts
 
-tag: `PEER`
+tag: `PEER` | `Google DeepMind`
 
 paper link: [here](https://web3.arxiv.org/pdf/2407.04153)
 
@@ -48,7 +48,7 @@ citation:
 
 #### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
-tag: `DeepSeek-V2`
+tag: `DeepSeek-V2` | `DeepSeek AI`
 
 paper link: [here](https://arxiv.org/pdf/2405.04434)
 
@@ -79,7 +79,7 @@ citation:
 
 #### Turn Waste into Worth: Rectifying Top-k Router of MoE
 
-tag: `Rectify-Router`
+tag: `Rectify-Router` | `Shanghai AILab` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2402.12399)
 
@@ -100,7 +100,7 @@ citation:
 
 #### DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models
 
-tag: `DeepSeek MoE`
+tag: `DeepSeek MoE` | `DeepSeek AI`
 
 paper link: [here](https://arxiv.org/pdf/2401.06066)
 
@@ -135,6 +135,8 @@ tag: `SwitchHead`
 
 paper link: [here](https://arxiv.org/pdf/2312.07987v2.pdf)
 
+github link: [here](https://github.com/robertcsordas/moe_attention)
+
 citation:
 
 ```bibtex
@@ -149,7 +151,7 @@ citation:
 
 #### Mixtral of experts: A high quality Sparse Mixture-of-Experts
 
-tag: `Mixtral`
+tag: `Mixtral` | `Mistral AI`
 
 paper link: [here](https://arxiv.org/pdf/2401.04088)
 
@@ -199,7 +201,7 @@ citation:
 
 #### From sparse to soft mixtures of experts
 
-tag: `Soft MoE`
+tag: `Soft MoE` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2308.00951)
 
@@ -215,11 +217,11 @@ citation:
 ```
 
 
-#### OpenMoE: A family of open-sourced Mixture-of-Experts (MoE) Large Language Models
+#### OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models
 
-tag: `OpenMoE`
+tag: `OpenMoE` | `NUS`
 
-blog link: [here](https://xuefuzhao.notion.site/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879)
+paper link: [here](https://arxiv.org/pdf/2402.01739)
 
 github link: [here](https://github.com/XueFuzhao/OpenMoE)
 
@@ -239,9 +241,9 @@ citation:
 
 #### MegaBlocks: Efficient Sparse Training with Mixture-of-Experts
 
-tag: `MegaBlocks` | `dMoE`
+tag: `MegaBlocks` | `dMoE` | `MLSys23` | `Stanford University` | `Google` | `Microsoft`
 
-paper link: [here](https://arxiv.org/pdf/2211.15841.pdf)
+paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2023/file/5a54f79333768effe7e8927bcccffe40-Paper-mlsys2023.pdf)
 
 github link: [here](https://github.com/stanford-futuredata/megablocks)
 
@@ -261,7 +263,7 @@ citation:
 
 #### Sparsely Activated Mixture-of-Experts are Robust Multi-Task Learners
 
-tag: `MT-TaG`
+tag: `MT-TaG` | `Microsoft` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2204.07689.pdf)
 
@@ -281,7 +283,7 @@ citation:
 
 #### ST-MoE: Designing Stable and Transferable Sparse Expert Models
 
-tag: `ST-MoE`
+tag: `ST-MoE` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/2202.08906)
 
@@ -304,7 +306,7 @@ citation:
 
 #### Unified Scaling Laws for Routed Language Models
 
-tag: `Sinkhorn-BASE`
+tag: `Sinkhorn-BASE` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2202.01169)
 
@@ -321,11 +323,14 @@ citation:
 }
 ```
 
+
 #### Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity
 
-tag: `Switch Transformers`
+tag: `Switch Transformer` | `SMoE` | `JMLR23` | `Google`
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
+
+github link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
 
 citation:
 
@@ -345,9 +350,11 @@ citation:
 
 #### BASE Layers: Simplifying Training of Large, Sparse Models
 
-tag: `BASE`
+tag: `BASE` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2103.16716)
+
+github link: [here](https://github.com/facebookresearch/fairseq)
 
 follow-up work: [here](https://arxiv.org/pdf/2202.01169)
 
@@ -367,7 +374,7 @@ citation:
 
 #### Hash layers for large sparse models
 
-tag: `Hash`
+tag: `Hash` | `NIPS21` | `Meta`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2021/file/92bf5e6240737e0326ea59846a83e076-Paper.pdf)
 
@@ -387,7 +394,7 @@ citation:
 
 #### Sparse is enough in scaling transformers
 
-tag: `MoE`
+tag: `Sparse MoE` | `NIPS21` | `Google` | `OpenAI`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/51f15efdd170e6043fa02a74882f0470-Paper.pdf)
 
@@ -407,7 +414,7 @@ citation:
 
 #### Outrageously large neural networks: The sparsely-gated mixture-of-experts layer
 
-tag: `MoE`
+tag: `MoE` | `ICLR17` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/1701.06538.pdf)
 
@@ -419,26 +426,5 @@ citation:
   author={Shazeer, Noam and Mirhoseini, Azalia and Maziarz, Krzysztof and Davis, Andy and Le, Quoc and Hinton, Geoffrey and Dean, Jeff},
   journal={arXiv preprint arXiv:1701.06538},
   year={2017}
-}
-```
-
-#### Adaptive Mixture of Local Experts
-
-tag: `MoE`
-
-paper link: [here](http://www.cs.utoronto.ca/~hinton/absps/jjnh91.ps)
-
-citation:
-
-```bibtex
-@article{jacobs1991adaptive,
-  title={Adaptive mixtures of local experts},
-  author={Jacobs, Robert A and Jordan, Michael I and Nowlan, Steven J and Hinton, Geoffrey E},
-  journal={Neural computation},
-  volume={3},
-  number={1},
-  pages={79--87},
-  year={1991},
-  publisher={MIT Press}
 }
 ```

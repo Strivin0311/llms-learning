@@ -4,7 +4,7 @@
 
 #### Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities
 
-tag: `Mini-Omni 2`
+tag: `Mini-Omni 2` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2410.11190v2)
 
@@ -27,7 +27,7 @@ citation:
 
 #### LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 
-tag: `LLaMA-Omni`
+tag: `LLaMA-Omni` | `ICT CAS`
 
 paper link: [here](https://arxiv.org/pdf/2409.06666)
 
@@ -53,7 +53,7 @@ citation:
 
 #### Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming
 
-tag: `Mini-Omni`
+tag: `Mini-Omni` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2408.16725)
 
@@ -78,7 +78,7 @@ citation:
 
 #### Hello GPT-4o
 
-tag: `GPT-4o`
+tag: `GPT-4o` | `OpenAI`
 
 blog link: [here](https://openai.com/index/hello-gpt-4o/)
 
@@ -99,7 +99,7 @@ citation:
 
 #### Gemini: A Family of Highly Capable Multimodal Models
 
-tag: `Gemini`
+tag: `Gemini` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2312.11805)
 
@@ -118,3 +118,4 @@ citation:
       url={https://arxiv.org/abs/2312.11805}, 
 }
 ```
+

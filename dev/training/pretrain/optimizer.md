@@ -1,13 +1,12 @@
-# Optimization Algorithms for LLMs
-*Here're some resources about Optimization Algorithms for LLMs*
+# Optimization Algorithms for LLMs Training
+*Here're some resources about Optimization Algorithms for LLMs Training*
 *Note that most of them are widely-used in general machine learning / deep learning as well*
 
-## Methods
-
+## Method
 
 #### AGD: an Auto-switchable Optimizer using Stepwise Gradient Difference for Preconditioning Matrix
 
-tag: `AGD` | `NIPS23` | `AntGroup`
+tag: `AGD` | `DLRover` | `NIPS23` | `AntGroup`
 
 paper link: [here](https://arxiv.org/pdf/2312.01658)
 
@@ -26,6 +25,29 @@ citation:
       url={https://arxiv.org/abs/2312.01658}, 
 }
 ```
+
+
+#### FP8-LM: Training FP8 Large Language Models
+
+tag: `FP8-LM` | `FP8 Optimizer`
+
+paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
+
+github link: [here](https://github.com/Azure/MS-AMP)
+
+citation:
+
+```bibtex
+@misc{peng2023fp8lm,
+      title={FP8-LM: Training FP8 Large Language Models}, 
+      author={Houwen Peng and Kan Wu and Yixuan Wei and Guoshuai Zhao and Yuxiang Yang and Ze Liu and Yifan Xiong and Ziyue Yang and Bolin Ni and Jingcheng Hu and Ruihang Li and Miaosen Zhang and Chen Li and Jia Ning and Ruizhe Wang and Zheng Zhang and Shuguang Liu and Joe Chau and Han Hu and Peng Cheng},
+      year={2023},
+      eprint={2310.18313},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 
 #### AdaLomo: Low-memory Optimization with Adaptive Learning Rate
 
@@ -69,6 +91,26 @@ citation:
 }
 ```
 
+#### Stable and low-precision training for large-scale vision-language models
+
+tag: `StableAdamW` | `SwitchBlock` | `NIPS23` | `Meta` | `Allen AI` | `LAION`
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/20bd42d82998bc61732c00452228e814-Supplemental-Conference.pdf)
+
+citation:
+
+```bibtex
+@misc{wortsman2023stablelowprecisiontraininglargescale,
+      title={Stable and low-precision training for large-scale vision-language models}, 
+      author={Mitchell Wortsman and Tim Dettmers and Luke Zettlemoyer and Ari Morcos and Ali Farhadi and Ludwig Schmidt},
+      year={2023},
+      eprint={2304.13013},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2304.13013}, 
+}
+```
+
 
 #### 1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed
 
@@ -94,7 +136,7 @@ citation:
 
 #### Large Batch Optimization for Deep Learning: Training BERT in 76 minutes
 
-tag: `LAMB` | `Google`
+tag: `LAMB` | `BERT` | `ICLR20` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/1904.00962.pdf)
 
@@ -296,5 +338,26 @@ citation:
   author={Ruder, Sebastian},
   journal={arXiv preprint arXiv:1609.04747},
   year={2016}
+}
+```
+
+
+#### Optimization Methods for Large-Scale Machine Learning
+
+tag: `SGD`
+
+paper link: [here](https://arxiv.org/pdf/1606.04838)
+
+citation:
+
+```bibtex
+@misc{bottou2018optimizationmethodslargescalemachine,
+      title={Optimization Methods for Large-Scale Machine Learning}, 
+      author={Léon Bottou and Frank E. Curtis and Jorge Nocedal},
+      year={2018},
+      eprint={1606.04838},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/1606.04838}, 
 }
 ```

@@ -7,7 +7,7 @@ Hope you find this repository useful! 😊
 
 ## News 🔥
 
-* [2024.10.24] 
+* [2024.10.24]
   * Welcome to watch our new online free **LLMs intro course** on [bilibili](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310)! 
   * We also open-source and keep updating the [course assignments](./tutorial/assignment/README.md) for you to take a deep dive into LLMs.
   * If you like this course or this repository, you can subscribe to the teacher's [bilibili account](https://space.bilibili.com/390606417) and maybe `star` this GitHub repo 😜.
@@ -29,6 +29,7 @@ Hope you find this repository useful! 😊
           * [Full Attention](./dev/modeling/lm/transformer/attn/full_attn.md)
           * [Sparse Attention](./dev/modeling/lm/transformer/attn/sparse_attn.md)
           * [Linear Attention](./dev/modeling/lm/transformer/attn/linear_attn.md)
+        * [Dense](./dev/modeling/lm/transformer/dense.md)
         * [Mixture of Experts (MoE)](./dev/modeling/lm/transformer/moe.md)
         * [Normalization](./dev/modeling/lm/transformer/normalization.md)
         * [Position Embedding](./dev/modeling/lm/transformer/pe.md)
@@ -48,18 +49,23 @@ Hope you find this repository useful! 😊
     * [Evaluation](./dev/serving/evaluate.md)
   * [Training](./dev/training/)
     * [Pre-Training](./dev/training/pretrain)
-      * [Pre-Training](./dev/training/pretrain/pretrain.md)
+      * [General Training Recipes](./dev/training/pretrain/recipe.md)
+      * [Mixed-Precision Training](./dev/training/pretrain/mpt.md)
+      * [Heterogenous Training](./dev/training/pretrain/hetero.md)
       * [Parallelism](./dev/training/pretrain/parallel.md)
-        * [Integration of Parallelism (IP)](./dev/training/pretrain/parallel.md#integration-of-parallelism)
-        * [Expert Parallelism (EP)](./dev/training/pretrain/parallel.md#expert-parallelism-ep)
-        * [Context Parallelism (CP)](./dev/training/pretrain/parallel.md#context-parallelism-cp)
-        * [Pipeline Parallelism (PP)](./dev/training/pretrain/parallel.md#pipeline-parallelism-pp)
-        * [Sequence Parallelism (SP)](./dev/training/pretrain/parallel.md#sequence-parallelism-sp)
-        * [Tensor Parallelism (TP)](./dev/training/pretrain/parallel.md#tensor-parallelism-tp)
-        * [Data Parallelism (DP)](./dev/training/pretrain/parallel.md#data-parallelism-dp)
-      * [Offloading](./dev/training/pretrain/offload.md)
-      * [Checkpointing](./dev/training/pretrain/ckpt.md)
-      * [Mixed-Precision](./dev/training/pretrain/mp.md)
+        * [Integration of Parallelism (IP)](./dev/training/pretrain/parallelism/ip.md)
+        * [Data Parallelism (DP)](./dev/training/pretrain/parallelism/dp.md)
+        * [Tensor Parallelism (TP)](./dev/training/pretrain/parallelism/tp.md)
+        * [Pipeline Parallelism (PP)](./dev/training/pretrain/parallelism/pp.md)
+        * [Context Parallelism (CP)](./dev/training/pretrain/parallelism/cp.md)
+        * [Expert Parallelism (EP)](./dev/training/pretrain/parallelism/ep.md)
+        * [Automatic Parallelism (AP)](./dev/training/pretrain/parallelism/ap.md)
+        * [Distributed Communication](./dev/training/pretrain/parallelism/comm.md)
+      * [Memory Management](./dev/training/pretrain/mem_manage/)
+        * [Recomputation / Activation Checkpointing](./dev/training/pretrain/mem_manage/recomp.md)
+        * [Offloading](./dev/training/pretrain/mem_manage/offload.md)
+        * [Checkpointing](./dev/training/pretrain/mem_manage/ckpt.md)
+        * [Device Placement](./dev/training/pretrain/mem_manage/dev_place.md)
       * [Optimizer](./dev/training/pretrain/optimizer.md)
       * [Objectives / Loss Functions](./dev/training/pretrain/objective.md)
     * [Fine-Tuning](./dev/training/finetune/)

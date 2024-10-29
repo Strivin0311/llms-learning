@@ -69,7 +69,7 @@ citation:
 
 #### BitNet: Scaling 1-bit Transformers for Large Language Models
 
-tag: `BitNet`
+tag: `BitNet` | `W1A8`
 
 paper link: [here](https://arxiv.org/pdf/2310.11453)
 
@@ -134,6 +134,27 @@ citation:
 ```
 
 
+#### Stable and low-precision training for large-scale vision-language models
+
+tag: `SwitchBlock` | `StableAdamW` | `NIPS23` | `Meta` | `Allen AI` | `LAION`
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/20bd42d82998bc61732c00452228e814-Supplemental-Conference.pdf)
+
+citation:
+
+```bibtex
+@misc{wortsman2023stablelowprecisiontraininglargescale,
+      title={Stable and low-precision training for large-scale vision-language models}, 
+      author={Mitchell Wortsman and Tim Dettmers and Luke Zettlemoyer and Ari Morcos and Ali Farhadi and Ludwig Schmidt},
+      year={2023},
+      eprint={2304.13013},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2304.13013}, 
+}
+```
+
+
 #### Unit Scaling: Out-of-the-Box Low-Precision Training
 
 tag: `Unit Scaling` | `SNR Analysis`
@@ -181,7 +202,7 @@ citation:
 
 tag: `Mixed Precision`
 
-doc link: [here](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html)
+docs link: [here](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html)
 
 citation:
 

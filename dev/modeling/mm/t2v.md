@@ -1,7 +1,30 @@
 # Text to Video and Video to Text
 *Here're are some resources about Text to Video and Video to Text modeling, understanding, generation in Multi-Modal LLMs*
 
+## Method
 
+
+#### Movie Gen: A Cast of Media Foundation Models
+
+tag: `Movie Gen` | `Meta`
+
+paper link: [here](https://ai.meta.com/static-resource/movie-gen-research-paper)
+
+blog link: [here](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/)
+
+citation: 
+
+```bibtex
+@misc{polyak2024moviegencastmedia,
+      title={Movie Gen: A Cast of Media Foundation Models}, 
+      author={Adam Polyak and Amit Zohar and Andrew Brown and Andros Tjandra and Animesh Sinha and Ann Lee and Apoorv Vyas and Bowen Shi and Chih-Yao Ma and Ching-Yao Chuang and David Yan and Dhruv Choudhary and Dingkang Wang and Geet Sethi and Guan Pang and Haoyu Ma and Ishan Misra and Ji Hou and Jialiang Wang and Kiran Jagadeesh and Kunpeng Li and Luxin Zhang and Mannat Singh and Mary Williamson and Matt Le and Matthew Yu and Mitesh Kumar Singh and Peizhao Zhang and Peter Vajda and Quentin Duval and Rohit Girdhar and Roshan Sumbaly and Sai Saketh Rambhatla and Sam Tsai and Samaneh Azadi and Samyak Datta and Sanyuan Chen and Sean Bell and Sharadh Ramaswamy and Shelly Sheynin and Siddharth Bhattacharya and Simran Motwani and Tao Xu and Tianhe Li and Tingbo Hou and Wei-Ning Hsu and Xi Yin and Xiaoliang Dai and Yaniv Taigman and Yaqiao Luo and Yen-Cheng Liu and Yi-Chiao Wu and Yue Zhao and Yuval Kirstain and Zecheng He and Zijian He and Albert Pumarola and Ali Thabet and Artsiom Sanakoyeu and Arun Mallya and Baishan Guo and Boris Araya and Breena Kerr and Carleigh Wood and Ce Liu and Cen Peng and Dimitry Vengertsev and Edgar Schonfeld and Elliot Blanchard and Felix Juefei-Xu and Fraylie Nord and Jeff Liang and John Hoffman and Jonas Kohler and Kaolin Fire and Karthik Sivakumar and Lawrence Chen and Licheng Yu and Luya Gao and Markos Georgopoulos and Rashel Moritz and Sara K. Sampson and Shikai Li and Simone Parmeggiani and Steve Fine and Tara Fowler and Vladan Petrovic and Yuming Du},
+      year={2024},
+      eprint={2410.13720},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.13720}, 
+}
+```
 
 #### Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation
 
@@ -73,5 +96,34 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2406.08801}, 
+}
+```
+
+
+## Benchmark
+
+#### Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
+
+tag: `Video-MME` | `USTC`
+
+paper link: [here](https://arxiv.org/pdf/2405.21075)
+
+github link: [here](https://github.com/BradyFU/Video-MME)
+
+homepage link: [here](https://video-mme.github.io/)
+
+dataset link: [here](https://github.com/BradyFU/Video-MME)
+
+citation:
+
+```bibtex
+@misc{fu2024videommefirstevercomprehensiveevaluation,
+      title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis}, 
+      author={Chaoyou Fu and Yuhan Dai and Yongdong Luo and Lei Li and Shuhuai Ren and Renrui Zhang and Zihan Wang and Chenyu Zhou and Yunhang Shen and Mengdan Zhang and Peixian Chen and Yanwei Li and Shaohui Lin and Sirui Zhao and Ke Li and Tong Xu and Xiawu Zheng and Enhong Chen and Rongrong Ji and Xing Sun},
+      year={2024},
+      eprint={2405.21075},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.21075}, 
 }
 ```

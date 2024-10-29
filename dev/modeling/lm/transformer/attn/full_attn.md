@@ -3,6 +3,51 @@
 *Here're some resources about Full Attention modules in language modeling*
 
 
+#### Differential Transformer
+
+tag: `Diff Transformer` | `Diff Attention` | `Microsoft` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2410.05258)
+
+github link: [here](https://github.com/microsoft/unilm/tree/master/Diff-Transformer)
+
+citation:
+
+```bibtex
+@misc{ye2024differentialtransformer,
+      title={Differential Transformer}, 
+      author={Tianzhu Ye and Li Dong and Yuqing Xia and Yutao Sun and Yi Zhu and Gao Huang and Furu Wei},
+      year={2024},
+      eprint={2410.05258},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.05258}, 
+}
+```
+
+
+#### FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention
+
+tag: `Flex Attention` | `PyTorch` | `Meta`
+
+blog link: [here](https://pytorch.org/blog/flexattention/)
+
+doc link: [here](https://pytorch.org/docs/main/nn.attention.flex_attention.html#module-torch.nn.attention.flex_attention)
+
+github link: [here](https://github.com/pytorch-labs/attention-gym)
+
+citation:
+
+```bibtex
+@misc{he2024flexattention,
+  author = {Horace He and Driss Guessous and Yanbo Liang and Joy Dong},
+  title  = {FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention},
+  month  = {Aug},
+  year= {2024},
+  url = {https://pytorch.org/blog/flexattention/},
+}
+```
+
 #### FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision
 
 tag: `Flash Attention 3`
@@ -163,7 +208,7 @@ citation:
 
 #### Self-attention Does Not Need Memory
 
-tag: `Online Softmax`
+tag: `Online Softmax` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2112.05682)
 
@@ -175,5 +220,25 @@ citation:
   author={Rabe, Markus N and Staats, Charles},
   journal={arXiv preprint arXiv:2112.05682},
   year={2021}
+}
+```
+
+#### Attention is all you need
+
+tag: `Self-Attention` | `NIPS17` | `Google`
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+citation:
+
+```bibtex
+@misc{vaswani2023attentionneed,
+      title={Attention Is All You Need}, 
+      author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
+      year={2023},
+      eprint={1706.03762},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/1706.03762}, 
 }
 ```

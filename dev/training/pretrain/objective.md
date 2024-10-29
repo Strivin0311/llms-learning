@@ -2,6 +2,26 @@
 *Here're some resources about the Training Objective / Loss Functions for LLMs*
 
 
+#### Better & Faster Large Language Models via Multi-token Prediction
+
+tag: `Multi-token Prediction` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2404.19737)
+
+citation:
+
+```bibtex
+@misc{gloeckle2024better,
+      title={Better & Faster Large Language Models via Multi-token Prediction}, 
+      author={Fabian Gloeckle and Badr Youbi Idrissi and Baptiste Rozière and David Lopez-Paz and Gabriel Synnaeve},
+      year={2024},
+      eprint={2404.19737},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
 #### SpacTor-T5: Pre-training T5 Models with Span Corruption and Replaced Token Detection
 
 tag: `SpacTor-T5` | `SC` | `RTD` | `Google`
