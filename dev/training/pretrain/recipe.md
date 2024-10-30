@@ -2,6 +2,27 @@
 *Here're some resources about General Pretraining Recipes for LLMs Training*
 
 
+#### Methods of improving LLM training stability
+
+tag: `Stability` | `Nvidia`
+
+paper link: [here](https://arxiv.org/pdf/2410.16682)
+
+citation:
+
+```bibtex
+@misc{rybakov2024methodsimprovingllmtraining,
+      title={Methods of improving LLM training stability}, 
+      author={Oleg Rybakov and Mike Chrzanowski and Peter Dykas and Jinze Xue and Ben Lanir},
+      year={2024},
+      eprint={2410.16682},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.16682}, 
+}
+```
+
+
 #### DataComp-LM: In search of the next generation of training sets for language models
 
 tag: `DCLM` | `DataComp-LM` | `Data Curation` | `Apple`

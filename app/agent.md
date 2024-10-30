@@ -243,6 +243,29 @@ citation:
 ```
 
 
+#### ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases
+
+tag: `ToolAlpaca` | `ISCAS`
+
+paper link: [here](https://arxiv.org/pdf/2306.05301)
+
+github link: [here](https://github.com/tangqiaoyu/ToolAlpaca)
+
+citation:
+
+```bibtex
+@misc{tang2023toolalpacageneralizedtoollearning,
+      title={ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases}, 
+      author={Qiaoyu Tang and Ziliang Deng and Hongyu Lin and Xianpei Han and Qiao Liang and Boxi Cao and Le Sun},
+      year={2023},
+      eprint={2306.05301},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2306.05301}, 
+}
+```
+
+
 #### Voyager: An Open-Ended Embodied Agent with Large Language Models
 
 tag: `Voyager`

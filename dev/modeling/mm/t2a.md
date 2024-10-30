@@ -4,6 +4,31 @@
 
 ## Method
 
+
+#### Moonshine: Speech Recognition for Live Transcription and Voice Commands
+
+tag: `Moonshine` | `Useful Sensors`
+
+paper link: [here](https://arxiv.org/pdf/2410.15608)
+
+blog link: [here](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
+
+github link: [here](https://github.com/usefulsensors/moonshine)
+
+citation:
+
+```bibtex
+@misc{jeffries2024moonshinespeechrecognitionlive,
+      title={Moonshine: Speech Recognition for Live Transcription and Voice Commands}, 
+      author={Nat Jeffries and Evan King and Manjunath Kudlur and Guy Nicholson and James Wang and Pete Warden},
+      year={2024},
+      eprint={2410.15608},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2410.15608}, 
+}
+```
+
 #### Qwen2-Audio Technical Report
 
 tag: `Qwen2-Audio`

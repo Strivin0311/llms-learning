@@ -7,13 +7,15 @@
 
 #### PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel
 
-tag: `FSDP` | `VLDB23` | `Pytorch` | `Meta`
+tag: `FSDP` | `FSDP-v1` | `FSDP-v2` | `VLDB23` | `Pytorch` | `Meta`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.14778/3611540.3611569)
 
 blog link: [here](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/)
 
 docs link: [here](https://pytorch.org/docs/stable/fsdp.html)
+
+follow-up work: [here](https://github.com/pytorch/torchtitan/blob/main/docs/fsdp.md)
 
 citation:
 

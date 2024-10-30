@@ -340,13 +340,10 @@ paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f
 citation:
 
 ```bibtex
-@misc{vaswani2023attentionneed,
-      title={Attention Is All You Need}, 
-      author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
-      year={2023},
-      eprint={1706.03762},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/1706.03762}, 
+@article{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, A},
+  journal={Advances in Neural Information Processing Systems},
+  year={2017}
 }
 ```

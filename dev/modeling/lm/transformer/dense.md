@@ -96,3 +96,22 @@ citation:
       url={https://arxiv.org/abs/2303.08774}, 
 }
 ```
+
+
+
+#### Attention is all you need
+
+tag: `Transformer` | `NIPS17` | `Google`
+
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+citation:
+
+```bibtex
+@article{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, A},
+  journal={Advances in Neural Information Processing Systems},
+  year={2017}
+}
+```

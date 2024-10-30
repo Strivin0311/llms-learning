@@ -24,6 +24,26 @@ citation:
 }
 ```
 
+#### Mixture of Nested Experts: Adaptive Processing of Visual Tokens
+
+tag: `MoNE` | `ViT` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2407.19985)
+
+citation:
+
+```bibtex
+@misc{jain2024mixturenestedexpertsadaptive,
+      title={Mixture of Nested Experts: Adaptive Processing of Visual Tokens}, 
+      author={Gagan Jain and Nidhi Hegde and Aditya Kusupati and Arsha Nagrani and Shyamal Buch and Prateek Jain and Anurag Arnab and Sujoy Paul},
+      year={2024},
+      eprint={2407.19985},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.19985}, 
+}
+```
+
 
 #### Mixture of A Million Experts
 

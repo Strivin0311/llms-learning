@@ -205,10 +205,30 @@ citation:
 }
 ```
 
+#### GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
 
-#### Self-attention Does Not Need Memory
+tag: `GQA` | `Grouped-Query Attention` | `Google`
 
-tag: `Online Softmax` | `Google`
+paper link: [here](https://arxiv.org/pdf/2305.13245)
+
+citation:
+
+```bibtex
+@misc{ainslie2023gqatraininggeneralizedmultiquery,
+      title={GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints}, 
+      author={Joshua Ainslie and James Lee-Thorp and Michiel de Jong and Yury Zemlyanskiy and Federico Lebrón and Sumit Sanghai},
+      year={2023},
+      eprint={2305.13245},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2305.13245}, 
+}
+```
+
+
+#### Self-attention Does Not Need O(n2) Memory
+
+tag: `Online Attention` | `Online Softmax` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2112.05682)
 
@@ -223,22 +243,39 @@ citation:
 }
 ```
 
+#### Fast Transformer Decoding: One Write-Head is All You Need
+
+tag: `MQA` | `Multi-Query Attention` | `Google`
+
+paper link: [here](https://arxiv.org/pdf/1911.02150)
+
+citation:
+
+```bibtex
+@misc{shazeer2019fasttransformerdecodingwritehead,
+      title={Fast Transformer Decoding: One Write-Head is All You Need}, 
+      author={Noam Shazeer},
+      year={2019},
+      eprint={1911.02150},
+      archivePrefix={arXiv},
+      primaryClass={cs.NE},
+      url={https://arxiv.org/abs/1911.02150}, 
+}
+```
+
 #### Attention is all you need
 
-tag: `Self-Attention` | `NIPS17` | `Google`
+tag: `NHA` | `Multi-Head Attention` | `NIPS17` | `Google`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 citation:
 
 ```bibtex
-@misc{vaswani2023attentionneed,
-      title={Attention Is All You Need}, 
-      author={Ashish Vaswani and Noam Shazeer and Niki Parmar and Jakob Uszkoreit and Llion Jones and Aidan N. Gomez and Lukasz Kaiser and Illia Polosukhin},
-      year={2023},
-      eprint={1706.03762},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/1706.03762}, 
+@article{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, A},
+  journal={Advances in Neural Information Processing Systems},
+  year={2017}
 }
 ```

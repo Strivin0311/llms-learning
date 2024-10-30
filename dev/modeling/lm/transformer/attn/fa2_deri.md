@@ -71,7 +71,7 @@ $$
 
 
 #### step2: flash-attn forward algorithm with tiling (double-loop):
-* the outer loop runs through $i := 1 \rightarrow N_q$ for each block of $Q_i$ to compute $O_i$,  \text{where}\space $N_q = \lceil\frac{N}{B_q}\rceil$
+* the outer loop runs through $i := 1 \rightarrow N_q$ for each block of $Q_i$ to compute $O_i$,  where $N_q = \lceil\frac{N}{B_q}\rceil$
 
 $$
 \text{in one i-th outer iteration}: 
