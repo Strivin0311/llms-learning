@@ -1,5 +1,5 @@
 
-### Task 1: Group RMS Normalization
+### Task 1: Group RMS Normalization (20 points)
 
 #### TODO
 
@@ -12,15 +12,15 @@ You are required to implement a pytorch module named `GroupRMSNorm` in `src/mode
 * This module takes certain hidden states tensor with the shape `[batch_size, seq_len, hidden_size]` as input (*denoted as `X`, with the shape: `[b, s, h]`*), and apply root-mean-square normalization with learnable scaling transformation along the hidden dimension (*denoted as `Y`, with the same shape `[b, s, h]`*), as shown in the equation below.
 
 $$
-Y = \frac{X}{\sqrt{\text{RMS}[X^2] + \epsilon}} \cdot \gamma
+Y = \frac{X}{\sqrt{\text{RMS}[X]^2 + \epsilon}} \cdot \gamma
 $$
 
-* where $\text{RMS}[X^2]$ is the root-mean-square of `X`, $\epsilon$ is a small constant to avoid division by zero (*denoted as `eps`*), and $\gamma$ is the learnable per-channel scaling parameter applied along the hidden dimension.
+* where $\text{RMS}[X]$ is the root-mean-square of `X`, $\epsilon$ is a small constant to avoid division by zero (*denoted as `eps`*), and $\gamma$ is the learnable per-channel scaling parameter applied along the hidden dimension.
 
-* To genealize it, here we implement a simple variant of RMS Norm, called "Group RMSNorm". Given the `group size` denoted as `gz`, it evenly splits the hidden dimension of `X` into groups (*denoted as `Xg`*), and apply the same root-mean-square normalization with learnable scaling transformation as RMS Norm, just **on each `i`-th group individually**, as shown in the equation below.
+* To generalize it, here we implement a simple variant of RMS Norm, called "Group RMSNorm". Given the `group size` denoted as `gz`, it evenly splits the hidden dimension of `X` into groups (*denoted as `Xg`*), and apply the same root-mean-square normalization with learnable scaling transformation as RMS Norm, just **on each `i`-th group individually**, as shown in the equation below.
 
 $$
-Y_{g_i} = \frac{X_{g_i}}{\sqrt{\text{RMS}[X_{g_i}^2] + \epsilon}} \cdot \gamma_{g_i}
+Y_{g_i} = \frac{X_{g_i}}{\sqrt{\text{RMS}[X_{g_i}]^2 + \epsilon}} \cdot \gamma_{g_i}
 $$
 
 * By the way, you should also implement an parameter initialization member method called `reset_parameters` for this `GroupRMSNorm` module class (*which is a standard method to initialize parameters for a learnable pytorch module*), which initializes the learnable scaling parameter $\gamma$ from a **uniform distribution** given the range tuple (*denoted as `init_range`*) like `(-1, 1)`, and random seed (*denoted as `init_seed`*) like `42`.

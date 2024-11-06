@@ -48,6 +48,26 @@ citation:
 }
 ```
 
+#### Efficient and Economic Large Language Model Inference with Attention Offloading
+
+tag: `Attention Offloading` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2405.01814v1)
+
+citation:
+
+```bibtex
+@misc{chen2024efficienteconomiclargelanguage,
+      title={Efficient and Economic Large Language Model Inference with Attention Offloading}, 
+      author={Shaoyuan Chen and Yutong Lin and Mingxing Zhang and Yongwei Wu},
+      year={2024},
+      eprint={2405.01814},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.01814}, 
+}
+```
+
 
 #### Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU
 
