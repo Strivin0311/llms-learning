@@ -69,6 +69,30 @@ citation:
 }
 ```
 
+#### LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs
+
+tag: `LongRAG`
+
+paper link: [here](https://arxiv.org/pdf/2406.15319v3)
+
+github link: [here](https://github.com/huggingface/LongRAG)
+
+homepage link: [here](https://tiger-ai-lab.github.io/LongRAG/)
+
+citation:
+
+```bibtex
+@misc{jiang2024longragenhancingretrievalaugmentedgeneration,
+      title={LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs}, 
+      author={Ziyan Jiang and Xueguang Ma and Wenhu Chen},
+      year={2024},
+      eprint={2406.15319},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.15319}, 
+}
+```
+
 #### RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation
 
 tag: `RQ-RAG`

@@ -3,10 +3,9 @@
 
 ## Method
 
-
 #### Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation
 
-tag: `Janus`
+tag: `Janus` | `DeepSeek` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2410.13848v1)
 
@@ -29,7 +28,7 @@ citation:
 
 #### Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
 
-tag: `Eagle`
+tag: `Eagle` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2408.15998)
 
@@ -54,7 +53,7 @@ citation:
 
 #### Show-o: One Single Transformer to Unify Multimodal Understanding and Generation
 
-tag: `Show-o`
+tag: `Show-o` | `ByteDance` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2408.12528)
 
@@ -78,10 +77,32 @@ citation:
 }
 ```
 
+#### Fast Vision Transformer via Additive Attention
+
+tag: `FViT` | `CAI24`
+
+paper link: [here](https://ieeexplore.ieee.org/document/10605345)
+
+citation:
+
+```bibtex
+@INPROCEEDINGS{cai2024fastvisiontransformervia,
+  author={Wen, Yang and Chen, Samuel and Shrestha, Abhishek Krishna},
+  booktitle={2024 IEEE Conference on Artificial Intelligence (CAI)}, 
+  title={Fast Vision Transformer via Additive Attention}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={573-574},
+  keywords={Computer vision;Additives;Computational modeling;Memory management;Linearity;Convolutional neural networks;Task analysis;Fast Vision Transformer;Additive Attention},
+  doi={10.1109/CAI59869.2024.00113}
+}
+```
+
 
 #### RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
 
-tag: `RLAIF-V`
+tag: `RLAIF-V` | `Tsinghua University` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2405.17220)
 
@@ -104,7 +125,7 @@ citation:
 
 #### mPLUG-Owl2: Revolutionizing Multi-modal Large Language Model with Modality Collaboration
 
-tag: `mPLUG-Owl 2`
+tag: `mPLUG-Owl 2` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2311.04257)
 
@@ -129,7 +150,7 @@ citation:
 
 #### AdaMV-MoE: Adaptive Multi-Task Vision Mixture-of-Experts
 
-tag: `AdaMV-MoE`
+tag: `AdaMV-MoE` | `ICCV23` | `Apple` | `Google`
 
 paper link: [here](http://openaccess.thecvf.com/content/ICCV2023/papers/Chen_AdaMV-MoE_Adaptive_Multi-Task_Vision_Mixture-of-Experts_ICCV_2023_paper.pdf)
 
@@ -147,7 +168,7 @@ citation:
 
 #### mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality
 
-tag: `mPLUG-Owl`
+tag: `mPLUG-Owl` | `DAMO Academy` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2304.14178)
 
@@ -172,7 +193,7 @@ citation:
 
 #### Visual Instruction Tuning
 
-tag: `LLaVA`
+tag: `LLaVA` | `NIPS23` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
@@ -197,7 +218,7 @@ citation:
 
 #### Scalable Diffusion Models with Transformers
 
-tag: `DiT`
+tag: `DiT` | `UCB`
 
 paper link: [here](https://arxiv.org/pdf/2212.09748)
 
@@ -222,7 +243,7 @@ citation:
 
 #### Reproducible scaling laws for contrastive language-image learning
 
-tag: `OpenCLIP`
+tag: `OpenCLIP` | `LAION` | `UCB`
 
 paper link: [here](https://arxiv.org/pdf/2212.07143)
 
@@ -245,7 +266,7 @@ citation:
 
 #### EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
 
-tag: `EVA`
+tag: `EVA` | `CVPR23` | `BAAI` | `HUST`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.pdf)
 
@@ -289,6 +310,29 @@ citation:
 ```
 
 
+#### DaViT: Dual Attention Vision Transformers
+
+tag: `DaViT` | `ECCV22` | `Microsoft` | `HKU`
+
+paper link: [here](https://arxiv.org/pdf/2204.03645)
+
+github link: [here](https://github.com/dingmyu/davit)
+
+citation:
+
+```bibtex
+@misc{ding2022davitdualattentionvision,
+      title={DaViT: Dual Attention Vision Transformers}, 
+      author={Mingyu Ding and Bin Xiao and Noel Codella and Ping Luo and Jingdong Wang and Lu Yuan},
+      year={2022},
+      eprint={2204.03645},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2204.03645}, 
+}
+```
+
+
 #### Autoregressive Image Generation using Residual Quantization
 
 tag: `RQ-Transformer` | `RQ-VAE`
@@ -314,7 +358,7 @@ citation:
 
 #### High-Resolution Image Synthesis with Latent Diffusion Models
 
-tag: `Latent Diffusion` | `LDM`
+tag: `Latent Diffusion` | `LDM` | `Runway ML`
 
 paper link: [here](https://arxiv.org/pdf/2112.10752)
 
@@ -337,7 +381,7 @@ citation:
 
 ### SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
 
-tag: `SDEdit`
+tag: `SDEdit` | `Stanford University` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2108.01073)
 
@@ -362,7 +406,7 @@ citation:
 
 #### Diffusion Models Beat GANs on Image Synthesis
 
-tag: `Guided Diffusion`
+tag: `Guided Diffusion` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2105.05233)
 
@@ -385,7 +429,7 @@ citation:
 
 #### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 
-tag: `Swin Transformer`
+tag: `Swin Transformer` | `MSRA`
 
 paper link: [here](https://arxiv.org/pdf/2103.14030)
 
@@ -408,7 +452,7 @@ citation:
 
 #### Learning Transferable Visual Models From Natural Language Supervision
 
-tag: `CLIP`
+tag: `CLIP` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2103.00020)
 
@@ -430,7 +474,7 @@ citation:
 
 #### Zero-Shot Text-to-Image Generation
 
-tag: `DALL-E`
+tag: `DALL-E` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2102.12092)
 
@@ -475,7 +519,7 @@ citation:
 
 #### Score-Based Generative Modeling through Stochastic Differential Equations
 
-tag: `SDE`
+tag: `SDE` | `Stanford University` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2011.13456)
 
@@ -498,7 +542,7 @@ citation:
 
 #### An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
 
-tag: `ViT` | `Vision Transformer`
+tag: `ViT` | `Vision Transformer` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/2010.11929)
 
@@ -521,7 +565,7 @@ citation:
 
 #### Denoising Diffusion Implicit Models
 
-tag: `DDIM`
+tag: `DDIM` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2010.02502)
 
@@ -542,7 +586,7 @@ citation:
 
 #### Denoising Diffusion Probabilistic Models
 
-tag: `DDPM`
+tag: `DDPM` | `UCB`
 
 paper link: [here](https://arxiv.org/pdf/2006.11239)
 
@@ -565,7 +609,7 @@ citation:
 
 #### Generative Modeling by Estimating Gradients of the Data Distribution
 
-tag: `NCSN` | `SMLD` | `Score matching` | `Score Function`
+tag: `NCSN` | `SMLD` | `Score matching` | `Score Function` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/1907.05600)
 
@@ -589,7 +633,7 @@ citation:
 
 #### Are We on the Right Way for Evaluating Large Vision-Language Models?
 
-tag: `MMStar`
+tag: `MMStar` | `Shanghai AILab`
 
 paper link: [here](https://arxiv.org/pdf/2403.20330)
 
@@ -615,7 +659,7 @@ citation:
 
 #### MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI
 
-tag: `MMMU`
+tag: `MMMU` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2311.16502)
 
@@ -642,7 +686,7 @@ citation:
 
 #### MMBench: Is Your Multi-modal Model an All-around Player?
 
-tag: `MMBench`
+tag: `MMBench` | `Shanghai AILab`
 
 paper link: [here](https://arxiv.org/pdf/2307.06281)
 
@@ -670,7 +714,7 @@ citation:
 
 #### A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise
 
-tag: `GPT-4V` | `Gemini` | `Awesome Multi-Modal LLMs`
+tag: `GPT-4V` | `Gemini` | `Awesome Multi-Modal LLMs` | `Tencent Youtu Lab` | `Shanghai AILab`
 
 paper link: [here](https://arxiv.org/pdf/2312.12436)
 
@@ -695,7 +739,7 @@ citation:
 
 #### Diffusion Models: A Comprehensive Survey of Methods and Applications
 
-tag: `Diffusion Survey`
+tag: `Diffusion Survey` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2209.00796)
 

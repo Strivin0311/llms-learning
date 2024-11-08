@@ -35,6 +35,7 @@ Hope you find this repository useful! 😊
         * [Position Embedding](./dev/modeling/lm/transformer/pe.md)
         * [Activation Functions](./dev/modeling/lm/transformer/act_func.md)
       * [State Space Models (SSM)](./dev/modeling/lm/ssm.md)
+      * [Kolmogorov-Arnold Networks (KAN)](./dev/modeling/lm/kan.md)
       * [Miscellaneous](./dev/modeling/lm/misc.md)
     * [Multi-Modal Language Models](./dev/modeling/mm/)
       * [Text <-> Image](./dev/modeling/mm/t2i.md)

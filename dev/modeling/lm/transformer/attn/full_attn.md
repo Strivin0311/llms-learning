@@ -288,6 +288,28 @@ citation:
 }
 ```
 
+#### Fastformer: Additive Attention Can Be All You Need
+
+tag: `Fastformer` | `MSRA` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2108.09084)
+
+github link: [here](https://github.com/wuch15/Fastformer)
+
+citation:
+
+```bibtex
+@misc{wu2021fastformeradditiveattentionneed,
+      title={Fastformer: Additive Attention Can Be All You Need}, 
+      author={Chuhan Wu and Fangzhao Wu and Tao Qi and Yongfeng Huang and Xing Xie},
+      year={2021},
+      eprint={2108.09084},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2108.09084}, 
+}
+```
+
 #### Fast Transformer Decoding: One Write-Head is All You Need
 
 tag: `MQA` | `Multi-Query Attention` | `Google`

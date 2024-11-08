@@ -127,6 +127,25 @@ citation:
 ```
 
 
+#### SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills
+
+paper link: [here](https://arxiv.org/pdf/2308.16369)
+
+citation:
+
+```bibtex
+@misc{agrawal2023sarathiefficientllminference,
+      title={SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills}, 
+      author={Amey Agrawal and Ashish Panwar and Jayashree Mohan and Nipun Kwatra and Bhargav S. Gulavani and Ramachandran Ramjee},
+      year={2023},
+      eprint={2308.16369},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2308.16369}, 
+}
+```
+
+
 #### DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference
 
 blog link: [here](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)

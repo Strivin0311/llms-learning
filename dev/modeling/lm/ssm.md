@@ -1,10 +1,10 @@
-# State Space Models for Sequence Modeling
+# State Space Models (SSM) for Sequence Modeling
 *Here're some resources about State Space Models (SSMs) for sequence modeling*
 
 
 #### Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 
-tag: `Samba`
+tag: `Samba` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2406.07522)
 
@@ -24,7 +24,7 @@ citation:
 
 #### Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality
 
-tag: `Mamba2`
+tag: `Mamba2` | `Princeton University` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2405.21060)
 
@@ -47,7 +47,7 @@ citation:
 
 #### Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence
 
-tag: `RWKV5` | `RWKV6`
+tag: `RWKV5` | `RWKV6` | `EleutherAI`
 
 paper link: [here](https://arxiv.org/pdf/2404.05892)
 
@@ -70,7 +70,7 @@ citation:
 
 #### Mamba: Linear-Time Sequence Modeling with Selective State Spaces
 
-tag: `Mamba`
+tag: `Mamba` | `Princeton University` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2312.00752)
 
@@ -92,11 +92,11 @@ citation:
 
 #### Retentive network: A successor to transformer for large language models
 
-tag: `RetNet`
+tag: `RetNet` | `Microsoft` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2307.08621)
 
-github link: [here](https://github.com/microsoft/unilm/tree/master/retnet)
+github link: [readme](https://github.com/microsoft/unilm/tree/master/retnet) | [impl](https://github.com/microsoft/torchscale/blob/main/torchscale/architecture/retnet.py)
 
 citation:
 
@@ -112,7 +112,7 @@ citation:
 
 #### RWKV: Reinventing RNNs for the Transformer Era
 
-tag: `RWKV` | `RWKV4` 
+tag: `RWKV` | `RWKV4` | `EleutherAI`
 
 paper link: [here](https://arxiv.org/pdf/2305.13048)
 
@@ -138,9 +138,11 @@ citation:
 
 #### Resurrecting recurrent neural networks for long sequences
 
-tag: `LRU`
+tag: `LRU` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2303.06349)
+
+github link: [here](https://github.com/Gothos/LRU-pytorch)
 
 citation:
 
@@ -156,7 +158,7 @@ citation:
 
 #### Simplified state space layers for sequence modeling
 
-tag: `S5`
+tag: `S5` | `ICLR23` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2208.04933)
 
@@ -175,7 +177,7 @@ citation:
 
 #### Long range language modeling via gated state spaces
 
-tag: `GSS`
+tag: `GSS` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2206.13947)
 
@@ -192,7 +194,7 @@ citation:
     
 #### On the Parameterization and Initialization of Diagonal State Space Models
 
-tag: `DSS` | `S4D`
+tag: `DSS` | `S4D` | `IBM Research` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2206.11893)
 
@@ -213,7 +215,7 @@ citation:
     
 #### Diagonal State Spaces are as Effective as Structured State Spaces
 
-tag: `DSS`
+tag: `DSS` | `IBM Research` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2203.14343)
 
@@ -235,7 +237,7 @@ citation:
 
 #### Efficiently modeling long sequences with structured state spaces
 
-tag: `S4`
+tag: `S4` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2111.00396)
 

@@ -2,47 +2,46 @@
 *Here're some resources about Miscellaneous Architectures for language/sequence modeling*
 
 
-#### You Only Cache Once: Decoder-Decoder Architectures for Language Models
+#### LoLCATs: On Low-Rank Linearizing of Large Language Models
 
-tag: `YOCO` | `Microsoft` | `Tsinghua University`
+tag: `LoLCATs` | `Attention Transfer` | `LoRA` | `Together AI` | `Standford University`
 
-paper link: [here](https://arxiv.org/pdf/2405.05254)
+paper link: [here](https://arxiv.org/pdf/2410.10254)
 
-github link: [here](https://github.com/microsoft/unilm/tree/master/YOCO)
+github link: [here](https://github.com/HazyResearch/lolcats)
 
 citation:
 
 ```bibtex
-@misc{sun2024cacheoncedecoderdecoderarchitectures,
-      title={You Only Cache Once: Decoder-Decoder Architectures for Language Models}, 
-      author={Yutao Sun and Li Dong and Yi Zhu and Shaohan Huang and Wenhui Wang and Shuming Ma and Quanlu Zhang and Jianyong Wang and Furu Wei},
+@misc{zhang2024lolcatslowranklinearizinglarge,
+      title={LoLCATs: On Low-Rank Linearizing of Large Language Models}, 
+      author={Michael Zhang and Simran Arora and Rahul Chalamala and Alan Wu and Benjamin Spector and Aaryan Singhal and Krithik Ramesh and Christopher Ré},
       year={2024},
-      eprint={2405.05254},
+      eprint={2410.10254},
       archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2405.05254}, 
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.10254}, 
 }
 ```
 
-#### Kolmogorov-Arnold Transformer
 
-tag: `KAT` | `NUS`
+#### Addition is All You Need for Energy-efficient Language Models
 
-paper link: [here](https://arxiv.org/pdf/2409.10594)
+tag: `L-Mul` | `BitEnergy AI`
 
-github link: [here](https://github.com/Adamdad/kat)
+paper link: [here](https://arxiv.org/pdf/2410.00907)
 
 citation:
 
 ```bibtex
-@misc{yang2024kolmogorovarnoldtransformer,
-      title={Kolmogorov-Arnold Transformer}, 
-      author={Xingyi Yang and Xinchao Wang},
+@misc{luo2024additionneedenergyefficientlanguage,
+      title={Addition is All You Need for Energy-efficient Language Models}, 
+      author={Hongyin Luo and Wei Sun},
       year={2024},
-      eprint={2409.10594},
+      eprint={2410.00907},
       archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2409.10594}, 
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.00907}, 
 }
 ```
 
@@ -69,23 +68,26 @@ citation:
 }
 ```
 
-#### Addition is All You Need for Energy-efficient Language Models
 
-tag: `L-Mul` | `BitEnergy AI`
+#### You Only Cache Once: Decoder-Decoder Architectures for Language Models
 
-paper link: [here](https://arxiv.org/pdf/2410.00907)
+tag: `YOCO` | `Microsoft` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2405.05254)
+
+github link: [here](https://github.com/microsoft/unilm/tree/master/YOCO)
 
 citation:
 
 ```bibtex
-@misc{luo2024additionneedenergyefficientlanguage,
-      title={Addition is All You Need for Energy-efficient Language Models}, 
-      author={Hongyin Luo and Wei Sun},
+@misc{sun2024cacheoncedecoderdecoderarchitectures,
+      title={You Only Cache Once: Decoder-Decoder Architectures for Language Models}, 
+      author={Yutao Sun and Li Dong and Yi Zhu and Shaohan Huang and Wenhui Wang and Shuming Ma and Quanlu Zhang and Jianyong Wang and Furu Wei},
       year={2024},
-      eprint={2410.00907},
+      eprint={2405.05254},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2410.00907}, 
+      url={https://arxiv.org/abs/2405.05254}, 
 }
 ```
 
@@ -104,6 +106,28 @@ citation:
   author={Fu, Daniel Y and Arora, Simran and Grogan, Jessica and Johnson, Isys and Eyuboglu, Sabri and Thomas, Armin W and Spector, Benjamin and Poli, Michael and Rudra, Atri and R{\'e}, Christopher},
   journal={arXiv preprint arXiv:2310.12109},
   year={2023}
+}
+```
+
+#### MogaNet: Multi-order Gated Aggregation Network
+
+tag: `MogaNet` | `ICLR24` | `Zhejiang University`
+
+paper link: [here](https://arxiv.org/pdf/2211.03295)
+
+github link: [here](https://github.com/Westlake-AI/MogaNet)
+
+citation:
+
+```bibtex
+@misc{li2024moganetmultiordergatedaggregation,
+      title={MogaNet: Multi-order Gated Aggregation Network}, 
+      author={Siyuan Li and Zedong Wang and Zicheng Liu and Cheng Tan and Haitao Lin and Di Wu and Zhiyuan Chen and Jiangbin Zheng and Stan Z. Li},
+      year={2024},
+      eprint={2211.03295},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2211.03295}, 
 }
 ```
 
