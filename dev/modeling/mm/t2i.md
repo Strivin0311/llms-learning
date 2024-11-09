@@ -1,5 +1,6 @@
-# Text-to-Image and Image-to-Text
-*Here're are some resources about Text-to-Image and Image-to-Text modeling, understanding, generation in Multi-Modal LLMs*
+# Text-to-Image and Image-to-Text (a.k.a. Visual Language Models, VLMs)
+*Here're are some resources about Text-to-Image and Image-to-Text modeling, understanding, generation in Multi-Modal LLMs, a.k.a. Visual Language Models, VLMs*
+
 
 ## Method
 
@@ -22,6 +23,60 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2410.13848}, 
+}
+```
+
+#### Pixtral 12B
+
+tag: `Pixtral` | `Mistral AI`
+
+paper link: [here](https://arxiv.org/pdf/2410.07073)
+
+blog link: [here](https://mistral.ai/news/pixtral-12b/)
+
+github link: [here](https://github.com/mistralai/mistral-inference/)
+
+model link: [here](https://huggingface.co/mistralai/Pixtral-12B-2409)
+
+citation:
+
+```bibtex
+@misc{agrawal2024pixtral12b,
+      title={Pixtral 12B}, 
+      author={Pravesh Agrawal and Szymon Antoniak and Emma Bou Hanna and Baptiste Bout and Devendra Chaplot and Jessica Chudnovsky and Diogo Costa and Baudouin De Monicault and Saurabh Garg and Theophile Gervet and Soham Ghosh and Amélie Héliou and Paul Jacob and Albert Q. Jiang and Kartik Khandelwal and Timothée Lacroix and Guillaume Lample and Diego Las Casas and Thibaut Lavril and Teven Le Scao and Andy Lo and William Marshall and Louis Martin and Arthur Mensch and Pavankumar Muddireddy and Valera Nemychnikova and Marie Pellat and Patrick Von Platen and Nikhil Raghuraman and Baptiste Rozière and Alexandre Sablayrolles and Lucile Saulnier and Romain Sauvestre and Wendy Shang and Roman Soletskyi and Lawrence Stewart and Pierre Stock and Joachim Studnia and Sandeep Subramanian and Sagar Vaze and Thomas Wang and Sophia Yang},
+      year={2024},
+      eprint={2410.07073},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.07073}, 
+}
+```
+
+#### ARIA: An Open Multimodal Native Mixture-of-Experts Model
+
+tag: `ARIA` | `MoE` | `Rhymes AI`
+
+paper link: [here](https://arxiv.org/pdf/2410.05993)
+
+blog link: [here](https://www.rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model/)
+
+github link: [here](https://github.com/rhymes-ai/Aria)
+
+model link: [here](https://huggingface.co/rhymes-ai/Aria)
+
+homepage link: [here](https://rhymes.ai/)
+
+citation:
+
+```bibtex
+@misc{li2024ariaopenmultimodalnative,
+      title={Aria: An Open Multimodal Native Mixture-of-Experts Model}, 
+      author={Dongxu Li and Yudong Liu and Haoning Wu and Yue Wang and Zhiqi Shen and Bowen Qu and Xinyao Niu and Guoyin Wang and Bei Chen and Junnan Li},
+      year={2024},
+      eprint={2410.05993},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.05993}, 
 }
 ```
 
@@ -333,6 +388,50 @@ citation:
 ```
 
 
+#### DeiT III: Revenge of the ViT
+
+tag: `DeiT III` | `ECCV22` | `Meta`
+
+paper link: [here](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840509.pdf)
+
+github link: [here](https://github.com/facebookresearch/deit/blob/main/README_revenge.md)
+
+citation:
+
+```bibtex
+@misc{touvron2022deitiiirevengevit,
+      title={DeiT III: Revenge of the ViT}, 
+      author={Hugo Touvron and Matthieu Cord and Hervé Jégou},
+      year={2022},
+      eprint={2204.07118},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2204.07118}, 
+}
+```
+
+#### Three things everyone should know about Vision Transformers
+
+tag: `Three Things` | `ViT` | `ECCV22` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2203.09795)
+
+github link: [here](https://github.com/facebookresearch/deit/blob/main/README_3things.md)
+
+citation:
+
+```bibtex
+@misc{touvron2022thingsknowvisiontransformers,
+      title={Three things everyone should know about Vision Transformers}, 
+      author={Hugo Touvron and Matthieu Cord and Alaaeldin El-Nouby and Jakob Verbeek and Hervé Jégou},
+      year={2022},
+      eprint={2203.09795},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2203.09795}, 
+}
+```
+
 #### Autoregressive Image Generation using Residual Quantization
 
 tag: `RQ-Transformer` | `RQ-VAE`
@@ -378,8 +477,30 @@ citation:
 }
 ```
 
+#### Leveraging Batch Normalization for Vision Transformers
 
-### SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
+tag: `ViT` | `ViT-BN` | `ViT-FFNBN` | `ICCV21` | `MSRA` | `Tsinghua University`
+
+paper link: [here](https://openaccess.thecvf.com/content/ICCV2021W/NeurArch/papers/Yao_Leveraging_Batch_Normalization_for_Vision_Transformers_ICCVW_2021_paper.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{yao2021leveraging,
+  author={Yao, Zhuliang and Cao, Yue and Lin, Yutong and Liu, Ze and Zhang, Zheng and Hu, Han},
+  booktitle={2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)}, 
+  title={Leveraging Batch Normalization for Vision Transformers}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={413-422},
+  keywords={Training;Computer vision;Conferences;Computer architecture;Transformers;Computer crashes;Feeds},
+  doi={10.1109/ICCVW54120.2021.00050}
+}
+```
+
+
+#### SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations
 
 tag: `SDEdit` | `Stanford University` | `CMU`
 
@@ -426,6 +547,26 @@ citation:
 }
 ```
 
+#### Going deeper with Image Transformers
+
+tag: `CaiT` | `ICCV21` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2103.17239)
+
+github link: [here](https://github.com/facebookresearch/deit/blob/main/README_cait.md)
+
+citation:
+
+```bibtex
+@inproceedings{touvron2021goingdeeperimagetransformers,
+    author    = {Touvron, Hugo and Cord, Matthieu and Sablayrolles, Alexandre and Synnaeve, Gabriel and J\'egou, Herv\'e},
+    title     = {Going Deeper With Image Transformers},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {32-42}
+}
+```
 
 #### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 
@@ -491,6 +632,29 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2102.12092}, 
+}
+```
+
+
+#### Training data-efficient image transformers & distillation through attention
+
+tag: `DeiT` | `ICML21` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2012.12877)
+
+github link: [here](https://github.com/facebookresearch/deit/blob/main/README_deit.md)
+
+citation:
+
+```bibtex
+@inproceedings{touvron2021trainingdataefficientimagetransformers,
+  title =     {Training data-efficient image transformers &amp; distillation through attention},
+  author =    {Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and Jegou, Herve},
+  booktitle = {International Conference on Machine Learning},
+  pages =     {10347--10357},
+  year =      {2021},
+  volume =    {139},
+  month =     {July}
 }
 ```
 

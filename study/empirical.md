@@ -120,6 +120,26 @@ citation:
 }
 ```
 
+#### ConvNets vs. Transformers: Whose Visual Representations are More Transferable?
+
+tag: `ConvNets` | `Transformers` | `Transferability` | `HKU`
+
+paper link: [here](https://arxiv.org/pdf/2108.05305)
+
+citation:
+
+```bibtex
+@misc{zhou2021convnetsvstransformersvisual,
+      title={ConvNets vs. Transformers: Whose Visual Representations are More Transferable?}, 
+      author={Hong-Yu Zhou and Chixiang Lu and Sibei Yang and Yizhou Yu},
+      year={2021},
+      eprint={2108.05305},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2108.05305}, 
+}
+```
+
 
 #### Geometry of the Loss Landscape in Overparameterized Neural Networks: Symmetries and Invariances
 

@@ -2,6 +2,29 @@
 *Here're some resources about Normalization modules in Transformers*
 
 
+#### SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization
+
+tag: `SLAB` | `SLA` | `PRepBN` | `ICML24` | `Huawei Noah’s Ark Lab`
+
+paper link: [here](https://arxiv.org/pdf/2405.11582v1)
+
+github link: [here](https://github.com/xinghaochen/SLAB)
+
+citation:
+
+```bibtex
+@misc{guo2024slabefficienttransformerssimplified,
+      title={SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization}, 
+      author={Jialong Guo and Xinghao Chen and Yehui Tang and Yunhe Wang},
+      year={2024},
+      eprint={2405.11582},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.11582}, 
+}
+```
+
+
 #### DeepNet: Scaling Transformers to 1,000 Layers
 
 tag: `DeepNorm` | `DeepNet`
