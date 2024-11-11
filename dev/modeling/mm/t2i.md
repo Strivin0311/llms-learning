@@ -80,6 +80,30 @@ citation:
 }
 ```
 
+#### Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models
+
+tag: `Molmo` | `PixMo` | `Allen AI`
+
+paper link: [here](https://arxiv.org/pdf/2409.17146)
+
+modelhub link: [here](https://huggingface.co/collections/allenai/molmo-66f379e6fe3b8ef090a8ca19)
+
+homepage link: [here](https://molmo.allenai.org/)
+
+citation:
+
+```bibtex
+@misc{deitke2024molmopixmoopenweights,
+      title={Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Multimodal Models}, 
+      author={Matt Deitke and Christopher Clark and Sangho Lee and Rohun Tripathi and Yue Yang and Jae Sung Park and Mohammadreza Salehi and Niklas Muennighoff and Kyle Lo and Luca Soldaini and Jiasen Lu and Taira Anderson and Erin Bransom and Kiana Ehsani and Huong Ngo and YenSung Chen and Ajay Patel and Mark Yatskar and Chris Callison-Burch and Andrew Head and Rose Hendrix and Favyen Bastani and Eli VanderBilt and Nathan Lambert and Yvonne Chou and Arnavi Chheda and Jenna Sparks and Sam Skjonsberg and Michael Schmitz and Aaron Sarnat and Byron Bischoff and Pete Walsh and Chris Newell and Piper Wolters and Tanmay Gupta and Kuo-Hao Zeng and Jon Borchardt and Dirk Groeneveld and Jen Dumas and Crystal Nam and Sophie Lebrecht and Caitlin Wittlif and Carissa Schoenick and Oscar Michel and Ranjay Krishna and Luca Weihs and Noah A. Smith and Hannaneh Hajishirzi and Ross Girshick and Ali Farhadi and Aniruddha Kembhavi},
+      year={2024},
+      eprint={2409.17146},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.17146}, 
+}
+```
+
 
 #### Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
 

@@ -2,6 +2,28 @@
 *Here're some resources about Miscellaneous Architectures for language/sequence modeling*
 
 
+#### TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
+
+tag: `TokenFormer` | `Pattention` | `Google` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2410.23168)
+
+github link: [here](https://github.com/Haiyang-W/TokenFormer)
+
+citation:
+
+```bibtex
+@misc{wang2024tokenformerrethinkingtransformerscaling,
+      title={TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters}, 
+      author={Haiyang Wang and Yue Fan and Muhammad Ferjad Naeem and Yongqin Xian and Jan Eric Lenssen and Liwei Wang and Federico Tombari and Bernt Schiele},
+      year={2024},
+      eprint={2410.23168},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.23168}, 
+}
+```
+
 #### LoLCATs: On Low-Rank Linearizing of Large Language Models
 
 tag: `LoLCATs` | `Attention Transfer` | `LoRA` | `Together AI` | `Standford University`
