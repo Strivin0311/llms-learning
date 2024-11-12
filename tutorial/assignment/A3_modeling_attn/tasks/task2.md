@@ -36,12 +36,14 @@ $$
 &\text{softmax}(X) = \text{softmax}([X_1, X_2]) = \exp(X - lse) = \left[ c_1 \cdot \text{softmax}(X_1), c_2 \cdot \text{softmax}(X_2)\right] \\
 &= \left[ c_1 \cdot \exp(X_1 - lse_1), c_2 \cdot \exp(X_2 - lse_2)\right], \quad \text{where} \space c_i = \exp(lse_i - lse), \space i\in \{1,2\}, \space\text{and} \\
 &lse := \text{lse}(X) = \log(\exp(lse_1) + \exp(lse_2)) = lse_{1} + \log(1 + \exp(lse_{2} - lse_{1})) \\
-&\quad\space= lse_{max} + \log(1 + \exp(lse_{min} - lse_{max})) = lse_{max} + \text{log1p}(lse_{min} - lse_{max}) \\ 
+&\quad\space= lse_{max} + \log(1 + \exp(lse_{min} - lse_{max})) \\
+&\quad\space= lse_{max} + \text{log1p}(\exp(lse_{min} - lse_{max})) \\
+&\quad\space= lse_{max} + \text{softplus}(lse_{min} - lse_{max}) \\
 &\text{where} \space lse_{max} = \max{(lse_1, lse_2)}, \space lse_{min} = \min{(lse_1, lse_2)}
 \end{align}
 $$
 
-* where the last two steps are to address the $\exp$ explosion problem with the help of $\text{log1p}$ operation (*See the Pytorch Log1p Functional in [References](#references)*). Therefore, for each online attention step, we just need to apply the local block of attention to get $O_{bq_i}^{(bkv_j)}$ along with the local statistics $lse^{(bkv_j)}_{bq_i}$, and then update the global statistics $lse$ to calibrate the global output $O$ for the rows indexing in the range $[bq_i\cdot bq, (bq_i + 1)\cdot bq)$, as the equations shown above.
+* where the last three steps are designed to address the $\exp$ explosion problem by extracting the maximum values as the additive term to prevent the exponential term from being positive large, along with the help of $\text{log1p}$ or $\text{softplus}$ operation for numerical stability (*See the Pytorch Log1p / Softplus Functional in [References](#references)*). Therefore, for each online attention step, we just need to apply the local block of attention to get $O_{bq_i}^{(bkv_j)}$ along with the local statistics $lse^{(bkv_j)}_{bq_i}$, and then update the global statistics $lse$ to calibrate the global output $O$ for the rows indexing in the range $[bq_i\cdot bq, (bq_i + 1)\cdot bq]$, as the equations shown above.
 
 * To make full use of the implemented `OfflineSlidingWindowAttn` module in [task1](./task1.md), the `OnlineSlidingWindowAttn` module just inherits the `OfflineSlidingWindowAttn` module, where the input arguments are different in several ways as follows:
     * To simplify the diversity of inputs, the `OnlineSlidingWindowAttn` module only accepts the block of $Q_{bq_i},K_{bkv_j},V_{bkv_j}$ in `AttnQKVLayout.BSHD` layout and `AttnQKVPackFormat.Q_K_V` packing format, thus no arguments are required for the QKV packing format and layout.
@@ -77,6 +79,7 @@ In summary, you should implement this `OnlineSlidingWindowAttn` module, which ta
 * [LSE Wiki](https://en.wikipedia.org/wiki/LogSumExp)
 * [Pytorch LSE Functional](https://pytorch.org/docs/stable/generated/torch.logsumexp.html#torch-logsumexp)
 * [Pytorch Log1p Functional](https://pytorch.org/docs/stable/generated/torch.log1p.html#torch.log1p)
+* [Pytorch Softplus Functional](https://pytorch.org/docs/stable/generated/torch.nn.functional.softplus.html#torch.nn.functional.softplus)
 * [Nvidia Methods of Improving LLM Training Stability](https://arxiv.org/pdf/2410.16682)
 * [Llama Attention Layer](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L277)
 * [Google MHA paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
