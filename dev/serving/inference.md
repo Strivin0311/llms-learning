@@ -5,6 +5,29 @@
 ### Efficient Inference
 
 
+#### ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference
+
+tag: `ShadowKV` | `ByteDance` | `CMU`
+
+paper link: [here](https://arxiv.org/pdf/2410.21465)
+
+github link: [here](https://github.com/bytedance/ShadowKV/)
+
+citation:
+
+```bibtex
+@misc{sun2024shadowkvkvcacheshadows,
+      title={ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference}, 
+      author={Hanshi Sun and Li-Wen Chang and Wenlei Bao and Size Zheng and Ningxin Zheng and Xin Liu and Harry Dong and Yuejie Chi and Beidi Chen},
+      year={2024},
+      eprint={2410.21465},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.21465}, 
+}
+```
+
+
 #### 1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs
 
 tag: `BitNet 1.1`
