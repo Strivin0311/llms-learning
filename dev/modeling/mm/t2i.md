@@ -105,6 +105,31 @@ citation:
 ```
 
 
+#### NVLM: Open Frontier-Class Multimodal LLMs
+
+tag: `NVLM` | `Nvidia`
+
+paper link: [here](https://arxiv.org/pdf/2409.11402)
+
+homepage link: [here](https://research.nvidia.com/labs/adlr/NVLM-1/)
+
+model link: [here](https://huggingface.co/nvidia/NVLM-D-72B)
+
+citation:
+
+```bibtex
+@misc{dai2024nvlmopenfrontierclassmultimodal,
+      title={NVLM: Open Frontier-Class Multimodal LLMs}, 
+      author={Wenliang Dai and Nayeon Lee and Boxin Wang and Zhuolin Yang and Zihan Liu and Jon Barker and Tuomas Rintamaki and Mohammad Shoeybi and Bryan Catanzaro and Wei Ping},
+      year={2024},
+      eprint={2409.11402},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.11402}, 
+}
+```
+
+
 #### Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
 
 tag: `Eagle` | `Nvidia`

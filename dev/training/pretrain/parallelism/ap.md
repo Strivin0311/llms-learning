@@ -3,6 +3,32 @@
 *Here're some resources about Automatic Parallelism for LLMs Training*
 
 
+#### Metis: Fast Automatic Distributed Training on Heterogeneous GPUs
+
+tag: `Metis` | `ATC24` | `Samsung Research`
+
+paper link: [here](https://www.usenix.org/system/files/atc24-um.pdf)
+
+slides link: [here](https://www.usenix.org/system/files/atc24_slides-um.pdf)
+
+citation:
+
+```bibtex
+@inproceedings {um2024metis,
+  author = {Taegeon Um and Byungsoo Oh and Minyoung Kang and Woo-Yeon Lee and Goeun Kim and Dongseob Kim and Youngtaek Kim and Mohd Muzzammil and Myeongjae Jeon},
+  title = {Metis: Fast Automatic Distributed Training on Heterogeneous {GPUs}},
+  booktitle = {2024 USENIX Annual Technical Conference (USENIX ATC 24)},
+  year = {2024},
+  isbn = {978-1-939133-41-0},
+  address = {Santa Clara, CA},
+  pages = {563--578},
+  url = {https://www.usenix.org/conference/atc24/presentation/um},
+  publisher = {USENIX Association},
+  month = jul
+}
+```
+
+
 #### UniAP: Unifying Inter- and Intra-Layer Automatic Parallelism by Mixed Integer Quadratic Programming
 
 tag: `UniAP` | `Nanjing University`

@@ -6,9 +6,9 @@
 
 #### Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents
 
-tag: `Chain of Ideas` | `CoI`
+tag: `Chain of Ideas` | `CoI` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University`
 
-paper link: [here](https://arxiv.org/pdf/2410.13185v3)
+paper link: [here](https://arxiv.org/pdf/2410.13185)
 
 github link: [here](https://github.com/DAMO-NLP-SG/CoI-Agent)
 
@@ -28,7 +28,7 @@ citation:
 
 #### MindSearch: Mimicking Human Minds Elicits Deep AI Searcher
 
-tag: `MindSearch`
+tag: `MindSearch` | `Shanghai AILab` | `USTC`
 
 paper link: [here](https://arxiv.org/pdf/2407.20183)
 
@@ -50,7 +50,7 @@ citation:
 
 #### Symbolic Learning Enables Self-Evolving Agents
 
-tag: `Agents 2.0` | `Symbolic Learning`
+tag: `Agents 2.0` | `Symbolic Learning` | `AIWaves`
 
 paper link: [here](https://arxiv.org/pdf/2406.18532)
 
@@ -72,7 +72,7 @@ citation:
 
 #### Husky- A Unified, Open-Source Language Agent for Multi-Step Reasoning
 
-tag: `Husky`
+tag: `Husky` | `Meta` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2406.06469)
 
@@ -105,7 +105,7 @@ citation:
 
 #### LLM Augmented Hierarchical Agents
 
-tag: `LLM-HRL`
+tag: `LLM-HRL` | `CoRL23`
 
 paper link: [here](https://arxiv.org/pdf/2311.05596.pdf)
 
@@ -125,7 +125,7 @@ citation:
 
 #### ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models
 
-tag: `ModelScope-Agent`
+tag: `ModelScope-Agent` | `DAMO Academy` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2309.00986)
 
@@ -144,7 +144,7 @@ citation:
 
 #### AutoAgents: A Framework for Automatic Agent Generation
 
-tag: `AutoAgents`
+tag: `AutoAgents` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2309.17288)
 
@@ -166,7 +166,7 @@ citation:
 
 #### Agents: An Open-source Framework for Autonomous Language Agents
 
-tag: `Agents`
+tag: `Agents` | `AIWaves`
 
 paper link: [here](https://arxiv.org/pdf/2309.07870)
 
@@ -187,7 +187,7 @@ citation:
 
 #### Autogen: Enabling next-gen llm applications via multi-agent conversation framework
 
-tag: `AutoGen`
+tag: `AutoGen` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
 
@@ -205,11 +205,13 @@ citation:
 ```
 
 
-#### Toolllm: Facilitating large language models to master 16000+ real-world apis
+#### ToolLLM: Facilitating large language models to master 16000+ real-world apis
 
-tag: `Toolllm`
+tag: `ToolLLM` | `NIPS23` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2307.16789.pdf)
+
+github link: [here](https://github.com/OpenBMB/ToolBench)
 
 citation:
 
@@ -225,7 +227,7 @@ citation:
 
 #### ChatDev: Communicative Agents for Software Development
 
-tag: `ChatDev`
+tag: `ChatDev` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2307.07924.pdf)
 
@@ -266,9 +268,29 @@ citation:
 ```
 
 
+#### Mindstorms in Natural Language-Based Societies of Mind
+
+tag: `NLSOMs` | `KAUST`
+
+paper link: [here](https://arxiv.org/pdf/2305.17066.pdf)
+
+citation:
+
+```bibtex
+@misc{zhuge2023mindstorms,
+      title={Mindstorms in Natural Language-Based Societies of Mind}, 
+      author={Mingchen Zhuge and Haozhe Liu and Francesco Faccio and Dylan R. Ashley and Róbert Csordás and Anand Gopalakrishnan and Abdullah Hamdi and Hasan Abed Al Kader Hammoud and Vincent Herrmann and Kazuki Irie and Louis Kirsch and Bing Li and Guohao Li and Shuming Liu and Jinjie Mai and Piotr Piękos and Aditya Ramesh and Imanol Schlag and Weimin Shi and Aleksandar Stanić and Wenyi Wang and Yuhui Wang and Mengmeng Xu and Deng-Ping Fan and Bernard Ghanem and Jürgen Schmidhuber},
+      year={2023},
+      eprint={2305.17066},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+
 #### Voyager: An Open-Ended Embodied Agent with Large Language Models
 
-tag: `Voyager`
+tag: `Voyager` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2305.16291.pdf)
 
@@ -292,9 +314,11 @@ citation:
 
 #### ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings
 
-tag: `ToolkenGPT`
+tag: `ToolkenGPT` | `UCSD`
 
 paper link: [here](https://arxiv.org/pdf/2305.11554)
+
+github link: [here](https://github.com/Ber666/ToolkenGPT)
 
 citation:
 
@@ -310,7 +334,7 @@ citation:
 
 #### Generative agents: Interactive simulacra of human behavior
 
-tag: `Generative Agents`
+tag: `Generative Agents` | `Google DeepMind` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2304.03442.pdf)
 
@@ -329,9 +353,9 @@ citation:
 
 #### CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
 
-tag: `CAMEL`
+tag: `CAMEL` | `NIPS23` | `KAUST`
 
-paper link: [here](https://arxiv.org/pdf/2303.17760v2)
+paper link: [here](https://arxiv.org/pdf/2303.17760)
 
 github link: [here](https://github.com/camel-ai/camel)
 
@@ -352,7 +376,7 @@ citation:
 
 #### Toolformer: Language models can teach themselves to use tools
 
-tag: `Toolformer`
+tag: `Toolformer` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2302.04761.pdf)
 
@@ -369,11 +393,13 @@ citation:
 
 #### LangChain: Building applications with LLMs through composability
 
-tag: `LangChain`
+tag: `LangChain` | `LangSmith`
 
 github link: [here](https://github.com/langchain-ai/langchain)
 
 docs link: [here](https://python.langchain.com/docs/get_started/introduction)
+
+homepage link: [here](https://smith.langchain.com/)
 
 tutorial link: [here](../tutorial/notebook/tutorial_langchain.ipynb)
 
@@ -392,9 +418,10 @@ citation:
 
 ## Benchmark
 
+
 #### SmartPlay: A Benchmark for LLMs as Intelligent Agents
 
-tag: `SmartPlay`
+tag: `SmartPlay` | `ICLR24` | `Microsoft` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2310.01557)
 
@@ -414,7 +441,7 @@ citation:
 
 #### RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
 
-tag: `RoleLLM`
+tag: `RoleLLM` | `Beihang University`
 
 paper link: [here](https://arxiv.org/pdf/2310.00746)
 
@@ -433,11 +460,13 @@ citation:
 
 #### Agentbench: Evaluating llms as agents
 
-tag: `Agentbench`
+tag: `Agentbench` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2308.03688)
 
 github link: [here](https://github.com/THUDM/AgentBench)
+
+homepage link: [here](https://llmbench.ai/agent)
 
 citation:
 
@@ -449,35 +478,13 @@ citation:
   year={2023}
 }
 ```
-    
-
-## Empirical Study
-
-#### Mindstorms in Natural Language-Based Societies of Mind
-
-tag: `NLSOMs`
-
-paper link: [here](https://arxiv.org/pdf/2305.17066.pdf)
-
-citation:
-
-```bibtex
-@misc{zhuge2023mindstorms,
-      title={Mindstorms in Natural Language-Based Societies of Mind}, 
-      author={Mingchen Zhuge and Haozhe Liu and Francesco Faccio and Dylan R. Ashley and Róbert Csordás and Anand Gopalakrishnan and Abdullah Hamdi and Hasan Abed Al Kader Hammoud and Vincent Herrmann and Kazuki Irie and Louis Kirsch and Bing Li and Guohao Li and Shuming Liu and Jinjie Mai and Piotr Piękos and Aditya Ramesh and Imanol Schlag and Weimin Shi and Aleksandar Stanić and Wenyi Wang and Yuhui Wang and Mengmeng Xu and Deng-Ping Fan and Bernard Ghanem and Jürgen Schmidhuber},
-      year={2023},
-      eprint={2305.17066},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI}
-}
-```
   
 
 ## Survey
 
 #### The rise and potential of large language model based agents: A survey
 
-tag: `LLM Agents Survey`
+tag: `LLM Agents Survey` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2309.07864)
 

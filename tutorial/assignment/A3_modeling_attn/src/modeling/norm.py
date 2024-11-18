@@ -1,3 +1,5 @@
+from typing import Optional
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -11,9 +13,10 @@ class GroupRMSNorm(nn.Module):
             learnable scaling transformation on each i-th group individually.
     """
     
-    def __init__(self, 
+    def __init__(
+        self, 
         hidden_size: int, 
-        group_size: int,
+        group_size: Optional[int] = None,
         eps: float = 1e-5,
         init_range: tuple = (-1.0, 1.0),
         init_seed: int = 42,
@@ -24,7 +27,7 @@ class GroupRMSNorm(nn.Module):
         
         Args:
             hidden_size(int): hidden dimension size
-            group_size(int): group size
+            group_size(int, optional): group size, if None, then set it to hidden_size to fall back to RMSNorm
             eps(float, default = 1e-5): epsilon
             init_range(tuple, default = (-1.0, 1.0)): the range of the uniform distribution to initialize learnable scaling parameters
             init_seed(int, default = 42): seed for the initialization
@@ -34,7 +37,7 @@ class GroupRMSNorm(nn.Module):
         super().__init__()
         raise NotImplementedError("TODO: Assignment1 - Task1")
         
-    def forward(self, input : torch.Tensor) -> torch.Tensor:
+    def forward(self, input: torch.Tensor) -> torch.Tensor:
         """The forward pass for Group RMS Norm module
 
         Args:

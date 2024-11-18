@@ -1,5 +1,5 @@
 # Kolmogorov-Arnold Networks (KAN)
-*Here're some resources about Kolmogorov-Arnold Networks*
+*Here're some resources about Kolmogorov-Arnold Networks, based upon "Kolmogorov-Arnold representation theorem"*
 
 ## Method
 

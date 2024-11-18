@@ -6,6 +6,30 @@
 
 ### General
 
+
+#### Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
+
+tag: `GrokkedTransformer` | `Grokking` | `NIPS24` | `CMU`
+
+paper link: [here](https://arxiv.org/pdf/2405.15071)
+
+github link: [here](https://github.com/OSU-NLP-Group/GrokkedTransformer)
+
+citation:
+
+```bibtex
+@misc{wang2024grokkedtransformersimplicitreasoners,
+      title={Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization}, 
+      author={Boshi Wang and Xiang Yue and Yu Su and Huan Sun},
+      year={2024},
+      eprint={2405.15071},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2405.15071}, 
+}
+```
+
+
 #### Chameleon: Plug-and-play compositional reasoning with large language models
 
 paper link: [here](https://arxiv.org/pdf/2304.09842)

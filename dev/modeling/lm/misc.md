@@ -47,6 +47,27 @@ citation:
 ```
 
 
+#### Model Comparisons: XNet Outperforms KAN
+
+tag: `XNet` | `KAN`
+
+paper link: [here](https://arxiv.org/pdf/2410.02033)
+
+citation:
+
+```bibtex
+@misc{li2024modelcomparisonsxnetoutperforms,
+      title={Model Comparisons: XNet Outperforms KAN}, 
+      author={Xin Li and Zhihong Jeff Xia and Xiaotao Zheng},
+      year={2024},
+      eprint={2410.02033},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.02033}, 
+}
+```
+
+
 #### Addition is All You Need for Energy-efficient Language Models
 
 tag: `L-Mul` | `BitEnergy AI`
@@ -64,6 +85,29 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2410.00907}, 
+}
+```
+
+
+#### Cauchy activation function and XNet
+
+tag: `XNet` | `Cauchy Activation Function` | `Cauchy Integral Theorem`
+
+paper link: [here](https://arxiv.org/pdf/2409.19221)
+
+follow-up work: [here](https://arxiv.org/pdf/2410.02033)
+
+citation:
+
+```bibtex
+@misc{li2024cauchyactivationfunctionxnet,
+      title={Cauchy activation function and XNet}, 
+      author={Xin Li and Zhihong Xia and Hongkun Zhang},
+      year={2024},
+      eprint={2409.19221},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2409.19221}, 
 }
 ```
 
