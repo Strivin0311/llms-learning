@@ -1,0 +1,17 @@
+pytest>=7.4.2
+cython>=3.0.11
+pytest-timeout>=2.3.1
+tqdm>=4.66.1
+matplotlib>=3.8.2
+pandas>=2.1.4
+wandb>=0.16.6
+ipykernel>=6.25.2
+ipywidgets>=8.1.2
+pynvml>=11.4.1
+torch>=2.1.0
+torchvision>=0.16.0
+triton>=2.2.0
+transformers>=4.46.0
+sentencepiece>=0.2.0
+safetensors>=0.4.5
+einops>=0.8.0
