@@ -1,5 +1,5 @@
 
-### Task 2: Sparse MLP with LoRA Adapters
+### Task 2: Sparse MLP with LoRA Adapters (60 points)
 
 #### TODO
 
@@ -56,14 +56,14 @@ In summary, you should implement this `SparseMLPWithLoRA` module, which firstly 
 
 #### References
 
-*Hints: Here're some references which may be helpful to your task, or just deepen / broaden your knowledge to normalization layers in deep learning:*
+*Hints: Here're some references which may be helpful to your task, or just deepen / broaden your knowledge to sparse-moe mlp layers in deep learning:*
 
 **!! Remember: it is a fundemental and essential capability to search, read, think and learn from the paper, source code, and official documentation for your answer, try NOT to rely too much on some biased and superficial blogs, e.g. CSDN !!**
 
 * [MoE Paper](https://arxiv.org/abs/1701.06538)
 * [Mixtral Paper](https://arxiv.org/abs/2401.04088)
-* [Mixtral MoE MLP Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/mixtral/modeling_mixtral.py#L633)
-* [Llama MLP Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L227)
+* [Mixtral MoE MLP Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/mixtral/modeling_mixtral.py#L610)
+* [Llama MLP Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L229)
 * [ChatGLM MLP Module](https://huggingface.co/THUDM/chatglm3-6b/blob/main/modeling_chatglm.py#L459)
 * [GLU Paper](https://arxiv.org/abs/1612.08083)
 * [GLU Variants Paper](https://arxiv.org/abs/2002.05202)

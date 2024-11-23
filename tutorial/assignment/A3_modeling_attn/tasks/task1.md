@@ -84,7 +84,7 @@ In summary, you should implement this `OfflineSlidingWindowAttn` module, which t
 
 
 * [Nvidia Methods of Improving LLM Training Stability](https://arxiv.org/pdf/2410.16682)
-* [Llama Attention Layer](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L277)
+* [Llama Attention Layer](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L275)
 * [Google MHA paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 * [Google MQA paper](https://arxiv.org/pdf/1911.02150)
 * [Google GQA paper](https://arxiv.org/pdf/2305.13245)

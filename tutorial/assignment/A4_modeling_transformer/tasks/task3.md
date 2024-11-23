@@ -44,6 +44,8 @@ In summary, you should implement this `TransformerDecoderBlock` module, which ta
 
 * The device of the input ids might be different from the one on which the parameters are located, hence you should deal it carefully and make sure the device of the output logits is consistent with the one of the input ids.
 
+* There is a particular boolean configuration `lm_head_tied` in the `TransformerConfig` dataclass, indicating whether to tie the weights of the `lm_head` layer to the one of the vocab embedding layer, instead of initializing it separately (*See HF PretraiedModel Tie Weights in [References](#references) for more details*).
+
 
 #### References
 
@@ -52,4 +54,6 @@ In summary, you should implement this `TransformerDecoderBlock` module, which ta
 **!! Remember: it is a fundemental and essential capability to search, read, think and learn from the paper, source code, and official documentation for your answer, try NOT to rely too much on some biased and superficial blogs, e.g. CSDN !!**
 
 
-* [Llama Model Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L834)
+* [Llama Model Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L830)
+* [Llama PretrainedModel Init Weights](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L739)
+* [HF PretraiedModel Tie Weights](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/modeling_utils.py#L1915)

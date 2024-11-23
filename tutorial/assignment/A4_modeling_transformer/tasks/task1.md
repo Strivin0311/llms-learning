@@ -38,7 +38,7 @@ In summary, you should implement this `TransformerDecoderKVCache` module followi
 **!! Remember: it is a fundemental and essential capability to search, read, think and learn from the paper, source code, and official documentation for your answer, try NOT to rely too much on some biased and superficial blogs, e.g. CSDN !!**
 
 
-* [HF Transformers Dynamic Cache Module](https://github.com/huggingface/transformers/blob/main/src/transformers/cache_utils.py#L351)
+* [HF Transformers Dynamic Cache Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/cache_utils.py#L351)
 * [vLLM Paged Attention](https://docs.vllm.ai/en/latest/design/kernel/paged_attention.html)
 * [vLLM Chunked Prefill](https://docs.vllm.ai/en/latest/models/performance.html)
 * [vLLM Automatic Prefix Caching](https://docs.vllm.ai/en/latest/automatic_prefix_caching/apc.html)

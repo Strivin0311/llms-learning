@@ -1,4 +1,4 @@
-### Task 1: Dense MLP with LoRA Adapters
+### Task 1: Dense MLP with LoRA Adapters (40 points)
 
 #### TODO
 
@@ -54,12 +54,12 @@ In summary, you should implement this `DenseMLPWithLoRA` module, which firstly i
 
 #### References
 
-*Hints: Here're some references which may be helpful to your task, or just deepen / broaden your knowledge to mlp layers and activation functions in deep learning:*
+*Hints: Here're some references which may be helpful to your task, or just deepen / broaden your knowledge to dense mlp layers, lora adapters and activation functions in deep learning:*
 
 **!! Remember: it is a fundemental and essential capability to search, read, think and learn from the paper, source code, and official documentation for your answer, try NOT to rely too much on some biased and superficial blogs, e.g. CSDN !!**
 
 
-* [Llama MLP Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L227)
+* [Llama MLP Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L229)
 * [ChatGLM MLP Module](https://huggingface.co/THUDM/chatglm3-6b/blob/main/modeling_chatglm.py#L459)
 * [GLU Paper](https://arxiv.org/abs/1612.08083)
 * [GLU Variants Paper](https://arxiv.org/abs/2002.05202)

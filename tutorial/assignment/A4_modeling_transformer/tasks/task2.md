@@ -138,7 +138,7 @@ In summary, you should implement this `TransformerDecoderLayer` module, which ta
 **!! Remember: it is a fundemental and essential capability to search, read, think and learn from the paper, source code, and official documentation for your answer, try NOT to rely too much on some biased and superficial blogs, e.g. CSDN !!**
 
 
-* [Llama MLP Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L230)
-* [Llama Attention Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L277)
-* [Llama DecoderLayer Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L630)
+* [Llama MLP Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L229)
+* [Llama Attention Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L275)
+* [Llama DecoderLayer Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L626)
 * [Flash Attention Interface](https://github.com/Dao-AILab/flash-attention/blob/main/flash_attn/flash_attn_interface.py)

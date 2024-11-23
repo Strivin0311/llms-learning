@@ -1,5 +1,5 @@
 
-### Task 3: NTK-aware RoPE
+### Task 3: NTK-aware RoPE (50 points)
 
 #### TODO
 

@@ -48,7 +48,7 @@ In summary, you should implement this `GroupRMSNorm` module, which firstly initi
 
 * [RMSNorm Paper](https://arxiv.org/abs/1910.07467)
 * [Pytorch RMSNorm Module](https://pytorch.org/docs/stable/generated/torch.nn.RMSNorm.html#rmsnorm)
-* [Llama RMSNorm Module](https://github.com/huggingface/transformers/blob/main/src/transformers/models/llama/modeling_llama.py#L59C7-L59C19)
+* [Llama RMSNorm Module](https://github.com/huggingface/transformers/blob/v4.46.3/src/transformers/models/llama/modeling_llama.py#L60)
 * [ChatGLM RMSNorm Module](https://huggingface.co/THUDM/chatglm3-6b/blob/main/modeling_chatglm.py#L181)
 * [Pytorch LayerNorm Module](https://pytorch.org/docs/stable/generated/torch.nn.LayerNorm.html#torch.nn.LayerNorm)
 * [Pytorch BatchNorm Module](https://pytorch.org/docs/stable/generated/torch.nn.BatchNorm1d.html#torch.nn.BatchNorm1d)
