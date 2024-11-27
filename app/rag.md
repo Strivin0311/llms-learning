@@ -115,6 +115,38 @@ citation:
 }
 ```
 
+
+#### From Local to Global: A Graph RAG Approach to Query-Focused Summarization
+
+tag: `GraphRAG` | `Microsoft`
+
+paper link: [here](https://arxiv.org/pdf/2404.16130)
+
+blog link: [here](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+
+github link: [here](https://github.com/microsoft/graphrag)
+
+doc link: [here](https://microsoft.github.io/graphrag/)
+
+homepage link: [here](https://www.microsoft.com/en-us/research/project/graphrag/)
+
+
+citation:
+
+```bibtex
+@misc{edge2024localglobalgraphrag,
+      title={From Local to Global: A Graph RAG Approach to Query-Focused Summarization}, 
+      author={Darren Edge and Ha Trinh and Newman Cheng and Joshua Bradley and Alex Chao and Apurva Mody and Steven Truitt and Jonathan Larson},
+      year={2024},
+      eprint={2404.16130},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.16130}, 
+}
+```
+
+
+
 #### RQ-RAG: Learning to Refine Queries for Retrieval Augmented Generation
 
 tag: `RQ-RAG` | `HKU`
@@ -136,6 +168,7 @@ citation:
       url={https://arxiv.org/abs/2404.00610}, 
 }
 ```
+
 
 #### Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection
 

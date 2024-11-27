@@ -2,6 +2,33 @@
 *Here're some resources about State Space Models (SSMs) for sequence modeling*
 
 
+#### Hymba: A Hybrid-head Architecture for Small Language Models
+
+tag: `Hymba` | `Mamba` | `SLM` | `Nvidia`
+
+paper link: [here](https://www.arxiv.org/pdf/2411.13676)
+
+blog link: [here](https://aipapersacademy.com/hymba/)
+
+github link: [here](https://github.com/NVlabs/hymba)
+
+modelhub link: [here](https://huggingface.co/collections/nvidia/hymba-673c35516c12c4b98b5e845f)
+
+citation:
+
+```bibtex
+@misc{dong2024hymbahybridheadarchitecturesmall,
+      title={Hymba: A Hybrid-head Architecture for Small Language Models}, 
+      author={Xin Dong and Yonggan Fu and Shizhe Diao and Wonmin Byeon and Zijia Chen and Ameya Sunil Mahabaleshwarkar and Shih-Yang Liu and Matthijs Van Keirsbilck and Min-Hung Chen and Yoshi Suhara and Yingyan Lin and Jan Kautz and Pavlo Molchanov},
+      year={2024},
+      eprint={2411.13676},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.13676}, 
+}
+```
+
+
 #### Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 
 tag: `Samba` | `Microsoft`

@@ -7,6 +7,27 @@
 ### General
 
 
+#### The Surprising Effectiveness of Test-Time Training for Abstract Reasoning
+
+tag: `TTT` | `Test-Time Training` | `Abstract Reasoning` | `MIT`
+
+paper link: [here](https://arxiv.org/pdf/2411.07279)
+
+citation:
+
+```bibtex
+@misc{akyürek2024surprisingeffectivenesstesttimetraining,
+      title={The Surprising Effectiveness of Test-Time Training for Abstract Reasoning}, 
+      author={Ekin Akyürek and Mehul Damani and Linlu Qiu and Han Guo and Yoon Kim and Jacob Andreas},
+      year={2024},
+      eprint={2411.07279},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2411.07279}, 
+}
+```
+
+
 #### Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
 
 tag: `GrokkedTransformer` | `Grokking` | `NIPS24` | `CMU`

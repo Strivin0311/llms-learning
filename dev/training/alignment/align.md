@@ -2,6 +2,33 @@
 *Here're some resources about Alignment of LLMs, especically to ethics, cultures, politicis, laws in human society*
 
 
+#### TÜLU 3: Pushing Frontiers in Open Language Model Post-Training
+
+tag: `TÜLU 3` | `RLVR` | `Allen AI`
+
+paper link: [here](https://allenai.org/papers/tulu-3-report.pdf)
+
+blog link: [here](https://allenai.org/blog/tulu-3-technical)
+
+github link: [here](https://github.com/allenai/open-instruct)
+
+modelhub link: [here](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
+
+citation:
+
+```bibtex
+@misc{lambert2024tulu3pushingfrontiers,
+      title={T\"ULU 3: Pushing Frontiers in Open Language Model Post-Training}, 
+      author={Nathan Lambert and Jacob Morrison and Valentina Pyatkin and Shengyi Huang and Hamish Ivison and Faeze Brahman and Lester James V. Miranda and Alisa Liu and Nouha Dziri and Shane Lyu and Yuling Gu and Saumya Malik and Victoria Graf and Jena D. Hwang and Jiangjiang Yang and Ronan Le Bras and Oyvind Tafjord and Chris Wilhelm and Luca Soldaini and Noah A. Smith and Yizhong Wang and Pradeep Dasigi and Hannaneh Hajishirzi},
+      year={2024},
+      eprint={2411.15124},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.15124}, 
+}
+```
+
+
 #### RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
 
 tag: `RLAIF-V`
