@@ -23,6 +23,29 @@ citation:
 ```
 
 
+#### Fractal Patterns May Illuminate the Success of Next-Token Prediction
+
+tag: `Fractal Patterns` | `NIPS24` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2402.01825)
+
+github link: [here](https://github.com/google-research/google-research/tree/master/fractals_language)
+
+citation:
+
+```bibtex
+@misc{alabdulmohsin2024fractalpatternsilluminatesuccess,
+      title={Fractal Patterns May Illuminate the Success of Next-Token Prediction}, 
+      author={Ibrahim Alabdulmohsin and Vinh Q. Tran and Mostafa Dehghani},
+      year={2024},
+      eprint={2402.01825},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2402.01825}, 
+}
+```
+
+
 #### Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models
 
 tag: `Runtime Performance`

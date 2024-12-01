@@ -72,6 +72,52 @@ citation:
 ```
 
 
+#### MambaOut: Do We Really Need Mamba for Vision?
+
+tag: `MambaOut` | `Vision Mamba` | `NUS`
+
+paper link: [here](https://arxiv.org/pdf/2405.07992)
+
+github link: [here](https://github.com/yuweihao/MambaOut)
+
+citation:
+
+```bibtex
+@misc{yu2024mambaoutreallyneedmamba,
+      title={MambaOut: Do We Really Need Mamba for Vision?}, 
+      author={Weihao Yu and Xinchao Wang},
+      year={2024},
+      eprint={2405.07992},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2405.07992}, 
+}
+```
+
+
+#### Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
+
+tag: `ViM` | `Vison Mamba` | `ICML24` | `HUST`
+
+paper link: [here](https://arxiv.org/pdf/2401.09417)
+
+github link: [here](https://github.com/hustvl/Vim)
+
+citation:
+
+```bibtex
+@misc{zhu2024visionmambaefficientvisual,
+      title={Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model}, 
+      author={Lianghui Zhu and Bencheng Liao and Qian Zhang and Xinlong Wang and Wenyu Liu and Xinggang Wang},
+      year={2024},
+      eprint={2401.09417},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2401.09417}, 
+}
+```
+
+
 #### Eagle and Finch: RWKV with Matrix-Valued States and Dynamic Recurrence
 
 tag: `RWKV5` | `RWKV6` | `EleutherAI`
