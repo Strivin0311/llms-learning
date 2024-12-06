@@ -1,5 +1,5 @@
 
-### Task 1: Group RMS Normalization (20 points)
+### Task 1: Group RMS Normalization
 
 #### TODO
 

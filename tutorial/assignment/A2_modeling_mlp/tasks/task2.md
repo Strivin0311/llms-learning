@@ -1,5 +1,5 @@
 
-### Task 2: Sparse MLP with LoRA Adapters (60 points)
+### Task 2: Sparse MLP with LoRA Adapters
 
 #### TODO
 

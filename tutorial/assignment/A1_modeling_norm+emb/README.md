@@ -28,17 +28,3 @@ Please read the description [here](./tasks/task3.md).
     pip install -r requirements.txt
     ```
 * (*Optional*) You are strongly recommended to use a docker image from [Nvidia Pytorch Release](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/index.html) like [23.10](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-23-10.html#rel-23-10) or some newer version as your basic environment in case of denpendency conflicts.
-
-
-## Debug
-
-*To help you debug:*
-
-* 1. Naive debug mode with `test_toy.py`:
-    * ① We will give a few test cases with **explicit answers** as toy examples in the visible `test_toy.py` file.
-    * ② You had better ensure your code works correctly on your own machine before submitting, with the following command.
-        ```sh
-        pytest test_toy.py
-        ```
-    * ③ Feel free to modify the `test_toy.py` file to your specific debugging needs, since we wouldn't run it to score your code, as well as `test_with_ref.py` below.
-* 2. Deep debug mode with `test_with_ref.py` given specific docker image (**Unix-like Only**): (*Comming Soon*)

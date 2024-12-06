@@ -1,4 +1,4 @@
-### Task 1: Transformer Decoder KVCache (20 points)
+### Task 1: Transformer Decoder KVCache
 
 #### TODO
 

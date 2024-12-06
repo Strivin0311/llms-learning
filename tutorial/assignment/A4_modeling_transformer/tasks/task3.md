@@ -1,4 +1,4 @@
-### Task 3: Transformer Decoder Block (30 points)
+### Task 3: Transformer Decoder Block
 
 
 #### TODO
@@ -45,6 +45,8 @@ In summary, you should implement this `TransformerDecoderBlock` module, which ta
 * The device of the input ids might be different from the one on which the parameters are located, hence you should deal it carefully and make sure the device of the output logits is consistent with the one of the input ids.
 
 * There is a particular boolean configuration `lm_head_tied` in the `TransformerConfig` dataclass, indicating whether to tie the weights of the `lm_head` layer to the one of the vocab embedding layer, instead of initializing it separately (*See HF PretraiedModel Tie Weights in [References](#references) for more details*).
+
+* We implement `lm_head` using the standard `nn.Linear` layer, whose initialization method is a little different from the one to directly initialize the `nn.Parameter` tensor (*See Llama PretrainedModel Init Weights in [References](#references) for more details*).
 
 
 #### References

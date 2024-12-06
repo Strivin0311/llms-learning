@@ -49,6 +49,7 @@ toy_test_cases = {
             "softmax_temp": 0.8,
             "softmax_clip_range": (-0.03, 1.03),
             
+            "apply_qk_norm": True,
             "group_size": 1,
             "eps": 1e-5,
             "init_range": (-1.1, 1.1),
@@ -79,6 +80,7 @@ toy_test_cases = {
             "softmax_temp": 1.0,
             "softmax_clip_range": (-0.01, 1.01),
             
+            "apply_qk_norm": True,
             "group_size": 2,
             "eps": 1e-5,
             "init_range": (-1.2, 1.2),
@@ -108,6 +110,7 @@ toy_test_cases = {
             "softmax_cap": 10.0,
             "softmax_temp": 1.0,
             
+            "apply_qk_norm": True,
             "group_size": 2,
             "eps": 1e-5,
             "init_range": (-1.05, 1.05),
@@ -135,6 +138,7 @@ toy_test_cases = {
             "softmax_cap": None,
             "softmax_temp": 0.9,
             
+            "apply_qk_norm": True,
             "group_size": 1,
             "eps": 1e-5,
             "init_range": (-1.25, 1.25),
@@ -260,7 +264,7 @@ def test_task1(case_key, case_config):
         case_config.pop("softmax_dropout_seed", SEED)
     softmax_scale, softmax_cap, softmax_temp, softmax_clip_range = case_config["softmax_scale"], \
         case_config["softmax_cap"], case_config["softmax_temp"], case_config["softmax_clip_range"]
-    group_size, eps = case_config["group_size"], case_config["eps"]
+    apply_qk_norm, group_size, eps = case_config["apply_qk_norm"], case_config["group_size"], case_config["eps"]
     init_range, init_seed = case_config["init_range"], case_config.pop("init_seed", SEED)
     atol, rtol = case_config.pop("atol", ATOL), case_config.pop("rtol", RTOL)
     activation_dtype, param_dtype = case_config["activation_dtype"], case_config.pop("param_dtype", PARAM_DTYPE)
@@ -340,6 +344,7 @@ def test_task1(case_key, case_config):
         softmax_cap=softmax_cap,
         softmax_temp=softmax_temp,
         softmax_clip_range=softmax_clip_range,
+        apply_qk_norm=apply_qk_norm,
         group_size=group_size,
         eps=eps,
         init_range=init_range,
@@ -371,7 +376,7 @@ def test_task2(case_key, case_config):
     window_size, causal = case_config["window_size"], case_config["causal"]
     softmax_scale, softmax_cap, softmax_temp = case_config["softmax_scale"], \
         case_config["softmax_cap"], case_config["softmax_temp"]
-    group_size, eps = case_config["group_size"], case_config["eps"]
+    apply_qk_norm, group_size, eps = case_config["apply_qk_norm"], case_config["group_size"], case_config["eps"]
     init_range, init_seed = case_config["init_range"], case_config.pop("init_seed", SEED)
     atol, rtol = case_config.pop("atol", ATOL), case_config.pop("rtol", RTOL)
     activation_dtype, param_dtype = case_config["activation_dtype"], case_config.pop("param_dtype", PARAM_DTYPE)
@@ -449,6 +454,7 @@ def test_task2(case_key, case_config):
         softmax_scale=softmax_scale,
         softmax_cap=softmax_cap,
         softmax_temp=softmax_temp,
+        apply_qk_norm=apply_qk_norm,
         group_size=group_size,
         eps=eps,
         init_range=init_range,

@@ -1,4 +1,4 @@
-### Task 1: Dense MLP with LoRA Adapters (40 points)
+### Task 1: Dense MLP with LoRA Adapters
 
 #### TODO
 

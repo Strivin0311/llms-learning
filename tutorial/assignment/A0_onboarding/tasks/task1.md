@@ -1,5 +1,5 @@
 
-### Task 1: MatMul with Importance (100 points)
+### Task 1: MatMul with Importance
 
 #### TODO
 

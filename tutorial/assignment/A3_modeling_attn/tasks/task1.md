@@ -1,4 +1,4 @@
-### Task 1: Offline Sliding-Window Attention (60 points)
+### Task 1: Offline Sliding-Window Attention
 
 #### TODO
 
@@ -9,7 +9,7 @@ You are required to implement a pytorch module named `OfflineSlidingWindowAttn` 
 
 * The multi-head `Attention` module is an essential building block in Transformer (*See the Transformer paper in [References](#references)*) . It takes three tensors as inputs: query tensor with the shape `[batch_size, seq_len_q, num_head_q, head_dim]` (denoted as $Q$ with the shape `[b, sq, hq, hd]`), key tensor and value tensor with the same shape `[batch_size, seq_len_kv, num_head_kv, head_dim]` (denoted as $K$, $V$ with the shape `[b, skv, hkv, hd]` respectively). 
 * Each row tensor $q_i$ in $Q$ can be represented as an embedded latent "query message" for the $i$-th token, inquiring for some knowledge embedded in a "knowledge base" $V$, where each row tensor $v_j$ can be viewed as an embedded latent "knowledge archive" for the $j$-th token.
-* To aggregate all important knowledge in $V$ and ignore other irrelevant ones,  each $v_j$ corresponds to an embedded latent "key word" $k_j$, where the dot-product scalar $q_i^{\text T}k_j$ of any $q_i$ with this $k_j$ can be seen as the "similarity score" between the query message $q_i$ with this knowledge archive $v_j$. 
+* To aggregate all important knowledge in $V$ and ignore other irrelevant ones,  each $v_j$ corresponds to an embedded latent "keyword" row vector $k_j$, where the dot-product scalar $q_i k_j^{\text T}$ of any $q_i$ with this $k_j$ can be seen as the "similarity score" between the query message $q_i$ with this knowledge archive $v_j$. 
 * Thus the aggregate knowledge $o_i$ for each query $q_i$ can be represented as a weighted-sum of all $v_j$ in $V$ as $o_i := \sum\limits_j a^{(i)}_jv_j$, where the weight vector $a^{(i)}$ is comprised of all "normalized" dot-product similarity scalars of $q_i$ with each $k_j$, as mentioned above.
 * As for the "normalization" of weights, the most common choice is to apply `softmax` operation, which is known as the "soft" `maximalization` operation, in order to only "pay attention to" the knowledge that really matters with the highest similarity scores.
 * Therefore, the whole `attention` operation can be simply written as (*for each batch and each head*):
@@ -72,7 +72,7 @@ In summary, you should implement this `OfflineSlidingWindowAttn` module, which t
 * Only if the argument `softmax_cap` is set to `None`, can we apply the `softmax temperature` strategy with the argument `softmax_temp`.
 * All the arguments are ensured to be in their valid ranges.
 * The `GroupRMSNorm` of $Q,K$ are individual sub-layers of `OfflineSlidingWindowAttn`, since `GroupRMSNorm` only accept the 3D tensor with the shape `[batch_size, seq_len, hidden_size]`, and the `hidden_size = num_heads * head_dim` may vary between $Q$ and $K$. Moreover, we ensure the `head_dim` can be divided by `group_size`, i.e. no group will cross two different heads along the hidden dimension.
-* When the "num_heads"-dim are different between $Q$ and $K,V$ (*i.e. in the `MQA` style or `GQA` style, see the papers in [References](#references) for more details*), we follow the same **"kv-heads repeating" strategy** to make $Q$ and $K,V$ match in the number of heads (*See the Llama Attention Layer and the Pytorch Repeat Interleave Functional in [References](#references) for more details*).
+* When the "num_heads"-dim are different between $Q$ and $K,V$ (*i.e. in the `MQA` style or `GQA` style, where `num_q_head != num_kv_head` and `num_q_head % num_kv_head == 0`, see the papers in [References](#references) for more details*), we follow the same **"kv-heads repeating" strategy** to make $Q$ and $K,V$ match in the number of heads (*See the Llama Attention Layer and the Pytorch Repeat Interleave Functional in [References](#references) for more details*).
 * When the "sequence"-dim are different between $Q$ and $K,V$ (*e.g. in the cross-attention or the autoregressive decoding phase*), the attention mask $M$ is not a square matrix but a rectangle matrix with the shape `[sq, skv]`, also seen as a "slide" of the latent full square matrix with the shape `[max(sq,skv), max(sq,skv)]`. Hence there comes a question: which rectangle slide should we choose from the full matrix? For this `OfflineSlidingWindowAttn` module, we'd like to choose the one which aligns the **bottom right part** of the full square attention matrix following the flash-attention's settings (*See the Flash Attention Interface in [References](#references) for more examples*).
 
 

@@ -1,6 +1,6 @@
 
 
-### Task 2: Parallel Vocab Embedding (30 points)
+### Task 2: Parallel Vocab Embedding
 
 #### TODO
 

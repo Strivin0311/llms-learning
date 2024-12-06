@@ -1,6 +1,4 @@
-from typing import Optional, Tuple, Sequence
-from dataclasses import dataclass, field
-from collections import defaultdict
+from typing import Optional, Tuple, Sequence, Literal
 
 import torch
 import torch.nn as nn
@@ -27,30 +25,34 @@ from .attention import (
     OnlineSlidingWindowAttn,
 )
 
+from .config import (
+    BaseConfig,
+    config_dataclass,
+    make_required_field,
+    make_fixed_field,
+)
 
-@dataclass(frozen=True, repr=False)
-class TransformerConfig:
-    """Transformer Configurations Dataclass
-        NOTE: some parameters are tagged as "required", indicating they MUST be set to some values except `None` during initialization,
-        while some parameters are tagged as "fixed", indicating they can NOT be set during initialization and remain their own default values.
-    """
+
+@config_dataclass
+class TransformerConfig(BaseConfig):
+    """Transformer Configurations Dataclass"""
     
     # common transformer configurations
-    num_layers: int = field(default=None, metadata={"required": True})
-    hidden_size: int = field(default=None, metadata={"required": True})
-    ffh_size: int = field(default=None, metadata={"required": True})
-    max_seq_len: int = field(default=None, metadata={"required": True})
+    num_layers: int = make_required_field()
+    hidden_size: int = make_required_field()
+    ffh_size: int = make_required_field()
+    max_seq_len: int = make_required_field()
     param_dtype: torch.dtype = torch.float32
     param_device: str = "cpu"
     init_base_seed: int = 42
     
     # fixed distributed configurations
-    rank: int = field(default=0, metadata={"fixed": True})
-    world_size: int = field(default=1, metadata={"fixed": True})
-    process_group: Optional[ProcessGroup] = field(default=None, metadata={"fixed": True})
+    rank: int = make_fixed_field(0)
+    world_size: int = make_fixed_field(1)
+    process_group: Optional[ProcessGroup] = make_fixed_field(None)
     
     # vocab embedding configurations
-    vocab_size: int = field(default=None, metadata={"required": True})
+    vocab_size: int = make_required_field()
     vocab_init_mean: float = 0.0
     vocab_init_std: float = 1.0
     
@@ -72,9 +74,9 @@ class TransformerConfig:
     
     # attention configurations
     online_attn_block_size: Optional[int] = None # NOTE: if None, then use offline mode, otherwise use online mode
-    head_dim: int = field(default=None, metadata={"required": True})
-    num_q_head: int = field(default=None, metadata={"required": True})
-    num_kv_head: int = field(default=None, metadata={"required": True})
+    head_dim: int = make_required_field()
+    num_q_head: int = make_required_field()
+    num_kv_head: int = make_required_field()
     qkv_pack_format: AttnQKVPackFormat = AttnQKVPackFormat.Q_K_V
     qkv_layout: AttnQKVLayout = AttnQKVLayout.BSHD
     window_size: Optional[int] = None
@@ -101,45 +103,6 @@ class TransformerConfig:
     moe_topk: int = 1
     gate_init_mean: float = 0.0
     gate_init_std: float = 1.0
-    
-    def __post_init__(self):
-        """Post-initialization method for TransformerConfig, \
-            ensuring all required fields are set and no fixed fields are modified.
-        """
-        missing_fields = []
-        modified_fixed_fields = []
-        
-        for field_name, field_def in self.__dataclass_fields__.items():
-            if field_def.metadata.get("required", False) and field_def.metadata.get("fixed", False):
-                raise AttributeError(f"Field {field_name} cannot have set both 'required' and 'fixed' metadata to `True` at the same time.")
-            if field_def.metadata.get("required", False) and getattr(self, field_name) is None:
-                missing_fields.append(field_name)
-            if field_def.metadata.get("fixed", False) and getattr(self, field_name) != field_def.default:
-                modified_fixed_fields.append(field_name)
-        
-        if missing_fields or modified_fixed_fields:
-            error_msg = "TransformerConfig initialization failed due to: \n"
-            if missing_fields:
-                error_msg += f"Missing required fields: {', '.join(missing_fields)}\n"
-            if modified_fixed_fields:
-                error_msg += f"Modified fixed fields: {', '.join(modified_fixed_fields)}\n"
-            
-            raise ValueError(error_msg)
-
-    def __repr__(self) -> str:
-        """Customized __repr__ method for TransformerConfig, \
-            displaying all fields with their values in alphabetical order.
-        """
-        repr_str = f"{'*'*20}   TransformerConfig   {'*'*20}\n"
-        title_len = len(repr_str)
-        
-        field_names = sorted(self.__dataclass_fields__.keys())
-        for field_name in field_names:
-            repr_str += f"{field_name}: {getattr(self, field_name)}\n"
-        
-        repr_str += f"{'*' * title_len}\n"
-        
-        return repr_str
 
 
 class TransformerDecoderKVCache(nn.Module):
@@ -333,7 +296,11 @@ class TransformerDecoderBlock(nn.Module):
         """Initialize learnable parameters for Transformer Decoder Block module"""
         raise NotImplementedError("TODO: Assignment4 - Task3")
      
-    def num_parameters(self, learnable_only: bool = False, unit: str = "1") -> float:
+    def num_parameters(
+        self,
+        learnable_only: bool = False, 
+        unit: Literal["1", "K", "M", "B"] = "1"
+    ) -> float:
         """Compute the number of (learnable) parameters in the Llama Model module
         
         Args:
@@ -345,7 +312,10 @@ class TransformerDecoderBlock(nn.Module):
         """
         raise NotImplementedError("TODO: Assignment4 - Task3")
     
-    def num_memory_footprint(self, unit: str = "B") -> float:
+    def num_memory_footprint(
+        self,
+        unit: Literal["B", "KB", "MB", "GB"] = "B"
+    ) -> float:
         """Compute the theoretical memory footprint of the Llama Model module's parameters
         
         Args:

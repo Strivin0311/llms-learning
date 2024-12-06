@@ -4,17 +4,17 @@ Finally!
 For this assignment, we are going to bring all the modules we've built in the previous assignments together, and construct a complete decoder-only transformer
 
 
-## Tasks (100 points)
+## Tasks
 
-### Task 1: Transformer Decoder KVCache (20 points)
+### Task 1: Transformer Decoder KVCache
 
 Please read the description [here](./tasks/task1.md).
 
-### Task 2: Transformer Decoder Layer (50 points)
+### Task 2: Transformer Decoder Layer
 
 Please read the description [here](./tasks/task2.md).
 
-### Task 3: Transformer Decoder Block (30 points)
+### Task 3: Transformer Decoder Block
 
 Please read the description [here](./tasks/task3.md).
 
@@ -28,17 +28,3 @@ Please read the description [here](./tasks/task3.md).
     pip install -r requirements.txt
     ```
 * (*Optional*) You are strongly recommended to use a docker image from [Nvidia Pytorch Release](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/index.html) like [23.10](https://docs.nvidia.com/deeplearning/frameworks/pytorch-release-notes/rel-23-10.html#rel-23-10) or some newer version as your basic environment in case of denpendency conflicts.
-
-
-## Debug
-
-*To help you debug:*
-
-* 1. Naive debug mode with `test_toy.py`:
-    * ① We will give a few test cases with **explicit answers** as toy examples in the visible `test_toy.py` file.
-    * ② You had better ensure your code works correctly on your own machine before submitting, with the following command.
-        ```sh
-        pytest test_toy.py
-        ```
-    * ③ Feel free to modify the `test_toy.py` file to your specific debugging needs, since we wouldn't run it to score your code, as well as `test_with_ref.py` below.
-* 2. Deep debug mode with `test_with_ref.py` given specific docker image (**Unix-like Only**): (*Comming Soon*)
