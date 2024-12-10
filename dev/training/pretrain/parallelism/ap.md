@@ -78,7 +78,7 @@ citation:
 
 #### FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks
 
-tag: `FlexFlow` | `HPCA17` | `ICT CAS`
+tag: `FlexFlow` | `HPCA17` | `UCAS`
 
 paper link: [here](https://ieeexplore.ieee.org/document/7920855)
 

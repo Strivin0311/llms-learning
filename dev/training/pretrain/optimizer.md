@@ -29,7 +29,7 @@ citation:
 
 #### FP8-LM: Training FP8 Large Language Models
 
-tag: `FP8-LM` | `FP8 Optimizer`
+tag: `FP8-LM` | `FP8 Optimizer` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
 

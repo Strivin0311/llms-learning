@@ -28,7 +28,7 @@ citation:
 
 #### Fold3D: Rethinking and Parallelizing Computational and Communicational Tasks in the Training of Large DNN Models
 
-tag: `Fold3D` | `TPDS23` | `HKU` | `Shanghai AILab`
+tag: `Fold3D` | `TPDS23` | `HKU` | `Shanghai AILab` | `HKU`
 
 paper link: [here](https://ieeexplore.ieee.org/document/10050126)
 
@@ -51,7 +51,7 @@ citation:
 
 #### Hy-Fi: Hybrid Five-Dimensional Parallel DNN Training on High-Performance GPU Clusters
 
-tag: `Hy-Fi` | `ISC HP22`
+tag: `Hy-Fi` | `ISC HP22` | `Ohio State University`
 
 paper link: [here](https://link.springer.com/chapter/10.1007/978-3-031-07312-0_6)
 
@@ -82,7 +82,7 @@ citation:
 
 #### Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, A Large-Scale Generative Language Model
 
-tag: `Megatron-Turing` | `Megatron` | `DeepSpeed`
+tag: `Megatron-Turing` | `Megatron` | `DeepSpeed` | `Micrsoft` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2201.11990.pdf)
 
@@ -102,7 +102,7 @@ citation:
 
 #### OneFlow: Redesign the Distributed Deep Learning Framework from Scratch
 
-tag: `OneFlow` | `SBP` | `OneFlow Research`
+tag: `OneFlow` | `SBP` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2110.15032)
 

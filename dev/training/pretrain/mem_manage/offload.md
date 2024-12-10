@@ -71,9 +71,11 @@ citation:
 
 #### Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU
 
-tag: `Fuyou`| `Synchronous Out-of-core CPU Optimizer Overlap` | `GPU-CPU-SSD Fully-Pipelined Activation Swapping` | `Automatic Activation Swapping` | `Zhejiang University`
+tag: `Lohan` | `ICDE25` | `Zhejiang University` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2403.06504)
+
+github link: [here](https://github.com/Crispig/Ratel)
 
 citation:
 

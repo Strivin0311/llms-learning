@@ -5,7 +5,7 @@
 
 #### eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization
 
-tag: `eXmY`
+tag: `eXmY` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2405.13938)
 
@@ -47,7 +47,7 @@ citation:
 
 #### FP8-LM: Training FP8 Large Language Models
 
-tag: `FP8-LM` | `FP8 Optimizer`
+tag: `FP8-LM` | `FP8 Optimizer` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
 
@@ -67,33 +67,9 @@ citation:
 ```
 
 
-#### BitNet: Scaling 1-bit Transformers for Large Language Models
-
-tag: `BitNet` | `W1A8`
-
-paper link: [here](https://arxiv.org/pdf/2310.11453)
-
-blog link: [here](https://thegenerality.com/agi/)
-
-github link: [here](https://github.com/microsoft/unilm)
-
-citation:
-
-```bibtex
-@misc{wang2023bitnet,
-      title={BitNet: Scaling 1-bit Transformers for Large Language Models}, 
-      author={Hongyu Wang and Shuming Ma and Li Dong and Shaohan Huang and Huaijie Wang and Lingxiao Ma and Fan Yang and Ruiping Wang and Yi Wu and Furu Wei},
-      year={2023},
-      eprint={2310.11453},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-
 #### Microscaling Data Formats for Deep Learning
 
-tag: `Microscaling` | `MX` | `MXFP8` | `MXFP6` | `MXFP4`
+tag: `Microscaling` | `MX` | `MXFP8` | `MXFP6` | `MXFP4` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2310.10537)
 
@@ -116,7 +92,7 @@ citation:
 
 #### Training and inference of large language models using 8-bit floating point
 
-tag: `FP8 Scaling Bias`
+tag: `FP8 Scaling Bias` | `Graphcore Research`
 
 paper link: [here](https://arxiv.org/pdf/2309.17224)
 
@@ -157,7 +133,7 @@ citation:
 
 #### Unit Scaling: Out-of-the-Box Low-Precision Training
 
-tag: `Unit Scaling` | `SNR Analysis`
+tag: `Unit Scaling` | `SNR Analysis` | `Graphcore Research`
 
 paper link: [here](https://arxiv.org/pdf/2303.11257)
 
@@ -178,7 +154,7 @@ citation:
 
 #### NVIDIA Transformer Engine: Accelerating PyTorch Training Workloads with FP8
 
-tag: `TE FP8`
+tag: `TE FP8` | `Transformer-Engine` | `Nvidia`
 
 blog link: [here](https://towardsdatascience.com/accelerating-pytorch-training-workloads-with-fp8-5a5123aec7d7)
 
@@ -200,7 +176,7 @@ citation:
 
 #### NVIDIA Train With Mixed Precision
 
-tag: `Mixed Precision`
+tag: `Mixed Precision` | `Nvidia`
 
 docs link: [here](https://docs.nvidia.com/deeplearning/performance/mixed-precision-training/index.html)
 
@@ -219,7 +195,7 @@ citation:
 
 #### FP8 Quantization: The Power of the Exponent
 
-tag: `FP8 Quantization`
+tag: `FP8 Quantization` | `Qualcomm AI Research`
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 
@@ -241,7 +217,7 @@ citation:
 
 #### 8-bit Optimizers via Block-wise Quantization
 
-tag: `FP8 Optimizer` | `Blockwise Quantization` | `Dynamic Tree Quantization`
+tag: `FP8 Optimizer` | `Blockwise Quantization` | `Dynamic Tree Quantization` | `Meta` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2110.02861)
 
@@ -261,7 +237,7 @@ citation:
 
 #### Hybrid 8-bit Floating Point (HFP8) Training and Inference for Deep Neural Networks
 
-tag: `HFP8` | `Hybrid FP8`      
+tag: `HFP8` | `Hybrid FP8` | `NIPS19` | `IBM Research`      
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/65fc9fb4897a89789352e211ca2d398f-Paper.pdf)
 
@@ -283,7 +259,7 @@ citation:
 
 #### BFloat16: The secret to high performance on Cloud TPUs
 
-tag: `BF16`
+tag: `BF16` | `Google`
 
 blog link: [here](https://cloud.google.com/blog/products/ai-machine-learning/bfloat16-the-secret-to-high-performance-on-cloud-tpus)
 
@@ -301,7 +277,7 @@ citation:
 
 #### Training Deep Neural Networks with 8-bit Floating Point Numbers
 
-tag: `FP8-E5M2` | `Chunk-based Accumulation` | `Stochastic Rounding`
+tag: `FP8-E5M2` | `Chunk-based Accumulation` | `Stochastic Rounding` | `IBM Research`
 
 paper link: [here](https://arxiv.org/pdf/1812.08011)
 
@@ -321,7 +297,7 @@ citation:
 
 #### Mixed Precision Training
 
-tag: `FP16` | `Loss Scaling`
+tag: `FP16` | `Loss Scaling` | `ICLR18` | `Baidu` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/1710.03740)
 

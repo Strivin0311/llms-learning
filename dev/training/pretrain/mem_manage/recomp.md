@@ -5,7 +5,7 @@
 
 #### How Activation Checkpointing enables scaling up training deep learning models
 
-tag: `Activation Checkpointing`
+tag: `Activation Checkpointing` | `PyTorch` | `Meta`
 
 blog link: [here](https://medium.com/pytorch/how-activation-checkpointing-enables-scaling-up-training-deep-learning-models-7a93ae01ff2d)
 
@@ -26,7 +26,7 @@ citation:
 
 #### DELTA: Memory-Eficient Training via Dynamic Fine-Grained Recomputation and Swapping
 
-tag: `DELTA` | `Tensor Swapping` | `Tensor Recomputation` | `ACM TACO24`
+tag: `DELTA` | `Tensor Swapping` | `Tensor Recomputation` | `ACM TACO24` | `NUDT` | `Xiamen University`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3689338)
 
@@ -47,9 +47,11 @@ citation:
 
 #### Dynamic Tensor Rematerialization
 
-tag: `DTR` | `Dynamic Tensor Rematerialization` | `ICLR21`
+tag: `DTR` | `Dynamic Tensor Rematerialization` | `ICLR21` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2006.09616)
+
+github link: [here](https://github.com/uwsampl/dtr-prototype)
 
 citation:
 

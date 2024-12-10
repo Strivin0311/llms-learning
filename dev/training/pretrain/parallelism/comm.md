@@ -7,7 +7,7 @@
 
 #### OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training
 
-tag: `OpenDiLoCo`
+tag: `OpenDiLoCo` | `Prime Intellect`
 
 paper link: [here](https://arxiv.org/pdf/2407.07852v1)
 

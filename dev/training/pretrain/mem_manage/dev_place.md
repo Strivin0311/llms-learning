@@ -93,6 +93,8 @@ tag: `Mosaic` | `ACM MICRO17` | `CMU`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3123939.3123975)
 
+github link: [here](https://github.com/CMU-SAFARI/Mosaic/)
+
 citation:
 
 ```bibtex

@@ -76,7 +76,7 @@ citation:
 
 #### Breadth-First Pipeline Parallelism
 
-tag: `BFPP` | `MLSys23`
+tag: `BFPP` | `MLSys23` | `ServiceNow Research`
 
 paper link: [here](https://arxiv.org/pdf/2211.05953)
 

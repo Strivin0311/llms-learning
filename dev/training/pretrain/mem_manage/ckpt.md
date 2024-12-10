@@ -6,7 +6,7 @@
 
 tag: `ByteCheckpoint` | `ByteDance`
 
-paper link: [here](https://arxiv.org/abs/2407.20143)
+paper link: [here](https://arxiv.org/pdf/2407.20143)
 
 citation:
 
