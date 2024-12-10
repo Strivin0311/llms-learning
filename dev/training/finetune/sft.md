@@ -1,54 +1,15 @@
-# Efficient Fine-Tuning
-*Here're some resources about Efficient Fine-Tuning strategies for LLMs*
- 
-
-### Full-Parameter Fine-Tuning (FPT)
-
-#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
-
-tag: `QFT`
-
-paper link: [here](https://arxiv.org/pdf/2310.07147)
-
-citation:
-
-```bibtex
-@misc{li2023qft,
-      title={QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources}, 
-      author={Zhikai Li and Xiaoxuan Liu and Banghua Zhu and Zhen Dong and Qingyi Gu and Kurt Keutzer},
-      year={2023},
-      eprint={2310.07147},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-
-#### Full Parameter Fine-tuning for Large Language Models with Limited Resources
-
-tag: `LOMO`
-
-paper link: [here](https://arxiv.org/pdf/2306.09782)
-
-citation:
-
-```bibtex
-@article{lv2023full,
-  title={Full Parameter Fine-tuning for Large Language Models with Limited Resources},
-  author={Lv, Kai and Yang, Yuqing and Liu, Tengxiao and Gao, Qinghui and Guo, Qipeng and Qiu, Xipeng},
-  journal={arXiv preprint arXiv:2306.09782},
-  year={2023}
-}
-```
+# Supervised Fine-Tuning on LLMs
+*Here're some resources about Supervised Finetuning strategies on LLMs, especially parameter-efficient fine-tuning (PEFT)and memory-efficient fine-tuning (MEFT)*
 
 
-### Parameter-Efficient Fine-Tuning (PEFT)
+## Method
 
 
 #### LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning
 
-tag: `LISA`
+tag: `LISA` | `PEFT` | `NIPS24` | `HKU`
 
-paper link: [here](https://arxiv.org/pdf/2403.17919)
+paper link: [here](https://openreview.net/pdf?id=L8ifDX5XNq)
 
 github link: [here](https://github.com/OptimalScale/LMFlow)
 
@@ -68,9 +29,11 @@ citation:
 
 #### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation
 
-tag: `RoSA`
+tag: `RoSA` | `PEFT` | `ICML24`
 
 paper link: [here](https://arxiv.org/pdf/2401.04679.pdf)
+
+github link: [here](https://github.com/IST-DASLab/RoSA)
 
 citation:
 
@@ -85,12 +48,33 @@ citation:
 }
 ```
 
+#### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
+
+tag: `QFT` | `MEFT` | `UCAS` | `UCB`
+
+paper link: [here](https://arxiv.org/pdf/2310.07147)
+
+citation:
+
+```bibtex
+@misc{li2023qft,
+      title={QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources}, 
+      author={Zhikai Li and Xiaoxuan Liu and Banghua Zhu and Zhen Dong and Qingyi Gu and Kurt Keutzer},
+      year={2023},
+      eprint={2310.07147},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 
 #### QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
 
-tag: `QA-LoRA`
+tag: `QA-LoRA` | `PEFT` | `ICLR24` | `Huawei`
 
-paper link: [here](https://arxiv.org/pdf/2309.14717)
+paper link: [here](https://openreview.net/pdf?id=WvFoJccpo8)
+
+github link: [here](https://github.com/yuhuixu1993/qa-lora)
 
 citation:
 
@@ -103,11 +87,14 @@ citation:
 }
 ```
 
+
 #### LongLoRA: Efficient fine-tuning of long-context large language models
 
-tag: `LongLoRA`
+tag: `LongLoRA` | `PEFT` | `ICLR24` | `CUHK` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
+
+github link: [here](https://github.com/dvlab-research/LongLoRA)
 
 citation:
 
@@ -122,11 +109,13 @@ citation:
 
 #### LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition
 
-tag: `LoraHub`
+tag: `LoraHub` | `PEFT` | `COLM24` | `Sea AI Lab` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2307.13269)
 
 github link: [here](https://github.com/sail-sg/lorahub)
+
+modelhub link: [here](https://huggingface.co/lorahub)
 
 citation:
 
@@ -142,22 +131,41 @@ citation:
 ```
 
 
-#### On the effectiveness of parameter-efficient fine-tuning
+#### Full Parameter Fine-tuning for Large Language Models with Limited Resources
 
-tag: `PEFT`
+tag: `LOMO` | `MEFT` | `ACL24` | `Shanghai AI Laboratory` | `Fudan University`
 
-paper link: [here](https://ojs.aaai.org/index.php/AAAI/article/download/26505/26277)
+paper link: [here](https://aclanthology.org/2024.acl-long.445.pdf)
+
+github link: [here](https://github.com/OpenLMLab/LOMO)
 
 citation:
 
 ```bibtex
-@inproceedings{fu2023effectiveness,
-  title={On the effectiveness of parameter-efficient fine-tuning},
-  author={Fu, Zihao and Yang, Haoran and So, Anthony Man-Cho and Lam, Wai and Bing, Lidong and Collier, Nigel},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={37},
-  number={11},
-  pages={12799--12807},
+@article{lv2023full,
+  title={Full Parameter Fine-tuning for Large Language Models with Limited Resources},
+  author={Lv, Kai and Yang, Yuqing and Liu, Tengxiao and Gao, Qinghui and Guo, Qipeng and Qiu, Xipeng},
+  journal={arXiv preprint arXiv:2306.09782},
+  year={2023}
+}
+```
+
+
+#### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning
+
+tag: `MEFT` | `ReverNet` | `NIPS23`
+
+paper link: [here](https://arxiv.org/pdf/2306.00477)
+
+github link: [here](https://github.com/BaohaoLiao/mefts)
+
+citation:
+
+```bibtex
+@article{liao2023make,
+  title={Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning},
+  author={Liao, Baohao and Tan, Shaomu and Monz, Christof},
+  journal={arXiv preprint arXiv:2306.00477},
   year={2023}
 }
 ```
@@ -165,13 +173,13 @@ citation:
 
 #### Qlora: Efficient finetuning of quantized llms
 
-tag: `QLoRA`
+tag: `QLoRA` | `PEFT` | `NIPS23` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
 github link: [here](https://github.com/artidoro/qlora)
 
-tutorial link: [here](../../../tutorial/notebook/tutorial_qlora.ipynb)
+tutorial link: [here](../../tutorial/notebook/tutorial_qlora.ipynb)
 
 citation:
 
@@ -186,9 +194,9 @@ citation:
 
 #### Hypertuning: Toward adapting large language models without back-propagation
 
-tag: `Hyper-Tuning`
+tag: `Hyper-Tuning` | `Prefix Tuning` | `PEFT` | `ICML23` | `Microsoft`
 
-paper link: [here](https://proceedings.mlr.press/v202/phang23a.html)
+paper link: [here](https://proceedings.mlr.press/v202/phang23a/phang23a.pdf)
 
 citation:
 
@@ -206,9 +214,9 @@ citation:
 
 #### LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models
 
-tag: `LLM-Adapters`
+tag: `LLM-Adapters` | `PEFT` | `EMNLP23`
 
-paper link: [here](https://arxiv.org/pdf/2304.01933.pdf)
+paper link: [here](https://aclanthology.org/2023.emnlp-main.319.pdf)
 
 citation:
 
@@ -222,29 +230,11 @@ citation:
       primaryClass={cs.CL}
 }
 ```
-    
-
-#### Scaling down to scale up: A guide to parameter-efficient fine-tuning
-
-tag: `PEFT Scaling Law`
-
-paper link: [here](https://arxiv.org/pdf/2303.15647)
-
-citation:
-
-```bibtex
-@article{lialin2023scaling,
-  title={Scaling down to scale up: A guide to parameter-efficient fine-tuning},
-  author={Lialin, Vladislav and Deshpande, Vijeta and Rumshisky, Anna},
-  journal={arXiv preprint arXiv:2303.15647},
-  year={2023}
-}
-```
 
 
 #### PEFT: State-of-the-art Parameter-Efficient Fine-Tuning methods
 
-tag: `PEFT`
+tag: `PEFT` | `HuggingFace`
 
 blog link: [here](https://huggingface.co/blog/peft)
 
@@ -261,28 +251,12 @@ citation:
 }
 ```
 
-#### Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models
-
-tag: `Delta Tuning`
-
-paper link: [here](https://arxiv.org/pdf/2203.06904)
-
-citation:
-
-```bibtex
-@article{ding2022delta,
-  title={Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models},
-  author={Ding, Ning and Qin, Yujia and Yang, Guang and Wei, Fuchao and Yang, Zonghan and Su, Yusheng and Hu, Shengding and Chen, Yulin and Chan, Chi-Min and Chen, Weize and others},
-  journal={arXiv preprint arXiv:2203.06904},
-  year={2022}
-}
-```
 
 #### The power of scale for parameter-efficient prompt tuning
 
-tag: `PEPT`
+tag: `Prpompt Tuning` | `PEFT` | `EMNLP21` | `Google`
 
-paper link: [here](https://arxiv.org/pdf/2104.08691)
+paper link: [here](https://aclanthology.org/2021.emnlp-main.243.pdf)
 
 citation:
 
@@ -294,14 +268,13 @@ citation:
   year={2021}
 }
 ```
-    
 
 
 #### Prefix-tuning: Optimizing continuous prompts for generation
 
-tag: `Prefix Tuning`
+tag: `Prefix Tuning` | `PEFT` | `ACL21` | `Stanford University`
 
-paper link: [here](https://arxiv.org/pdf/2101.00190)
+paper link: [here](https://aclanthology.org/2021.acl-long.353.pdf)
 
 citation:
 
@@ -316,9 +289,11 @@ citation:
     
 #### Lora: Low-rank adaptation of large language models
 
-tag: `LoRA`
+tag: `LoRA` | `PEFT` | `ICLR22` | `Microsoft`
 
-paper link: [here](https://arxiv.org/pdf/2106.09685.pdf%C2%A0)
+paper link: [here](https://openreview.net/pdf?id=nZeVKeeFYf9)
+
+github link: [here](https://github.com/microsoft/LoRA)
 
 citation:
 
@@ -332,25 +307,74 @@ citation:
 ```
 
 
-### Memory-Efficient Fine-Tuning (MEFT)
+## Survey
 
 
-#### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning
+#### Scaling down to scale up: A guide to parameter-efficient fine-tuning
 
-tag: `MEFT`
+tag: `PEFT Survey` | `UML`
 
-paper link: [here](https://arxiv.org/pdf/2306.00477)
+paper link: [here](https://arxiv.org/pdf/2303.15647)
+
+github link: [here](https://github.com/guitaricet/peft_comparison)
 
 citation:
 
 ```bibtex
-@article{liao2023make,
-  title={Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning},
-  author={Liao, Baohao and Tan, Shaomu and Monz, Christof},
-  journal={arXiv preprint arXiv:2306.00477},
+@article{lialin2023scaling,
+  title={Scaling down to scale up: A guide to parameter-efficient fine-tuning},
+  author={Lialin, Vladislav and Deshpande, Vijeta and Rumshisky, Anna},
+  journal={arXiv preprint arXiv:2303.15647},
   year={2023}
 }
 ```
+
+
+#### On the effectiveness of parameter-efficient fine-tuning
+
+tag: `PEFT Sruvey` | `AAAI23` | `DAMO Academy` | `Alibaba Group`
+
+paper link: [here](https://arxiv.org/pdf/2211.15583)
+
+github link: [here](https://github.com/fuzihaofzh/AnalyzeParameterEfficientFinetune)
+
+citation:
+
+```bibtex
+@inproceedings{fu2023effectiveness,
+  title={On the effectiveness of parameter-efficient fine-tuning},
+  author={Fu, Zihao and Yang, Haoran and So, Anthony Man-Cho and Lam, Wai and Bing, Lidong and Collier, Nigel},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={11},
+  pages={12799--12807},
+  year={2023}
+}
+```
+
+
+#### Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models
+
+tag: `Delta Tuning` | `PEFT Survey` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2203.06904)
+
+github link: [here](https://github.com/thunlp/OpenDelta)
+
+citation:
+
+```bibtex
+@article{ding2022delta,
+  title={Delta tuning: A comprehensive study of parameter efficient methods for pre-trained language models},
+  author={Ding, Ning and Qin, Yujia and Yang, Guang and Wei, Fuchao and Yang, Zonghan and Su, Yusheng and Hu, Shengding and Chen, Yulin and Chan, Chi-Min and Chen, Weize and others},
+  journal={arXiv preprint arXiv:2203.06904},
+  year={2022}
+}
+```
+
+
+
+
 
 
     
