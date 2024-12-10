@@ -1,129 +1,7 @@
 # In-context / Prompt Learning Abilities of LLMs
 *Here're some resources about understanding and leveraging In-context / Prompt Learning Abilities of LLMs*
 
-### Survey
-
-
-#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models
-
-paper link: [here](https://arxiv.org/pdf/2402.17671.pdf)
-
-citation:
-
-```bibtex
-@misc{huang2024securing,
-      title={Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models}, 
-      author={Yunpeng Huang and Yaonan Gu and Jingwei Xu and Zhihong Zhu and Zhaorun Chen and Xiaoxing Ma},
-      year={2024},
-      eprint={2402.17671},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-#### A survey for in-context learning
-
-paper link: [here](https://arxiv.org/pdf/2301.00234)
-
-citation:
-
-```bibtex
-@article{dong2022survey,
-  title={A survey for in-context learning},
-  author={Dong, Qingxiu and Li, Lei and Dai, Damai and Zheng, Ce and Wu, Zhiyong and Chang, Baobao and Sun, Xu and Xu, Jingjing and Sui, Zhifang},
-  journal={arXiv preprint arXiv:2301.00234},
-  year={2022}
-}
-```
-    
-
-#### Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing
-
-paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3560815?trk=public_post_comment-text)
-
-citation:
-
-```bibtex
-@article{liu2023pre,
-  title={Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing},
-  author={Liu, Pengfei and Yuan, Weizhe and Fu, Jinlan and Jiang, Zhengbao and Hayashi, Hiroaki and Neubig, Graham},
-  journal={ACM Computing Surveys},
-  volume={55},
-  number={9},
-  pages={1--35},
-  year={2023},
-  publisher={ACM New York, NY}
-}
-```
-    
-    
-### Empirical Study
-
-#### How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations
-
-paper link: [here](https://arxiv.org/pdf/2310.10616)
-
-citation:
-
-```bibtex
-@article{guo2023transformers,
-  title={How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations},
-  author={Guo, Tianyu and Hu, Wei and Mei, Song and Wang, Huan and Xiong, Caiming and Savarese, Silvio and Bai, Yu},
-  journal={arXiv preprint arXiv:2310.10616},
-  year={2023}
-}
-```
-
-
-#### Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
-
-paper link: [here](https://arxiv.org/pdf/2306.04637)
-
-citation:
-
-```bibtex
-@article{bai2023transformers,
-  title={Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection},
-  author={Bai, Yu and Chen, Fan and Wang, Huan and Xiong, Caiming and Mei, Song},
-  journal={arXiv preprint arXiv:2306.04637},
-  year={2023}
-}
-```
-
-
-#### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
-
-paper link: [here](https://arxiv.org/pdf/2305.04388.pdf)
-
-citation:
-
-```bibtex
-@article{turpin2023language,
-  title={Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting},
-  author={Turpin, Miles and Michael, Julian and Perez, Ethan and Bowman, Samuel R},
-  journal={arXiv preprint arXiv:2305.04388},
-  year={2023}
-}
-```
-
-#### Larger language models do in-context learning differently
-
-paper link: [here](https://arxiv.org/pdf/2303.03846.pdf)
-
-citation:
-
-```bibtex
-@misc{wei2023larger,
-      title={Larger language models do in-context learning differently}, 
-      author={Jerry Wei and Jason Wei and Yi Tay and Dustin Tran and Albert Webson and Yifeng Lu and Xinyun Chen and Hanxiao Liu and Da Huang and Denny Zhou and Tengyu Ma},
-      year={2023},
-      eprint={2303.03846},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
-    
+## Method
 
 ### Chain-of-Thoughts
 
@@ -209,6 +87,82 @@ citation:
 ```
 
 
+
+
+
+### Calibration
+
+
+#### Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering (BC)
+
+paper link: [here](https://arxiv.org/pdf/2309.17249.pdf)
+
+citation:
+
+```bibtex
+@misc{zhou2024batch,
+      title={Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering}, 
+      author={Han Zhou and Xingchen Wan and Lev Proleev and Diana Mincu and Jilin Chen and Katherine Heller and Subhrajit Roy},
+      year={2024},
+      eprint={2309.17249},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+####  Mitigating label biases for in-context learning (DC)
+
+paper link: [here](https://arxiv.org/pdf/2305.19148.pdf)
+
+citation:
+
+```bibtex
+@misc{fei2023mitigating,
+      title={Mitigating Label Biases for In-context Learning}, 
+      author={Yu Fei and Yifan Hou and Zeming Chen and Antoine Bosselut},
+      year={2023},
+      eprint={2305.19148},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Prototypical Calibration for Few-shot Learning of Language Models (PC)
+
+paper link: [here](https://arxiv.org/pdf/2205.10183.pdf)
+
+citation:
+
+```bibtex
+@misc{han2022prototypical,
+      title={Prototypical Calibration for Few-shot Learning of Language Models}, 
+      author={Zhixiong Han and Yaru Hao and Li Dong and Yutao Sun and Furu Wei},
+      year={2022},
+      eprint={2205.10183},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
+
+#### Calibrate before use: Improving few-shot performance of language models (CC)
+
+paper link: [here](http://proceedings.mlr.press/v139/zhao21c/zhao21c.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{zhao2021calibrate,
+  title={Calibrate before use: Improving few-shot performance of language models},
+  author={Zhao, Zihao and Wallace, Eric and Feng, Shi and Klein, Dan and Singh, Sameer},
+  booktitle={International Conference on Machine Learning},
+  pages={12697--12706},
+  year={2021},
+  organization={PMLR}
+}
+```
 
 
 ### Miscellaneous
@@ -569,3 +523,129 @@ citation:
 ```
     
 
+
+
+
+## Survey
+
+
+#### Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models
+
+paper link: [here](https://arxiv.org/pdf/2402.17671.pdf)
+
+citation:
+
+```bibtex
+@misc{huang2024securing,
+      title={Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models}, 
+      author={Yunpeng Huang and Yaonan Gu and Jingwei Xu and Zhihong Zhu and Zhaorun Chen and Xiaoxing Ma},
+      year={2024},
+      eprint={2402.17671},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### A survey for in-context learning
+
+paper link: [here](https://arxiv.org/pdf/2301.00234)
+
+citation:
+
+```bibtex
+@article{dong2022survey,
+  title={A survey for in-context learning},
+  author={Dong, Qingxiu and Li, Lei and Dai, Damai and Zheng, Ce and Wu, Zhiyong and Chang, Baobao and Sun, Xu and Xu, Jingjing and Sui, Zhifang},
+  journal={arXiv preprint arXiv:2301.00234},
+  year={2022}
+}
+```
+    
+
+#### Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3560815?trk=public_post_comment-text)
+
+citation:
+
+```bibtex
+@article{liu2023pre,
+  title={Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing},
+  author={Liu, Pengfei and Yuan, Weizhe and Fu, Jinlan and Jiang, Zhengbao and Hayashi, Hiroaki and Neubig, Graham},
+  journal={ACM Computing Surveys},
+  volume={55},
+  number={9},
+  pages={1--35},
+  year={2023},
+  publisher={ACM New York, NY}
+}
+```
+    
+    
+## Empirical Study
+
+#### How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations
+
+paper link: [here](https://arxiv.org/pdf/2310.10616)
+
+citation:
+
+```bibtex
+@article{guo2023transformers,
+  title={How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations},
+  author={Guo, Tianyu and Hu, Wei and Mei, Song and Wang, Huan and Xiong, Caiming and Savarese, Silvio and Bai, Yu},
+  journal={arXiv preprint arXiv:2310.10616},
+  year={2023}
+}
+```
+
+
+#### Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection
+
+paper link: [here](https://arxiv.org/pdf/2306.04637)
+
+citation:
+
+```bibtex
+@article{bai2023transformers,
+  title={Transformers as Statisticians: Provable In-Context Learning with In-Context Algorithm Selection},
+  author={Bai, Yu and Chen, Fan and Wang, Huan and Xiong, Caiming and Mei, Song},
+  journal={arXiv preprint arXiv:2306.04637},
+  year={2023}
+}
+```
+
+
+#### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
+
+paper link: [here](https://arxiv.org/pdf/2305.04388.pdf)
+
+citation:
+
+```bibtex
+@article{turpin2023language,
+  title={Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting},
+  author={Turpin, Miles and Michael, Julian and Perez, Ethan and Bowman, Samuel R},
+  journal={arXiv preprint arXiv:2305.04388},
+  year={2023}
+}
+```
+
+#### Larger language models do in-context learning differently
+
+paper link: [here](https://arxiv.org/pdf/2303.03846.pdf)
+
+citation:
+
+```bibtex
+@misc{wei2023larger,
+      title={Larger language models do in-context learning differently}, 
+      author={Jerry Wei and Jason Wei and Yi Tay and Dustin Tran and Albert Webson and Yifeng Lu and Xinyun Chen and Hanxiao Liu and Da Huang and Denny Zhou and Tengyu Ma},
+      year={2023},
+      eprint={2303.03846},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+    

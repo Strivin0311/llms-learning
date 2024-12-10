@@ -85,6 +85,26 @@ citation:
 ```
 
 
+#### Scaling Laws for Reward Model Overoptimization
+
+tag: `RM` | `Scaling Laws` | `ICML23` | `OpenAI`
+
+paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{gao2023scaling,
+  title={Scaling laws for reward model overoptimization},
+  author={Gao, Leo and Schulman, John and Hilton, Jacob},
+  booktitle={International Conference on Machine Learning},
+  pages={10835--10866},
+  year={2023},
+  organization={PMLR}
+}
+```
+
+
 #### Loss Spike in Training Neural Networks
 
 paper link: [here](https://arxiv.org/pdf/2305.12133)
@@ -142,6 +162,30 @@ citation:
   howpublished = {\url{https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/}},
 }
 ```
+
+
+#### Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning
+
+tag: `Modality Gap` | `NIPS22` | `Stanford University`
+
+paper link: [here](https://papers.neurips.cc/paper_files/paper/2022/file/702f4db7543a7432431df588d57bc7c9-Paper-Conference.pdf)
+
+github link: [here](https://github.com/Weixin-Liang/Modality-Gap)
+
+citation:
+
+```bibtex
+@misc{liang2022mindgapunderstandingmodality,
+      title={Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning}, 
+      author={Weixin Liang and Yuhui Zhang and Yongchan Kwon and Serena Yeung and James Zou},
+      year={2022},
+      eprint={2203.02053},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2203.02053}, 
+}
+```
+
 
 #### ConvNets vs. Transformers: Whose Visual Representations are More Transferable?
 
