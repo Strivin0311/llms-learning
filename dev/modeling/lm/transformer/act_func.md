@@ -4,9 +4,11 @@
 
 #### Primer: Searching for Efficient Transformers for Language Modeling
 
-tag: `Primer` | `Squared ReLU`
+tag: `Primer` | `Squared ReLU` | `NIPS21` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2109.08668.pdf)
+
+github link: [here](https://github.com/google-research/google-research/tree/master/primer)
 
 citation:
 
@@ -24,9 +26,11 @@ citation:
 
 #### GLU Variants Improve Transformer
 
-tag: `GLU` | `SwiGLU` | `REGLU` | `GEGLU`
+tag: `GLU` | `SwiGLU` | `REGLU` | `GEGLU` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2002.05202)
+
+github link: [here](https://github.com/labmlai/annotated_deep_learning_paper_implementations/blob/master/labml_nn/transformers/glu_variants/simple.py)
 
 citation:
 
@@ -48,6 +52,8 @@ tag: `ReLU`
 
 paper link: [here](https://arxiv.org/pdf/1803.08375.pdf)
 
+github link: [here](https://github.com/AFAgarap/dl-relu)
+
 citation:
 
 ```bibtex
@@ -64,7 +70,7 @@ citation:
 
 #### Searching for Activation Functions
 
-tag: `Swish` | `SiLU`
+tag: `Swish` | `SiLU` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/1710.05941)
 
@@ -85,9 +91,11 @@ citation:
 
 #### Gaussian Error Linear Units (GELUs)
 
-tag: `GELU`
+tag: `GELU` | `UCB`
 
 paper link: [here](https://arxiv.org/pdf/1606.08415)
+
+github link: [here](https://github.com/hendrycks/GELUs)
 
 citation:
 
@@ -105,7 +113,7 @@ citation:
 
 #### Deep Learning with S-shaped Rectified Linear Activation Units
 
-tag: `SReLU`
+tag: `SReLU` | `AAAI16`
 
 paper link: [here](https://arxiv.org/pdf/1512.07030)
 
@@ -125,7 +133,7 @@ citation:
 
 #### Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)
 
-tag: `ELU`
+tag: `ELU` | `ICLR16`
 
 paper link: [here](https://arxiv.org/pdf/1511.07289)
 
@@ -146,7 +154,7 @@ citation:
 
 #### Empirical Evaluation of Rectified Activations in Convolutional Network
 
-tag: `ReLU` | `Leaky ReLU` | `PReLU` | `RReLU`
+tag: `ReLU` | `Leaky ReLU` | `PReLU` | `RReLU` | `ICML16`
 
 paper link: [here](https://arxiv.org/pdf/1505.00853)
 

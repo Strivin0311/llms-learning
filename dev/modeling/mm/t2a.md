@@ -31,18 +31,13 @@ citation:
 
 #### Qwen2-Audio Technical Report
 
-tag: `Qwen2-Audio`
+tag: `Qwen2-Audio` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2407.10759)
 
 github link: [here](https://github.com/QwenLM/Qwen2-Audio)
 
-model links:
-
-|model name|link|
-|-|-|
-|Qwen2-Audio-7B-Instruct|[here](https://huggingface.co/Qwen/Qwen2-Audio-7B-Instruct)|
-|Qwen2-Audio-7B|[here](https://huggingface.co/Qwen/Qwen2-Audio-7B)|
+modelhub link: [here](https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6)
 
 citation:
 
@@ -61,11 +56,13 @@ citation:
 
 #### Spirit LM: Interleaved Spoken and Written Language Model
 
-tag: `Spirit LM`
+tag: `Spirit LM` | `Meta`
 
-paper link: [here](https://arxiv.org/pdf/2402.05755v2)
+paper link: [here](https://arxiv.org/pdf/2402.05755)
 
 github link: [here](https://github.com/facebookresearch/spiritlm)
+
+homepage link: [here](https://speechbot.github.io/spiritlm/)
 
 citation:
 
@@ -86,9 +83,9 @@ citation:
 
 #### AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension
 
-tag: `AIR-Bench`
+tag: `AIR-Bench` | `ACL24` | `Alibaba Group` | `Zhejiang University`
 
-paper link: [here](https://arxiv.org/pdf/2402.07729)
+paper link: [here](https://aclanthology.org/2024.acl-long.109.pdf)
 
 github link: [here](https://github.com/OFA-Sys/AIR-Bench)
 

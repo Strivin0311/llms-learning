@@ -27,7 +27,7 @@ citation:
 
 #### DeepNet: Scaling Transformers to 1,000 Layers
 
-tag: `DeepNorm` | `DeepNet`
+tag: `DeepNorm` | `DeepNet` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2203.00555)
 
@@ -50,7 +50,7 @@ citation:
 
 #### On Layer Normalization in the Transformer Architecture
 
-tag: `LayerNorm` | `LN`
+tag: `LayerNorm` | `LN` | `ICML20` | `MSRA`
 
 paper link: [here](https://arxiv.org/pdf/2002.04745)
 
@@ -71,9 +71,9 @@ citation:
 
 #### Understanding and Improving Layer Normalization
 
-tag: `AdaNorm`
+tag: `AdaNorm` | `NIPS19` | `Peking University`
 
-paper link: [here](https://arxiv.org/pdf/1911.07013)
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/2f4fe03d77724a7217006e5d16728874-Paper.pdf)
 
 citation:
 
@@ -92,7 +92,7 @@ citation:
 
 #### Root Mean Square Layer Normalization
 
-tag: `RMSNorm`
+tag: `RMSNorm` | `NIPS19`
 
 paper link: [here](https://arxiv.org/pdf/1910.07467)
 
@@ -115,9 +115,9 @@ citation:
 
 #### Group Normalization
 
-tag: `GroupNorm` | `GN`
+tag: `GroupNorm` | `GN` | `ECCV18` | `Meta`
 
-paper link: [here](https://arxiv.org/pdf/1803.08494)
+paper link: [here](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)
 
 github link: [here](https://github.com/facebookresearch/Detectron/tree/main/projects/GN)
 
@@ -138,7 +138,7 @@ citation:
 
 #### Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
-tag: `BatchNorm` | `BN`
+tag: `BatchNorm` | `BN` | `Internal Covariate Shift` | `ICML15` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/1502.03167)
 

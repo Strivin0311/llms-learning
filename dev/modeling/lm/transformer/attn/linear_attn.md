@@ -5,7 +5,7 @@
 
 #### Linear Attention Sequence Parallelism
 
-tag: `LASP`
+tag: `LASP` | `OpenNLPLab`
 
 paper link: [here](https://arxiv.org/pdf/2404.02882)
 
@@ -28,11 +28,13 @@ citation:
 
 #### Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
 
-tag: `Lightning Attention`
+tag: `Lightning Attention 2` | `OpenNLPLab`
 
 paper link: [here](https://arxiv.org/pdf/2401.04658.pdf)
 
 github link: [here](https://github.com/OpenNLPLab/lightning-attention)
+
+follow-up work: [here](https://arxiv.org/pdf/2404.02882)
 
 citation:
 
@@ -50,11 +52,13 @@ citation:
 
 #### TransNormerLLM: A Faster and Better Large Language Model with Improved TransNormer
 
-tag: `TransNormerLLM` | `Lightning Attention`
+tag: `TransNormerLLM` | `Lightning Attention` | `OpenNLPLab`
 
 paper link: [here](https://arxiv.org/pdf/2307.14995.pdf)
 
-github link: [here](https://github.com/OpenNLPLab/lightning-attention)
+github link: [here](https://github.com/OpenNLPLab/TransnormerLLM)
+
+follow-up work: [here](https://arxiv.org/pdf/2401.04658.pdf)
 
 citation:
 
@@ -72,9 +76,9 @@ citation:
 
 #### Primal-Attention: Self-attention through Asymmetric Kernel SVD in Primal Representation
 
-tag: `Primal Attention`
+tag: `Primal Attention` | `NIPS23`
 
-paper link: [here](https://arxiv.org/pdf/2305.19798.pdf)
+paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/cd687a58a13b673eea3fc1b2e4944cf7-Paper-Conference.pdf)
 
 github link: [here](https://github.com/yingyichen-cyy/PrimalAttention)
 
@@ -91,10 +95,11 @@ github link: [here](https://github.com/yingyichen-cyy/PrimalAttention)
 
 #### Fourierformer: Transformer meets generalized fourier integral theorem
 
-tag: `Fourierformer`
+tag: `Fourierformer` | `NIPS22` | `UCLA`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/bc968adbdff4a2551649d464b83f264a-Paper-Conference.pdf)
 
+github link: [here](https://github.com/minhtannguyen/FourierFormer_NeurIPS)
 
 citation:
 
@@ -112,7 +117,7 @@ citation:
 
 #### Scatterbrain: Unifying sparse and low-rank attention approximation
 
-tag: `Scatterbrain`
+tag: `Scatterbrain` | `NIPS21` | `Adobe` | `Stanford University`
 
 overview:
 
@@ -122,7 +127,9 @@ $$
 \end{align}
 $$
 
-paper link: [here](https://arxiv.org/pdf/2110.15343)
+paper link: [here](https://proceedings.neurips.cc/paper/2021/file/9185f3ec501c674c7c788464a36e7fb3-Paper.pdf)
+
+github link: [here](https://github.com/HazyResearch/fly)
 
 citation:
 
@@ -138,7 +145,7 @@ citation:
 
 #### Luna: Linear unified nested attention
 
-tag: `Luna`
+tag: `Luna` | `NIPS21` | `Meta` | `CMU`
 
 overview:
 
@@ -151,6 +158,8 @@ $$
 $$
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/14319d9cfc6123106878dc20b94fbaf3-Paper.pdf)
+
+github link: [here](https://github.com/XuezheMax/fairseq-apollo)
 
 citation:
 
@@ -168,9 +177,11 @@ citation:
 
 #### Random feature attention
 
-tag: `RFA`
+tag: `RFA` | `ICLR21` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2103.02143)
+
+github link: [here](https://github.com/Noahs-ARK/RFA)
 
 citation:
 
@@ -186,7 +197,7 @@ citation:
 
 #### Rethinking attention with performers
 
-tag: `Performer`
+tag: `Performer` | `ICLR21` | `Google DeepMind`
 
 overview:
 
@@ -214,7 +225,7 @@ citation:
 
 #### Linformer: Self-attention with linear complexity
 
-tag: `Linformer`
+tag: `Linformer` | `Meta`
 
 overview:
 
@@ -225,6 +236,8 @@ $$
 $$
 
 paper link: [here](https://arxiv.org/pdf/2006.04768)
+
+github link: [here](https://github.com/facebookresearch/fairseq/blob/main/examples/linformer/README.md)
 
 citation:
 
@@ -240,7 +253,7 @@ citation:
 
 #### Transformers are rnns: Fast autoregressive transformers with linear attention
 
-tag: `Linear Transformer`
+tag: `Linear Transformer` | `ICML20` | `EPFL`
 
 overview:
 
@@ -251,6 +264,8 @@ $$
 $$
 
 paper link: [here](http://proceedings.mlr.press/v119/katharopoulos20a/katharopoulos20a.pdf)
+
+github link: [here](https://github.com/lucidrains/linear-attention-transformer)
 
 citation:
 

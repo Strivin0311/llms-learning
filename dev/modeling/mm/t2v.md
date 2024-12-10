@@ -1,8 +1,8 @@
 # Text to Video and Video to Text
 *Here're are some resources about Text to Video and Video to Text modeling, understanding, generation in Multi-Modal LLMs*
 
-## Method
 
+## Method
 
 #### Movie Gen: A Cast of Media Foundation Models
 
@@ -28,7 +28,7 @@ citation:
 
 #### Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation
 
-tag: `Hallo2`
+tag: `Hallo2` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2410.07718)
 
@@ -51,7 +51,7 @@ citation:
 
 #### mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models
 
-tag: `mPLUG-Owl 3`
+tag: `mPLUG-Owl 3` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2408.04840)
 
@@ -75,7 +75,7 @@ citation:
 
 #### Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation
 
-tag: `Hallo`
+tag: `Hallo` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2406.08801)
 

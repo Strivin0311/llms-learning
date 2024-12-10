@@ -2,13 +2,38 @@
 *Here're some resources about Sparse Attention modules in language modeling*
 
 
+#### Star Attention: Efficient LLM Inference over Long Sequences
+
+tag: `Star Attention` | `Nvidia`
+
+paper link: [here](https://arxiv.org/pdf/2411.17116)
+
+github link: [here](https://github.com/NVIDIA/Star-Attention)
+
+citation:
+
+```bibtex
+@misc{acharya2024starattentionefficientllm,
+      title={Star Attention: Efficient LLM Inference over Long Sequences}, 
+      author={Shantanu Acharya and Fei Jia and Boris Ginsburg},
+      year={2024},
+      eprint={2411.17116},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.17116}, 
+}
+```
+
+
 #### MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
 
-tag: `MInference`
+tag: `Dynamic Sparse Attention` | `MInference 1.0` | `NIPS24` | `Microsoft`
 
-paper link: [here](https://arxiv.org/pdf/2407.02490v1)
+paper link: [here](https://arxiv.org/pdf/2407.02490)
 
 github link: [here](https://github.com/microsoft/MInference)
+
+homepage link: [here](https://aka.ms/MInference)
 
 citation:
 
@@ -25,11 +50,36 @@ citation:
 ```
 
 
+#### Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level
+
+tag: `Fused NA` | `Faster Neighborhood Attention` | `NIPS24` | `SHI Labs` | `NVIDIA`
+
+paper link: [here](https://arxiv.org/pdf/2403.04690)
+
+github link: [here](https://github.com/SHI-Labs/NATTEN)
+
+citation:
+
+```bibtex
+@misc{hassani2024fasterneighborhoodattentionreducing,
+      title={Faster Neighborhood Attention: Reducing the O(n^2) Cost of Self Attention at the Threadblock Level}, 
+      author={Ali Hassani and Wen-Mei Hwu and Humphrey Shi},
+      year={2024},
+      eprint={2403.04690},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2403.04690}, 
+}
+```
+
+
 #### LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning
 
-tag: `LongLM`
+tag: `LongLM` | `ICML24` | `Amazon` | `TAMU`
 
 paper link: [here](https://arxiv.org/pdf/2401.01325.pdf)
+
+github link: [here](https://github.com/datamllab/LongLM)
 
 citation:
 
@@ -46,9 +96,11 @@ citation:
 
 #### Efficient streaming language models with attention sinks
 
-tag: `Attention Sink` | `StreamingLLM`
+tag: `Attention Sink` | `StreamingLLM` | `ICLR24` | `Meta` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2309.17453)
+
+github link: [here](https://github.com/mit-han-lab/streaming-llm)
 
 citation:
 
@@ -64,7 +116,7 @@ citation:
 
 #### LongLoRA: Efficient fine-tuning of long-context large language models
 
-tag: `LongLoRA`
+tag: `LongLoRA` | `ICLR24` | `Nvidia` | `MIT` | `CUHK`
 
 paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
@@ -84,9 +136,9 @@ citation:
 
 #### LM-Infinite: Simple on-the-fly length generalization for large language models
 
-tag: `LM-Infinite`
+tag: `LM-Infinite` | `NAACL24` | `Meta`
 
-paper link: [here](https://arxiv.org/pdf/2308.16137)
+paper link: [here](https://aclanthology.org/2024.naacl-long.222.pdf)
 
 github link: [here](https://github.com/Glaciohound/LM-Infinite)
 
@@ -104,7 +156,7 @@ citation:
 
 #### Longnet: Scaling transformers to 1,000,000,000 tokens
 
-tag: `LongNet`
+tag: `LongNet` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2307.02486.pdf)
 
@@ -124,7 +176,7 @@ citation:
 
 #### Landmark Attention: Random-Access Infinite Context Length for Transformers
 
-tag: `Landmark Attention`
+tag: `Landmark Attention` | `NIPS23` | `EPFL`
 
 paper link: [here](https://arxiv.org/pdf/2305.16300)
 
@@ -144,9 +196,11 @@ citation:
 
 #### Mixture of Attention Heads: Selecting Attention Heads Per Token
 
-tag: `MoA`
+tag: `MoA` | `Mixture of Attention Heads` | `Beihang University`
 
 paper link: [here](https://arxiv.org/pdf/2210.05144)
+
+github link: [here](https://github.com/yikangshen/MoA)
 
 citation:
 
@@ -164,9 +218,9 @@ citation:
 
 #### Mega: Moving Average Equipped Gated Attention
 
-tag: `MEGA`
+tag: `MEGA` | `ICLR23` | `Meta`
 
-paper link: [here](https://arxiv.org/pdf/2209.10655.pdf)
+paper link: [here](https://openreview.net/pdf?id=qNLe3iq2El)
 
 github link: [here](https://github.com/facebookresearch/mega)
 
@@ -184,11 +238,38 @@ citation:
 ```
 
 
+#### Neighborhood Attention Transformer
+
+tag: `NAT` | `Neighborhood Attention` | `CVPR23` | `SHI Labs` | `Meta`
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Hassani_Neighborhood_Attention_Transformer_CVPR_2023_paper.pdf)
+
+github link: [here](https://github.com/SHI-Labs/NATTEN)
+
+follow-up work: [here](https://arxiv.org/pdf/2403.04690)
+
+citation:
+
+```bibtex
+@misc{hassani2023neighborhoodattentiontransformer,
+      title={Neighborhood Attention Transformer}, 
+      author={Ali Hassani and Steven Walton and Jiachen Li and Shen Li and Humphrey Shi},
+      year={2023},
+      eprint={2204.07143},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2204.07143}, 
+}
+```
+
+
 #### Efficient content-based sparse attention with routing transformers
 
-tag: `Routing Transformer`
+tag: `Routing Transformer` | `TACL21` | `Google`
 
-paper link: [here](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00353/1923932/tacl_a_00353.pdf)
+paper link: [here](https://arxiv.org/pdf/2003.05997)
+
+github link: [here](https://github.com/google-research/google-research/tree/master/routing_transformer)
 
 citation:
 
@@ -207,9 +288,11 @@ citation:
 
 #### Not all memories are created equal: Learning to forget by expiring
 
-tag: `Expire-Span`
+tag: `Expire-Span` | `ICML21` | `Meta`
 
 paper link: [here](http://proceedings.mlr.press/v139/sukhbaatar21a/sukhbaatar21a.pdf)
+
+github link: [here](https://github.com/facebookresearch/transformer-sequential)
 
 citation:
 
@@ -226,7 +309,7 @@ citation:
 
 #### DeepSpeed Sparse Attention: Powering 10x longer sequences with 6x faster execution
 
-tag: `DeepSpeed Sparse Attention`
+tag: `DeepSpeed Sparse Attention` | `DeepSpeed` | `Microsoft`
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
 
@@ -244,9 +327,11 @@ citation:
 
 #### Lite transformer with long-short range attention
 
-tag: `Lite Transformer`
+tag: `Lite Transformer` | `ICLR20` | `MIT` | `Shanghai Jiao Tong University`
 
 paper link: [here](https://arxiv.org/pdf/2004.11886)
+
+github link: [here](https://github.com/mit-han-lab/lite-transformer)
 
 citation:
 
@@ -262,7 +347,7 @@ citation:
 
 #### Longformer: The long-document transformer
 
-tag: `Longformer` | `LED`
+tag: `Longformer` | `LED` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2004.05150.pdf)
 
@@ -282,9 +367,11 @@ citation:
 
 #### Big bird: Transformers for longer sequences
 
-tag: `Big Bird`
+tag: `Big Bird` | `NIPS20` | `Google`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
+
+github link: [here](https://github.com/google-research/bigbird)
 
 citation:
 
@@ -302,9 +389,9 @@ citation:
 
 #### Sparse sinkhorn attention
 
-tag: `Sinkhorn`
+tag: `Sinkhorn` | `ICML20` | `Google`
 
-paper link: [here](https://arxiv.org/pdf/2002.11296)
+paper link: [here](https://proceedings.mlr.press/v119/tay20a/tay20a.pdf)
 
 citation:
 
@@ -324,9 +411,11 @@ citation:
 
 #### Reformer: The efficient transformer
 
-tag: `Reformer`
+tag: `Reformer` | `ICLR20` | `Google` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2001.04451)
+
+github link: [here](https://github.com/google/trax/tree/master/trax/models/reformer)
 
 citation:
 
@@ -342,7 +431,7 @@ citation:
 
 #### Blockwise self-attention for long document understanding
 
-tag:  `BlockBERT` | `Blockwise Attention`
+tag:  `BlockBERT` | `Blockwise Attention` | `Meta` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/1911.02972)
 
@@ -362,7 +451,7 @@ citation:
 
 #### Enhancing the locality and breaking the memory bottleneck of transformer on time series forecasting
 
-tag: `LogSparse`
+tag: `LogSparse` | `NIPS19` | `UCSB`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2019/file/6775a0635c302542da2c32aa19d86be0-Paper.pdf)
 
@@ -380,7 +469,7 @@ citation:
 
 #### Adaptive attention span in transformers
 
-tag: `Adaptive Span`
+tag: `Adaptive Span` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/1905.07799)
 
@@ -400,7 +489,7 @@ citation:
 
 #### Generating long sequences with sparse transformers
 
-tag: `Sparse Transformer`
+tag: `Sparse Transformer` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/1904.10509)
 
@@ -419,9 +508,11 @@ citation:
 
 #### Star-transformer
 
-tag: `Star Transformer`
+tag: `Star Transformer` | `NAACL19` | `Fudan University`
 
-paper link: [here](https://arxiv.org/pdf/1902.09113)
+paper link: [here](https://aclanthology.org/N19-1133.pdf)
+
+github link: [here](https://github.com/dmlc/dgl)
 
 citation:
 

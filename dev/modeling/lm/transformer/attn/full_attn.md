@@ -95,7 +95,7 @@ citation:
 
 #### FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-precision
 
-tag: `Flash Attention 3`
+tag: `Flash Attention 3` | `Colfax Research` | `Meta` | `Nvidia` | `Princeton University`
 
 paper link: [here](https://arxiv.org/pdf/2407.08608)
 
@@ -119,7 +119,7 @@ citation:
 
 #### Is Flash Attention Stable?
 
-tag: `Flash Attention`
+tag: `Flash Attention` | `Meta` | `Harvard University`
 
 paper link: [here](https://arxiv.org/pdf/2405.02803)
 
@@ -138,13 +138,63 @@ citation:
 ```
 
 
+#### DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training
+
+tag: `LightSeq` | `DistFlashAttn` | `COLM24` | `UC Berkeley`
+
+paper link: [here](https://arxiv.org/pdf/2310.03294)
+
+github link: [here](https://github.com/RulinShao/LightSeq)
+
+citation:
+
+```bibtex
+@misc{li2024distflashattn,
+      title={DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training}, 
+      author={Dacheng Li and Rulin Shao and Anze Xie and Eric P. Xing and Xuezhe Ma and Ion Stoica and Joseph E. Gonzalez and Hao Zhang},
+      year={2024},
+      eprint={2310.03294},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+
+#### Efficient memory management for large language model serving with pagedattention
+
+tag: `Paged Attention` | `SOSP23` | `UC Berkeley` | `Stanford University`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)
+
+github link: [here](https://github.com/vllm-project/vllm)
+
+citation:
+
+```bibtex
+@inproceedings{kwon2023efficient,
+      author = {Kwon, Woosuk and Li, Zhuohan and Zhuang, Siyuan and Sheng, Ying and Zheng, Lianmin and Yu, Cody Hao and Gonzalez, Joseph and Zhang, Hao and Stoica, Ion},
+      title = {Efficient Memory Management for Large Language Model Serving with PagedAttention},
+      year = {2023},
+      isbn = {9798400702297},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3600006.3613165},
+      doi = {10.1145/3600006.3613165},
+      pages = {611–626},
+      numpages = {16},
+      location = {Koblenz, Germany},
+      series = {SOSP '23}
+}
+```
+
+
 #### Flashattention-2: Faster attention with better parallelism and work partitioning
 
-tag: `Flash Attention 2`
+tag: `Flash Attention 2` | `ICLR24` | `Princeton University` | `Stanford University`
 
 derivation manuscript link: [here](./fa2_deriv.md)
 
-paper link: [here](https://arxiv.org/pdf/2307.08691.pdf)
+paper link: [here](https://openreview.net/pdf?id=mZn2Xyh9Ec)
 
 github link: [here](https://github.com/Dao-AILab/flash-attention)
 
@@ -162,7 +212,7 @@ citation:
 
 #### Faster Causal Attention Over Large Sequences Through Sparse Flash Attention
 
-tag: `SCFA`
+tag: `SCFA` | `NIPS23` | `EPFL`
 
 paper link: [here](https://arxiv.org/pdf/2306.01160)
 
@@ -180,7 +230,7 @@ citation:
 
 #### Flashattention: Fast and memory-efficient exact attention with io-awareness
 
-tag: `Flash Attention`
+tag: `Flash Attention` | `NIPS22` | `Stanford University`
 
 overview:
 
@@ -208,47 +258,6 @@ citation:
 }
 ```
 
-
-#### DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training
-
-tag: `LightSeq`
-
-paper link: [here](https://arxiv.org/pdf/2310.03294)
-
-github link: [here](https://github.com/RulinShao/LightSeq)
-
-citation:
-
-```bibtex
-@misc{li2024distflashattn,
-      title={DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training}, 
-      author={Dacheng Li and Rulin Shao and Anze Xie and Eric P. Xing and Xuezhe Ma and Ion Stoica and Joseph E. Gonzalez and Hao Zhang},
-      year={2024},
-      eprint={2310.03294},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-}
-```
-
-
-#### Efficient memory management for large language model serving with pagedattention
-
-tag: `Paged Attention`
-
-paper link: [here](https://arxiv.org/pdf/2309.06180)
-
-github link: [here](https://github.com/vllm-project/vllm)
-
-citation:
-
-```bibtex
-@article{kwon2023efficient,
-  title={Efficient memory management for large language model serving with pagedattention},
-  author={Kwon, Woosuk and Li, Zhuohan and Zhuang, Siyuan and Sheng, Ying and Zheng, Lianmin and Yu, Cody Hao and Gonzalez, Joseph E and Zhang, Hao and Stoica, Ion},
-  journal={arXiv preprint arXiv:2309.06180},
-  year={2023}
-}
-```
 
 #### GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints
 

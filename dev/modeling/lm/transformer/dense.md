@@ -12,6 +12,9 @@ blog link: [here](https://ai.meta.com/blog/llama-usage-doubled-may-through-july-
 
 homepage link: [here](https://www.llama.com/)
 
+modelhub link: [Llama3](https://huggingface.co/collections/meta-llama/meta-llama-3-66214712577ca38149ebb2b6) | [Llama3.1](https://huggingface.co/collections/meta-llama/llama-31-669fc079a0c406a149a5738f) | [Llama3.2](https://huggingface.co/collections/meta-llama/llama-32-66f448ffc8c32f949b04c8cf)
+
+
 citation:
 
 ```bibtex
@@ -104,6 +107,8 @@ citation:
 tag: `Transformer` | `NIPS17` | `Google`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+github link: [here](https://github.com/tensorflow/tensor2tensor)
 
 citation:
 

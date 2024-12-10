@@ -4,9 +4,9 @@
 
 #### Effective Long-Context Scaling of Foundation Models
 
-tag: `Llama2 Long`
+tag: `Llama2 Long` | `ACL24` | `Meta`
 
-paper link: [here](https://arxiv.org/pdf/2309.16039.pdf)
+paper link: [here](https://aclanthology.org/2024.naacl-long.260.pdf)
 
 citation:
 
@@ -24,7 +24,7 @@ citation:
 
 #### CoCA: Fusing Position Embedding with Collinear Constrained Attention in Transformers for Long Context Window Extending
 
-tag: `CoCA`
+tag: `CoCA` | `ACL24` | `AntGroup`
 
 paper link: [here](https://arxiv.org/pdf/2309.08646)
 
@@ -78,7 +78,7 @@ citation:
 
 #### YaRN: Efficient Context Window Extension of Large Language Models
 
-tag: `YaRN` | `NTK-by-parts`
+tag: `YaRN` | `NTK-by-parts` | `ICLR24` | `Nous Research`
 
 paper link: [here](https://arxiv.org/pdf/2309.00071)
 
@@ -101,7 +101,7 @@ citation:
 
 #### Giraffe: Adventures in expanding context lengths in llms
 
-tag: `Giraffe` | `Power-Scaling`
+tag: `Giraffe` | `Power-Scaling` | `Abacus AI`
 
 overview:
 
@@ -112,6 +112,8 @@ $$
 $$
 
 paper link: [here](https://arxiv.org/pdf/2308.10882)
+
+github link: [here](https://github.com/abacusai/Long-Context)
 
 citation:
 
@@ -155,7 +157,7 @@ citation:
 
 #### Extending context window of large language models via positional interpolation
 
-tag: `PI`
+tag: `PI` | `Positional Interpolation` | `ACL24` | `Meta`
 
 overview:
 
@@ -165,7 +167,7 @@ $$
 \end{align}
 $$
 
-paper link: [here](https://arxiv.org/pdf/2306.15595)
+paper link: [here](https://aclanthology.org/2024.findings-acl.306.pdf)
 
 citation:
 
@@ -181,7 +183,7 @@ citation:
 
 #### A Frustratingly Easy Improvement for Position Embeddings via Random Padding
 
-tag: `Random Padding PE`
+tag: `Random Padding PE` | `NLPCC23` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2305.04859)
 
@@ -198,9 +200,11 @@ citation:
     
 #### Randomized Positional Encodings Boost Length Generalization of Transformers
 
-tag: `Randomized PE`
+tag: `RPE` | `Randomized PE` | `ACL23` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2305.16843)
+
+github link: [here](https://github.com/google-deepmind/randomized_positional_encodings)
 
 citation:
 
@@ -216,7 +220,7 @@ citation:
 
 #### A length-extrapolatable transformer
 
-tag: `LEX` | `XPOS`
+tag: `LEX` | `XPOS` | `ACL23` | `Microsoft` | `Tsinghua University`
 
 overview:
 
@@ -227,7 +231,9 @@ $$
   \end{align}
 $$
 
-paper link: [here](https://arxiv.org/pdf/2212.10554)
+paper link: [here](https://aclanthology.org/2023.acl-long.816.pdf)
+
+github link: [here](https://github.com/microsoft/torchscale)
 
 citation:
 
@@ -243,9 +249,11 @@ citation:
 
 #### SHAPE: Shifted absolute position embedding for transformers
 
-tag: `SHAPE`
+tag: `SHAPE` | `EMNLP21` | `RIKEN` | `Tohoku University`
 
 paper link: [here](https://arxiv.org/pdf/2109.05644)
+
+github link: [here](https://github.com/butsugiri/shape)
 
 citation:
 
@@ -261,9 +269,11 @@ citation:
 
 #### Permuteformer: Efficient relative position encoding for long sequences
 
-tag: `Permuteformer`
+tag: `Permuteformer` | `EMNLP21` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2109.02377)
+
+github link: [here](https://github.com/cpcp1998/PermuteFormer)
 
 citation:
 
@@ -279,7 +289,7 @@ citation:
 
 #### RoFormer: Enhanced Transformer with Rotary Position Embedding
 
-tag: `RoPE` | `Rotary PE` | `RoFormer`
+tag: `RoPE` | `Rotary PE` | `RoFormer` | `Neurocomputing`
 
 overview:
 
@@ -336,6 +346,8 @@ $$
 $$
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+github link: [here](https://github.com/tensorflow/tensor2tensor)
 
 citation:
 

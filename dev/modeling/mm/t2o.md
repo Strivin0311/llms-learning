@@ -6,7 +6,7 @@
 
 tag: `Mini-Omni 2` | `Tsinghua University`
 
-paper link: [here](https://arxiv.org/pdf/2410.11190v2)
+paper link: [here](https://arxiv.org/pdf/2410.11190)
 
 github link: [here](https://github.com/gpt-omni/mini-omni2)
 
@@ -27,7 +27,7 @@ citation:
 
 #### LLaMA-Omni: Seamless Speech Interaction with Large Language Models
 
-tag: `LLaMA-Omni` | `ICT CAS`
+tag: `LLaMA-Omni` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2409.06666)
 

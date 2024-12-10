@@ -1,6 +1,26 @@
-# Mixture-of-Experts (MoE) Sparse Transformer Language Modeling for LLMs
-*Here're some resources about Mixture-of-Experts (MoE) Sparse Transformer Language Modeling for LLMs*
+# Sparse Transformer Language Modeling for LLMs, especially Mixture-of-Experts (MoE)
+*Here're some resources about Sparse Transformer Language Modeling for LLMs, especially Mixture-of-Experts (MoE)*
 
+
+#### Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models
+
+tag: `MoT` | `Meta` | `Stanford University`
+
+paper link: [here](https://arxiv.org/pdf/2411.04996)
+
+citation:
+
+```bibtex
+@misc{liang2024mixtureoftransformerssparsescalablearchitecture,
+      title={Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models}, 
+      author={Weixin Liang and Lili Yu and Liang Luo and Srinivasan Iyer and Ning Dong and Chunting Zhou and Gargi Ghosh and Mike Lewis and Wen-tau Yih and Luke Zettlemoyer and Xi Victoria Lin},
+      year={2024},
+      eprint={2411.04996},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.04996}, 
+}
+```
 
 #### OLMoE: Open Mixture-of-Experts Language Models
 
