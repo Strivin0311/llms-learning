@@ -103,6 +103,30 @@ citation:
 }
 ```
 
+
+#### Mixture-of-Agents Enhances Large Language Model Capabilities
+
+tag: `MoA` | `Mixture-of-Agents` | `ICLR25` | `TogetherAI`
+
+paper link: [here](https://arxiv.org/pdf/2406.04692)
+
+github link: [here](https://github.com/togethercomputer/moa)
+
+citation:
+
+```bibtex
+@misc{wang2024mixtureofagentsenhanceslargelanguage,
+      title={Mixture-of-Agents Enhances Large Language Model Capabilities}, 
+      author={Junlin Wang and Jue Wang and Ben Athiwaratkun and Ce Zhang and James Zou},
+      year={2024},
+      eprint={2406.04692},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.04692}, 
+}
+```
+
+
 #### LLM Augmented Hierarchical Agents
 
 tag: `LLM-HRL` | `CoRL23`
@@ -247,7 +271,7 @@ citation:
 
 #### ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases
 
-tag: `ToolAlpaca` | `ISCAS`
+tag: `ToolAlpaca` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2306.05301)
 

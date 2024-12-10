@@ -262,7 +262,7 @@ citation:
 
 #### Benchmarking Large Language Models in Retrieval-Augmented Generation
 
-tag: `RGB` | `ISCAS`
+tag: `RGB` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2309.01431)
 
