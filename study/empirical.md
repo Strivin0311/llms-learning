@@ -1,12 +1,16 @@
 # General Empirical Study on LLMs
-*Here're some resources about general Empirical Study on LLMs*
+*Here're some resources about general Empirical Study on LLMs, especially scaling laws, emergence abilities, etc*
 
 
 #### Characterization of Large Language Model Development in the Datacenter
 
-tag: `LLM Development`
+tag: `LLM Development` | `Characterization Study` | `Fault-Tolerant` | `NSDI24` | `Shanghai AI Laboratory`
 
-paper link: [here](https://arxiv.org/pdf/2403.07648)
+paper link: [here](https://www.usenix.org/system/files/nsdi24-hu.pdf)
+
+github link: [here](https://github.com/InternLM/AcmeTrace)
+
+dataset link: [here](https://huggingface.co/datasets/Qinghao/AcmeTrace)
 
 citation:
 
@@ -21,7 +25,6 @@ citation:
       url={https://arxiv.org/abs/2403.07648}, 
 }
 ```
-
 
 #### Fractal Patterns May Illuminate the Success of Next-Token Prediction
 
@@ -46,9 +49,30 @@ citation:
 ```
 
 
+#### Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey
+
+tag: `Long-Context` | `Survey`
+
+paper link: [here](https://arxiv.org/pdf/2311.12351.pdf)
+
+github link: [here](https://github.com/Strivin0311/long-llms-learning)
+
+citation:
+
+```bibtex
+@misc{huang2024advancing,
+      title={Advancing Transformer Architecture in Long-Context Large Language Models: A Comprehensive Survey}, 
+      author={Yunpeng Huang and Jingwei Xu and Junyu Lai and Zixu Jiang and Taolue Chen and Zenan Li and Yuan Yao and Xiaoxing Ma and Lijuan Yang and Hao Chen and Shupeng Li and Penghao Zhao},
+      year={2024},
+      eprint={2311.12351},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 #### Dissecting the Runtime Performance of the Training, Fine-tuning, and Inference of Large Language Models
 
-tag: `Runtime Performance`
+tag: `Runtime Performance Dissection` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2311.03687)
 
@@ -69,7 +93,7 @@ citation:
 
 #### Challenges and applications of large language models
 
-tag: `Challenges and Applications`
+tag: `LLM Challenges` | `LLM Applications`
 
 paper link: [here](https://arxiv.org/pdf/2307.10169)
 
@@ -87,7 +111,7 @@ citation:
 
 #### Scaling Laws for Reward Model Overoptimization
 
-tag: `RM` | `Scaling Laws` | `ICML23` | `OpenAI`
+tag: `Scaling Laws` | `RM` | `ICML23` | `OpenAI`
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23h/gao23h.pdf)
 
@@ -107,6 +131,8 @@ citation:
 
 #### Loss Spike in Training Neural Networks
 
+tag: `Loss Spike` | `Shanghai Jiao Tong University`
+
 paper link: [here](https://arxiv.org/pdf/2305.12133)
 
 citation:
@@ -121,6 +147,25 @@ citation:
       primaryClass={cs.LG}
 }
 ```
+
+
+#### Are emergent abilities of Large Language Models a mirage?
+
+tag: `Emergent Abilities` | `NIPS23` | `Stanford University`
+
+paper link: [here](https://openreview.net/pdf?id=ITw9edRDlD)
+
+citation:
+
+```bibtex
+@article{schaeffer2023emergent,
+  title={Are emergent abilities of Large Language Models a mirage?},
+  author={Schaeffer, Rylan and Miranda, Brando and Koyejo, Sanmi},
+  journal={arXiv preprint arXiv:2304.15004},
+  year={2023}
+}
+```
+
 
 #### Eliciting Latent Predictions from Transformers with the Tuned Lens
 
@@ -147,7 +192,7 @@ citation:
 
 #### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning
 
-tag: `GPU Selection for DL`
+tag: `GPU(s) for DL`
 
 blog link: [here](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
 
@@ -160,6 +205,24 @@ citation:
   year = {2023},
   month = {Jan},
   howpublished = {\url{https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/}},
+}
+```
+
+
+#### Emergent abilities of large language models
+
+tag: `Emergent Abilities` | `TMLR22` | `Google` | `Stanford University`
+
+paper link: [here](https://arxiv.org/pdf/2206.07682.pdf)
+
+citation:
+
+```bibtex
+@article{wei2022emergent,
+  title={Emergent abilities of large language models},
+  author={Wei, Jason and Tay, Yi and Bommasani, Rishi and Raffel, Colin and Zoph, Barret and Borgeaud, Sebastian and Yogatama, Dani and Bosma, Maarten and Zhou, Denny and Metzler, Donald and others},
+  journal={arXiv preprint arXiv:2206.07682},
+  year={2022}
 }
 ```
 
@@ -231,7 +294,7 @@ citation:
 
 #### Gradient Descent on Neural Networks Typically Occurs at the Edge of Stability
 
-tag: `EoS` | `Edge of Stability` | `ICLR21`
+tag: `EoS` | `Edge of Stability` | `ICLR21` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2103.00065)
 
@@ -296,7 +359,7 @@ citation:
 
 #### On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima
 
-tag: `Large-Batch Training` | `ICLR17`
+tag: `Generalization Gap` | `Sharp Minima` | `ICLR17` | `Intel`
 
 paper link: [here](https://arxiv.org/pdf/1609.04836)
 

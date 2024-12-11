@@ -28,7 +28,7 @@ citation:
 
 #### Fold3D: Rethinking and Parallelizing Computational and Communicational Tasks in the Training of Large DNN Models
 
-tag: `Fold3D` | `TPDS23` | `HKU` | `Shanghai AILab` | `HKU`
+tag: `Fold3D` | `TPDS23` | `HKU` | `Shanghai AI Lab` | `HKU`
 
 paper link: [here](https://ieeexplore.ieee.org/document/10050126)
 

@@ -119,7 +119,7 @@ citation:
 
 #### Turn Waste into Worth: Rectifying Top-k Router of MoE
 
-tag: `Rectify-Router` | `Shanghai AILab` | `Fudan University`
+tag: `Rectify-Router` | `Shanghai AI Lab` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2402.12399)
 

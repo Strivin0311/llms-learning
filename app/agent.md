@@ -28,7 +28,7 @@ citation:
 
 #### MindSearch: Mimicking Human Minds Elicits Deep AI Searcher
 
-tag: `MindSearch` | `Shanghai AILab` | `USTC`
+tag: `MindSearch` | `Shanghai AI Lab` | `USTC`
 
 paper link: [here](https://arxiv.org/pdf/2407.20183)
 
@@ -394,6 +394,26 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2303.17760}, 
+}
+```
+
+
+#### Language models can solve computer tasks
+
+tag: `RCI` | `NIPS23` | `UCI` | `CMU`
+
+paper link: [here](https://arxiv.org/pdf/2303.17491)
+
+github link: [here](https://github.com/posgnu/rci-agent)
+
+citation:
+
+```bibtex
+@article{kim2023language,
+  title={Language models can solve computer tasks},
+  author={Kim, Geunwoo and Baldi, Pierre and McAleer, Stephen},
+  journal={arXiv preprint arXiv:2303.17491},
+  year={2023}
 }
 ```
 

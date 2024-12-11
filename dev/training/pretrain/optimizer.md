@@ -51,7 +51,7 @@ citation:
 
 #### AdaLomo: Low-memory Optimization with Adaptive Learning Rate
 
-tag: `AdaLomo` | `Shanghai AILab` | `Fudan University`
+tag: `AdaLomo` | `Shanghai AI Lab` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2310.10195)
 

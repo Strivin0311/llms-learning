@@ -2,14 +2,14 @@
 
 A repository sharing the literatures and resources about Large Language Models (LLMs) and beyond.
 
-Hope you find this repository useful! 😊
+Hope you find this repository handy and helpful for your llms learning journey! 😊
 
 
 ## News 🔥
 
 * **2024.10.24**
   * Welcome to watch our new online free **LLMs intro course** on [bilibili](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310)! 
-  * We also open-source and keep updating the [course assignments](./tutorial/assignment/README.md) for you to take a deep dive into LLMs.
+  * We also open-source the [course assignments](./tutorial/assignment/README.md) for you to take a deep dive into LLMs.
   * If you like this course or this repository, you can subscribe to the teacher's [bilibili account](https://space.bilibili.com/390606417) and maybe ⭐ this GitHub repo 😜.
 * **2024.03.07**
   * We offer a comprehensive [notebook tutorial](./tutorial/notebook/tutorial_triton.ipynb) on efficient GPU kernel coding using [Triton](https://github.com/triton-lang/triton), building upon the [official tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html) and extending them with additional hands-on examples, such as the **Flash Attention 2 forward/backward kernel**.
@@ -43,11 +43,13 @@ Hope you find this repository useful! 😊
       * [Text <-> Video](./dev/modeling/mm/t2v.md)
       * [Text <-> Omni](./dev/modeling/mm/t2o.md)
   * [Inference](./dev/inference/)
-    * [Serving](./dev/serving/serving.md)
-    * [Quantization](./dev/serving/quantize.md)
-    * [Pruning](./dev/serving/prune.md)
-    * [Decoding](./dev/serving/decode.md)
-    * [Evaluation](./dev/serving/evaluate.md)
+    * [Serving](./dev/inference/serving.md)
+    * [Quantization](./dev/inference/quantize.md)
+    * [Pruning](./dev/inference/prune.md)
+    * [Decoding](./dev/inference/decode.md)
+    * [Evaluation](./dev/inference/evaluate.md)
+    * [Prompt Learning and Engineering](./dev/inference/prompt.md)
+    * [Retrieval-Augmented Generation (RAG)](./dev/inference/rag.md)
   * [Training](./dev/training/)
     * [Pre-Training](./dev/training/pretrain)
       * [General Training Recipes](./dev/training/pretrain/recipe.md)
@@ -73,20 +75,13 @@ Hope you find this repository useful! 😊
       * [Supervised Fine-Tuning (SFT)](./dev/training/finetune/sft.md)
       * [Alignment Fine-Tuning (AFT)](./dev/training/finetune/align.md)
 * [Applications](./app/)
-  * [Retrieval-Augmented Generation (RAG)](./app/rag.md)
   * [LLMs as Agents](./app/agent.md)
   * [LLMs for Autonomous Driving](./app/auto_drive.md)
   * [LLMs for Code](./app/code.md)
   * [LLMs for Math](./app/math.md)
+  * [LLMs for Embodied Intelligence](./app/embodied.md)
 * [Study](./study/)
-  * [Emergence Abilities](./study/emergence.md)
-  * [Embodied Intelligence](./study/embodied.md)
-  * [Robustness](./study/robust.md)
-  * [Transferability](./study/transfer.md)
-  * [In-Context Learning (ICL)](./study/in-context.md)
-  * [Long-Context Capabilities](./study/long-context.md)
   * [General Empirical Study](./study/empirical.md)
-  * [General Surveys](./study/survey.md)
 * [Basics](./base/)
 * [Assets](./asset/)
 

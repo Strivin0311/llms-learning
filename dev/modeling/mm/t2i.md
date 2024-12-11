@@ -846,7 +846,7 @@ citation:
 
 #### Are We on the Right Way for Evaluating Large Vision-Language Models?
 
-tag: `MMStar` | `Shanghai AILab`
+tag: `MMStar` | `Shanghai AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/2403.20330)
 
@@ -899,7 +899,7 @@ citation:
 
 #### MMBench: Is Your Multi-modal Model an All-around Player?
 
-tag: `MMBench` | `Shanghai AILab`
+tag: `MMBench` | `Shanghai AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/2307.06281)
 
@@ -927,7 +927,7 @@ citation:
 
 #### A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise
 
-tag: `GPT-4V` | `Gemini` | `Awesome Multi-Modal LLMs` | `Tencent Youtu Lab` | `Shanghai AILab`
+tag: `GPT-4V` | `Gemini` | `Awesome Multi-Modal LLMs` | `Tencent Youtu Lab` | `Shanghai AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/2312.12436)
 

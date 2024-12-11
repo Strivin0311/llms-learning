@@ -1,5 +1,5 @@
 # Retrieval-Augmented Generation (RAG)
-*Here're some resources about Retrieval-Augmented Generation with LLMs*
+*Here're some resources about Retrieval-Augmented Generation for LLMs*
 
 ## Method
 
