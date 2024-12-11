@@ -5,6 +5,29 @@
 ## Method
 
 
+#### Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
+
+tag: `Q-GaLore` | `MEFT` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2407.08296)
+
+github link: [here](https://github.com/VITA-Group/Q-GaLore)
+
+citation:
+
+```bibtex
+@misc{zhang2024qgalorequantizedgaloreint4,
+      title={Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients}, 
+      author={Zhenyu Zhang and Ajay Jaiswal and Lu Yin and Shiwei Liu and Jiawei Zhao and Yuandong Tian and Zhangyang Wang},
+      year={2024},
+      eprint={2407.08296},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.08296}, 
+}
+```
+
+
 #### LISA: Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning
 
 tag: `LISA` | `PEFT` | `NIPS24` | `HKU`
@@ -27,6 +50,32 @@ citation:
 }
 ```
 
+
+#### GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
+
+tag: `GaLore` | `MEFT` | `ICML24` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2403.03507)
+
+github link: [here](https://github.com/jiaweizzhao/GaLore)
+
+follow-up work: [here](https://arxiv.org/pdf/2407.08296)
+
+citation:
+
+```bibtex
+@misc{zhao2024galorememoryefficientllmtraining,
+      title={GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection}, 
+      author={Jiawei Zhao and Zhenyu Zhang and Beidi Chen and Zhangyang Wang and Anima Anandkumar and Yuandong Tian},
+      year={2024},
+      eprint={2403.03507},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2403.03507}, 
+}
+```
+
+
 #### RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation
 
 tag: `RoSA` | `PEFT` | `ICML24`
@@ -47,6 +96,28 @@ citation:
       primaryClass={cs.CL}
 }
 ```
+
+
+#### A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA
+
+tag: `Rank Stabilization` | `LoRA` | `Tenyx`
+
+Paper link: [here](https://arxiv.org/pdf/2312.03732)
+
+citation:
+
+```bibtex
+@misc{kalajdzievski2023rankstabilizationscalingfactor,
+      title={A Rank Stabilization Scaling Factor for Fine-Tuning with LoRA}, 
+      author={Damjan Kalajdzievski},
+      year={2023},
+      eprint={2312.03732},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2312.03732}, 
+}
+```
+
 
 #### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
 
