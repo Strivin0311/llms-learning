@@ -320,6 +320,29 @@ citation:
 ```
 
 
+#### Reversible Vision Transformers
+
+tag: `Rev-ViT` | `Rev-MViT` | `CVPR22` | `Meta` | `UCB`
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Mangalam_Reversible_Vision_Transformers_CVPR_2022_paper.pdf)
+
+github link: [here](https://github.com/facebookresearch/slowfast)
+
+citation:
+
+```bibtex
+@misc{mangalam2023reversiblevisiontransformers,
+      title={Reversible Vision Transformers}, 
+      author={Karttikeya Mangalam and Haoqi Fan and Yanghao Li and Chao-Yuan Wu and Bo Xiong and Christoph Feichtenhofer and Jitendra Malik},
+      year={2023},
+      eprint={2302.04869},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2302.04869}, 
+}
+```
+
+
 #### Scalable Diffusion Models with Transformers
 
 tag: `DiT` | `UCB`
@@ -387,6 +410,28 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2211.07636}, 
+}
+```
+
+#### MogaNet: Multi-order Gated Aggregation Network
+
+tag: `MogaNet` | `ConvNet` | `ICLR24` | `Zhejiang University`
+
+paper link: [here](https://arxiv.org/pdf/2211.03295)
+
+github link: [here](https://github.com/Westlake-AI/MogaNet)
+
+citation:
+
+```bibtex
+@misc{li2024moganetmultiordergatedaggregation,
+      title={MogaNet: Multi-order Gated Aggregation Network}, 
+      author={Siyuan Li and Zedong Wang and Zicheng Liu and Cheng Tan and Haitao Lin and Di Wu and Zhiyuan Chen and Jiangbin Zheng and Stan Z. Li},
+      year={2024},
+      eprint={2211.03295},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2211.03295}, 
 }
 ```
 
@@ -504,6 +549,29 @@ citation:
 ```
 
 
+#### Patches Are All You Need ?
+
+tag: `ConvMixer` | `TMLR23` | `CMU`
+
+paper link: [here](https://openreview.net/pdf?id=rAnB7JSMXL)
+
+github link: [here](https://github.com/locuslab/convmixer)
+
+citation:
+
+```bibtex
+@misc{trockman2022patchesneed,
+      title={Patches Are All You Need?}, 
+      author={Asher Trockman and J. Zico Kolter},
+      year={2022},
+      eprint={2201.09792},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2201.09792}, 
+}
+```
+
+
 #### High-Resolution Image Synthesis with Latent Diffusion Models
 
 tag: `Latent Diffusion` | `LDM` | `Runway ML`
@@ -595,6 +663,30 @@ citation:
       url={https://arxiv.org/abs/2105.05233}, 
 }
 ```
+
+
+#### MLP-Mixer: An all-MLP Architecture for Vision
+
+tag: `MLP-Mixer` | `NIPS21` | `Google Brain`
+
+paper link: [here](https://proceedings.nips.cc/paper/2021/file/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Paper.pdf)
+
+github link: [here](https://github.com/google-research/vision_transformer)
+
+citation:
+
+```bibtex
+@misc{tolstikhin2021mlpmixerallmlparchitecturevision,
+      title={MLP-Mixer: An all-MLP Architecture for Vision}, 
+      author={Ilya Tolstikhin and Neil Houlsby and Alexander Kolesnikov and Lucas Beyer and Xiaohua Zhai and Thomas Unterthiner and Jessica Yung and Andreas Steiner and Daniel Keysers and Jakob Uszkoreit and Mario Lucic and Alexey Dosovitskiy},
+      year={2021},
+      eprint={2105.01601},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2105.01601}, 
+}
+```
+
 
 #### Going deeper with Image Transformers
 

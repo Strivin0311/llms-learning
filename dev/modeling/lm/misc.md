@@ -26,7 +26,7 @@ citation:
 
 #### LoLCATs: On Low-Rank Linearizing of Large Language Models
 
-tag: `LoLCATs` | `Attention Transfer` | `LoRA` | `Together AI` | `Standford University`
+tag: `LoLCATs` | `Attention Transfer` | `LoRA` | `Together AI` | `Standford University` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2410.10254)
 
@@ -160,9 +160,9 @@ citation:
 
 #### You Only Cache Once: Decoder-Decoder Architectures for Language Models
 
-tag: `YOCO` | `Microsoft` | `Tsinghua University`
+tag: `YOCO` | `Decoder-Decoder` | `NIPS24` | `Microsoft` | `Tsinghua University`
 
-paper link: [here](https://arxiv.org/pdf/2405.05254)
+paper link: [here](https://openreview.net/pdf?id=25Ioxw576r)
 
 github link: [here](https://github.com/microsoft/unilm/tree/master/YOCO)
 
@@ -183,9 +183,11 @@ citation:
 
 #### Monarch Mixer: A simple sub-quadratic GEMM-based architecture
 
-tag: `M2` | `Monarch Mixer` | `Standford University`
+tag: `M2` | `Monarch Mixer` | `NIPS23` | `Standford University`
 
-paper link: [here](https://arxiv.org/pdf/2310.12109)
+paper link: [here](https://openreview.net/pdf?id=cB0BImqSS9)
+
+github link: [here](https://github.com/HazyResearch/m2)
 
 citation: 
 
@@ -195,28 +197,6 @@ citation:
   author={Fu, Daniel Y and Arora, Simran and Grogan, Jessica and Johnson, Isys and Eyuboglu, Sabri and Thomas, Armin W and Spector, Benjamin and Poli, Michael and Rudra, Atri and R{\'e}, Christopher},
   journal={arXiv preprint arXiv:2310.12109},
   year={2023}
-}
-```
-
-#### MogaNet: Multi-order Gated Aggregation Network
-
-tag: `MogaNet` | `ICLR24` | `Zhejiang University`
-
-paper link: [here](https://arxiv.org/pdf/2211.03295)
-
-github link: [here](https://github.com/Westlake-AI/MogaNet)
-
-citation:
-
-```bibtex
-@misc{li2024moganetmultiordergatedaggregation,
-      title={MogaNet: Multi-order Gated Aggregation Network}, 
-      author={Siyuan Li and Zedong Wang and Zicheng Liu and Cheng Tan and Haitao Lin and Di Wu and Zhiyuan Chen and Jiangbin Zheng and Stan Z. Li},
-      year={2024},
-      eprint={2211.03295},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2211.03295}, 
 }
 ```
 
@@ -244,7 +224,7 @@ citation:
 
 #### The reversible residual network: Backpropagation without storing activations
 
-tag: `RevNet` | `NIPS17`
+tag: `RevNet` | `NIPS17` | `University of Toronto`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
 

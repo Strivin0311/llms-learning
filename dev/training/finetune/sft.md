@@ -224,7 +224,7 @@ citation:
 
 #### Make Your Pre-trained Model Reversible: From Parameter to Memory Efficient Fine-Tuning
 
-tag: `MEFT` | `ReverNet` | `NIPS23`
+tag: `MEFT` | `Rev-ViT` | `NIPS23`
 
 paper link: [here](https://arxiv.org/pdf/2306.00477)
 
