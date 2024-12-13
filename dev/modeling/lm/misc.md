@@ -47,6 +47,29 @@ citation:
 ```
 
 
+#### FAN: Fourier Analysis Networks
+
+tag: `FAN` | `ByteDance` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2410.02675)
+
+github link: [here](https://github.com/YihongDong/FAN)
+
+citation:
+
+```bibtex
+@misc{dong2024fanfourieranalysisnetworks,
+      title={FAN: Fourier Analysis Networks}, 
+      author={Yihong Dong and Ge Li and Yongding Tao and Xue Jiang and Kechi Zhang and Jia Li and Jing Su and Jun Zhang and Jingjing Xu},
+      year={2024},
+      eprint={2410.02675},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.02675}, 
+}
+```
+
+
 #### Model Comparisons: XNet Outperforms KAN
 
 tag: `XNet` | `KAN`

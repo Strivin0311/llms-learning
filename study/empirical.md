@@ -2,6 +2,27 @@
 *Here're some resources about general Empirical Study on LLMs, especially scaling laws, emergence abilities, etc*
 
 
+
+#### GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models
+
+tag: `GSM-Symbolic` | `Mathematical Reasoning` | `Apple`
+
+paper link: [here](https://arxiv.org/pdf/2410.05229)
+
+citation:
+
+```bibtex
+@misc{mirzadeh2024gsmsymbolicunderstandinglimitationsmathematical,
+      title={GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models}, 
+      author={Iman Mirzadeh and Keivan Alizadeh and Hooman Shahrokhi and Oncel Tuzel and Samy Bengio and Mehrdad Farajtabar},
+      year={2024},
+      eprint={2410.05229},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.05229}, 
+}
+```
+
 #### Characterization of Large Language Model Development in the Datacenter
 
 tag: `LLM Development` | `Characterization Study` | `Fault-Tolerant` | `NSDI24` | `Shanghai AI Laboratory`

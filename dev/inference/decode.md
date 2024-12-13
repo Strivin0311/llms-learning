@@ -6,7 +6,7 @@
 
 tag: `Consensus Game` | `Equilibrium Search` | `ICLR24` | `MIT`
 
-paper link: [here](https://arxiv.org/pdf/2310.09139.pdf)
+paper link: [here](https://openreview.net/pdf?id=n9xeGcI4Yg)
 
 citation:
 
@@ -20,6 +20,30 @@ citation:
       primaryClass={cs.GT}
 }
 ```
+
+
+#### DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models
+
+tag: `DoLa` | `Contrastive Decoding` | `ICLR24` | `Microsoft`
+
+paper link: [here](https://arxiv.org/pdf/2309.03883)
+
+github link: [here](https://github.com/voidism/DoLa)
+
+citation:
+
+```bibtex
+@misc{chuang2024doladecodingcontrastinglayers,
+      title={DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models}, 
+      author={Yung-Sung Chuang and Yujia Xie and Hongyin Luo and Yoon Kim and James Glass and Pengcheng He},
+      year={2024},
+      eprint={2309.03883},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2309.03883}, 
+}
+```
+
 
 #### Fast Inference from Transformers via Speculative Decoding
 
