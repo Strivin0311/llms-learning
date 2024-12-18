@@ -2,6 +2,29 @@
 *Here're some resources about Miscellaneous Architectures for language/sequence modeling*
 
 
+#### FlashRNN: Optimizing Traditional RNNs on Modern Hardware
+
+tag: `FlashRNN` | `NXAI Lab` | `JKU`
+
+paper link: [here](https://arxiv.org/pdf/2412.07752)
+
+github link: [here](https://github.com/NX-AI/flashrnn)
+
+citation:
+
+```bibtex
+@misc{pöppel2024flashrnnoptimizingtraditionalrnns,
+      title={FlashRNN: Optimizing Traditional RNNs on Modern Hardware}, 
+      author={Korbinian Pöppel and Maximilian Beck and Sepp Hochreiter},
+      year={2024},
+      eprint={2412.07752},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.07752}, 
+}
+```
+
+
 #### TokenFormer: Rethinking Transformer Scaling with Tokenized Model Parameters
 
 tag: `TokenFormer` | `Pattention` | `Google` | `Peking University`
@@ -177,6 +200,29 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2405.05254}, 
+}
+```
+
+
+#### xLSTM: Extended Long Short-Term Memory
+
+tag: `xLSTM` | `NIPS24` | `LIT AI Lab` | `NXAI Lab` | `JKU`
+
+paper link: [here](https://openreview.net/pdf?id=ARAxPPIAhq)
+
+github link: [here](https://github.com/NX-AI/xlstm)
+
+citation:
+
+```bibtex
+@misc{beck2024xlstmextendedlongshortterm,
+      title={xLSTM: Extended Long Short-Term Memory}, 
+      author={Maximilian Beck and Korbinian Pöppel and Markus Spanring and Andreas Auer and Oleksandra Prudnikova and Michael Kopp and Günter Klambauer and Johannes Brandstetter and Sepp Hochreiter},
+      year={2024},
+      eprint={2405.04517},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.04517}, 
 }
 ```
 

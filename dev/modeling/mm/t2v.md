@@ -100,6 +100,31 @@ citation:
 ```
 
 
+#### NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation
+
+tag: `NUWA-XL` | `ACL23` | `Microsoft` | `USTC`
+
+paper link: [here](https://arxiv.org/pdf/2303.12346)
+
+github link: [here](https://github.com/microsoft/NUWA)
+
+homepage link: [here](https://msra-nuwa.azurewebsites.net/)
+
+citation:
+
+```bibtex
+@misc{yin2023nuwaxldiffusiondiffusionextremely,
+      title={NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation}, 
+      author={Shengming Yin and Chenfei Wu and Huan Yang and Jianfeng Wang and Xiaodong Wang and Minheng Ni and Zhengyuan Yang and Linjie Li and Shuguang Liu and Fan Yang and Jianlong Fu and Gong Ming and Lijuan Wang and Zicheng Liu and Houqiang Li and Nan Duan},
+      year={2023},
+      eprint={2303.12346},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2303.12346}, 
+}
+```
+
+
 ## Benchmark
 
 #### Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis

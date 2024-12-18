@@ -95,6 +95,31 @@ citation:
 ```
 
 
+#### The Illusion of State in State-Space Models
+
+tag: `SSM Illusion` | `ICML24` | `Allen AI` | `NYU`
+
+paper link: [here](https://arxiv.org/pdf/2404.08819)
+
+github link: [here](https://github.com/jopetty/word-problem)
+
+homempage link: [here](https://jacksonpetty.org/ssm-illusion/)
+
+citation:
+
+```bibtex
+@inproceedings{merrill-2024-illusion,
+  title = {{The illusion of state in state-space models}},
+  author = {Merrill, William and Petty, Jackson and Sabharwal, Ashish},
+  booktitle = {{Forty-first International Conference on Machine Learning}},
+  eventtitle = {ICML},
+  venue = {Vienna, Austria},
+  eventdate = {2024-07-21},
+  date = {2024-04-12},
+}
+```
+
+
 #### Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model
 
 tag: `ViM` | `Vison Mamba` | `ICML24` | `HUST`
