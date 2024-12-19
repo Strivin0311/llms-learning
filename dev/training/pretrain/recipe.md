@@ -68,9 +68,9 @@ citation:
 
 #### Pre-training Small Base LMs with Fewer Tokens
 
-tag: `LLM Inheritune`
+tag: `LLM Inheritune` | `NYU`
 
-paper link: [here](https://arxiv.org/pdf/2404.08634v1)
+paper link: [here](https://arxiv.org/pdf/2404.08634)
 
 github link: [here](https://github.com/sanyalsunny111/LLM-Inheritune)
 
@@ -88,11 +88,37 @@ citation:
 }
 ```
 
+
+#### MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies
+
+tag: `MiniCPM` | `COLM24` | `OpenBMB` | `Tsinghua University`
+
+paper link: [here](https://openreview.net/pdf?id=3X2L2TFr0f)
+
+github link: [here](https://github.com/OpenBMB/MiniCPM)
+
+modelhub link: [here](https://huggingface.co/collections/openbmb/minicpm-65d48bf958302b9fd25b698f)
+
+citation:
+
+```bibtex
+@misc{hu2024minicpmunveilingpotentialsmall,
+      title={MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies}, 
+      author={Shengding Hu and Yuge Tu and Xu Han and Chaoqun He and Ganqu Cui and Xiang Long and Zhi Zheng and Yewei Fang and Yuxiang Huang and Weilin Zhao and Xinrong Zhang and Zheng Leng Thai and Kaihuo Zhang and Chongyi Wang and Yuan Yao and Chenyang Zhao and Jie Zhou and Jie Cai and Zhongwu Zhai and Ning Ding and Chao Jia and Guoyang Zeng and Dahai Li and Zhiyuan Liu and Maosong Sun},
+      year={2024},
+      eprint={2404.06395},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.06395}, 
+}
+```
+
+
 #### Data Engineering for Scaling Language Models to 128K Context
 
 tag: `Long-Context Data Engineering` | `Length Upsampling` | `Continual Pretraining` | `ICML24`
 
-paper link: [here](https://arxiv.org/pdf/2402.10171.pdf)
+paper link: [here](https://arxiv.org/pdf/2402.10171)
 
 github link: [here](https://github.com/FranxYao/Long-Context-Data-Engineering)
 

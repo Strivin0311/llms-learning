@@ -2,6 +2,29 @@
 *Here're some resources about Miscellaneous Architectures for language/sequence modeling*
 
 
+#### Byte Latent Transformer: Patches Scale Better Than Tokens
+
+tag: `BLT` | `Meta` | `University of Washington`
+
+paper link: [here](https://arxiv.org/pdf/2412.09871)
+
+github link: [here](https://github.com/facebookresearch/blt)
+
+citation:
+
+```bibtex
+@misc{pagnoni2024bytelatenttransformerpatches,
+      title={Byte Latent Transformer: Patches Scale Better Than Tokens}, 
+      author={Artidoro Pagnoni and Ram Pasunuru and Pedro Rodriguez and John Nguyen and Benjamin Muller and Margaret Li and Chunting Zhou and Lili Yu and Jason Weston and Luke Zettlemoyer and Gargi Ghosh and Mike Lewis and Ari Holtzman and Srinivasan Iyer},
+      year={2024},
+      eprint={2412.09871},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.09871}, 
+}
+```
+
+
 #### FlashRNN: Optimizing Traditional RNNs on Modern Hardware
 
 tag: `FlashRNN` | `NXAI Lab` | `JKU`

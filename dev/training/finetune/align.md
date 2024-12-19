@@ -29,6 +29,44 @@ citation:
 ```
 
 
+#### Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization
+
+tag: `DQO` | `ByteDance`
+
+paper link: [here](https://arxiv.org/pdf/2410.09302)
+
+citation:
+
+```bibtex
+@article{liu2024enhancing,
+  title={Enhancing Multi-Step Reasoning Abilities of Language Models through Direct Q-Function Optimization},
+  author={Liu, Guanlin and Ji, Kaixuan and Zheng, Renjie and Wu, Zheng and Dun, Chen and Gu, Quanquan and Yan, Lin},
+  journal={arXiv preprint arXiv:2410.09302},
+  year={2024}
+}
+```
+
+
+#### HybridFlow: A Flexible and Efficient RLHF Framework
+
+tag: `HybridFlow` | `EuroSys25` | `ByteDance`
+
+paper link: [here](https://arxiv.org/pdf/2409.19256)
+
+github link: [here](https://github.com/volcengine/verl)
+
+citation:
+
+```bibtex
+@article{sheng2024hybridflow,
+  title   = {HybridFlow: A Flexible and Efficient RLHF Framework},
+  author  = {Guangming Sheng and Chi Zhang and Zilingfeng Ye and Xibin Wu and Wang Zhang and Ru Zhang and Yanghua Peng and Haibin Lin and Chuan Wu},
+  year    = {2024},
+  journal = {arXiv preprint arXiv: 2409.19256}
+}
+```
+
+
 #### Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs
 
 tag: `CPO` | `NIPS24` | `Sea AI Lab`
