@@ -2,27 +2,6 @@
 *Here're some resources about Offloading Strategies for LLMs Training*
 
 
-#### LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs
-
-tag: `Luwu` | `DP` | `Data Parallelism` | `Zhejiang University`
-
-paper link: [here](https://arxiv.org/pdf/2409.00918)
-
-citation:
-
-```bibtex
-@misc{sun2024luwuendtoendinnetworkoutofcore,
-      title={LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs}, 
-      author={Mo Sun and Zihan Yang and Changyue Liao and Yingtao Li and Fei Wu and Zeke Wang},
-      year={2024},
-      eprint={2409.00918},
-      archivePrefix={arXiv},
-      primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2409.00918}, 
-}
-```
-
-
 #### Accelerating the Training of Large Language Models using Efficient Activation Rematerialization and Optimal Hybrid Parallelism
 
 tag: `Pipeline-Parallel-Aware Offloading` | `ATC24` | `Kuaishou Technology`

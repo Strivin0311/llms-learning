@@ -1,4 +1,3 @@
-
 # Distributed Communication for LLMs Training
 *Here're some resources about Distributed Communication for LLMs Training*
 
@@ -229,6 +228,75 @@ citation:
       series = {SIGCOMM '21}
 }
 ```
+
+
+#### Plink: Discovering and Exploiting Datacenter Network Locality for Efficient Cloud-Based Distributed Training
+
+tag: `Plink` | `MLSys20` | `Microsoft` | `University of Washington`
+
+paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2020/file/eca986d585a03890a412587a2f5ccb43-Paper.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{luo2020plink,
+  title={Plink: Discovering and Exploiting Datacenter Network Locality for Efficient Cloud-based Distributed Training},
+  author={Luo, Liang and West, Peter and Krishnamurthy, Arvind and Ceze, Luis and Nelson, Jacob},
+  booktitle={Proceedings of the 3rd MLSys Conference},
+  pages={455--469},
+  year={2020},
+  organization={PMLR}
+}
+```
+
+
+#### IncBricks: Toward In-Network Computation with an In-Network Cache
+
+tag: `IncBricks` | `ASPLOS17` | `University of Washington`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3037697.3037731)
+
+citation:
+
+```bibtex
+@inproceedings{liu2017incbricks,
+      author = {Liu, Ming and Luo, Liang and Nelson, Jacob and Ceze, Luis and Krishnamurthy, Arvind and Atreya, Kishore},
+      title = {IncBricks: Toward In-Network Computation with an In-Network Cache},
+      year = {2017},
+      isbn = {9781450344654},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3037697.3037731},
+      doi = {10.1145/3037697.3037731},
+      booktitle = {Proceedings of the Twenty-Second International Conference on Architectural Support for Programming Languages and Operating Systems},
+      pages = {795–809},
+      numpages = {15},
+      keywords = {in-network caching, programmable network devices},
+      location = {Xi'an, China},
+      series = {ASPLOS '17}
+}
+```
+
+
+#### ClickNP: Highly Flexible and High Performance Network Processing with Reconfigurable Hardware
+
+tag: `ClickNP` | `SIGCOMM16` | `Microsoft` | `USTC`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/2934872.2934897)
+
+citation:
+
+```bibtex
+@inproceedings{li2016clicknp,
+  title={ClickNP: Highly Flexible and High Performance Network Processing with Reconfigurable Hardware},
+  author={Li, Bojie and Tan, Kun and Xu, Ningyi and Luo, Layong and Xiong, Yongqiang and Peng, Yanqing and Luo, Renqian and Cheng, Peng and Chen, Enhong},
+  booktitle={Proceedings of the 2016 ACM SIGCOMM Conference},
+  pages={205--218},
+  year={2016},
+  organization={ACM}
+}
+```
+
 
 ## Survey
 

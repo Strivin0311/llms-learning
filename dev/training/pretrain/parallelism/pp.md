@@ -1,4 +1,3 @@
-
 # Pipeline Parallelism for LLMs Training
 *Here're some resources about Pipeline Parallelism for LLMs Training*
 
@@ -48,6 +47,27 @@ citation:
       url={https://arxiv.org/abs/2401.10241}, 
 }
 ```
+
+
+#### Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates
+
+tag: `Oobleck` | `SOSP23` | `University of Michigan` | `Peking University`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3600006.3613152)
+
+github link: [here](https://github.com/SymbioticLab/Oobleck)
+
+citation:
+
+```bibtex
+@inproceedings{oobleck-sosp23,
+    title     = {Oobleck: Resilient Distributed Training of Large Models Using Pipeline Templates},
+    author    = {Jang, Insu and Yang, Zhenning and Zhang, Zhen and Jin, Xin and Chowdhury, Mosharaf},
+    booktitle = {ACM SIGOPS 29th Symposium of Operating Systems and Principles (SOSP '23)},
+    year      = {2023},
+}
+```
+
 
 #### BPipe: Memory-Balanced Pipeline Parallelism for Training Large Language Models
 

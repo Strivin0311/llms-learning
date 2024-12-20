@@ -2,6 +2,28 @@
 *Here're are some resources about Text-to-Omni and Omni-to-Text modeling, understanding, generation in Multi-Modal LLMs*
 
 
+#### Introducing Gemini 2.0: our new AI model for the agentic era
+
+tag: `Gemini 2.0 Flash` | `Gemini 2.0` | `Google DeepMind`
+
+blog link: [intro](https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/) | [dev](https://developers.googleblog.com/en/the-next-chapter-of-the-gemini-era-for-developers/)
+
+docs link: [here](https://ai.google.dev/gemini-api/docs/models/gemini-v2)
+
+homepage link: [here](https://deepmind.google/technologies/gemini/flash/)
+
+citation:
+
+```bibtex
+@misc{google2024gemini2flash,
+  author = {Google DeepMind},
+  title = {Introducing Gemini 2.0: our new AI model for the agentic era},
+  year = {2024},
+  howpublished = {\url{https://blog.google/technology/google-deepmind/google-gemini-ai-update-december-2024/}},
+}
+```
+
+
 #### Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities
 
 tag: `Mini-Omni 2` | `Tsinghua University`

@@ -2,7 +2,6 @@
 *Here're some resources about Tensor Recomputation / Activation Checkpointing for LLMs Training, to trade off computation for memory*
 
 
-
 #### How Activation Checkpointing enables scaling up training deep learning models
 
 tag: `Activation Checkpointing` | `PyTorch` | `Meta`

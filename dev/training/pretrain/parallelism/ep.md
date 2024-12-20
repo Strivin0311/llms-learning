@@ -1,4 +1,3 @@
-
 # Expert Parallelism for Sparse-MoE LLMs Training
 *Here're some resources about Expert Parallelism for Sparse-MoE LLMs Training*
 *Note that some of the methods below might be general techniques for MoE training beyond expert parallelism, and even overlapped with MoE modeling*

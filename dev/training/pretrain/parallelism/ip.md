@@ -1,4 +1,3 @@
-
 # Integrated Parallelism for LLMs Training
 *Here're some resources about Integrated Parallelism for LLMs Training*
 

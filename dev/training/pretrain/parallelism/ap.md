@@ -1,4 +1,3 @@
-
 # Automatic Parallelism for LLMs Training
 *Here're some resources about Automatic Parallelism for LLMs Training*
 

@@ -1,19 +1,39 @@
-
-
 # Data Parallelism for LLMs Training
 *Here're some resources about Data Parallelism for LLMs Training*
 *Note that the modern data parallelism is beyond the traditional ddp and involves model sharding as well*
 
 
+#### LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs
+
+tag: `Luwu` | `DP` | `Data Parallelism` | `Zhejiang University`
+
+paper link: [here](https://arxiv.org/pdf/2409.00918)
+
+citation:
+
+```bibtex
+@misc{sun2024luwuendtoendinnetworkoutofcore,
+      title={LuWu: An End-to-End In-Network Out-of-Core Optimizer for 100B-Scale Model-in-Network Data-Parallel Training on Distributed GPUs}, 
+      author={Mo Sun and Zihan Yang and Changyue Liao and Yingtao Li and Fei Wu and Zeke Wang},
+      year={2024},
+      eprint={2409.00918},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2409.00918}, 
+}
+```
+
 #### PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel
 
 tag: `FSDP` | `FSDP-v1` | `FSDP-v2` | `VLDB23` | `Pytorch` | `Meta`
 
-paper link: [here](https://dl.acm.org/doi/pdf/10.14778/3611540.3611569)
+paper link: [here](https://arxiv.org/pdf/2304.11277)
 
 blog link: [here](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/)
 
 docs link: [here](https://pytorch.org/docs/stable/fsdp.html)
+
+notes link: [here](https://pytorch.org/docs/stable/notes/fsdp.html)
 
 follow-up work: [here](https://github.com/pytorch/torchtitan/blob/main/docs/fsdp.md)
 
@@ -29,9 +49,30 @@ citation:
 ```
 
 
+#### MiCS: near-linear scaling for training gigantic model on public cloud
+
+tag: `MiCS` | `VLDB22` | `Amazon` | `JHU`
+
+paper link: [here](https://www.vldb.org/pvldb/vol16/p37-zhang.pdf)
+
+citation:
+
+```bibtex
+@misc{zhang2022micsnearlinearscalingtraining,
+      title={MiCS: Near-linear Scaling for Training Gigantic Model on Public Cloud}, 
+      author={Zhen Zhang and Shuai Zheng and Yida Wang and Justin Chiu and George Karypis and Trishul Chilimbi and Mu Li and Xin Jin},
+      year={2022},
+      eprint={2205.00119},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2205.00119}, 
+}
+```
+
+
 #### Automatic Cross-Replica Sharding of Weight Update in Data-Parallel Training
 
-tag: `Automatic Cross-Replica Sharding` | `Google`
+tag: `Cross-Replica` | `XLA` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2004.13336.pdf)
 
@@ -94,6 +135,3 @@ citation:
       url={https://pytorch.org/docs/master/notes/ddp.html}
 }
 ```
-
-
-

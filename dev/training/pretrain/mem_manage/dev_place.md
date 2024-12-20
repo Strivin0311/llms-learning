@@ -1,4 +1,3 @@
-
 # Device Placement and Memory Management for LLMs Training
 *Here're some resources about Device Placement and Memory Management for LLMs Training*
 *Note that some strategies here can be utilized in inference as well*

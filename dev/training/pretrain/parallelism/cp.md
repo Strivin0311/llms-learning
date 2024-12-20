@@ -1,4 +1,3 @@
-
 # Context Parallelism for LLMs Training
 *Here're some resources about Context Parallelism for LLMs Training*
 *Note that the "sequence parallelism" usually refers to one attached parallelism strategy along with tensor parallelism, different from context parallelism*

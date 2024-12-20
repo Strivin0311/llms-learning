@@ -1,8 +1,75 @@
 
 # LLMs for Math
-*Here're some resources about Math LLMs*
+*Here're some resources about Math LLMs, w.r.t. reasoning capability of LLMs, or more precisely, LRMs*
 
 ## Method
+
+
+#### QwQ: Reflect Deeply on the Boundaries of the Unknown
+
+tag: `QWQ` | `Qwen` | `Alibaba Group`
+
+blog link: [here](https://qwenlm.github.io/blog/qwq-32b-preview/)
+
+github link: [here](https://github.com/QwenLM/Qwen2.5)
+
+modelhub link: [here](https://huggingface.co/collections/Qwen/qwq-674762b79b75eac01735070a)
+
+citation:
+
+```bibtex
+@misc{qwenlm2024qwq,
+  author  = {Qwen Team},
+  title   = {QwQ: Reflect Deeply on the Boundaries of the Unknown},
+  year    = {2024},
+  month   = {November},
+  url     = {https://qwenlm.github.io/blog/qwq-32b-preview/},
+}
+```
+
+
+#### Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions
+
+tag: `Marco-o1` | `MCTS` | `CoT` | `Marcopolo Team` | `Alibaba Group`
+
+paper link: [here](https://arxiv.org/pdf/2411.14405)
+
+github link: [here](https://github.com/AIDC-AI/Marco-o1)
+
+model link: [here](https://huggingface.co/AIDC-AI/Marco-o1)
+
+citation:
+
+```bibtex
+@misc{zhao2024marcoo1openreasoningmodels,
+      title={Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions}, 
+      author={Yu Zhao and Huifeng Yin and Bo Zeng and Hao Wang and Tianqi Shi and Chenyang Lyu and Longyue Wang and Weihua Luo and Kaifu Zhang},
+      year={2024},
+      eprint={2411.14405},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2411.14405}, 
+}
+```
+
+
+#### Learning to Reason with LLMs
+
+tag: `ChatGPT-o1` | `LRM` | `CoT` | `OpenAI`
+
+blog link: [here](https://openai.com/index/learning-to-reason-with-llms/)
+
+citation:
+
+```bibtex
+@misc{openai2024o1,
+  author  = {OpenAI Team},
+  title   = {Learning to Reason with LLMs},
+  year    = {2024},
+  month   = {September},
+  url     = {https://openai.com/index/learning-to-reason-with-llms/},
+}
+```
 
 
 #### Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B
@@ -275,7 +342,7 @@ citation:
 
 #### Let's Verify Step by Step
 
-tag: `PRM800K` | `ICLR24` | `OpenAI`
+tag: `PRM800K` | `Process Supervision` | `ICLR24` | `OpenAI`
 
 paper link: [here](https://openreview.net/pdf?id=v8L0pN6EOi)
 

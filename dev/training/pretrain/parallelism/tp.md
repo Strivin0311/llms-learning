@@ -1,4 +1,3 @@
-
 # Tensor Parallelism for LLMs Training
 *Here're some resources about Tensor Parallelism for LLMs Training*
 *Note that the "sequence parallelism" usually refers to one attached parallelism strategy along with tensor parallelism*
