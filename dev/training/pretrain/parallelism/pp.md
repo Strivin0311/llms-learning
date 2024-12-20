@@ -116,7 +116,7 @@ citation:
 
 #### Chimera: Efficiently Training Large-Scale Neural Networks with Bidirectional Pipelines
 
-tag: `Chimera` | `Bidirectional PP` | `SC21`
+tag: `Chimera` | `Bidirectional PP` | `SC21` | `ETHZ`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3458817.3476145)
 
@@ -140,9 +140,43 @@ citation:
 }
 ```
 
+
+#### PipeTransformer: Automated Elastic Pipelining for Distributed Training of Large-scale Models
+
+tag: `PipeTransformer` | `ICML21` | `Meta` | `USC`
+
+paper link: [here](https://proceedings.mlr.press/v139/he21a/he21a.pdf)
+
+slides link: [here](https://docs.google.com/presentation/d/1t6HWL33KIQo2as0nSHeBpXYtTBcy0nXCoLiKd0EashY/edit#slide=id.p)
+
+github link: [here](https://github.com/Distributed-AI/PipeTransformer)
+
+homepage link: [here](https://chaoyanghe.com/pipetransformer/)
+
+citation:
+
+```bibtex
+
+@InProceedings{he2021pipetransformer,
+  title = 	 {PipeTransformer: Automated Elastic Pipelining for Distributed Training of Large-scale Models},
+  author =       {He, Chaoyang and Li, Shen and Soltanolkotabi, Mahdi and Avestimehr, Salman},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {4150--4159},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/he21a/he21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v139/he21a.html},
+}
+```
+
+
 #### GEMS: GPU-Enabled Memory-Aware Model-Parallelism System for Distributed DNN Training
 
-tag: `GEMS` | `SC20`
+tag: `GEMS` | `SC20` | `OSU`
 
 paper link: [here](https://ieeexplore.ieee.org/document/9355254)
 
@@ -185,7 +219,7 @@ citation:
 
 #### Memory-Efficient Pipeline-Parallel DNN Training
 
-tag: `PipeDream-2BW` | `PipeDream-Flush` | `Double-Buffered Weight Updates` | `ICML21` | `Microsysoft` | `Standford University`
+tag: `PipeDream` | `PipeDream-2BW` | `PipeDream-Flush` | `Double-Buffered Weight Updates` | `ICML21` | `Microsoft` | `Standford University`
 
 paper link: [here](https://proceedings.mlr.press/v139/narayanan21a/narayanan21a.pdf)
 
@@ -199,6 +233,28 @@ citation:
       eprint={2006.09503},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
+}
+```
+
+#### torchgpipe: On-the-fly Pipeline Parallelism for Training Giant Models
+
+tag: `torchgpipe` | `Kakao Brain`
+
+paper link: [here](https://arxiv.org/pdf/2004.09910)
+
+github link: [here](https://github.com/kakaobrain/torchgpipe)
+
+citation:
+
+```bibtex
+@misc{kim2020torchgpipeontheflypipelineparallelism,
+      title={torchgpipe: On-the-fly Pipeline Parallelism for Training Giant Models}, 
+      author={Chiheon Kim and Heungsub Lee and Myungryong Jeong and Woonhyuk Baek and Boogeon Yoon and Ildoo Kim and Sungbin Lim and Sungwoong Kim},
+      year={2020},
+      eprint={2004.09910},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2004.09910}, 
 }
 ```
 
