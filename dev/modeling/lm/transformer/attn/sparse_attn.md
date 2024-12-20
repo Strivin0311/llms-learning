@@ -25,6 +25,29 @@ citation:
 ```
 
 
+#### Post-Training Sparse Attention with Double Sparsity
+
+tag: `Double Sparsity` | `UCB` | `Standford University` | `Shanghai Jiao Tong University`
+
+paper link: [here](https://arxiv.org/pdf/2408.07092)
+
+github link: [here](https://github.com/andy-yang-1/DoubleSparse)
+
+citation:
+
+```bibtex
+@misc{yang2024posttrainingsparseattentiondouble,
+      title={Post-Training Sparse Attention with Double Sparsity}, 
+      author={Shuo Yang and Ying Sheng and Joseph E. Gonzalez and Ion Stoica and Lianmin Zheng},
+      year={2024},
+      eprint={2408.07092},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2408.07092}, 
+}
+```
+
+
 #### MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
 
 tag: `Dynamic Sparse Attention` | `MInference 1.0` | `NIPS24` | `Microsoft`

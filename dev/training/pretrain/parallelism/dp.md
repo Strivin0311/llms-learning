@@ -27,11 +27,13 @@ citation:
 
 tag: `FSDP` | `FSDP-v1` | `FSDP-v2` | `VLDB23` | `Pytorch` | `Meta`
 
-paper link: [here](https://arxiv.org/pdf/2304.11277)
+paper link: [here](https://www.vldb.org/pvldb/vol16/p3848-huang.pdf)
 
 blog link: [here](https://pytorch.org/blog/introducing-pytorch-fully-sharded-data-parallel-api/)
 
 docs link: [here](https://pytorch.org/docs/stable/fsdp.html)
+
+tutorial link: [here](https://pytorch.org/tutorials/intermediate/FSDP_tutorial.html)
 
 notes link: [here](https://pytorch.org/docs/stable/notes/fsdp.html)
 
@@ -66,6 +68,33 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.DC},
       url={https://arxiv.org/abs/2205.00119}, 
+}
+```
+
+
+#### Gradient Compression Supercharged High-Performance Data Parallel DNN Training
+
+tag: `HiPress` | `CaSync` | `CompLL` | `SOSP21` | `USTC`
+
+paper link: [here](https://www.ruichuan.org/papers/hipress-sosp21.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{bai2021gradient,
+      author = {Bai, Youhui and Li, Cheng and Zhou, Quan and Yi, Jun and Gong, Ping and Yan, Feng and Chen, Ruichuan and Xu, Yinlong},
+      title = {Gradient Compression Supercharged High-Performance Data Parallel DNN Training},
+      year = {2021},
+      isbn = {9781450387095},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3477132.3483553},
+      doi = {10.1145/3477132.3483553},
+      pages = {359–375},
+      numpages = {17},
+      keywords = {gradient compression, DNN training},
+      location = {Virtual Event, Germany},
+      series = {SOSP '21}
 }
 ```
 

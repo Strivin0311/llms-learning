@@ -4,11 +4,31 @@
 
 ## Method
 
+
+#### Starburst: A Cost-aware Scheduler for Hybrid Cloud
+
+tag: `Starburst` | `ATC24` | `UCB`
+
+paper link: [here](https://www.usenix.org/system/files/atc24-luo.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{luo2024starburst,
+  title={Starburst: A Cost-aware Scheduler for Hybrid Cloud},
+  author={Luo, Michael and Zhuang, Siyuan and Vengadesan, Suryaprakash and Bhardwaj, Romil and Chang, Justin and Friedman, Eric and Shenker, Scott and Stoica, Ion},
+  booktitle={2024 USENIX Annual Technical Conference (USENIX ATC 24)},
+  pages={37--57},
+  year={2024}
+}
+```
+
+
 #### OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training
 
 tag: `OpenDiLoCo` | `Prime Intellect`
 
-paper link: [here](https://arxiv.org/pdf/2407.07852v1)
+paper link: [here](https://arxiv.org/pdf/2407.07852)
 
 github link: [here](https://github.com/PrimeIntellect-ai/OpenDiLoCo)
 
@@ -33,7 +53,7 @@ tag: `DiLoCo` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2311.08105)
 
-follow-up work: [here](https://arxiv.org/pdf/2407.07852v1)
+follow-up work: [here](https://arxiv.org/pdf/2407.07852)
 
 citation:
 

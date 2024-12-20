@@ -178,6 +178,33 @@ citation:
 ```
 
 
+#### PatrickStar: Parallel Training of Pre-trained Models via Chunk-based Memory Management
+
+tag: `PatrickStar` | `TPDS22` | `Tencent` | `NUS`
+
+paper link: [here](https://arxiv.org/pdf/2108.05818)
+
+github link: [here](https://github.com/Tencent/PatrickStar)
+
+citation:
+
+```bibtex
+@article{Fang_2023,
+   title={Parallel Training of Pre-Trained Models via Chunk-Based Dynamic Memory Management},
+   volume={34},
+   ISSN={2161-9883},
+   url={http://dx.doi.org/10.1109/TPDS.2022.3219819},
+   DOI={10.1109/tpds.2022.3219819},
+   number={1},
+   journal={IEEE Transactions on Parallel and Distributed Systems},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Fang, Jiarui and Zhu, Zilin and Li, Shenggui and Su, Hui and Yu, Yang and Zhou, Jie and You, Yang},
+   year={2023},
+   month=jan, pages={304–315} }
+
+```
+
+
 #### ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning
 
 tag: `ZeRO-Infinity` | `NVMe SSD` | `Infinity Offload Engine` | `Microsoft`

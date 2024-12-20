@@ -3,6 +3,28 @@
 *Note that the "heterogeneous" here is a general term, including the heterogeneity of devices, models, data, etc*
 
 
+#### FlashFlex: Accommodating Large Language Model Training over Heterogeneous Environment
+
+tag: `FlashFlex` | `HKUST` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2409.01143)
+
+github link: [here](https://github.com/Relaxed-System-Lab/FlashFlex)
+
+citation:
+
+```bibtex
+@misc{yan2024flashflexaccommodatinglargelanguage,
+      title={FlashFlex: Accommodating Large Language Model Training over Heterogeneous Environment}, 
+      author={Ran Yan and Youhe Jiang and Wangcheng Tao and Xiaonan Nie and Bin Cui and Binhang Yuan},
+      year={2024},
+      eprint={2409.01143},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2409.01143}, 
+}
+```
+
 
 #### Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning
 
@@ -68,5 +90,32 @@ citation:
     url = {https://www.usenix.org/conference/atc22/presentation/jia-xianyan},
     publisher = {USENIX Association},
     month = jul
+}
+```
+
+
+#### Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce
+
+tag: `Partial Reduce` | `SIGMOD21` | `Peking University`
+
+paper link: [here](https://hsword.github.io/assets/pdf/sigmod2021-preduce.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{miao2021heterogeneityaware,
+      author = {Miao, Xupeng and Nie, Xiaonan and Shao, Yingxia and Yang, Zhi and Jiang, Jiawei and Ma, Lingxiao and Cui, Bin},
+      title = {Heterogeneity-Aware Distributed Machine Learning Training via Partial Reduce},
+      year = {2021},
+      isbn = {9781450383431},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3448016.3452773},
+      doi = {10.1145/3448016.3452773},
+      pages = {2262–2270},
+      numpages = {9},
+      keywords = {all-reduce, distributed machine learning, heterogeneity},
+      location = {Virtual Event, China},
+      series = {SIGMOD '21}
 }
 ```

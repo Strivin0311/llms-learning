@@ -3,6 +3,48 @@
 *Note that some of the methods below might be general techniques for MoE training beyond expert parallelism, and even overlapped with MoE modeling*
 
 
+#### MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs
+
+tag: `MoE-Lightning` | `UCB`
+
+paper link: [here](https://arxiv.org/pdf/2411.11217)
+
+citation:
+
+```bibtex
+@misc{cao2024moelightninghighthroughputmoeinference,
+      title={MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs}, 
+      author={Shiyi Cao and Shu Liu and Tyler Griggs and Peter Schafhalter and Xiaoxuan Liu and Ying Sheng and Joseph E. Gonzalez and Matei Zaharia and Ion Stoica},
+      year={2024},
+      eprint={2411.11217},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2411.11217}, 
+}
+```
+
+
+#### LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing
+
+tag: `LSH-MoE` | `LSH` | `NIPS24` | `ByteDance` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2411.08446)
+
+citation:
+
+```bibtex
+@misc{nie2024lshmoecommunicationefficientmoetraining,
+      title={LSH-MoE: Communication-efficient MoE Training via Locality-Sensitive Hashing}, 
+      author={Xiaonan Nie and Qibin Liu and Fangcheng Fu and Shenhan Zhu and Xupeng Miao and Xiaoyang Li and Yang Zhang and Shouda Liu and Bin Cui},
+      year={2024},
+      eprint={2411.08446},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2411.08446}, 
+}
+```
+
+
 #### Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models
 
 tag: `Skywork MoE` | `Skywork Team, Kunlun Inc`
