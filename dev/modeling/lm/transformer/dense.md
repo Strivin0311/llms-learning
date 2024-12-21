@@ -2,6 +2,31 @@
 *Here're some resources about Dense Transformer Language Modeling for LLMs*
 
 
+#### Phi-4 Technical Report
+
+tag: `Phi-4` | `Phi` | `SLM` | `PTS` | `Pivotal Token Search` | `judge-guided DPO` | `Microsoft`
+
+paper link: [here](https://arxiv.org/pdf/2412.08905)
+
+blog link: [here](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090)
+
+model link: [here](https://huggingface.co/NyxKrage/Microsoft_Phi-4)
+
+citation:
+
+```bibtex
+@misc{abdin2024phi4technicalreport,
+      title={Phi-4 Technical Report}, 
+      author={Marah Abdin and Jyoti Aneja and Harkirat Behl and Sébastien Bubeck and Ronen Eldan and Suriya Gunasekar and Michael Harrison and Russell J. Hewett and Mojan Javaheripi and Piero Kauffmann and James R. Lee and Yin Tat Lee and Yuanzhi Li and Weishung Liu and Caio C. T. Mendes and Anh Nguyen and Eric Price and Gustavo de Rosa and Olli Saarikivi and Adil Salim and Shital Shah and Xin Wang and Rachel Ward and Yue Wu and Dingli Yu and Cyril Zhang and Yi Zhang},
+      year={2024},
+      eprint={2412.08905},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.08905}, 
+}
+```
+
+
 #### The Llama 3 Herd of Models
 
 tag: `Llama-3` | `Meta`
@@ -30,7 +55,6 @@ citation:
 ```
 
 
-
 #### The Claude 3 Model Family- Opus, Sonnet, Haiku
 
 tag: `Claude-3` | `Anthropic`
@@ -49,6 +73,30 @@ citation:
   author = {Anthropic},
   year   = {2024},
   howpublished = {\url{https://www.anthropic.com/}},
+}
+```
+
+
+#### Phi-2: The surprising power of small language models
+
+tag: `Phi-2` | `Phi` | `SLM` | `Microsoft`
+
+blog link: [here](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+
+model link: [here](https://huggingface.co/microsoft/phi-2)
+
+followup work: [here](https://arxiv.org/pdf/2404.14219)
+
+citation:
+
+```bibtex
+@article{phi2blog,
+      title = {Phi-2: The Surprising Power of Small Language Models},
+      author = {Abdin, Marah and Aneja, Jyoti and Bubeck, Sebastien and Teodoro Mendes, Caio César and Chen, Weizhu and Del Giorno, Allie and Eldan, Ronen and Gopi, Sivakanth and Gunasekar, Suriya and Javaheripi, Mojan and Kauffmann, Piero and Lee, Yin Tat and Li, Yuanzhi and Nguyen, Anh and de Rosa, Gustavo and Saarikivi, Olli and Salim, Adil and Shah, Shital and Santacroce, Michael and Singh Behl, Harkirat and Taumann Kalai, Adam and Wang, Xin and Ward, Rachel and Witte, Philipp and Zhang, Cyril and Zhang, Yi},
+      year = {2023},
+      url = {https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/},
+      urldate = {2023-12-12},
+      journal = {Microsoft Research Blog}
 }
 ```
 

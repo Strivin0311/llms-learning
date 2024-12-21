@@ -29,6 +29,31 @@ citation:
 ```
 
 
+#### Falcon Mamba: The First Competitive Attention-free 7B Language Model
+
+tag: `Falcon Mamba` | `SSLM` | `TII`
+
+paper link: [here](https://arxiv.org/pdf/2410.05355)
+
+blog link: [here](https://falconllm.tii.ae/tii-releases-first-sslm-with-falcon-mamba-7b.html)
+
+modelhub link: [here](https://huggingface.co/collections/tiiuae/falconmamba-7b-66b9a580324dd1598b0f6d4a)
+
+citation:
+
+```bibtex
+@misc{zuo2024falconmambacompetitiveattentionfree,
+      title={Falcon Mamba: The First Competitive Attention-free 7B Language Model}, 
+      author={Jingwei Zuo and Maksim Velikanov and Dhia Eddine Rhaiem and Ilyas Chahed and Younes Belkada and Guillaume Kunsch and Hakim Hacid},
+      year={2024},
+      eprint={2410.05355},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.05355}, 
+}
+```
+
+
 #### Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling
 
 tag: `Samba` | `Microsoft`

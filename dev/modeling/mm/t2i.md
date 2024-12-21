@@ -594,6 +594,35 @@ citation:
 }
 ```
 
+#### FLAVA: A Foundational Language And Vision Alignment Model
+
+tag: `FLAVA` | `CVPR22` | `Meta`
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_FLAVA_A_Foundational_Language_and_Vision_Alignment_Model_CVPR_2022_paper.pdf)
+
+blog link: [here](https://pytorch.org/blog/scaling-multimodal-foundation-models-in-torchmultimodal-with-pytorch-distributed/)
+
+github link: [here](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)
+
+model link: [here](https://huggingface.co/facebook/flava-full)
+
+homepage link: [here](https://flava-model.github.io/)
+
+citation:
+
+```bibtex
+@misc{singh2022flavafoundationallanguagevision,
+      title={FLAVA: A Foundational Language And Vision Alignment Model}, 
+      author={Amanpreet Singh and Ronghang Hu and Vedanuj Goswami and Guillaume Couairon and Wojciech Galuba and Marcus Rohrbach and Douwe Kiela},
+      year={2022},
+      eprint={2112.04482},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2112.04482}, 
+}
+```
+
+
 #### Leveraging Batch Normalization for Vision Transformers
 
 tag: `ViT` | `ViT-BN` | `ViT-FFNBN` | `ICCV21` | `MSRA` | `Tsinghua University`

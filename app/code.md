@@ -31,6 +31,56 @@ citation:
 ```
 
 
+#### Textbooks Are All You Need II: phi-1.5 technical report
+
+tag: `Phi-1.5` | `Phi` | `SLM` | `Microsoft`
+
+paper link: [here](https://arxiv.org/pdf/2309.05463)
+
+model link: [here](https://huggingface.co/microsoft/phi-1_5)
+
+followup work: [here](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+
+citation:
+
+```bibtex
+@misc{li2023textbooksneediiphi15,
+      title={Textbooks Are All You Need II: phi-1.5 technical report}, 
+      author={Yuanzhi Li and Sébastien Bubeck and Ronen Eldan and Allie Del Giorno and Suriya Gunasekar and Yin Tat Lee},
+      year={2023},
+      eprint={2309.05463},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2309.05463}, 
+}
+```
+
+
+#### Textbooks Are All You Need
+
+tag: `Phi-1` | `Phi` | `SLM` | `Microsoft`
+
+paper link: [here](https://arxiv.org/pdf/2306.11644)
+
+model link: [here](https://huggingface.co/microsoft/phi-1)
+
+followup work: [here](https://arxiv.org/pdf/2309.05463)
+
+citation:
+
+```bibtex
+@misc{gunasekar2023textbooksneed,
+      title={Textbooks Are All You Need}, 
+      author={Suriya Gunasekar and Yi Zhang and Jyoti Aneja and Caio César Teodoro Mendes and Allie Del Giorno and Sivakanth Gopi and Mojan Javaheripi and Piero Kauffmann and Gustavo de Rosa and Olli Saarikivi and Adil Salim and Shital Shah and Harkirat Singh Behl and Xin Wang and Sébastien Bubeck and Ronen Eldan and Adam Tauman Kalai and Yin Tat Lee and Yuanzhi Li},
+      year={2023},
+      eprint={2306.11644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2306.11644}, 
+}
+```
+
+
 ## Benchmark
 
 
