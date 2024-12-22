@@ -341,9 +341,13 @@ citation:
 
 #### Attention is all you need
 
-tag: `NHA` | `Multi-Head Attention` | `NIPS17` | `Google`
+tag: `MHA` | `Multi-Head Attention` | `Transformer` | `Self-Attention` | `SinPE` | `NIPS17` | `Google`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+blog link: [here](https://nlp.seas.harvard.edu/annotated-transformer/)
+
+github link: [here](https://github.com/tensorflow/tensor2tensor)
 
 citation:
 

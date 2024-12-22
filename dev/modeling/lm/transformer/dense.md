@@ -152,9 +152,11 @@ citation:
 
 #### Attention is all you need
 
-tag: `Transformer` | `NIPS17` | `Google`
+tag: `Transformer` | `Self-Attention` | `MHA` | `SinPE` | `NIPS17` | `Google`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+blog link: [here](https://nlp.seas.harvard.edu/annotated-transformer/)
 
 github link: [here](https://github.com/tensorflow/tensor2tensor)
 

@@ -327,7 +327,7 @@ citation:
 
 #### Attention is all you need
 
-tag: `SinPE` | `Sinusoidal PE` | `NIPS17` | `Google`
+tag: `SinPE` | `Sinusoidal PE` | `Transformer` | `Self-Attention` | `MHA` | `NIPS17` | `Google`
 
 overview:
 
@@ -346,6 +346,8 @@ $$
 $$
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+
+blog link: [here](https://nlp.seas.harvard.edu/annotated-transformer/)
 
 github link: [here](https://github.com/tensorflow/tensor2tensor)
 

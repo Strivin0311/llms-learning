@@ -25,7 +25,7 @@ citation:
 
 #### PyTorch FSDP: Experiences on Scaling Fully Sharded Data Parallel
 
-tag: `FSDP` | `FSDP-v1` | `FSDP-v2` | `VLDB23` | `Pytorch` | `Meta`
+tag: `FSDP` | `HSDP` | `VLDB23` | `Pytorch` | `Meta`
 
 paper link: [here](https://www.vldb.org/pvldb/vol16/p3848-huang.pdf)
 

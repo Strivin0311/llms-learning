@@ -387,7 +387,32 @@ citation:
    publisher={IEEE},
    author={Cherti, Mehdi and Beaumont, Romain and Wightman, Ross and Wortsman, Mitchell and Ilharco, Gabriel and Gordon, Cade and Schuhmann, Christoph and Schmidt, Ludwig and Jitsev, Jenia},
    year={2023},
-   month=jun }
+   month=jun
+}
+```
+
+
+#### InstructPix2Pix: Learning to Follow Image Editing Instructions
+
+tag: `InstructPix2Pix` | `CVPR23` | `UCB`
+
+paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)
+
+github link: [here](https://github.com/timothybrooks/instruct-pix2pix)
+
+homepage link: [here](https://www.timothybrooks.com/instruct-pix2pix)
+
+citation:
+
+```bibtex
+@InProceedings{brooks2023instructpix2pix,
+    author    = {Brooks, Tim and Holynski, Aleksander and Efros, Alexei A.},
+    title     = {InstructPix2Pix: Learning To Follow Image Editing Instructions},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {18392-18402}
+}
 ```
 
 
