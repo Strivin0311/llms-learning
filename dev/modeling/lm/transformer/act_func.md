@@ -91,7 +91,7 @@ citation:
 
 #### Gaussian Error Linear Units (GELUs)
 
-tag: `GELU` | `UCB`
+tag: `GELU` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/1606.08415)
 

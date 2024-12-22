@@ -7,7 +7,7 @@
 
 #### Starburst: A Cost-aware Scheduler for Hybrid Cloud
 
-tag: `Starburst` | `ATC24` | `UCB`
+tag: `Starburst` | `ATC24` | `UC Berkeley`
 
 paper link: [here](https://www.usenix.org/system/files/atc24-luo.pdf)
 
@@ -151,7 +151,7 @@ citation:
 
 #### On Optimizing the Communication of Model Parallelism
 
-tag: `AlpaComm` | `MBZUAI` | `CMU` | `Tsinghua University` | `UCB`
+tag: `AlpaComm` | `MBZUAI` | `CMU` | `Tsinghua University` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2211.05322)
 

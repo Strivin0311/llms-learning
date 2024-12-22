@@ -322,7 +322,7 @@ citation:
 
 #### Reversible Vision Transformers
 
-tag: `Rev-ViT` | `Rev-MViT` | `CVPR22` | `Meta` | `UCB`
+tag: `Rev-ViT` | `Rev-MViT` | `CVPR22` | `Meta` | `UC Berkeley`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Mangalam_Reversible_Vision_Transformers_CVPR_2022_paper.pdf)
 
@@ -345,7 +345,7 @@ citation:
 
 #### Scalable Diffusion Models with Transformers
 
-tag: `DiT` | `UCB`
+tag: `DiT` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2212.09748)
 
@@ -370,7 +370,7 @@ citation:
 
 #### Reproducible scaling laws for contrastive language-image learning
 
-tag: `OpenCLIP` | `LAION` | `UCB`
+tag: `OpenCLIP` | `LAION` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2212.07143)
 
@@ -394,7 +394,7 @@ citation:
 
 #### InstructPix2Pix: Learning to Follow Image Editing Instructions
 
-tag: `InstructPix2Pix` | `CVPR23` | `UCB`
+tag: `InstructPix2Pix` | `CVPR23` | `UC Berkeley`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)
 
@@ -945,7 +945,7 @@ citation:
 
 #### Denoising Diffusion Probabilistic Models
 
-tag: `DDPM` | `UCB`
+tag: `DDPM` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2006.11239)
 

@@ -51,7 +51,7 @@ citation:
 
 #### Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
 
-tag: `Alpa` | `OSDI22` | `Google` | `AWS` | `UCB` | `SJTU`
+tag: `Alpa` | `OSDI22` | `Google` | `AWS` | `UC Berkeley` | `SJTU`
 
 paper link: [here](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
 

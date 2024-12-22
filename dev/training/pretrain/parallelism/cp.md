@@ -72,7 +72,7 @@ citation:
 
 #### DISTFLASHATTN: Distributed Memory-efficient Attention for Long-context LLMs Training
 
-tag: `DISTFLASHATTN` | `COLM24` | `UCB`
+tag: `DISTFLASHATTN` | `COLM24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.03294)
 
@@ -95,7 +95,7 @@ citation:
 
 #### Ring Attention with Blockwise Transformers for Near-Infinite Context
 
-tag: `Ring Attention` | `Ring Flash Attention` | `ICLR24` | `UCB`
+tag: `Ring Attention` | `Ring Flash Attention` | `ICLR24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.01889)
 

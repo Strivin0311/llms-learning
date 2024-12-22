@@ -128,7 +128,7 @@ citation:
 
 #### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
 
-tag: `QFT` | `UCAS` | `UCB`
+tag: `QFT` | `UCAS` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.07147)
 
@@ -168,7 +168,7 @@ citation:
 
 #### SqueezeLLM: Dense-and-Sparse Quantization
 
-tag: `SqueezeLLM` | `ICML24` | `UCB`
+tag: `SqueezeLLM` | `ICML24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2306.07629)
 

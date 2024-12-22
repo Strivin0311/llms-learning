@@ -5,7 +5,7 @@
 
 #### MoE-Lightning: High-Throughput MoE Inference on Memory-constrained GPUs
 
-tag: `MoE-Lightning` | `UCB`
+tag: `MoE-Lightning` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2411.11217)
 

@@ -46,6 +46,7 @@ Hope you find this repository handy and helpful for your llms learning journey! 
     * [Serving](./dev/inference/serving.md)
     * [Quantization](./dev/inference/quantize.md)
     * [Pruning](./dev/inference/prune.md)
+    * [Compression](./dev/inference/compress.md)
     * [Decoding](./dev/inference/decode.md)
     * [Evaluation](./dev/inference/evaluate.md)
     * [Prompt Learning and Engineering](./dev/inference/prompt.md)

@@ -152,7 +152,7 @@ citation:
 
 #### Loss Spike in Training Neural Networks
 
-tag: `Loss Spike` | `Shanghai Jiao Tong University`
+tag: `Loss Spike` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2305.12133)
 
@@ -190,7 +190,7 @@ citation:
 
 #### Eliciting Latent Predictions from Transformers with the Tuned Lens
 
-tag: `Tuned Lens` | `Logits Lens` | `UCB`
+tag: `Tuned Lens` | `Logits Lens` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2303.08112)
 

@@ -121,7 +121,7 @@ citation:
 
 #### QFT: Quantized Full-parameter Tuning of LLMs with Affordable Resources
 
-tag: `QFT` | `MEFT` | `UCAS` | `UCB`
+tag: `QFT` | `MEFT` | `UCAS` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.07147)
 

@@ -226,7 +226,7 @@ citation:
 
 #### Pairwise Proximal Policy Optimization: Harnessing Relative Feedback for LLM Alignment
 
-tag: `P3O` | `UCB`
+tag: `P3O` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.00212.pdf)
 
@@ -268,7 +268,7 @@ citation:
 
 #### Fine-Tuning Language Models with Advantage-Induced Policy Alignment
 
-tag: `APA` | `UCB`
+tag: `APA` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2306.02231)
 
@@ -403,7 +403,7 @@ citation:
     
 #### Principled Reinforcement Learning with Human Feedback from Pairwise or K-wise Comparisons
 
-tag: `K-wise Comparison` | `ICML23` | `UCB`
+tag: `K-wise Comparison` | `ICML23` | `UC Berkeley`
 
 paper link: [here](https://proceedings.mlr.press/v202/zhu23f/zhu23f.pdf)
 
@@ -442,7 +442,7 @@ citation:
 
 #### Self-Prompting Large Language Models for Zero-Shot Open-Domain QA
 
-tag: `Self-Prompting` | `IFT` | `Instruction Tuning` | `NAACL24` | `Shanghai Jiao Tong University`
+tag: `Self-Prompting` | `IFT` | `Instruction Tuning` | `NAACL24` | `SJTU`
 
 paper link: [here](https://aclanthology.org/2024.naacl-long.17.pdf)
 
@@ -504,7 +504,7 @@ citation:
 
 #### Offline RL for Natural Language Generation with Implicit Language Q Learning
 
-tag: `ILQL` | `ICLR23` | `UCB`
+tag: `ILQL` | `ICLR23` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2211.11073.pdf)
 

@@ -162,7 +162,7 @@ citation:
 
 #### Efficient memory management for large language model serving with pagedattention
 
-tag: `Paged Attention` | `SOSP23` | `UC Berkeley` | `Stanford University`
+tag: `Paged Attention` | `vLLM` | `SOSP23` | `UC Berkeley` | `Stanford University`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)
 

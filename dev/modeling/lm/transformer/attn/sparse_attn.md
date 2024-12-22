@@ -27,7 +27,7 @@ citation:
 
 #### Post-Training Sparse Attention with Double Sparsity
 
-tag: `Double Sparsity` | `UCB` | `Standford University` | `Shanghai Jiao Tong University`
+tag: `Double Sparsity` | `UC Berkeley` | `Standford University` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2408.07092)
 
@@ -350,7 +350,7 @@ citation:
 
 #### Lite transformer with long-short range attention
 
-tag: `Lite Transformer` | `ICLR20` | `MIT` | `Shanghai Jiao Tong University`
+tag: `Lite Transformer` | `ICLR20` | `MIT` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2004.11886)
 

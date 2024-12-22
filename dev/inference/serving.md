@@ -4,29 +4,6 @@
 
 ## Method
 
-#### ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference
-
-tag: `ShadowKV` | `ByteDance` | `CMU`
-
-paper link: [here](https://arxiv.org/pdf/2410.21465)
-
-github link: [here](https://github.com/bytedance/ShadowKV/)
-
-citation:
-
-```bibtex
-@misc{sun2024shadowkvkvcacheshadows,
-      title={ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference}, 
-      author={Hanshi Sun and Li-Wen Chang and Wenlei Bao and Size Zheng and Ningxin Zheng and Xin Liu and Harry Dong and Yuejie Chi and Beidi Chen},
-      year={2024},
-      eprint={2410.21465},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.21465}, 
-}
-```
-
-
 #### 1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs
 
 tag: `BitNet.cpp` | `BitNet b1.58` | `Microsoft`
@@ -77,6 +54,29 @@ citation:
 ```
 
 
+#### PowerInfer-2: Fast Large Language Model Inference on a Smartphone
+
+tag: `PowerInfer-2` | `IPADS` | `SJTU`
+
+paper link: [here](https://arxiv.org/pdf/2410.11298)
+
+github link: [here](https://github.com/SJTU-IPADS/PowerInfer)
+
+citation:
+
+```bibtex
+@misc{xue2024powerinfer2fastlargelanguage,
+      title={PowerInfer-2: Fast Large Language Model Inference on a Smartphone}, 
+      author={Zhenliang Xue and Yixin Song and Zeyu Mi and Xinrui Zheng and Yubin Xia and Haibo Chen},
+      year={2024},
+      eprint={2406.06282},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.06282}, 
+}
+```
+
+
 #### Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve
 
 tag: `Sarathi-Serve` | `OSDI24` | `Microsoft`
@@ -102,7 +102,7 @@ citation:
 
 #### Fast Inference of Mixture-of-Experts Language Models with Offloading
 
-tag: `Mixtral-Offloading`
+tag: `Expert Offloading` | `Mixtral` | `MoE`
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
@@ -123,9 +123,13 @@ citation:
 
 #### PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU
 
-tag: `PowerInfer` | `SOSP24` | `Shanghai Jiao Tong University`
+tag: `PowerInfer` | `SOSP24` | `IPADS` | `SJTU`
 
-paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3694715.3695964)
+paper link: [here](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
+
+github link: [here](https://github.com/SJTU-IPADS/PowerInfer)
+
+followup work: [here](https://arxiv.org/pdf/2410.11298)
 
 citation:
 
@@ -159,7 +163,7 @@ citation:
 
 #### S-LoRA: Serving Thousands of Concurrent LoRA Adapters
 
-tag: `S-LoRA` | `MLSys24` | `UCB` | `Stanford University`
+tag: `S-LoRA` | `MLSys24` | `UC Berkeley` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2311.03285)
 
@@ -328,7 +332,7 @@ citation:
 
 #### A BetterTransformer for Fast Transformer Inference
 
-tag: `BetterTransformer`
+tag: `BetterTransformer` | `PyTorch` | `Meta`
 
 blog link: [here](https://pytorch.org/blog/a-better-transformer-for-fast-transformer-encoder-inference/)
 

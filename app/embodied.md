@@ -91,7 +91,7 @@ citation:
 
 #### Language models as zero-shot planners: Extracting actionable knowledge for embodied agents
 
-tag: `Language Planner` | `ICML22` | `UCB`
+tag: `Language Planner` | `ICML22` | `UC Berkeley`
 
 paper link: [here](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
 

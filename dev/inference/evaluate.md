@@ -4,7 +4,7 @@
 
 #### Rethinking Benchmark and Contamination for Language Models with Rephrased Samples
 
-tag: `LLM Decontaminator` | `UCB` | `Shanghai Jiao Tong University`
+tag: `LLM Decontaminator` | `UC Berkeley` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2311.04850)
 
@@ -112,7 +112,7 @@ citation:
 
 #### Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 
-tag: `LLM-as-a-judge` | `MT-Bench` | `Chatbot Arena` | `NIPS23` | `UCB`
+tag: `LLM-as-a-judge` | `MT-Bench` | `Chatbot Arena` | `NIPS23` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2306.05685.pdf)
 
@@ -160,7 +160,7 @@ citation:
 
 #### C-eval: A multi-level multi-discipline chinese evaluation suite for foundation models
 
-tag: `C-eval` | `NIPS23` | `Shanghai Jiao Tong University` | `Tsinghua University`
+tag: `C-eval` | `NIPS23` | `SJTU` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2305.08322)
 
@@ -237,7 +237,7 @@ citation:
 
 #### Measuring massive multitask language understanding
 
-tag: `MMLU` | `ICLR21` | `UCB`
+tag: `MMLU` | `ICLR21` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2009.03300)
 

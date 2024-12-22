@@ -519,7 +519,7 @@ citation:
 
 #### How Do Transformers Learn In-Context Beyond Simple Functions? A Case Study on Learning with Representations
 
-tag: `ICL` | `ICLR24` | `Salesforce AI Research` | `UCB`
+tag: `ICL` | `ICLR24` | `Salesforce AI Research` | `UC Berkeley`
 
 paper link: [here](https://openreview.net/pdf?id=ikwEDva1JZ)
 

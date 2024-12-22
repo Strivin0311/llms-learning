@@ -429,7 +429,7 @@ citation:
 
 #### Measuring Mathematical Problem Solving With the MATH Dataset
 
-tag: `MATH` | `NIPS21` | `UCB`
+tag: `MATH` | `NIPS21` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2103.03874.pdf)
 
