@@ -2,6 +2,28 @@
 *Here're some resources about Sparse Attention modules in language modeling*
 
 
+
+#### HashAttention: Semantic Sparsity for Faster Inference
+
+tag: `HashAttention` | `UC Berkeley` | `ETHZ`
+
+paper link: [here](https://arxiv.org/pdf/2412.14468)
+
+citation:
+
+```bibtex
+@misc{desai2024hashattentionsemanticsparsityfaster,
+      title={HashAttention: Semantic Sparsity for Faster Inference}, 
+      author={Aditya Desai and Shuo Yang and Alejandro Cuadron and Ana Klimovic and Matei Zaharia and Joseph E. Gonzalez and Ion Stoica},
+      year={2024},
+      eprint={2412.14468},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2412.14468}, 
+}
+```
+
+
 #### Star Attention: Efficient LLM Inference over Long Sequences
 
 tag: `Star Attention` | `Nvidia`

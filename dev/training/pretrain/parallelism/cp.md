@@ -26,6 +26,27 @@ citation:
 ```
 
 
+#### WallFacer: Harnessing Multi-dimensional Ring Parallelism for Efficient Long Sequence Model Training
+
+tag: `WallFacer` | `Ring Attention` | `NUS` | `UC Berkeley`
+
+paper link: [here](https://arxiv.org/pdf/2407.00611)
+
+citation:
+
+```bibtex
+@misc{liu2024wallfacerharnessingmultidimensionalring,
+      title={WallFacer: Harnessing Multi-dimensional Ring Parallelism for Efficient Long Sequence Model Training}, 
+      author={Ziming Liu and Shaoyu Wang and Shenggan Cheng and Zhongkai Zhao and Kai Wang and Xuanlei Zhao and James Demmel and Yang You},
+      year={2024},
+      eprint={2407.00611},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2407.00611}, 
+}
+```
+
+
 #### USP: A Unified Sequence Parallelism Approach for Long Context Generative AI
 
 tag: `USP` | `Tencent`

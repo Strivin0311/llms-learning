@@ -3,6 +3,26 @@
 
 ## Method
 
+#### LazyGraphRAG: Setting a new standard for quality and cost
+
+tag: `LazyGraphRAG` | `Microsoft`
+
+blog link: [here](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)
+
+github link: [here](https://github.com/microsoft/graphrag)
+
+citation:
+
+```bibtex
+@online{LazyGraphRAG,
+  author = {Microsoft Research},
+  title = {LazyGraphRAG: Setting a New Standard for Quality and Cost},
+  url = {https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/},
+  urldate = {2024-11-25}
+}
+```
+
+
 #### VisRAG: Vision-based Retrieval-augmented Generation on Multi-modality Documents
 
 tag: `VisRAG` | `Tsinghua University`
@@ -91,6 +111,27 @@ citation:
 }
 ```
 
+#### Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation
+
+tag: `Mindful-RAG` | `KG-RAG` | `Knowledge Graphs`
+
+paper link: [here](https://arxiv.org/pdf/2407.12216)
+
+citation:
+
+```bibtex
+@misc{agrawal2024mindfulragstudypointsfailure,
+      title={Mindful-RAG: A Study of Points of Failure in Retrieval Augmented Generation}, 
+      author={Garima Agrawal and Tharindu Kumarage and Zeyad Alghamdi and Huan Liu},
+      year={2024},
+      eprint={2407.12216},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2407.12216}, 
+}
+```
+
+
 #### LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs
 
 tag: `LongRAG` | `University of Waterloo`
@@ -123,6 +164,8 @@ tag: `GraphRAG` | `Microsoft`
 paper link: [here](https://arxiv.org/pdf/2404.16130)
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/)
+
+followup work: [here](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)
 
 github link: [here](https://github.com/microsoft/graphrag)
 

@@ -2,6 +2,27 @@
 *Here're some resources about Pipeline Parallelism for LLMs Training*
 
 
+#### Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution
+
+tag: `DHelix` | `DNA PP` | `USTC`
+
+paper link: [here](https://arxiv.org/pdf/2411.15871)
+
+citation:
+
+```bibtex
+@misc{wang2024hidingcommunicationcostdistributed,
+      title={Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution}, 
+      author={Haiquan Wang and Chaoyi Ruan and Jia He and Jiaqi Ruan and Chengjie Tang and Xiaosong Ma and Cheng Li},
+      year={2024},
+      eprint={2411.15871},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2411.15871}, 
+}
+```
+
+
 #### Pipeline Parallelism with Controllable Memory
 
 tag: `Controllable Memory` | `ZBPP` | `Sea AILab` | `NUS`
@@ -118,7 +139,7 @@ citation:
 
 tag: `Chimera` | `Bidirectional PP` | `SC21` | `ETHZ`
 
-paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3458817.3476145)
+paper link: [here](https://arxiv.org/pdf/2107.06925)
 
 citation:
 
