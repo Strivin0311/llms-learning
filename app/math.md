@@ -5,6 +5,27 @@
 ## Method
 
 
+#### Training Large Language Models to Reason in a Continuous Latent Space
+
+tag: `COCONUT` | `Chain of Continuous Thought` | `CoT` | `Meta` | `UC San Diego`
+
+paper link: [here](https://arxiv.org/pdf/2412.06769)
+
+citation:
+
+```bibtex
+@misc{hao2024traininglargelanguagemodels,
+      title={Training Large Language Models to Reason in a Continuous Latent Space}, 
+      author={Shibo Hao and Sainbayar Sukhbaatar and DiJia Su and Xian Li and Zhiting Hu and Jason Weston and Yuandong Tian},
+      year={2024},
+      eprint={2412.06769},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.06769}, 
+}
+```
+
+
 #### QwQ: Reflect Deeply on the Boundaries of the Unknown
 
 tag: `QWQ` | `Qwen` | `Alibaba Group`

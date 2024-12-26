@@ -70,6 +70,29 @@ citation:
 }
 ```
 
+#### An Evolved Universal Transformer Memory
+
+tag: `NAMMs` | `EMA` | `BAM` | `Sakana AI`
+
+paper link: [here](https://arxiv.org/pdf/2410.13166)
+
+github link: [here](https://github.com/SakanaAI/evo-memory)
+
+citation:
+
+```bibtex
+@misc{cetin2024evolveduniversaltransformermemory,
+      title={An Evolved Universal Transformer Memory}, 
+      author={Edoardo Cetin and Qi Sun and Tianyu Zhao and Yujin Tang},
+      year={2024},
+      eprint={2410.13166},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.13166}, 
+}
+```
+
+
 #### LoLCATs: On Low-Rank Linearizing of Large Language Models
 
 tag: `LoLCATs` | `Attention Transfer` | `LoRA` | `Together AI` | `Standford University` | `MIT`
