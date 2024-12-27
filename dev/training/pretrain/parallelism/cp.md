@@ -5,7 +5,7 @@
 
 #### Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer
 
-tag: `FPDT` | ``DeepSpeed Ulysses` | `ZERO-3` | `Microsoft`
+tag: `FPDT` | `DeepSpeed Ulysses` | `ZERO-3` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2408.16978)
 
