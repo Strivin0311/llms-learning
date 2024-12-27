@@ -26,6 +26,27 @@ citation:
 ```
 
 
+#### The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry
+
+tag: `Hedgehog` | `Softmax Mimicry` | `ICLR24` | `Stanford University`
+
+paper link: [here](https://openreview.net/pdf?id=4g02l2N2Nx)
+
+citation:
+
+```bibtex
+@misc{zhang2024hedgehogporcupineexpressive,
+      title={The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry}, 
+      author={Michael Zhang and Kush Bhatia and Hermann Kumbong and Christopher Ré},
+      year={2024},
+      eprint={2402.04347},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2402.04347}, 
+}
+```
+
+
 #### Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models
 
 tag: `Lightning Attention 2` | `OpenNLPLab`
