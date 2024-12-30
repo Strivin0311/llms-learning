@@ -74,6 +74,29 @@ citation:
 ```
 
 
+#### Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics
+
+tag: `BoH` | `Bag of Heuristics` | `Technion` | `Northeastern University`
+
+paper link: [here](https://arxiv.org/pdf/2305.10037)
+
+github link: [here](https://github.com/technion-cs-nlp/llm-arithmetic-heuristics)
+
+citation:
+
+```bibtex
+@misc{nikankin2024arithmeticalgorithmslanguagemodels,
+      title={Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics}, 
+      author={Yaniv Nikankin and Anja Reusch and Aaron Mueller and Yonatan Belinkov},
+      year={2024},
+      eprint={2410.21272},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.21272}, 
+}
+```
+
+
 #### Learning to Reason with LLMs
 
 tag: `ChatGPT-o1` | `LRM` | `CoT` | `OpenAI`

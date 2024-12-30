@@ -2,6 +2,9 @@
 *Here're some resources about Dense Transformer Language Modeling for LLMs*
 
 
+## Method
+
+
 #### Phi-4 Technical Report
 
 tag: `Phi-4` | `Phi` | `SLM` | `PTS` | `Pivotal Token Search` | `judge-guided DPO` | `Microsoft`
@@ -168,5 +171,31 @@ citation:
   author={Vaswani, A},
   journal={Advances in Neural Information Processing Systems},
   year={2017}
+}
+```
+
+
+## Benchmark
+
+
+#### On the Measure of Intelligence
+
+tag: `ARC` | `ARC-AGI` | `Skill-Acquisition Efficiency` | `Google`
+
+paper link: [here](https://arxiv.org/pdf/1911.01547)
+
+github link: [here](https://github.com/fchollet/ARC-AGI)
+
+citation:
+
+```bibtex
+@misc{chollet2019measureintelligence,
+      title={On the Measure of Intelligence}, 
+      author={François Chollet},
+      year={2019},
+      eprint={1911.01547},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/1911.01547}, 
 }
 ```
