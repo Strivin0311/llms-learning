@@ -4,6 +4,28 @@
 
 ## Method
 
+
+#### State-of-the-art video and image generation with Veo 2 and Imagen 3
+
+tag: `Veo2` | `Imagen3` | `Google DeepMind`
+
+blog link: [here](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/)
+
+homepage link: [veo2](https://deepmind.google/technologies/veo/veo-2/) | [imagen3](https://deepmind.google/technologies/imagen-3/)
+
+citation:
+
+```bibtex
+@misc{google2024veo2imagen3,
+  author = {Google DeepMind},
+  title = {State-of-the-art video and image generation with Veo 2 and Imagen 3},
+  howpublished = {https://blog.google/technology/google-labs/video-image-generation-update-december-2024/},
+  month = {December},
+  year = {2024}
+}
+```
+
+
 #### Movie Gen: A Cast of Media Foundation Models
 
 tag: `Movie Gen` | `Meta`
@@ -15,7 +37,7 @@ blog link: [here](https://ai.meta.com/blog/movie-gen-media-foundation-models-gen
 citation: 
 
 ```bibtex
-@misc{polyak2024moviegencastmedia,
+@misc{polyak2024moviegen,
       title={Movie Gen: A Cast of Media Foundation Models}, 
       author={Adam Polyak and Amit Zohar and Andrew Brown and Andros Tjandra and Animesh Sinha and Ann Lee and Apoorv Vyas and Bowen Shi and Chih-Yao Ma and Ching-Yao Chuang and David Yan and Dhruv Choudhary and Dingkang Wang and Geet Sethi and Guan Pang and Haoyu Ma and Ishan Misra and Ji Hou and Jialiang Wang and Kiran Jagadeesh and Kunpeng Li and Luxin Zhang and Mannat Singh and Mary Williamson and Matt Le and Matthew Yu and Mitesh Kumar Singh and Peizhao Zhang and Peter Vajda and Quentin Duval and Rohit Girdhar and Roshan Sumbaly and Sai Saketh Rambhatla and Sam Tsai and Samaneh Azadi and Samyak Datta and Sanyuan Chen and Sean Bell and Sharadh Ramaswamy and Shelly Sheynin and Siddharth Bhattacharya and Simran Motwani and Tao Xu and Tianhe Li and Tingbo Hou and Wei-Ning Hsu and Xi Yin and Xiaoliang Dai and Yaniv Taigman and Yaqiao Luo and Yen-Cheng Liu and Yi-Chiao Wu and Yue Zhao and Yuval Kirstain and Zecheng He and Zijian He and Albert Pumarola and Ali Thabet and Artsiom Sanakoyeu and Arun Mallya and Baishan Guo and Boris Araya and Breena Kerr and Carleigh Wood and Ce Liu and Cen Peng and Dimitry Vengertsev and Edgar Schonfeld and Elliot Blanchard and Felix Juefei-Xu and Fraylie Nord and Jeff Liang and John Hoffman and Jonas Kohler and Kaolin Fire and Karthik Sivakumar and Lawrence Chen and Licheng Yu and Luya Gao and Markos Georgopoulos and Rashel Moritz and Sara K. Sampson and Shikai Li and Simone Parmeggiani and Steve Fine and Tara Fowler and Vladan Petrovic and Yuming Du},
       year={2024},
@@ -37,7 +59,7 @@ github link: [here](https://github.com/fudan-generative-vision/hallo2)
 citation:
 
 ```bibtex
-@misc{cui2024hallo2longdurationhighresolutionaudiodriven,
+@misc{cui2024hallo2,
       title={Hallo2: Long-Duration and High-Resolution Audio-Driven Portrait Image Animation}, 
       author={Jiahao Cui and Hui Li and Yao Yao and Hao Zhu and Hanlin Shang and Kaihui Cheng and Hang Zhou and Siyu Zhu and Jingdong Wang},
       year={2024},
@@ -60,7 +82,7 @@ github link: [here](https://github.com/X-PLUG/mPLUG-Owl)
 citation:
 
 ```bibtex
-@misc{ye2024mplugowl3longimagesequenceunderstanding,
+@misc{ye2024mplugowl3,
       title={mPLUG-Owl3: Towards Long Image-Sequence Understanding in Multi-Modal Large Language Models}, 
       author={Jiabo Ye and Haiyang Xu and Haowei Liu and Anwen Hu and Ming Yan and Qi Qian and Ji Zhang and Fei Huang and Jingren Zhou},
       year={2024},
@@ -88,7 +110,7 @@ follow-up work: [here](https://arxiv.org/pdf/2410.07718)
 citation:
 
 ```bibtex
-@misc{xu2024hallohierarchicalaudiodrivenvisual,
+@misc{xu2024hallo,
       title={Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation}, 
       author={Mingwang Xu and Hui Li and Qingkun Su and Hanlin Shang and Liwei Zhang and Ce Liu and Jingdong Wang and Yao Yao and Siyu Zhu},
       year={2024},
@@ -96,6 +118,26 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2406.08801}, 
+}
+```
+
+
+#### Video generation models as world simulators
+
+tag: `Sora` | `OpenAI`
+
+blog link: [here](https://openai.com/index/video-generation-models-as-world-simulators/)
+
+homepage link: [here](https://openai.com/index/sora/)
+
+citation:
+
+```bibtex
+@article{brooks2024video,
+  author = {Brooks, Peebles, et al.},
+  title = {Video Generation Models as World Simulators},
+  url = {https://openai.com/index/video-generation-models-as-world-simulators/},
+  year = {2024}
 }
 ```
 
@@ -113,7 +155,7 @@ homepage link: [here](https://msra-nuwa.azurewebsites.net/)
 citation:
 
 ```bibtex
-@misc{yin2023nuwaxldiffusiondiffusionextremely,
+@misc{yin2023nuwaxl,
       title={NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation}, 
       author={Shengming Yin and Chenfei Wu and Huan Yang and Jianfeng Wang and Xiaodong Wang and Minheng Ni and Zhengyuan Yang and Linjie Li and Shuguang Liu and Fan Yang and Jianlong Fu and Gong Ming and Lijuan Wang and Zicheng Liu and Houqiang Li and Nan Duan},
       year={2023},
@@ -125,7 +167,9 @@ citation:
 ```
 
 
+
 ## Benchmark
+
 
 #### Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis
 
@@ -142,7 +186,7 @@ dataset link: [here](https://github.com/BradyFU/Video-MME)
 citation:
 
 ```bibtex
-@misc{fu2024videommefirstevercomprehensiveevaluation,
+@misc{fu2024videomme,
       title={Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis}, 
       author={Chaoyou Fu and Yuhan Dai and Yongdong Luo and Lei Li and Shuhuai Ren and Renrui Zhang and Zihan Wang and Chenyu Zhou and Yunhang Shen and Mengdan Zhang and Peixian Chen and Yanwei Li and Shaohui Lin and Sirui Zhao and Ke Li and Tong Xu and Xiawu Zheng and Enhong Chen and Rongrong Ji and Xing Sun},
       year={2024},
