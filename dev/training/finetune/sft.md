@@ -11,7 +11,7 @@ tag: `Q-GaLore` | `MEFT` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2407.08296)
 
-github link: [here](https://github.com/VITA-Group/Q-GaLore)
+code link: [here](https://github.com/VITA-Group/Q-GaLore)
 
 citation:
 
@@ -34,7 +34,7 @@ tag: `LISA` | `PEFT` | `NIPS24` | `HKU`
 
 paper link: [here](https://openreview.net/pdf?id=L8ifDX5XNq)
 
-github link: [here](https://github.com/OptimalScale/LMFlow)
+code link: [here](https://github.com/OptimalScale/LMFlow)
 
 citation:
 
@@ -57,7 +57,7 @@ tag: `GaLore` | `MEFT` | `ICML24` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2403.03507)
 
-github link: [here](https://github.com/jiaweizzhao/GaLore)
+code link: [here](https://github.com/jiaweizzhao/GaLore)
 
 follow-up work: [here](https://arxiv.org/pdf/2407.08296)
 
@@ -82,7 +82,7 @@ tag: `RoSA` | `PEFT` | `ICML24`
 
 paper link: [here](https://arxiv.org/pdf/2401.04679.pdf)
 
-github link: [here](https://github.com/IST-DASLab/RoSA)
+code link: [here](https://github.com/IST-DASLab/RoSA)
 
 citation:
 
@@ -145,7 +145,7 @@ tag: `QA-LoRA` | `PEFT` | `ICLR24` | `Huawei`
 
 paper link: [here](https://openreview.net/pdf?id=WvFoJccpo8)
 
-github link: [here](https://github.com/yuhuixu1993/qa-lora)
+code link: [here](https://github.com/yuhuixu1993/qa-lora)
 
 citation:
 
@@ -165,7 +165,7 @@ tag: `LongLoRA` | `PEFT` | `ICLR24` | `CUHK` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
-github link: [here](https://github.com/dvlab-research/LongLoRA)
+code link: [here](https://github.com/dvlab-research/LongLoRA)
 
 citation:
 
@@ -184,7 +184,7 @@ tag: `LoraHub` | `PEFT` | `COLM24` | `Sea AI Lab` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2307.13269)
 
-github link: [here](https://github.com/sail-sg/lorahub)
+code link: [here](https://github.com/sail-sg/lorahub)
 
 modelhub link: [here](https://huggingface.co/lorahub)
 
@@ -208,7 +208,7 @@ tag: `LOMO` | `MEFT` | `ACL24` | `Shanghai AI Laboratory` | `Fudan University`
 
 paper link: [here](https://aclanthology.org/2024.acl-long.445.pdf)
 
-github link: [here](https://github.com/OpenLMLab/LOMO)
+code link: [here](https://github.com/OpenLMLab/LOMO)
 
 citation:
 
@@ -228,7 +228,7 @@ tag: `MEFT` | `Rev-ViT` | `NIPS23`
 
 paper link: [here](https://arxiv.org/pdf/2306.00477)
 
-github link: [here](https://github.com/BaohaoLiao/mefts)
+code link: [here](https://github.com/BaohaoLiao/mefts)
 
 citation:
 
@@ -248,7 +248,7 @@ tag: `QLoRA` | `PEFT` | `NIPS23` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2305.14314)
 
-github link: [here](https://github.com/artidoro/qlora)
+code link: [here](https://github.com/artidoro/qlora)
 
 tutorial link: [here](../../tutorial/notebook/tutorial_qlora.ipynb)
 
@@ -309,7 +309,7 @@ tag: `PEFT` | `HuggingFace`
 
 blog link: [here](https://huggingface.co/blog/peft)
 
-github link: [here](https://github.com/huggingface/peft)
+code link: [here](https://github.com/huggingface/peft)
     
 citation:
 
@@ -364,7 +364,7 @@ tag: `LoRA` | `PEFT` | `ICLR22` | `Microsoft`
 
 paper link: [here](https://openreview.net/pdf?id=nZeVKeeFYf9)
 
-github link: [here](https://github.com/microsoft/LoRA)
+code link: [here](https://github.com/microsoft/LoRA)
 
 citation:
 
@@ -387,7 +387,7 @@ tag: `PEFT Survey` | `UML`
 
 paper link: [here](https://arxiv.org/pdf/2303.15647)
 
-github link: [here](https://github.com/guitaricet/peft_comparison)
+code link: [here](https://github.com/guitaricet/peft_comparison)
 
 citation:
 
@@ -407,7 +407,7 @@ tag: `PEFT Sruvey` | `AAAI23` | `DAMO Academy` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2211.15583)
 
-github link: [here](https://github.com/fuzihaofzh/AnalyzeParameterEfficientFinetune)
+code link: [here](https://github.com/fuzihaofzh/AnalyzeParameterEfficientFinetune)
 
 citation:
 
@@ -430,7 +430,7 @@ tag: `Delta Tuning` | `PEFT Survey` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2203.06904)
 
-github link: [here](https://github.com/thunlp/OpenDelta)
+code link: [here](https://github.com/thunlp/OpenDelta)
 
 citation:
 

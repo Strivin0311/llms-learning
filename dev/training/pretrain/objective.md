@@ -49,7 +49,7 @@ tag: `FIM` | `Fill-in-the-Middle` | `Infilling` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2207.14255)
 
-github link: [here](https://github.com/openai/human-eval-infilling)
+code link: [here](https://github.com/openai/human-eval-infilling)
 
 citation:
 
@@ -72,7 +72,7 @@ tag: `UL2` | `MoD` | `Mixture-of-Denoisers` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/2205.05131.pdf)
 
-github link: [here](https://github.com/google-research/google-research/tree/master/ul2)
+code link: [here](https://github.com/google-research/google-research/tree/master/ul2)
 
 citation:
 
@@ -93,7 +93,7 @@ tag: `ELECTRA` | `RTD` | `Replaced Token Detection` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2003.10555)
 
-github link: [here](https://github.com/google-research/electra)
+code link: [here](https://github.com/google-research/electra)
 
 citation:
 
@@ -116,7 +116,7 @@ tag: `T5` | `SC` | `Span Corruption` | `Seq2Seq` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/1910.10683)
 
-github link: [here](https://github.com/google-research/text-to-text-transfer-transformer)
+code link: [here](https://github.com/google-research/text-to-text-transfer-transformer)
 
 citation:
 
@@ -139,7 +139,7 @@ tag: `UniLM` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/1905.03197)
 
-github link: [here](https://github.com/microsoft/unilm)
+code link: [here](https://github.com/microsoft/unilm)
 
 citation:
 
@@ -161,7 +161,7 @@ tag: `GPT` | `CLM` | `Causal Language Modeling` | `OpenAI`
 
 paper link: [here](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-github link: [here](https://github.com/openai/finetune-transformer-lm)
+code link: [here](https://github.com/openai/finetune-transformer-lm)
 
 citation:
 
@@ -182,7 +182,7 @@ tag: `BERT` | `MLM` | `Masked Language Modeling` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/1810.04805)
 
-github link: [here](https://github.com/google-research/bert)
+code link: [here](https://github.com/google-research/bert)
 
 citation:
 

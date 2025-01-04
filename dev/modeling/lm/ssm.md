@@ -10,7 +10,7 @@ paper link: [here](https://www.arxiv.org/pdf/2411.13676)
 
 blog link: [here](https://aipapersacademy.com/hymba/)
 
-github link: [here](https://github.com/NVlabs/hymba)
+code link: [here](https://github.com/NVlabs/hymba)
 
 modelhub link: [here](https://huggingface.co/collections/nvidia/hymba-673c35516c12c4b98b5e845f)
 
@@ -80,7 +80,7 @@ tag: `Mamba2` | `Princeton University` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2405.21060)
 
-github link: [here](https://github.com/state-spaces/mamba)
+code link: [here](https://github.com/state-spaces/mamba)
 
 citation:
 
@@ -103,7 +103,7 @@ tag: `MambaOut` | `Vision Mamba` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2405.07992)
 
-github link: [here](https://github.com/yuweihao/MambaOut)
+code link: [here](https://github.com/yuweihao/MambaOut)
 
 citation:
 
@@ -126,7 +126,7 @@ tag: `SSM Illusion` | `ICML24` | `Allen AI` | `NYU`
 
 paper link: [here](https://arxiv.org/pdf/2404.08819)
 
-github link: [here](https://github.com/jopetty/word-problem)
+code link: [here](https://github.com/jopetty/word-problem)
 
 homempage link: [here](https://jacksonpetty.org/ssm-illusion/)
 
@@ -151,7 +151,7 @@ tag: `ViM` | `Vison Mamba` | `ICML24` | `HUST`
 
 paper link: [here](https://arxiv.org/pdf/2401.09417)
 
-github link: [here](https://github.com/hustvl/Vim)
+code link: [here](https://github.com/hustvl/Vim)
 
 citation:
 
@@ -174,7 +174,7 @@ tag: `RWKV5` | `RWKV6` | `EleutherAI`
 
 paper link: [here](https://arxiv.org/pdf/2404.05892)
 
-github link: [here](https://github.com/BlinkDL/RWKV-LM)
+code link: [here](https://github.com/BlinkDL/RWKV-LM)
 
 citation:
 
@@ -197,7 +197,7 @@ tag: `Mamba` | `Princeton University` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2312.00752)
 
-github link: [here](https://github.com/state-spaces/mamba)
+code link: [here](https://github.com/state-spaces/mamba)
 
 follow-up work: [here](https://arxiv.org/pdf/2405.21060)
 
@@ -219,7 +219,7 @@ tag: `RetNet` | `Microsoft` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2307.08621)
 
-github link: [readme](https://github.com/microsoft/unilm/tree/master/retnet) | [impl](https://github.com/microsoft/torchscale/blob/main/torchscale/architecture/retnet.py)
+code link: [readme](https://github.com/microsoft/unilm/tree/master/retnet) | [impl](https://github.com/microsoft/torchscale/blob/main/torchscale/architecture/retnet.py)
 
 citation:
 
@@ -239,7 +239,7 @@ tag: `RWKV` | `RWKV4` | `EleutherAI`
 
 paper link: [here](https://arxiv.org/pdf/2305.13048)
 
-github link: [here](https://github.com/BlinkDL/RWKV-LM)
+code link: [here](https://github.com/BlinkDL/RWKV-LM)
 
 follow-up work: [here](https://arxiv.org/pdf/2404.05892)
 
@@ -265,7 +265,7 @@ tag: `LRU` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2303.06349)
 
-github link: [here](https://github.com/Gothos/LRU-pytorch)
+code link: [here](https://github.com/Gothos/LRU-pytorch)
 
 citation:
 
@@ -285,7 +285,7 @@ tag: `S5` | `ICLR23` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2208.04933)
 
-github link: [here](https://github.com/lindermanlab/S5)
+code link: [here](https://github.com/lindermanlab/S5)
 
 citation:
 

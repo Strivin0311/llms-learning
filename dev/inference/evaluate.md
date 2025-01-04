@@ -8,7 +8,7 @@ tag: `LLM Decontaminator` | `UC Berkeley` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2311.04850)
 
-github link: [here](https://github.com/lm-sys/llm-decontaminator)
+code link: [here](https://github.com/lm-sys/llm-decontaminator)
 
 citation:
 
@@ -30,7 +30,7 @@ tag: `Benchmark Cheater` | `RUC`
 
 paper link: [here](https://arxiv.org/pdf/2311.01964)
 
-github link: [here](https://github.com/hendrycks/test)
+code link: [here](https://github.com/hendrycks/test)
 
 citation:
 
@@ -52,7 +52,7 @@ tag: `GPT-Fathom` | `NAACL24` | `ByteDance`
 
 paper link: [here](https://aclanthology.org/2024.findings-naacl.87.pdf)
 
-github link: [here](https://github.com/Shen-Zheng/GPT-Fathom)
+code link: [here](https://github.com/Shen-Zheng/GPT-Fathom)
 
 citation:
 
@@ -72,7 +72,7 @@ tag: `RGB` | `RAG` | `AAAI24` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2309.01431)
 
-github link: [here](https://github.com/chen700564/RGB)
+code link: [here](https://github.com/chen700564/RGB)
 
 citation:
 
@@ -94,7 +94,7 @@ tag: `LongBench` | `ACL24` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2308.14508)
 
-github link: [here](https://github.com/THUDM/LongBench)
+code link: [here](https://github.com/THUDM/LongBench)
 
 citation:
 
@@ -116,7 +116,7 @@ tag: `LLM-as-a-judge` | `MT-Bench` | `Chatbot Arena` | `NIPS23` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2306.05685.pdf)
 
-github link: [here](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
+code link: [here](https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge)
 
 homepage link: [here](https://chat.lmsys.org/)
 
@@ -140,7 +140,7 @@ tag: `InstructEval` | `ACL24` | `DeCLaRe Lab`
 
 paper link: [here](https://arxiv.org/pdf/2306.04757.pdf)
 
-github link: [here](https://github.com/declare-lab/instruct-eval)
+code link: [here](https://github.com/declare-lab/instruct-eval)
 
 dataset link: [here](https://huggingface.co/datasets/declare-lab/InstructEvalImpact)
 
@@ -164,7 +164,7 @@ tag: `C-eval` | `NIPS23` | `SJTU` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2305.08322)
 
-github link: [here](https://github.com/hkust-nlp/ceval)
+code link: [here](https://github.com/hkust-nlp/ceval)
 
 homepage link: [here](https://cevalbenchmark.com/)
 
@@ -185,7 +185,7 @@ tag: `OpenAGI` | `RLTF` | `NIPS23` | `Rutgers University`
 
 paper link: [here](https://arxiv.org/pdf/2304.04370.pdf)
 
-github link: [here](https://github.com/agiresearch/OpenAGI)
+code link: [here](https://github.com/agiresearch/OpenAGI)
 
 citation:
 
@@ -205,7 +205,7 @@ tag: `HELM` | `TMLR23` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2211.09110.pdf)
 
-github link: [here](https://github.com/stanford-crfm/helm)
+code link: [here](https://github.com/stanford-crfm/helm)
 
 citation:
 
@@ -241,7 +241,7 @@ tag: `MMLU` | `ICLR21` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2009.03300)
 
-github link: [here](https://github.com/hendrycks/test)
+code link: [here](https://github.com/hendrycks/test)
 
 citation:
 

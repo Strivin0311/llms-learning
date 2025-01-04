@@ -11,7 +11,7 @@ tag: `BitNet a4.8` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2411.04965)
 
-github link: [here](https://github.com/microsoft/bitnet)
+code link: [here](https://github.com/microsoft/bitnet)
 
 homepage link: [here](https://thegenerality.com/agi/)
 
@@ -36,7 +36,7 @@ tag: `BitNet b1.58` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2402.17764)
 
-github link: [here](https://github.com/microsoft/bitnet)
+code link: [here](https://github.com/microsoft/bitnet)
 
 homepage link: [here](https://thegenerality.com/agi/)
 
@@ -63,7 +63,7 @@ tag: `HQQ+` | `Mobius Labs`
 
 blog link: [here](https://mobiusml.github.io/1bit_blog/)
 
-github link: [here](https://github.com/mobiusml/1bit)
+code link: [here](https://github.com/mobiusml/1bit)
 
 citation:
 
@@ -84,7 +84,7 @@ tag: `BitNet` | `BitLinear` | `W1A8` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2310.11453)
 
-github link: [here](https://github.com/microsoft/bitnet)
+code link: [here](https://github.com/microsoft/bitnet)
 
 homepage link: [here](https://thegenerality.com/agi/)
 
@@ -152,7 +152,7 @@ tag: `QA-LoRA` | `ICLR24` | `Huawei`
 
 paper link: [here](https://openreview.net/pdf?id=WvFoJccpo8)
 
-github link: [here](https://github.com/yuhuixu1993/qa-lora)
+code link: [here](https://github.com/yuhuixu1993/qa-lora)
 
 citation:
 
@@ -172,7 +172,7 @@ tag: `SqueezeLLM` | `ICML24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2306.07629)
 
-github link: [here](https://github.com/SqueezeAILab/SqueezeLLM)
+code link: [here](https://github.com/SqueezeAILab/SqueezeLLM)
 
 citation:
 
@@ -192,7 +192,7 @@ tag: `SpQR` | `ICLR24` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2306.03078)
 
-github link: [here](https://github.com/Vahe1994/SpQR)
+code link: [here](https://github.com/Vahe1994/SpQR)
 
 citation:
 
@@ -230,7 +230,7 @@ tag: `Q8BERT` | `NIPS19` | `Intel AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/1910.06188.pdf)
 
-github link: [here](https://github.com/IntelLabs/nlp-architect)
+code link: [here](https://github.com/IntelLabs/nlp-architect)
 
 citation:
 
@@ -256,7 +256,7 @@ tag: `DuQuant` | `NIPS24` | `UCAS` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2406.01721)
 
-github link: [here](https://github.com/Hsu1023/DuQuant)
+code link: [here](https://github.com/Hsu1023/DuQuant)
 
 citation:
 
@@ -300,7 +300,7 @@ tag: `HQQ` | `Mobius Labs`
 
 blog link: [here](https://mobiusml.github.io/hqq_blog/)
 
-github link: [here](https://github.com/mobiusml/hqq)
+code link: [here](https://github.com/mobiusml/hqq)
 
 follow-up link: [here](https://mobiusml.github.io/1bit_blog/)
 
@@ -322,7 +322,7 @@ tag: `ZeroQuant-FP` | `W4A8` | `NIPS23` | `DeepSpeed` | `Microsoft`
 
 paper link: [here](https://neurips2023-enlsp.github.io/papers/paper_92.pdf)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 citation:
 
@@ -341,7 +341,7 @@ tag: `AWQ` | `MLSys24` | `Nvidia` | `MIT` | `Tsinghua University`
 
 paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2024/file/42a452cbafa9dd64e9ba4aa95cc1ef21-Paper-Conference.pdf)
 
-github link: [here](https://github.com/mit-han-lab/llm-awq)
+code link: [here](https://github.com/mit-han-lab/llm-awq)
 
 citation:
 
@@ -363,7 +363,7 @@ tag: `ZeroQuant V2` | `DeepSpeed` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2303.08302)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 follow-up work: [here](https://arxiv.org/pdf/2307.09782)
 
@@ -388,7 +388,7 @@ tag: `SmoothQuant` | `ICML23` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2211.10438.pdf)
 
-github link: [here](https://github.com/mit-han-lab/smoothquant)
+code link: [here](https://github.com/mit-han-lab/smoothquant)
 
 citation:
 
@@ -410,7 +410,7 @@ tag: `GPTQ` | `ICLR22` | `ISTA`
 
 paper link: [here](https://arxiv.org/pdf/2210.17323.pdf)
 
-github link: [here](https://github.com/IST-DASLab/gptq)
+code link: [here](https://github.com/IST-DASLab/gptq)
 
 citation:
 
@@ -434,7 +434,7 @@ paper link: [here](https://arxiv.org/pdf/2208.07339.pdf)
 
 blog link: [here](https://huggingface.co/blog/hf-bitsandbytes-integration)
 
-github link: [here](https://github.com/bitsandbytes-foundation/bitsandbytes)
+code link: [here](https://github.com/bitsandbytes-foundation/bitsandbytes)
 
 citation:
 
@@ -456,7 +456,7 @@ tag: `FP8 Quantization` | `NIPS22` | `Qualcomm AI`
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 
-github link: [here](https://github.com/Qualcomm-AI-research/FP8-quantization)
+code link: [here](https://github.com/Qualcomm-AI-research/FP8-quantization)
 
 citation:
 
@@ -478,7 +478,7 @@ tag: `ZeroQuant` | `NIPS22` | `DeepSpeed` | `Microsoft`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/adf7fa39d65e2983d724ff7da57f00ac-Paper-Conference.pdf)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 follow-up work: [here](https://arxiv.org/pdf/2303.08302)
 
@@ -502,7 +502,7 @@ tag: `QSparse` | `Joint Quantization and Pruning` | `UCSD`
 
 paper link: [here](https://arxiv.org/pdf/2110.08271)
 
-github link: [here](https://github.com/mlzxy/qsparse)
+code link: [here](https://github.com/mlzxy/qsparse)
 
 citation:
 
@@ -566,7 +566,7 @@ tag: `Quantization Whitepaper` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/1806.08342)
 
-github link: [here](https://github.com/google/gemmlowp)
+code link: [here](https://github.com/google/gemmlowp)
 
 citation:
 

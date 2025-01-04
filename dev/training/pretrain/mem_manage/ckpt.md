@@ -29,7 +29,7 @@ tag: `Flash Checkpoint` | `DLrover` | `AntGroup`
 
 blog link: [here](https://github.com/intelligent-machine-learning/dlrover/blob/master/docs/blogs/flash_checkpoint.md)
 
-github link: [here](https://github.com/intelligent-machine-learning/dlrover)
+code link: [here](https://github.com/intelligent-machine-learning/dlrover)
 
 citation:
 

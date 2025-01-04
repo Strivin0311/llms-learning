@@ -29,7 +29,7 @@ tag: `DCLM` | `DataComp-LM` | `Data Curation` | `Apple`
 
 paper link: [here](https://arxiv.org/pdf/2406.11794)
 
-github link: [here](https://github.com/mlfoundations/dclm)
+code link: [here](https://github.com/mlfoundations/dclm)
 
 citation:
 
@@ -72,7 +72,7 @@ tag: `LLM Inheritune` | `NYU`
 
 paper link: [here](https://arxiv.org/pdf/2404.08634)
 
-github link: [here](https://github.com/sanyalsunny111/LLM-Inheritune)
+code link: [here](https://github.com/sanyalsunny111/LLM-Inheritune)
 
 citation:
 
@@ -95,7 +95,7 @@ tag: `MiniCPM` | `COLM24` | `OpenBMB` | `Tsinghua University`
 
 paper link: [here](https://openreview.net/pdf?id=3X2L2TFr0f)
 
-github link: [here](https://github.com/OpenBMB/MiniCPM)
+code link: [here](https://github.com/OpenBMB/MiniCPM)
 
 modelhub link: [here](https://huggingface.co/collections/openbmb/minicpm-65d48bf958302b9fd25b698f)
 
@@ -120,7 +120,7 @@ tag: `Long-Context Data Engineering` | `Length Upsampling` | `Continual Pretrain
 
 paper link: [here](https://arxiv.org/pdf/2402.10171)
 
-github link: [here](https://github.com/FranxYao/Long-Context-Data-Engineering)
+code link: [here](https://github.com/FranxYao/Long-Context-Data-Engineering)
 
 citation:
 
@@ -181,7 +181,7 @@ tag: `OpenChat` | `Mixed-Quality Data` | `ICLR24` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2309.11235)
 
-github link: [here](https://github.com/imoneoi/openchat)
+code link: [here](https://github.com/imoneoi/openchat)
 
 citation:
 
@@ -203,7 +203,7 @@ tag: `Data-Constrained` | `NIPS23` | `HuggingFace`
 
 paper link: [here](https://arxiv.org/pdf/2305.16264)
 
-github link: [here](https://github.com/huggingface/datablations)
+code link: [here](https://github.com/huggingface/datablations)
 
 citation:
 
@@ -261,7 +261,7 @@ tag: `MUP` | `μP` | `μTransfer` | `Microsoft` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2001.08361)
 
-github link: [here](https://github.com/microsoft/mup)
+code link: [here](https://github.com/microsoft/mup)
 
 citation:
 

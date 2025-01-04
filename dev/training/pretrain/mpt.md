@@ -51,7 +51,7 @@ tag: `FP8-LM` | `FP8 Optimizer` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
 
-github link: [here](https://github.com/Azure/MS-AMP)
+code link: [here](https://github.com/Azure/MS-AMP)
 
 citation:
 
@@ -160,7 +160,7 @@ blog link: [here](https://towardsdatascience.com/accelerating-pytorch-training-w
 
 docs link: [here](https://docs.nvidia.com/deeplearning/transformer-engine/index.html)
 
-github link: [here](https://github.com/NVIDIA/TransformerEngine)
+code link: [here](https://github.com/NVIDIA/TransformerEngine)
 
 citation:
 
@@ -199,7 +199,7 @@ tag: `FP8 Quantization` | `Qualcomm AI Research`
 
 paper link: [here](https://arxiv.org/pdf/2208.09225.pdf)
 
-github link: [here](https://github.com/Qualcomm-AI-research/FP8-quantization)
+code link: [here](https://github.com/Qualcomm-AI-research/FP8-quantization)
 
 citation:
 

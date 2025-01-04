@@ -10,7 +10,7 @@ tag: `FLUX` | `Kernel Fusion` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2406.06858)
 
-github link: [here](https://github.com/bytedance/flux)
+code link: [here](https://github.com/bytedance/flux)
 
 citation:
 
@@ -61,7 +61,7 @@ tag: `SP` | `TSP` | `Sequence Parallelism` | `MLSys23` | `Nvidia`
 
 paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2023/file/80083951326cf5b35e5100260d64ed81-Paper-mlsys2023.pdf)
 
-github link: [here](https://github.com/NVIDIA/Megatron-LM)
+code link: [here](https://github.com/NVIDIA/Megatron-LM)
 
 citation:
 
@@ -148,7 +148,7 @@ tag: `Megatron-LM` | `Column Linear` | `Row Linear` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/1909.08053.pdf)
 
-github link: [here](https://github.com/NVIDIA/Megatron-LM)
+code link: [here](https://github.com/NVIDIA/Megatron-LM)
 
 follow-up work: [here](https://arxiv.org/pdf/2104.04473.pdf)
 

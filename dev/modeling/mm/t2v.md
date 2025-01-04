@@ -54,7 +54,7 @@ tag: `Hallo2` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2410.07718)
 
-github link: [here](https://github.com/fudan-generative-vision/hallo2)
+code link: [here](https://github.com/fudan-generative-vision/hallo2)
 
 citation:
 
@@ -77,7 +77,7 @@ tag: `mPLUG-Owl 3` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2408.04840)
 
-github link: [here](https://github.com/X-PLUG/mPLUG-Owl)
+code link: [here](https://github.com/X-PLUG/mPLUG-Owl)
 
 citation:
 
@@ -101,7 +101,7 @@ tag: `Hallo` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2406.08801)
 
-github link: [here](https://github.com/fudan-generative-vision/hallo)
+code link: [here](https://github.com/fudan-generative-vision/hallo)
 
 homepage link: [here](https://fudan-generative-vision.github.io/hallo/#/)
 
@@ -148,7 +148,7 @@ tag: `NUWA-XL` | `ACL23` | `Microsoft` | `USTC`
 
 paper link: [here](https://arxiv.org/pdf/2303.12346)
 
-github link: [here](https://github.com/microsoft/NUWA)
+code link: [here](https://github.com/microsoft/NUWA)
 
 homepage link: [here](https://msra-nuwa.azurewebsites.net/)
 
@@ -177,7 +177,7 @@ tag: `Video-MME` | `USTC`
 
 paper link: [here](https://arxiv.org/pdf/2405.21075)
 
-github link: [here](https://github.com/BradyFU/Video-MME)
+code link: [here](https://github.com/BradyFU/Video-MME)
 
 homepage link: [here](https://video-mme.github.io/)
 

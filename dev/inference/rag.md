@@ -9,7 +9,7 @@ tag: `LazyGraphRAG` | `Microsoft`
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)
 
-github link: [here](https://github.com/microsoft/graphrag)
+code link: [here](https://github.com/microsoft/graphrag)
 
 citation:
 
@@ -29,7 +29,7 @@ tag: `VisRAG` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2410.10594)
 
-github link: [here](https://github.com/openbmb/visrag)
+code link: [here](https://github.com/openbmb/visrag)
 
 citation:
 
@@ -51,7 +51,7 @@ tag: `LightRAG` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2410.05779)
 
-github link: [here](https://github.com/HKUDS/LightRAG)
+code link: [here](https://github.com/HKUDS/LightRAG)
 
 citation:
 
@@ -73,7 +73,7 @@ tag: `KAG` | `Ant Group` | `Zhejiang University`
 
 paper link: [here](https://arxiv.org/pdf/2409.13731)
 
-github link: [here](https://github.com/OpenSPG/KAG)
+code link: [here](https://github.com/OpenSPG/KAG)
 
 citation:
 
@@ -96,7 +96,7 @@ tag: `MemoRAG` | `BAAI`
 
 paper link: [here](https://arxiv.org/pdf/2409.05591)
 
-github link: [here](https://github.com/qhjqhj00/MemoRAG)
+code link: [here](https://github.com/qhjqhj00/MemoRAG)
 
 citation:
 
@@ -118,7 +118,7 @@ tag: `RAGLAB` | `EMNLP24` | `Nanjing University`
 
 paper link: [here](https://arxiv.org/pdf/2408.11381)
 
-github link: [here](https://github.com/fate-ubw/RAGLab)
+code link: [here](https://github.com/fate-ubw/RAGLab)
 
 citation:
 
@@ -161,7 +161,7 @@ tag: `LongRAG` | `University of Waterloo`
 
 paper link: [here](https://arxiv.org/pdf/2406.15319)
 
-github link: [here](https://github.com/huggingface/LongRAG)
+code link: [here](https://github.com/huggingface/LongRAG)
 
 homepage link: [here](https://tiger-ai-lab.github.io/LongRAG/)
 
@@ -190,7 +190,7 @@ blog link: [here](https://www.microsoft.com/en-us/research/blog/graphrag-unlocki
 
 followup work: [here](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)
 
-github link: [here](https://github.com/microsoft/graphrag)
+code link: [here](https://github.com/microsoft/graphrag)
 
 doc link: [here](https://microsoft.github.io/graphrag/)
 
@@ -219,7 +219,7 @@ tag: `RQ-RAG` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2404.00610)
 
-github link: [here](https://github.com/chanchimin/RQ-RAG)
+code link: [here](https://github.com/chanchimin/RQ-RAG)
 
 citation:
 
@@ -242,7 +242,7 @@ tag: `Self-RAG` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2310.11511)
 
-github link: [here](https://github.com/AkariAsai/self-rag)
+code link: [here](https://github.com/AkariAsai/self-rag)
 
 homepage link: [here](https://selfrag.github.io/)
 
@@ -267,7 +267,7 @@ tag: `HyDE` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2212.10496)
 
-github link: [here](https://github.com/texttron/hyde)
+code link: [here](https://github.com/texttron/hyde)
 
 citation:
 
@@ -289,7 +289,7 @@ tag: `GenRead` | `ICLR23` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2209.10063)
 
-github link: [here](https://github.com/wyu97/GenRead)
+code link: [here](https://github.com/wyu97/GenRead)
 
 citation:
 
@@ -332,7 +332,7 @@ tag: `RGB` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2309.01431)
 
-github link: [here](https://github.com/chen700564/RGB)
+code link: [here](https://github.com/chen700564/RGB)
 
 citation:
 
@@ -356,7 +356,7 @@ tag: `GraphRAG Survey` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2408.08921)
 
-github link: [here](https://github.com/pengboci/GraphRAG-Survey)
+code link: [here](https://github.com/pengboci/GraphRAG-Survey)
 
 citation:
 
@@ -378,7 +378,7 @@ tag: `RAG Survey` | `Tongji University`
 
 paper link: [here](https://arxiv.org/pdf/2312.10997)
 
-github link: [here](https://github.com/Tongji-KGLLM/RAG-Survey)
+code link: [here](https://github.com/Tongji-KGLLM/RAG-Survey)
 
 citation:
 

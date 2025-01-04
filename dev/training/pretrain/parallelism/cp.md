@@ -3,13 +3,55 @@
 *Note that the "sequence parallelism" usually refers to one attached parallelism strategy along with tensor parallelism, different from context parallelism*
 
 
+#### Training Variable Sequences with Data-Centric Parallel
+
+tag: `DCP` | `VideoSys` | `NUS`
+
+docs link: [here](https://github.com/NUS-HPC-AI-Lab/VideoSys/blob/master/docs/dcp.md)
+
+code link: [here](https://github.com/NUS-HPC-AI-Lab/VideoSys)
+
+homepage link: [here](https://oahzxl.github.io/DCP/)
+
+citation:
+
+```bibtex
+@misc{zhang2024dcp,
+  title={Training Variable Sequences with Data-Centric Parallel},
+  author={Geng Zhang and Xuanlei Zhao and Kai Wang and Yang You},
+  year={2024},
+}
+```
+
+
+#### Data-Centric and Heterogeneity-Adaptive Sequence Parallelism for Efficient LLM Training
+
+tag: `FlexSP` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2412.01523)
+
+citation:
+
+```bibtex
+@misc{wang2024datacentricheterogeneityadaptivesequenceparallelism,
+      title={Data-Centric and Heterogeneity-Adaptive Sequence Parallelism for Efficient LLM Training}, 
+      author={Yujie Wang and Shiju Wang and Shenhan Zhu and Fangcheng Fu and Xinyi Liu and Xuefeng Xiao and Huixia Li and Jiashi Li and Faming Wu and Bin Cui},
+      year={2024},
+      eprint={2412.01523},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2412.01523}, 
+}
+```
+
+
 #### Training Ultra Long Context Language Model with Fully Pipelined Distributed Transformer
 
 tag: `FPDT` | `DeepSpeed Ulysses` | `ZERO-3` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2408.16978)
 
-github link: [here](https://github.com/microsoft/DeepSpeed/pull/6462)
+code link: [here](https://github.com/microsoft/DeepSpeed/pull/6462)
 
 citation:
 
@@ -53,7 +95,7 @@ tag: `USP` | `Tencent`
 
 paper link: [here](https://arxiv.org/pdf/2405.07719)
 
-github link: [here](https://github.com/feifeibear/long-context-attention)
+code link: [here](https://github.com/feifeibear/long-context-attention)
 
 citation:
 
@@ -75,7 +117,7 @@ tag: `Striped Attention` | `Ring Attention` | `Load Balance` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2311.09431)
 
-github link: [here](https://github.com/exists-forall/striped_attention)
+code link: [here](https://github.com/exists-forall/striped_attention)
 
 citation:
 
@@ -97,7 +139,7 @@ tag: `DISTFLASHATTN` | `COLM24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.03294)
 
-github link: [here](https://github.com/RulinShao/LightSeq)
+code link: [here](https://github.com/RulinShao/LightSeq)
 
 citation:
 
@@ -120,7 +162,7 @@ tag: `Ring Attention` | `Ring Flash Attention` | `ICLR24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.01889)
 
-github link: [here](https://github.com/haoliuhl/ringattention)
+code link: [here](https://github.com/haoliuhl/ringattention)
 
 citation:
 
@@ -145,7 +187,7 @@ paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3662158.3662806)
 
 blog link: [here](https://github.com/microsoft/DeepSpeed/blob/master/blogs/deepspeed-ulysses/chinese/README.md)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 citation:
 

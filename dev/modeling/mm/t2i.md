@@ -11,7 +11,7 @@ tag: `Multi-modal Textbook` | `DAMO Academy` | `Alibaba Group` | `Zhejiang Unive
 
 paper link: [here](https://www.arxiv.org/pdf/2501.00958)
 
-github link: [here](https://github.com/DAMO-NLP-SG/multimodal_textbook)
+code link: [here](https://github.com/DAMO-NLP-SG/multimodal_textbook)
 
 dataset link: [here](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
 
@@ -35,7 +35,7 @@ tag: `Infinity` | `VAR` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2412.04431)
 
-github link: [here](https://github.com/FoundationVision/Infinity)
+code link: [here](https://github.com/FoundationVision/Infinity)
 
 citation:
 
@@ -58,7 +58,7 @@ tag: `Janus` | `DeepSeek` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2410.13848)
 
-github link: [here](https://github.com/deepseek-ai/Janus)
+code link: [here](https://github.com/deepseek-ai/Janus)
 
 citation:
 
@@ -82,7 +82,7 @@ paper link: [here](https://arxiv.org/pdf/2410.07073)
 
 blog link: [here](https://mistral.ai/news/pixtral-12b/)
 
-github link: [here](https://github.com/mistralai/mistral-inference/)
+code link: [here](https://github.com/mistralai/mistral-inference/)
 
 model link: [here](https://huggingface.co/mistralai/Pixtral-12B-2409)
 
@@ -108,7 +108,7 @@ paper link: [here](https://arxiv.org/pdf/2410.05993)
 
 blog link: [here](https://www.rhymes.ai/blog-details/aria-first-open-multimodal-native-moe-model/)
 
-github link: [here](https://github.com/rhymes-ai/Aria)
+code link: [here](https://github.com/rhymes-ai/Aria)
 
 model link: [here](https://huggingface.co/rhymes-ai/Aria)
 
@@ -184,7 +184,7 @@ tag: `Eagle` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2408.15998)
 
-github link: [here](https://github.com/NVlabs/Eagle)
+code link: [here](https://github.com/NVlabs/Eagle)
 
 model-hub link: [here](https://huggingface.co/NVEagle)
 
@@ -209,7 +209,7 @@ tag: `Show-o` | `ByteDance` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2408.12528)
 
-github link: [here](https://github.com/showlab/Show-o)
+code link: [here](https://github.com/showlab/Show-o)
 
 homepage link: [here](https://showlab.github.io/Show-o/)
 
@@ -258,7 +258,7 @@ tag: `RLAIF-V` | `Tsinghua University` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2405.17220)
 
-github link: [here](https://github.com/RLHF-V/RLAIF-V)
+code link: [here](https://github.com/RLHF-V/RLAIF-V)
 
 citation:
 
@@ -281,7 +281,7 @@ tag: `mPLUG-Owl 2` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2311.04257)
 
-github link: [here](https://github.com/X-PLUG/mPLUG-Owl)
+code link: [here](https://github.com/X-PLUG/mPLUG-Owl)
 
 follow-up work: [here](https://arxiv.org/pdf/2408.04840)
 
@@ -324,7 +324,7 @@ tag: `mPLUG-Owl` | `DAMO Academy` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2304.14178)
 
-github link: [here](https://github.com/X-PLUG/mPLUG-Owl)
+code link: [here](https://github.com/X-PLUG/mPLUG-Owl)
 
 follow-up work: [here](https://arxiv.org/pdf/2311.04257)
 
@@ -349,7 +349,7 @@ tag: `LLaVA` | `NIPS23` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2304.08485)
 
-github link: [here](https://github.com/haotian-liu/LLaVA)
+code link: [here](https://github.com/haotian-liu/LLaVA)
 
 homepage link: [here](https://llava-vl.github.io/)
 
@@ -374,7 +374,7 @@ tag: `Rev-ViT` | `Rev-MViT` | `CVPR22` | `Meta` | `UC Berkeley`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Mangalam_Reversible_Vision_Transformers_CVPR_2022_paper.pdf)
 
-github link: [here](https://github.com/facebookresearch/slowfast)
+code link: [here](https://github.com/facebookresearch/slowfast)
 
 citation:
 
@@ -397,7 +397,7 @@ tag: `DiT` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2212.09748)
 
-github link: [here](https://www.wpeebles.com/DiT)
+code link: [here](https://www.wpeebles.com/DiT)
 
 homepage link: [here](https://www.wpeebles.com/DiT)
 
@@ -422,7 +422,7 @@ tag: `OpenCLIP` | `LAION` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2212.07143)
 
-github link: [here](https://github.com/LAION-AI/scaling-laws-openclip)
+code link: [here](https://github.com/LAION-AI/scaling-laws-openclip)
 
 citation:
 
@@ -446,7 +446,7 @@ tag: `InstructPix2Pix` | `CVPR23` | `UC Berkeley`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Brooks_InstructPix2Pix_Learning_To_Follow_Image_Editing_Instructions_CVPR_2023_paper.pdf)
 
-github link: [here](https://github.com/timothybrooks/instruct-pix2pix)
+code link: [here](https://github.com/timothybrooks/instruct-pix2pix)
 
 homepage link: [here](https://www.timothybrooks.com/instruct-pix2pix)
 
@@ -470,7 +470,7 @@ tag: `EVA` | `CVPR23` | `BAAI` | `HUST`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_EVA_Exploring_the_Limits_of_Masked_Visual_Representation_Learning_at_CVPR_2023_paper.pdf)
 
-github link: [here](https://github.com/baaivision/EVA)
+code link: [here](https://github.com/baaivision/EVA)
 
 citation:
 
@@ -492,7 +492,7 @@ tag: `MogaNet` | `ConvNet` | `ICLR24` | `Zhejiang University`
 
 paper link: [here](https://arxiv.org/pdf/2211.03295)
 
-github link: [here](https://github.com/Westlake-AI/MogaNet)
+code link: [here](https://github.com/Westlake-AI/MogaNet)
 
 citation:
 
@@ -515,7 +515,7 @@ tag: `Cold Diffusion`
 
 paper link: [here](https://arxiv.org/pdf/2208.09392)
 
-github link: [here](https://github.com/arpitbansal297/Cold-Diffusion-Models)
+code link: [here](https://github.com/arpitbansal297/Cold-Diffusion-Models)
 
 citation:
 
@@ -538,7 +538,7 @@ tag: `DaViT` | `ECCV22` | `Microsoft` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2204.03645)
 
-github link: [here](https://github.com/dingmyu/davit)
+code link: [here](https://github.com/dingmyu/davit)
 
 citation:
 
@@ -561,7 +561,7 @@ tag: `DeiT III` | `ECCV22` | `Meta`
 
 paper link: [here](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136840509.pdf)
 
-github link: [here](https://github.com/facebookresearch/deit/blob/main/README_revenge.md)
+code link: [here](https://github.com/facebookresearch/deit/blob/main/README_revenge.md)
 
 citation:
 
@@ -583,7 +583,7 @@ tag: `Three Things` | `ViT` | `ECCV22` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2203.09795)
 
-github link: [here](https://github.com/facebookresearch/deit/blob/main/README_3things.md)
+code link: [here](https://github.com/facebookresearch/deit/blob/main/README_3things.md)
 
 citation:
 
@@ -605,7 +605,7 @@ tag: `RQ-Transformer` | `RQ-VAE`
 
 paper link: [here](https://arxiv.org/pdf/2203.01941)
 
-github link: [here](https://github.com/kakaobrain/rq-vae-transformer)
+code link: [here](https://github.com/kakaobrain/rq-vae-transformer)
 
 citation:
 
@@ -628,7 +628,7 @@ tag: `ConvMixer` | `TMLR23` | `CMU`
 
 paper link: [here](https://openreview.net/pdf?id=rAnB7JSMXL)
 
-github link: [here](https://github.com/locuslab/convmixer)
+code link: [here](https://github.com/locuslab/convmixer)
 
 citation:
 
@@ -651,7 +651,7 @@ tag: `Latent Diffusion` | `LDM` | `Runway ML`
 
 paper link: [here](https://arxiv.org/pdf/2112.10752)
 
-github link: [here](https://github.com/CompVis/latent-diffusion)
+code link: [here](https://github.com/CompVis/latent-diffusion)
 
 citation:
 
@@ -675,7 +675,7 @@ paper link: [here](https://openaccess.thecvf.com/content/CVPR2022/papers/Singh_F
 
 blog link: [here](https://pytorch.org/blog/scaling-multimodal-foundation-models-in-torchmultimodal-with-pytorch-distributed/)
 
-github link: [here](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)
+code link: [here](https://github.com/facebookresearch/multimodal/tree/main/examples/flava)
 
 model link: [here](https://huggingface.co/facebook/flava-full)
 
@@ -725,7 +725,7 @@ tag: `SDEdit` | `Stanford University` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2108.01073)
 
-github link: [here](https://github.com/ermongroup/SDEdit)
+code link: [here](https://github.com/ermongroup/SDEdit)
 
 homepage link: [here](https://sde-image-editing.github.io/)
 
@@ -750,7 +750,7 @@ tag: `Guided Diffusion` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2105.05233)
 
-github link: [here](https://github.com/openai/guided-diffusion)
+code link: [here](https://github.com/openai/guided-diffusion)
 
 citation:
 
@@ -773,7 +773,7 @@ tag: `MLP-Mixer` | `NIPS21` | `Google Brain`
 
 paper link: [here](https://proceedings.nips.cc/paper/2021/file/cba0a4ee5ccd02fda0fe3f9a3e7b89fe-Paper.pdf)
 
-github link: [here](https://github.com/google-research/vision_transformer)
+code link: [here](https://github.com/google-research/vision_transformer)
 
 citation:
 
@@ -796,7 +796,7 @@ tag: `CaiT` | `ICCV21` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2103.17239)
 
-github link: [here](https://github.com/facebookresearch/deit/blob/main/README_cait.md)
+code link: [here](https://github.com/facebookresearch/deit/blob/main/README_cait.md)
 
 citation:
 
@@ -817,7 +817,7 @@ tag: `Swin Transformer` | `MSRA`
 
 paper link: [here](https://arxiv.org/pdf/2103.14030)
 
-github link: [here](https://github.com/microsoft/Swin-Transformer)
+code link: [here](https://github.com/microsoft/Swin-Transformer)
 
 citation:
 
@@ -840,7 +840,7 @@ tag: `CLIP` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2103.00020)
 
-github link: [here](https://github.com/OpenAI/CLIP)
+code link: [here](https://github.com/OpenAI/CLIP)
 
 citation:
 
@@ -862,7 +862,7 @@ tag: `DALL-E` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2102.12092)
 
-github link: [here](https://github.com/openai/DALL-E)
+code link: [here](https://github.com/openai/DALL-E)
 
 citation:
 
@@ -885,7 +885,7 @@ tag: `DeiT` | `ICML21` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2012.12877)
 
-github link: [here](https://github.com/facebookresearch/deit/blob/main/README_deit.md)
+code link: [here](https://github.com/facebookresearch/deit/blob/main/README_deit.md)
 
 citation:
 
@@ -908,7 +908,7 @@ tag: `Taming Transformer` | `VQGAN`
 
 paper link: [here](https://arxiv.org/pdf/2012.09841)
 
-github link: [here](https://github.com/CompVis/taming-transformers)
+code link: [here](https://github.com/CompVis/taming-transformers)
 
 citation:
 
@@ -930,7 +930,7 @@ tag: `SDE` | `Stanford University` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2011.13456)
 
-github link: [here](https://github.com/CompVis/latent-diffusion)
+code link: [here](https://github.com/CompVis/latent-diffusion)
 
 citation:
 
@@ -953,7 +953,7 @@ tag: `ViT` | `Vision Transformer` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/2010.11929)
 
-github link: [here](https://github.com/google-research/vision_transformer)
+code link: [here](https://github.com/google-research/vision_transformer)
 
 citation:
 
@@ -997,7 +997,7 @@ tag: `DDPM` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2006.11239)
 
-github link: [here](https://github.com/hojonathanho/diffusion)
+code link: [here](https://github.com/hojonathanho/diffusion)
 
 citation:
 
@@ -1044,7 +1044,7 @@ tag: `MMStar` | `Shanghai AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/2403.20330)
 
-github link: [here](https://github.com/MMStar-Benchmark/MMStar)
+code link: [here](https://github.com/MMStar-Benchmark/MMStar)
 
 homepage link: [here](https://mmstar-benchmark.github.io/)
 
@@ -1070,7 +1070,7 @@ tag: `MMMU` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2311.16502)
 
-github link: [here](https://github.com/MMMU-Benchmark/MMMU)
+code link: [here](https://github.com/MMMU-Benchmark/MMMU)
 
 homepage link: [here](https://mmmu-benchmark.github.io/)
 
@@ -1097,7 +1097,7 @@ tag: `MMBench` | `Shanghai AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/2307.06281)
 
-github link: [here](https://github.com/open-compass/VLMEvalKit)
+code link: [here](https://github.com/open-compass/VLMEvalKit)
 
 dataset link: [here](https://github.com/open-compass/mmbench/)
 
@@ -1125,7 +1125,7 @@ tag: `GPT-4V` | `Gemini` | `Awesome Multi-Modal LLMs` | `Tencent Youtu Lab` | `S
 
 paper link: [here](https://arxiv.org/pdf/2312.12436)
 
-github link: [here](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+code link: [here](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 
 citation:
 
@@ -1150,7 +1150,7 @@ tag: `Diffusion Survey` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2209.00796)
 
-github link: [here](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
+code link: [here](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
 
 citation:
 

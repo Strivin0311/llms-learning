@@ -30,7 +30,7 @@ tag: `OpenDiLoCo` | `Prime Intellect`
 
 paper link: [here](https://arxiv.org/pdf/2407.07852)
 
-github link: [here](https://github.com/PrimeIntellect-ai/OpenDiLoCo)
+code link: [here](https://github.com/PrimeIntellect-ai/OpenDiLoCo)
 
 citation:
 
@@ -79,7 +79,7 @@ blog link: [here](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a
 
 slides link: [here](https://nips.cc/media/neurips-2023/Slides/84328_0BRW6hm.pdf)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 citation:
 
@@ -102,7 +102,7 @@ tag: `MSCCLang` | `ASPLOS23` | `Microsoft`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3575693.3575724)
 
-github link: [here](https://github.com/microsoft/msccl)
+code link: [here](https://github.com/microsoft/msccl)
 
 citation:
 

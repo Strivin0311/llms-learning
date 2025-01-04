@@ -8,7 +8,7 @@ tag: `RoboGen` | `ICML24` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2311.01455.pdf)
 
-github link: [here](https://github.com/Genesis-Embodied-AI/RoboGen)
+code link: [here](https://github.com/Genesis-Embodied-AI/RoboGen)
 
 homepage link: [here](https://robogen-ai.github.io/)
 
@@ -32,7 +32,7 @@ tag: `World Model` | `NIPS23` | `Tecent Cloud AI` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2310.02071)
 
-github link: [here](https://github.com/pkunlp-icler/PCA-EVAL)
+code link: [here](https://github.com/pkunlp-icler/PCA-EVAL)
 
 citation:
 
@@ -51,7 +51,7 @@ tag: `World Model` | `NIPS23` | `UCSD`
 
 paper link: [here](https://arxiv.org/pdf/2305.10626)
 
-github link: [here](https://github.com/szxiangjn/world-model-for-language-model)
+code link: [here](https://github.com/szxiangjn/world-model-for-language-model)
 
 citation:
 
@@ -71,7 +71,7 @@ tag: `Progprompt` | `ICRA23` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2209.11302)
 
-github link: [here](https://github.com/NVlabs/progprompt-vh)
+code link: [here](https://github.com/NVlabs/progprompt-vh)
 
 homepage link: [here](https://progprompt.github.io/)
 
@@ -95,7 +95,7 @@ tag: `Language Planner` | `ICML22` | `UC Berkeley`
 
 paper link: [here](https://proceedings.mlr.press/v162/huang22a/huang22a.pdf)
 
-github link: [here](https://github.com/huangwl18/language-planner)
+code link: [here](https://github.com/huangwl18/language-planner)
 
 homepage link: [here](https://wenlong.page/language-planner/)
 

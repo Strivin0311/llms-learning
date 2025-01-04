@@ -8,7 +8,7 @@ tag: `Primer` | `Squared ReLU` | `NIPS21` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2109.08668.pdf)
 
-github link: [here](https://github.com/google-research/google-research/tree/master/primer)
+code link: [here](https://github.com/google-research/google-research/tree/master/primer)
 
 citation:
 
@@ -30,7 +30,7 @@ tag: `GLU` | `SwiGLU` | `REGLU` | `GEGLU` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2002.05202)
 
-github link: [here](https://github.com/labmlai/annotated_deep_learning_paper_implementations/blob/master/labml_nn/transformers/glu_variants/simple.py)
+code link: [here](https://github.com/labmlai/annotated_deep_learning_paper_implementations/blob/master/labml_nn/transformers/glu_variants/simple.py)
 
 citation:
 
@@ -52,7 +52,7 @@ tag: `ReLU`
 
 paper link: [here](https://arxiv.org/pdf/1803.08375.pdf)
 
-github link: [here](https://github.com/AFAgarap/dl-relu)
+code link: [here](https://github.com/AFAgarap/dl-relu)
 
 citation:
 
@@ -95,7 +95,7 @@ tag: `GELU` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/1606.08415)
 
-github link: [here](https://github.com/hendrycks/GELUs)
+code link: [here](https://github.com/hendrycks/GELUs)
 
 citation:
 

@@ -8,7 +8,7 @@ tag: `Minitron` | `NIPS24` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2407.14679)
 
-github link: [here](https://github.com/NVlabs/Minitron)
+code link: [here](https://github.com/NVlabs/Minitron)
 
 modelhub link: [here](https://huggingface.co/collections/nvidia/minitron-669ac727dc9c86e6ab7f0f3e)
 
@@ -31,7 +31,7 @@ tag: `Wanda` | `ICLR24` | `Meta` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2306.11695.pdf)
 
-github link: [here](https://github.com/locuslab/wanda)
+code link: [here](https://github.com/locuslab/wanda)
 
 citation:
 
@@ -53,7 +53,7 @@ tag: `LLM-Pruner` | `NIPS23` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2305.11627.pdf)
 
-github link: [here](https://github.com/horseee/LLM-Pruner)
+code link: [here](https://github.com/horseee/LLM-Pruner)
 
 citation:
 
@@ -75,7 +75,7 @@ tag: `SCOP` | `NIPS20` | `Noah’s Ark Lab` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2010.10732)
 
-github link: [here](https://github.com/yehuitang/Pruning/tree/master/SCOP_NeurIPS2020)
+code link: [here](https://github.com/yehuitang/Pruning/tree/master/SCOP_NeurIPS2020)
 
 citation:
 
@@ -97,7 +97,7 @@ tag: `MHA` | `Multi-head Attention` | `NIPS19` | `CMU`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf)
 
-github link: [here](https://github.com/pmichel31415/are-16-heads-really-better-than-1)
+code link: [here](https://github.com/pmichel31415/are-16-heads-really-better-than-1)
 
 citation:
 

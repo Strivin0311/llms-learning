@@ -9,7 +9,7 @@ tag: `LASP` | `OpenNLPLab`
 
 paper link: [here](https://arxiv.org/pdf/2404.02882)
 
-github link: [here](https://github.com/OpenNLPLab/LASP)
+code link: [here](https://github.com/OpenNLPLab/LASP)
 
 citation:
 
@@ -53,7 +53,7 @@ tag: `Lightning Attention 2` | `OpenNLPLab`
 
 paper link: [here](https://arxiv.org/pdf/2401.04658.pdf)
 
-github link: [here](https://github.com/OpenNLPLab/lightning-attention)
+code link: [here](https://github.com/OpenNLPLab/lightning-attention)
 
 follow-up work: [here](https://arxiv.org/pdf/2404.02882)
 
@@ -77,7 +77,7 @@ tag: `TransNormerLLM` | `Lightning Attention` | `OpenNLPLab`
 
 paper link: [here](https://arxiv.org/pdf/2307.14995.pdf)
 
-github link: [here](https://github.com/OpenNLPLab/TransnormerLLM)
+code link: [here](https://github.com/OpenNLPLab/TransnormerLLM)
 
 follow-up work: [here](https://arxiv.org/pdf/2401.04658.pdf)
 
@@ -101,7 +101,7 @@ tag: `Primal Attention` | `NIPS23`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/cd687a58a13b673eea3fc1b2e4944cf7-Paper-Conference.pdf)
 
-github link: [here](https://github.com/yingyichen-cyy/PrimalAttention)
+code link: [here](https://github.com/yingyichen-cyy/PrimalAttention)
 
 ```bibtex
 @misc{chen2023primalattention,
@@ -120,7 +120,7 @@ tag: `Fourierformer` | `NIPS22` | `UCLA`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/bc968adbdff4a2551649d464b83f264a-Paper-Conference.pdf)
 
-github link: [here](https://github.com/minhtannguyen/FourierFormer_NeurIPS)
+code link: [here](https://github.com/minhtannguyen/FourierFormer_NeurIPS)
 
 citation:
 
@@ -150,7 +150,7 @@ $$
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/9185f3ec501c674c7c788464a36e7fb3-Paper.pdf)
 
-github link: [here](https://github.com/HazyResearch/fly)
+code link: [here](https://github.com/HazyResearch/fly)
 
 citation:
 
@@ -180,7 +180,7 @@ $$
 
 paper link: [here](https://proceedings.neurips.cc/paper/2021/file/14319d9cfc6123106878dc20b94fbaf3-Paper.pdf)
 
-github link: [here](https://github.com/XuezheMax/fairseq-apollo)
+code link: [here](https://github.com/XuezheMax/fairseq-apollo)
 
 citation:
 
@@ -202,7 +202,7 @@ tag: `RFA` | `ICLR21` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2103.02143)
 
-github link: [here](https://github.com/Noahs-ARK/RFA)
+code link: [here](https://github.com/Noahs-ARK/RFA)
 
 citation:
 
@@ -231,7 +231,7 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2009.14794)
 
-github link: [here](https://github.com/google-research/google-research/tree/master/performer)
+code link: [here](https://github.com/google-research/google-research/tree/master/performer)
 
 citation:
 
@@ -258,7 +258,7 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2006.04768)
 
-github link: [here](https://github.com/facebookresearch/fairseq/blob/main/examples/linformer/README.md)
+code link: [here](https://github.com/facebookresearch/fairseq/blob/main/examples/linformer/README.md)
 
 citation:
 
@@ -286,7 +286,7 @@ $$
 
 paper link: [here](http://proceedings.mlr.press/v119/katharopoulos20a/katharopoulos20a.pdf)
 
-github link: [here](https://github.com/lucidrains/linear-attention-transformer)
+code link: [here](https://github.com/lucidrains/linear-attention-transformer)
 
 citation:
 

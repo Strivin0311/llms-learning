@@ -30,7 +30,7 @@ tag: `Star Attention` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2411.17116)
 
-github link: [here](https://github.com/NVIDIA/Star-Attention)
+code link: [here](https://github.com/NVIDIA/Star-Attention)
 
 citation:
 
@@ -53,7 +53,7 @@ tag: `Double Sparsity` | `UC Berkeley` | `Standford University` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2408.07092)
 
-github link: [here](https://github.com/andy-yang-1/DoubleSparse)
+code link: [here](https://github.com/andy-yang-1/DoubleSparse)
 
 citation:
 
@@ -76,7 +76,7 @@ tag: `Dynamic Sparse Attention` | `MInference 1.0` | `NIPS24` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2407.02490)
 
-github link: [here](https://github.com/microsoft/MInference)
+code link: [here](https://github.com/microsoft/MInference)
 
 homepage link: [here](https://aka.ms/MInference)
 
@@ -101,7 +101,7 @@ tag: `Fused NA` | `Faster Neighborhood Attention` | `NIPS24` | `SHI Labs` | `NVI
 
 paper link: [here](https://arxiv.org/pdf/2403.04690)
 
-github link: [here](https://github.com/SHI-Labs/NATTEN)
+code link: [here](https://github.com/SHI-Labs/NATTEN)
 
 citation:
 
@@ -124,7 +124,7 @@ tag: `LongLM` | `ICML24` | `Amazon` | `TAMU`
 
 paper link: [here](https://arxiv.org/pdf/2401.01325.pdf)
 
-github link: [here](https://github.com/datamllab/LongLM)
+code link: [here](https://github.com/datamllab/LongLM)
 
 citation:
 
@@ -145,7 +145,7 @@ tag: `Attention Sink` | `StreamingLLM` | `ICLR24` | `Meta` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2309.17453)
 
-github link: [here](https://github.com/mit-han-lab/streaming-llm)
+code link: [here](https://github.com/mit-han-lab/streaming-llm)
 
 citation:
 
@@ -165,7 +165,7 @@ tag: `LongLoRA` | `ICLR24` | `Nvidia` | `MIT` | `CUHK`
 
 paper link: [here](https://arxiv.org/pdf/2309.12307.pdf)
 
-github link: [here](https://github.com/dvlab-research/LongLoRA)
+code link: [here](https://github.com/dvlab-research/LongLoRA)
 
 citation:
 
@@ -185,7 +185,7 @@ tag: `LM-Infinite` | `NAACL24` | `Meta`
 
 paper link: [here](https://aclanthology.org/2024.naacl-long.222.pdf)
 
-github link: [here](https://github.com/Glaciohound/LM-Infinite)
+code link: [here](https://github.com/Glaciohound/LM-Infinite)
 
 citation:
 
@@ -205,7 +205,7 @@ tag: `LongNet` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2307.02486.pdf)
 
-github link: [here](https://github.com/microsoft/unilm)
+code link: [here](https://github.com/microsoft/unilm)
 
 citation:
 
@@ -225,7 +225,7 @@ tag: `Landmark Attention` | `NIPS23` | `EPFL`
 
 paper link: [here](https://arxiv.org/pdf/2305.16300)
 
-github link: [here](https://github.com/epfml/landmark-attention/)
+code link: [here](https://github.com/epfml/landmark-attention/)
 
 citation:
 
@@ -245,7 +245,7 @@ tag: `MoA` | `Mixture of Attention Heads` | `Beihang University`
 
 paper link: [here](https://arxiv.org/pdf/2210.05144)
 
-github link: [here](https://github.com/yikangshen/MoA)
+code link: [here](https://github.com/yikangshen/MoA)
 
 citation:
 
@@ -267,7 +267,7 @@ tag: `MEGA` | `ICLR23` | `Meta`
 
 paper link: [here](https://openreview.net/pdf?id=qNLe3iq2El)
 
-github link: [here](https://github.com/facebookresearch/mega)
+code link: [here](https://github.com/facebookresearch/mega)
 
 citation:
 
@@ -289,7 +289,7 @@ tag: `NAT` | `Neighborhood Attention` | `CVPR23` | `SHI Labs` | `Meta`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Hassani_Neighborhood_Attention_Transformer_CVPR_2023_paper.pdf)
 
-github link: [here](https://github.com/SHI-Labs/NATTEN)
+code link: [here](https://github.com/SHI-Labs/NATTEN)
 
 follow-up work: [here](https://arxiv.org/pdf/2403.04690)
 
@@ -314,7 +314,7 @@ tag: `Routing Transformer` | `TACL21` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2003.05997)
 
-github link: [here](https://github.com/google-research/google-research/tree/master/routing_transformer)
+code link: [here](https://github.com/google-research/google-research/tree/master/routing_transformer)
 
 citation:
 
@@ -337,7 +337,7 @@ tag: `Expire-Span` | `ICML21` | `Meta`
 
 paper link: [here](http://proceedings.mlr.press/v139/sukhbaatar21a/sukhbaatar21a.pdf)
 
-github link: [here](https://github.com/facebookresearch/transformer-sequential)
+code link: [here](https://github.com/facebookresearch/transformer-sequential)
 
 citation:
 
@@ -376,7 +376,7 @@ tag: `Lite Transformer` | `ICLR20` | `MIT` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2004.11886)
 
-github link: [here](https://github.com/mit-han-lab/lite-transformer)
+code link: [here](https://github.com/mit-han-lab/lite-transformer)
 
 citation:
 
@@ -396,7 +396,7 @@ tag: `Longformer` | `LED` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2004.05150.pdf)
 
-github link: [here](https://github.com/allenai/longformer)
+code link: [here](https://github.com/allenai/longformer)
 
 citation:
 
@@ -416,7 +416,7 @@ tag: `Big Bird` | `NIPS20` | `Google`
 
 paper link: [here](https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf)
 
-github link: [here](https://github.com/google-research/bigbird)
+code link: [here](https://github.com/google-research/bigbird)
 
 citation:
 
@@ -460,7 +460,7 @@ tag: `Reformer` | `ICLR20` | `Google` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2001.04451)
 
-github link: [here](https://github.com/google/trax/tree/master/trax/models/reformer)
+code link: [here](https://github.com/google/trax/tree/master/trax/models/reformer)
 
 citation:
 
@@ -480,7 +480,7 @@ tag:  `BlockBERT` | `Blockwise Attention` | `Meta` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/1911.02972)
 
-github link: [here](https://github.com/xptree/BlockBERT)
+code link: [here](https://github.com/xptree/BlockBERT)
 
 citation:
 
@@ -518,7 +518,7 @@ tag: `Adaptive Span` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/1905.07799)
 
-github link: [here](https://github.com/facebookresearch/adaptive-span)
+code link: [here](https://github.com/facebookresearch/adaptive-span)
 
 citation:
 
@@ -538,7 +538,7 @@ tag: `Sparse Transformer` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/1904.10509)
 
-github link: [here](https://openai.com/index/sparse-transformer/)
+code link: [here](https://openai.com/index/sparse-transformer/)
 
 citation:
 
@@ -557,7 +557,7 @@ tag: `Star Transformer` | `NAACL19` | `Fudan University`
 
 paper link: [here](https://aclanthology.org/N19-1133.pdf)
 
-github link: [here](https://github.com/dmlc/dgl)
+code link: [here](https://github.com/dmlc/dgl)
 
 citation:
 

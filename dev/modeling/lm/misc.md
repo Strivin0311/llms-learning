@@ -8,7 +8,7 @@ tag: `BLT` | `Meta` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2412.09871)
 
-github link: [here](https://github.com/facebookresearch/blt)
+code link: [here](https://github.com/facebookresearch/blt)
 
 citation:
 
@@ -31,7 +31,7 @@ tag: `FlashRNN` | `NXAI Lab` | `JKU`
 
 paper link: [here](https://arxiv.org/pdf/2412.07752)
 
-github link: [here](https://github.com/NX-AI/flashrnn)
+code link: [here](https://github.com/NX-AI/flashrnn)
 
 citation:
 
@@ -54,7 +54,7 @@ tag: `TokenFormer` | `Pattention` | `Google` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2410.23168)
 
-github link: [here](https://github.com/Haiyang-W/TokenFormer)
+code link: [here](https://github.com/Haiyang-W/TokenFormer)
 
 citation:
 
@@ -76,7 +76,7 @@ tag: `NAMMs` | `EMA` | `BAM` | `Sakana AI`
 
 paper link: [here](https://arxiv.org/pdf/2410.13166)
 
-github link: [here](https://github.com/SakanaAI/evo-memory)
+code link: [here](https://github.com/SakanaAI/evo-memory)
 
 citation:
 
@@ -99,7 +99,7 @@ tag: `LoLCATs` | `Attention Transfer` | `LoRA` | `Together AI` | `Standford Univ
 
 paper link: [here](https://arxiv.org/pdf/2410.10254)
 
-github link: [here](https://github.com/HazyResearch/lolcats)
+code link: [here](https://github.com/HazyResearch/lolcats)
 
 citation:
 
@@ -122,7 +122,7 @@ tag: `FAN` | `ByteDance` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2410.02675)
 
-github link: [here](https://github.com/YihongDong/FAN)
+code link: [here](https://github.com/YihongDong/FAN)
 
 citation:
 
@@ -210,7 +210,7 @@ tag: `Matmul-free LM` | `UCSC`
 
 paper link: [here](https://arxiv.org/pdf/2406.02528)
 
-github link: [here](https://github.com/ridgerchu/matmulfreellm)
+code link: [here](https://github.com/ridgerchu/matmulfreellm)
 
 citation:
 
@@ -233,7 +233,7 @@ tag: `YOCO` | `Decoder-Decoder` | `NIPS24` | `Microsoft` | `Tsinghua University`
 
 paper link: [here](https://openreview.net/pdf?id=25Ioxw576r)
 
-github link: [here](https://github.com/microsoft/unilm/tree/master/YOCO)
+code link: [here](https://github.com/microsoft/unilm/tree/master/YOCO)
 
 citation:
 
@@ -256,7 +256,7 @@ tag: `xLSTM` | `NIPS24` | `LIT AI Lab` | `NXAI Lab` | `JKU`
 
 paper link: [here](https://openreview.net/pdf?id=ARAxPPIAhq)
 
-github link: [here](https://github.com/NX-AI/xlstm)
+code link: [here](https://github.com/NX-AI/xlstm)
 
 citation:
 
@@ -279,7 +279,7 @@ tag: `M2` | `Monarch Mixer` | `NIPS23` | `Standford University`
 
 paper link: [here](https://openreview.net/pdf?id=cB0BImqSS9)
 
-github link: [here](https://github.com/HazyResearch/m2)
+code link: [here](https://github.com/HazyResearch/m2)
 
 citation: 
 
@@ -320,7 +320,7 @@ tag: `RevNet` | `NIPS17` | `University of Toronto`
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/f9be311e65d81a9ad8150a60844bb94c-Paper.pdf)
 
-github link: [here](https://github.com/renmengye/revnet-public)
+code link: [here](https://github.com/renmengye/revnet-public)
 
 citation:
 

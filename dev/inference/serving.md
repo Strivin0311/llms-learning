@@ -10,7 +10,7 @@ tag: `BitNet.cpp` | `BitNet b1.58` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2410.16144)
 
-github link: [here](https://github.com/microsoft/bitnet)
+code link: [here](https://github.com/microsoft/bitnet)
 
 homepage link: [here](https://thegenerality.com/agi/)
 
@@ -35,7 +35,7 @@ tag: `MInference 1.0` | `Dynamic Sparse Attention` | `NIPS24` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2407.02490)
 
-github link: [here](https://github.com/microsoft/MInference)
+code link: [here](https://github.com/microsoft/MInference)
 
 homepage link: [here](https://aka.ms/MInference)
 
@@ -60,7 +60,7 @@ tag: `PowerInfer-2` | `IPADS` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2410.11298)
 
-github link: [here](https://github.com/SJTU-IPADS/PowerInfer)
+code link: [here](https://github.com/SJTU-IPADS/PowerInfer)
 
 citation:
 
@@ -83,7 +83,7 @@ tag: `Sarathi-Serve` | `OSDI24` | `Microsoft`
 
 paper link: [here](https://www.usenix.org/system/files/osdi24-agrawal.pdf)
 
-github link: [here](https://github.com/microsoft/sarathi-serve)
+code link: [here](https://github.com/microsoft/sarathi-serve)
 
 citation:
 
@@ -106,7 +106,7 @@ tag: `Expert Offloading` | `Mixtral` | `MoE`
 
 paper link: [here](https://arxiv.org/pdf/2312.17238.pdf)
 
-github link: [here](https://github.com/dvmazur/mixtral-offloading)
+code link: [here](https://github.com/dvmazur/mixtral-offloading)
 
 citation:
 
@@ -127,7 +127,7 @@ tag: `PowerInfer` | `SOSP24` | `IPADS` | `SJTU`
 
 paper link: [here](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf)
 
-github link: [here](https://github.com/SJTU-IPADS/PowerInfer)
+code link: [here](https://github.com/SJTU-IPADS/PowerInfer)
 
 followup work: [here](https://arxiv.org/pdf/2410.11298)
 
@@ -167,7 +167,7 @@ tag: `S-LoRA` | `MLSys24` | `UC Berkeley` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2311.03285)
 
-github link: [here](https://github.com/S-LoRA/S-LoRA)
+code link: [here](https://github.com/S-LoRA/S-LoRA)
 
 citation:
 
@@ -186,7 +186,7 @@ tag: `Punica` | `MLSys24` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2310.18547.pdf)
 
-github link: [here](https://github.com/punica-ai/punica)
+code link: [here](https://github.com/punica-ai/punica)
 
 citation:
 
@@ -207,7 +207,7 @@ tag: `CacheGen` | `ACM SIGCOMM24` | `Microsoft` | `University of Chicago`
 
 paper link: [here](https://arxiv.org/pdf/2310.07240)
 
-github link: [here](https://github.com/UChi-JCL/CacheGen)
+code link: [here](https://github.com/UChi-JCL/CacheGen)
 
 citation:
 
@@ -250,7 +250,7 @@ tag: `DeepSpeed-FastGen` | `MII` | `DeepSpeed` | `Microsoft`
 
 blog link: [here](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-fastgen)
 
-github link: [here](https://github.com/microsoft/DeepSpeed-MII)
+code link: [here](https://github.com/microsoft/DeepSpeed-MII)
 
 tutorial link: [here](../../tutorial/notebook/tutorial_deepspeed_infer.ipynb)
 
@@ -273,7 +273,7 @@ tag: `FlexGen` | `ICML23` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2303.06865)
 
-github link: [here](https://github.com/FMInference/FlexLLMGen)
+code link: [here](https://github.com/FMInference/FlexLLMGen)
 
 citation:
 
@@ -292,7 +292,7 @@ tag: `ZeroInference` | `DeepSpeed` | `Microsoft`
 
 blog link: [here](https://www.deepspeed.ai/2022/09/09/zero-inference.html)
 
-github link: [here](https://github.com/microsoft/DeepSpeed/)
+code link: [here](https://github.com/microsoft/DeepSpeed/)
 
 citation:
 
@@ -358,7 +358,7 @@ tag: `DeepSpeed Inference`
 
 blog link: [here](https://www.deepspeed.ai/2021/03/15/inference-kernel-optimization.html)
 
-github link: [here](https://github.com/microsoft/DeepSpeed/)
+code link: [here](https://github.com/microsoft/DeepSpeed/)
 
 citation:
 

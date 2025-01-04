@@ -29,7 +29,7 @@ tag: `Controllable Memory` | `ZBPP` | `Sea AILab` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2405.15362)
 
-github link: [here](https://github.com/sail-sg/zero-bubble-pipeline-parallelism)
+code link: [here](https://github.com/sail-sg/zero-bubble-pipeline-parallelism)
 
 citation:
 
@@ -51,7 +51,7 @@ tag: `ZBPP` | `ZB1P` | `ZB2P` | `ICLR24` | `Sea AILab`
 
 paper link: [here](https://openreview.net/pdf?id=tuzTN0eIO5)
 
-github link: [here](https://github.com/sail-sg/zero-bubble-pipeline-parallelism)
+code link: [here](https://github.com/sail-sg/zero-bubble-pipeline-parallelism)
 
 follow-up work: [here](https://arxiv.org/pdf/2405.15362)
 
@@ -76,7 +76,7 @@ tag: `Oobleck` | `SOSP23` | `University of Michigan` | `Peking University`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3600006.3613152)
 
-github link: [here](https://github.com/SymbioticLab/Oobleck)
+code link: [here](https://github.com/SymbioticLab/Oobleck)
 
 citation:
 
@@ -170,7 +170,7 @@ paper link: [here](https://proceedings.mlr.press/v139/he21a/he21a.pdf)
 
 slides link: [here](https://docs.google.com/presentation/d/1t6HWL33KIQo2as0nSHeBpXYtTBcy0nXCoLiKd0EashY/edit#slide=id.p)
 
-github link: [here](https://github.com/Distributed-AI/PipeTransformer)
+code link: [here](https://github.com/Distributed-AI/PipeTransformer)
 
 homepage link: [here](https://chaoyanghe.com/pipetransformer/)
 
@@ -263,7 +263,7 @@ tag: `torchgpipe` | `Kakao Brain`
 
 paper link: [here](https://arxiv.org/pdf/2004.09910)
 
-github link: [here](https://github.com/kakaobrain/torchgpipe)
+code link: [here](https://github.com/kakaobrain/torchgpipe)
 
 citation:
 

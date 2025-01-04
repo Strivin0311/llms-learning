@@ -30,7 +30,7 @@ tag: `Mini-Omni 2` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2410.11190)
 
-github link: [here](https://github.com/gpt-omni/mini-omni2)
+code link: [here](https://github.com/gpt-omni/mini-omni2)
 
 citation:
 
@@ -53,7 +53,7 @@ tag: `LLaMA-Omni` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2409.06666)
 
-github link: [here](https://github.com/ictnlp/LLaMA-Omni)
+code link: [here](https://github.com/ictnlp/LLaMA-Omni)
 
 model links:
 
@@ -79,7 +79,7 @@ tag: `Mini-Omni` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2408.16725)
 
-github link: [here](https://github.com/gpt-omni/mini-omni)
+code link: [here](https://github.com/gpt-omni/mini-omni)
 
 follow-up work: [here](https://arxiv.org/pdf/2410.11190)
 

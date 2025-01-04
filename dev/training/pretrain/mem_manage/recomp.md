@@ -50,7 +50,7 @@ tag: `DTR` | `Dynamic Tensor Rematerialization` | `ICLR21` | `University of Wash
 
 paper link: [here](https://arxiv.org/pdf/2006.09616)
 
-github link: [here](https://github.com/uwsampl/dtr-prototype)
+code link: [here](https://github.com/uwsampl/dtr-prototype)
 
 citation:
 

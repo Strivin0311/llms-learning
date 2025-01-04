@@ -9,7 +9,7 @@ tag: `Diff Transformer` | `Diff Attention` | `Microsoft` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2410.05258)
 
-github link: [here](https://github.com/microsoft/unilm/tree/master/Diff-Transformer)
+code link: [here](https://github.com/microsoft/unilm/tree/master/Diff-Transformer)
 
 citation:
 
@@ -31,7 +31,7 @@ tag: `Sage Attention` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2410.02367)
 
-github link: [here](https://github.com/thu-ml/SageAttention)
+code link: [here](https://github.com/thu-ml/SageAttention)
 
 citation:
 
@@ -54,7 +54,7 @@ tag: `Flash Mask` | `Flash Attention` | `Baidu`
 
 paper link: [here](https://arxiv.org/pdf/2410.01359)
 
-github link: [here](https://github.com/PaddlePaddle/PaddleNLP)
+code link: [here](https://github.com/PaddlePaddle/PaddleNLP)
 
 citation:
 
@@ -79,7 +79,7 @@ blog link: [here](https://pytorch.org/blog/flexattention/)
 
 doc link: [here](https://pytorch.org/docs/main/nn.attention.flex_attention.html#module-torch.nn.attention.flex_attention)
 
-github link: [here](https://github.com/pytorch-labs/attention-gym)
+code link: [here](https://github.com/pytorch-labs/attention-gym)
 
 citation:
 
@@ -101,7 +101,7 @@ paper link: [here](https://arxiv.org/pdf/2407.08608)
 
 blog link: [here](https://tridao.me/blog/2024/flash3/)
 
-github link: [here](https://github.com/Dao-AILab/flash-attention/tree/main/hopper)
+code link: [here](https://github.com/Dao-AILab/flash-attention/tree/main/hopper)
 
 citation:
 
@@ -144,7 +144,7 @@ tag: `LightSeq` | `DistFlashAttn` | `COLM24` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2310.03294)
 
-github link: [here](https://github.com/RulinShao/LightSeq)
+code link: [here](https://github.com/RulinShao/LightSeq)
 
 citation:
 
@@ -166,7 +166,7 @@ tag: `Paged Attention` | `vLLM` | `SOSP23` | `UC Berkeley` | `Stanford Universit
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)
 
-github link: [here](https://github.com/vllm-project/vllm)
+code link: [here](https://github.com/vllm-project/vllm)
 
 citation:
 
@@ -196,7 +196,7 @@ derivation manuscript link: [here](./fa2_deriv.md)
 
 paper link: [here](https://openreview.net/pdf?id=mZn2Xyh9Ec)
 
-github link: [here](https://github.com/Dao-AILab/flash-attention)
+code link: [here](https://github.com/Dao-AILab/flash-attention)
 
 citation:
 
@@ -243,7 +243,7 @@ $$
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf)
 
-github link: [here](https://github.com/Dao-AILab/flash-attention)
+code link: [here](https://github.com/Dao-AILab/flash-attention)
 
 citation:
 
@@ -303,7 +303,7 @@ tag: `Fastformer` | `MSRA` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2108.09084)
 
-github link: [here](https://github.com/wuch15/Fastformer)
+code link: [here](https://github.com/wuch15/Fastformer)
 
 citation:
 
@@ -347,7 +347,7 @@ paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f
 
 blog link: [here](https://nlp.seas.harvard.edu/annotated-transformer/)
 
-github link: [here](https://github.com/tensorflow/tensor2tensor)
+code link: [here](https://github.com/tensorflow/tensor2tensor)
 
 citation:
 

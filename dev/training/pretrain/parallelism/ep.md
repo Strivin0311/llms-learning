@@ -51,7 +51,7 @@ tag: `Skywork MoE` | `Skywork Team, Kunlun Inc`
 
 paper link: [here](https://arxiv.org/pdf/2406.06563)
 
-github link: [here](https://github.com/SkyworkAI/Skywork-MOE)
+code link: [here](https://github.com/SkyworkAI/Skywork-MOE)
 
 model links:
 
@@ -119,7 +119,7 @@ tag: `FasterMoE` | `PPoPP22` | `Tsinghua University`
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3503221.3508418)
 
-github link: [here](https://github.com/thu-pacman/FasterMoE)
+code link: [here](https://github.com/thu-pacman/FasterMoE)
 
 citation:
 
@@ -140,7 +140,7 @@ tag: `MegaBlocks` | `dMoE` | `MLSys23` | `Stanford University` | `Google` | `Mic
 
 paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2023/file/5a54f79333768effe7e8927bcccffe40-Paper-mlsys2023.pdf)
 
-github link: [here](https://github.com/stanford-futuredata/megablocks)
+code link: [here](https://github.com/stanford-futuredata/megablocks)
 
 citation:
 
@@ -164,7 +164,7 @@ paper link: [here](https://arxiv.org/pdf/2206.03382)
 
 slides link: [here](https://mlsys.org/media/mlsys-2023/Slides/2477.pdf)
 
-github link: [here](https://github.com/microsoft/tutel)
+code link: [here](https://github.com/microsoft/tutel)
 
 citation:
 
@@ -186,7 +186,7 @@ tag: `DeepSpeed-MoE` | `ICML23` | `Microsoft`
 
 paper link: [here](https://proceedings.mlr.press/v162/rajbhandari22a/rajbhandari22a.pdf)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 citation:
 
@@ -208,7 +208,7 @@ tag: `Switch Transformer` | `JMLR23` | `Google`
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 
-github link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
+code link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
 
 citation:
 

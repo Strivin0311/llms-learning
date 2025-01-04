@@ -8,7 +8,7 @@ tag: `SLAB` | `SLA` | `PRepBN` | `ICML24` | `Huawei Noah’s Ark Lab`
 
 paper link: [here](https://arxiv.org/pdf/2405.11582)
 
-github link: [here](https://github.com/xinghaochen/SLAB)
+code link: [here](https://github.com/xinghaochen/SLAB)
 
 citation:
 
@@ -31,7 +31,7 @@ tag: `DeepNorm` | `DeepNet` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2203.00555)
 
-github link: [here](https://github.com/microsoft/unilm)
+code link: [here](https://github.com/microsoft/unilm)
 
 citation:
 
@@ -96,7 +96,7 @@ tag: `RMSNorm` | `NIPS19`
 
 paper link: [here](https://arxiv.org/pdf/1910.07467)
 
-github link: [here](https://github.com/bzhangGo/rmsnorm)
+code link: [here](https://github.com/bzhangGo/rmsnorm)
 
 citation:
 
@@ -119,7 +119,7 @@ tag: `GroupNorm` | `GN` | `ECCV18` | `Meta`
 
 paper link: [here](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)
 
-github link: [here](https://github.com/facebookresearch/Detectron/tree/main/projects/GN)
+code link: [here](https://github.com/facebookresearch/Detectron/tree/main/projects/GN)
 
 citation:
 

@@ -8,7 +8,7 @@ tag: `DeepSeek-V3` | `DeepSeek`
 
 paper link: [here](https://arxiv.org/pdf/2412.19437)
 
-github link: [here](https://github.com/deepseek-ai/DeepSeek-V3)
+code link: [here](https://github.com/deepseek-ai/DeepSeek-V3)
 
 model link: [here](https://huggingface.co/deepseek-ai/DeepSeek-V3)
 
@@ -55,7 +55,7 @@ tag: `OLMoE` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2409.02060)
 
-github link: [here](https://github.com/allenai/OLMoE)
+code link: [here](https://github.com/allenai/OLMoE)
 
 citation:
 
@@ -119,7 +119,7 @@ tag: `DeepSeek-V2` | `DeepSeek AI`
 
 paper link: [here](https://arxiv.org/pdf/2405.04434)
 
-github link: [here](https://github.com/deepseek-ai/DeepSeek-V2)
+code link: [here](https://github.com/deepseek-ai/DeepSeek-V2)
 
 model links:
 
@@ -171,7 +171,7 @@ tag: `DeepSeek MoE` | `DeepSeek AI`
 
 paper link: [here](https://arxiv.org/pdf/2401.06066)
 
-github link: [here](https://github.com/deepseek-ai/DeepSeek-MoE)
+code link: [here](https://github.com/deepseek-ai/DeepSeek-MoE)
 
 follow-up work: [here](https://arxiv.org/pdf/2405.04434)
 
@@ -202,7 +202,7 @@ tag: `SwitchHead`
 
 paper link: [here](https://arxiv.org/pdf/2312.07987v2.pdf)
 
-github link: [here](https://github.com/robertcsordas/moe_attention)
+code link: [here](https://github.com/robertcsordas/moe_attention)
 
 citation:
 
@@ -290,7 +290,7 @@ tag: `OpenMoE` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2402.01739)
 
-github link: [here](https://github.com/XueFuzhao/OpenMoE)
+code link: [here](https://github.com/XueFuzhao/OpenMoE)
 
 citation:
 
@@ -312,7 +312,7 @@ tag: `MegaBlocks` | `dMoE` | `MLSys23` | `Stanford University` | `Google` | `Mic
 
 paper link: [here](https://proceedings.mlsys.org/paper_files/paper/2023/file/5a54f79333768effe7e8927bcccffe40-Paper-mlsys2023.pdf)
 
-github link: [here](https://github.com/stanford-futuredata/megablocks)
+code link: [here](https://github.com/stanford-futuredata/megablocks)
 
 citation:
 
@@ -354,7 +354,7 @@ tag: `ST-MoE` | `Google Brain`
 
 paper link: [here](https://arxiv.org/pdf/2202.08906)
 
-github link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
+code link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
 
 citation:
 
@@ -397,7 +397,7 @@ tag: `Switch Transformer` | `SMoE` | `JMLR23` | `Google`
 
 paper link: [here](https://www.jmlr.org/papers/volume23/21-0998/21-0998.pdf)
 
-github link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
+code link: [here](https://github.com/tensorflow/mesh/blob/master/mesh_tensorflow/transformer/moe.py)
 
 citation:
 
@@ -421,7 +421,7 @@ tag: `BASE` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2103.16716)
 
-github link: [here](https://github.com/facebookresearch/fairseq)
+code link: [here](https://github.com/facebookresearch/fairseq)
 
 follow-up work: [here](https://arxiv.org/pdf/2202.01169)
 

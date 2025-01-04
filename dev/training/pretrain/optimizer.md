@@ -10,7 +10,7 @@ tag: `AGD` | `DLRover` | `NIPS23` | `AntGroup`
 
 paper link: [here](https://arxiv.org/pdf/2312.01658)
 
-github link: [here](https://github.com/intelligent-machine-learning/dlrover/tree/master/atorch/atorch/optimizers)
+code link: [here](https://github.com/intelligent-machine-learning/dlrover/tree/master/atorch/atorch/optimizers)
 
 citation:
 
@@ -33,7 +33,7 @@ tag: `FP8-LM` | `FP8 Optimizer` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2310.18313.pdf)
 
-github link: [here](https://github.com/Azure/MS-AMP)
+code link: [here](https://github.com/Azure/MS-AMP)
 
 citation:
 
@@ -75,7 +75,7 @@ tag: `LOMO` | `OpenLMLab` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2306.09782)
 
-github link: [here](https://github.com/OpenLMLab/LOMO)
+code link: [here](https://github.com/OpenLMLab/LOMO)
 
 citation:
 
@@ -118,7 +118,7 @@ tag: `1-bit Adam` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2102.02888.pdf)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 citation:
 

@@ -161,7 +161,7 @@ paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f
 
 blog link: [here](https://nlp.seas.harvard.edu/annotated-transformer/)
 
-github link: [here](https://github.com/tensorflow/tensor2tensor)
+code link: [here](https://github.com/tensorflow/tensor2tensor)
 
 citation:
 
@@ -184,7 +184,7 @@ tag: `ARC` | `ARC-AGI` | `Skill-Acquisition Efficiency` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/1911.01547)
 
-github link: [here](https://github.com/fchollet/ARC-AGI)
+code link: [here](https://github.com/fchollet/ARC-AGI)
 
 citation:
 

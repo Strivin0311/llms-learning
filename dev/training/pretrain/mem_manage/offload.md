@@ -54,7 +54,7 @@ tag: `Lohan` | `ICDE25` | `Zhejiang University` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2403.06504)
 
-github link: [here](https://github.com/Crispig/Ratel)
+code link: [here](https://github.com/Crispig/Ratel)
 
 citation:
 
@@ -74,7 +74,7 @@ citation:
 
 tag: `TE-Offloading` | `Transformer-Engine` | `NVIDIA`
 
-github link: [here](https://github.com/NVIDIA/TransformerEngine/blob/main/transformer_engine/pytorch/cpu_offload.py)
+code link: [here](https://github.com/NVIDIA/TransformerEngine/blob/main/transformer_engine/pytorch/cpu_offload.py)
 
 docs link: [here](https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/api/pytorch.html?highlight=offload#transformer_engine.pytorch.get_cpu_offload_context)
 
@@ -184,7 +184,7 @@ tag: `PatrickStar` | `TPDS22` | `Tencent` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2108.05818)
 
-github link: [here](https://github.com/Tencent/PatrickStar)
+code link: [here](https://github.com/Tencent/PatrickStar)
 
 citation:
 

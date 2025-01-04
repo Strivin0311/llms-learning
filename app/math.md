@@ -32,7 +32,7 @@ tag: `QWQ` | `Qwen` | `Alibaba Group`
 
 blog link: [here](https://qwenlm.github.io/blog/qwq-32b-preview/)
 
-github link: [here](https://github.com/QwenLM/Qwen2.5)
+code link: [here](https://github.com/QwenLM/Qwen2.5)
 
 modelhub link: [here](https://huggingface.co/collections/Qwen/qwq-674762b79b75eac01735070a)
 
@@ -55,7 +55,7 @@ tag: `Marco-o1` | `MCTS` | `CoT` | `Marcopolo Team` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2411.14405)
 
-github link: [here](https://github.com/AIDC-AI/Marco-o1)
+code link: [here](https://github.com/AIDC-AI/Marco-o1)
 
 model link: [here](https://huggingface.co/AIDC-AI/Marco-o1)
 
@@ -80,7 +80,7 @@ tag: `BoH` | `Bag of Heuristics` | `Technion` | `Northeastern University`
 
 paper link: [here](https://arxiv.org/pdf/2305.10037)
 
-github link: [here](https://github.com/technion-cs-nlp/llm-arithmetic-heuristics)
+code link: [here](https://github.com/technion-cs-nlp/llm-arithmetic-heuristics)
 
 citation:
 
@@ -122,7 +122,7 @@ tag: `MCTSr` | `MCTS` | `MCT Self-Refine` | `Shanghai AI Lab` | `Fudan Universit
 
 paper link: [here](https://arxiv.org/pdf/2406.07394)
 
-github link: [here](https://github.com/trotsky1997/MathBlackBox)
+code link: [here](https://github.com/trotsky1997/MathBlackBox)
 
 citation:
 
@@ -144,7 +144,7 @@ tag: `AlphaMath` | `MCTS` | `NIPS24` | `Tongyi Lab` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2405.03553)
 
-github link: [here](https://github.com/MARIO-Math-Reasoning/Super_MARIO)
+code link: [here](https://github.com/MARIO-Math-Reasoning/Super_MARIO)
 
 citation:
 
@@ -167,7 +167,7 @@ tag: `DTV` | `ICLR24` | `Google` | `Cornell University`
 
 paper link: [here](https://arxiv.org/pdf/2403.18120)
 
-github link: [here](https://github.com/jinpz/dtv)
+code link: [here](https://github.com/jinpz/dtv)
 
 citation:
 
@@ -191,7 +191,7 @@ tag: `Llemma` | `Proof-Pile-2` | `ICLR24` | `Princeton University`
 
 paper link: [here](https://arxiv.org/pdf/2310.10631.pdf)
 
-github link: [here](https://github.com/EleutherAI/math-lm)
+code link: [here](https://github.com/EleutherAI/math-lm)
 
 dataset link: [here](https://huggingface.co/datasets/EleutherAI/proof-pile-2)
 
@@ -215,7 +215,7 @@ tag: `MuggleMath` | `ACL24` | `Alibaba Group` | `USTC`
 
 paper link: [here](https://aclanthology.org/2024.acl-long.551.pdf)
 
-github link: [here](https://github.com/OFA-Sys/gsm8k-ScRel)
+code link: [here](https://github.com/OFA-Sys/gsm8k-ScRel)
 
 citation:
 
@@ -238,7 +238,7 @@ tag: `ToRA` | `ICLR24` | `Microsoft` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2309.17452)
 
-github link: [here](https://github.com/microsoft/ToRA)
+code link: [here](https://github.com/microsoft/ToRA)
 
 citation:
 
@@ -258,7 +258,7 @@ tag: `MetaMath` | `MetaMathQA` | `ICLR24` | `University of Cambridge`
 
 paper link: [here](https://arxiv.org/pdf/2309.12284)
 
-github link: [here](https://github.com/meta-math/MetaMath)
+code link: [here](https://github.com/meta-math/MetaMath)
 
 dataset link: [here](https://huggingface.co/datasets/meta-math/MetaMathQA)
 
@@ -282,7 +282,7 @@ tag: `FOBAR` | `Huawei Noah’s Ark Lab` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2308.07758)
 
-github link: [here](https://github.com/ws-jiang/fobar-public)
+code link: [here](https://github.com/ws-jiang/fobar-public)
 
 homepage link: [here](https://llm-fobar.github.io/)
 
@@ -306,7 +306,7 @@ tag: `RFT` | `DAMO Academy` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2308.01825)
 
-github link: [here](https://github.com/OFA-Sys/gsm8k-ScRel)
+code link: [here](https://github.com/OFA-Sys/gsm8k-ScRel)
 
 follow-up work: [here](https://arxiv.org/pdf/2310.05506)
 
@@ -330,7 +330,7 @@ tag: `LeanDojo` | `NIPS23` | `Nvidia` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2306.15626.pdf)
 
-github link: [here](https://github.com/lean-dojo/LeanDojo)
+code link: [here](https://github.com/lean-dojo/LeanDojo)
 
 citation:
 
@@ -349,7 +349,7 @@ tag: `MathChat` | `GPT-4` | `ICLR 2024 Workshop on LLM Agents` | `Pennsylvania S
 
 paper link: [here](https://arxiv.org/pdf/2306.01337.pdf)
 
-github link: [here](https://github.com/yiranwu0/MathChat)
+code link: [here](https://github.com/yiranwu0/MathChat)
 
 citation:
 
@@ -370,7 +370,7 @@ tag: `In-Context Algorithm Selection` | `ICL` | `NIPS23` | `Salesforce AI Resear
 
 paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2023/file/b2e63e36c57e153b9015fece2352a9f9-Paper-Conference.pdf)
 
-github link: [here](https://github.com/allenbai01/transformers-as-statisticians)
+code link: [here](https://github.com/allenbai01/transformers-as-statisticians)
 
 citation:
 
@@ -390,7 +390,7 @@ tag: `PRM800K` | `Process Supervision` | `ICLR24` | `OpenAI`
 
 paper link: [here](https://openreview.net/pdf?id=v8L0pN6EOi)
 
-github link: [here](https://github.com/openai/prm800k)
+code link: [here](https://github.com/openai/prm800k)
 
 citation:
 
@@ -410,7 +410,7 @@ tag: `Multi-View Reasoning` | `MWP` | `EMNLP22` | `Zhejiang University`
 
 paper link: [here](https://aclanthology.org/2022.findings-emnlp.79.pdf)
 
-github link: [here](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
+code link: [here](https://github.com/zwq2018/Math-Reasoning-With-PLMs)
 
 citation:
 
@@ -433,7 +433,7 @@ tag: `NLGraph` | `NIPS23` | `Xi’an Jiaotong University` | `University of Washi
 
 paper link: [here](https://arxiv.org/pdf/2305.10037)
 
-github link: [here](https://github.com/Arthur-Heng/NLGraph)
+code link: [here](https://github.com/Arthur-Heng/NLGraph)
 
 citation:
 
@@ -453,7 +453,7 @@ tag: `GSM8k` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2110.14168)
 
-github link: [here](https://github.com/openai/grade-school-math)
+code link: [here](https://github.com/openai/grade-school-math)
 
 dataset link: [here](https://huggingface.co/datasets/gsm8k)
 
@@ -477,7 +477,7 @@ tag: `MATH` | `NIPS21` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2103.03874.pdf)
 
-github link: [here](https://github.com/hendrycks/math)
+code link: [here](https://github.com/hendrycks/math)
 
 dataset link: [here](https://huggingface.co/datasets/hendrycks/competition_math)
 
@@ -499,7 +499,7 @@ tag: `MiniF2F` | `ICLR22` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2109.00110)
 
-github link: [here](https://github.com/openai/miniF2F)
+code link: [here](https://github.com/openai/miniF2F)
 
 citation:
 

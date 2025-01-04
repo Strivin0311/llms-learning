@@ -13,7 +13,7 @@ paper link: [here](https://arxiv.org/pdf/2410.15608)
 
 blog link: [here](https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/)
 
-github link: [here](https://github.com/usefulsensors/moonshine)
+code link: [here](https://github.com/usefulsensors/moonshine)
 
 citation:
 
@@ -35,7 +35,7 @@ tag: `Qwen2-Audio` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2407.10759)
 
-github link: [here](https://github.com/QwenLM/Qwen2-Audio)
+code link: [here](https://github.com/QwenLM/Qwen2-Audio)
 
 modelhub link: [here](https://huggingface.co/collections/Qwen/qwen2-audio-66b628d694096020e0c52ff6)
 
@@ -60,7 +60,7 @@ tag: `Spirit LM` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2402.05755)
 
-github link: [here](https://github.com/facebookresearch/spiritlm)
+code link: [here](https://github.com/facebookresearch/spiritlm)
 
 homepage link: [here](https://speechbot.github.io/spiritlm/)
 
@@ -87,7 +87,7 @@ tag: `AIR-Bench` | `ACL24` | `Alibaba Group` | `Zhejiang University`
 
 paper link: [here](https://aclanthology.org/2024.acl-long.109.pdf)
 
-github link: [here](https://github.com/OFA-Sys/AIR-Bench)
+code link: [here](https://github.com/OFA-Sys/AIR-Bench)
 
 citation:
 

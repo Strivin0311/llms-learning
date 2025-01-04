@@ -29,7 +29,7 @@ tag: `LLM Development` | `Characterization Study` | `Fault-Tolerant` | `NSDI24` 
 
 paper link: [here](https://www.usenix.org/system/files/nsdi24-hu.pdf)
 
-github link: [here](https://github.com/InternLM/AcmeTrace)
+code link: [here](https://github.com/InternLM/AcmeTrace)
 
 dataset link: [here](https://huggingface.co/datasets/Qinghao/AcmeTrace)
 
@@ -53,7 +53,7 @@ tag: `Fractal Patterns` | `NIPS24` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2402.01825)
 
-github link: [here](https://github.com/google-research/google-research/tree/master/fractals_language)
+code link: [here](https://github.com/google-research/google-research/tree/master/fractals_language)
 
 citation:
 
@@ -76,7 +76,7 @@ tag: `Long-Context` | `Survey`
 
 paper link: [here](https://arxiv.org/pdf/2311.12351.pdf)
 
-github link: [here](https://github.com/Strivin0311/long-llms-learning)
+code link: [here](https://github.com/Strivin0311/long-llms-learning)
 
 citation:
 
@@ -194,7 +194,7 @@ tag: `Tuned Lens` | `Logits Lens` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2303.08112)
 
-github link: [here](https://github.com/AlignmentResearch/tuned-lens)
+code link: [here](https://github.com/AlignmentResearch/tuned-lens)
 
 citation:
 
@@ -254,7 +254,7 @@ tag: `Modality Gap` | `NIPS22` | `Stanford University`
 
 paper link: [here](https://papers.neurips.cc/paper_files/paper/2022/file/702f4db7543a7432431df588d57bc7c9-Paper-Conference.pdf)
 
-github link: [here](https://github.com/Weixin-Liang/Modality-Gap)
+code link: [here](https://github.com/Weixin-Liang/Modality-Gap)
 
 citation:
 

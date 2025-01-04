@@ -10,7 +10,7 @@ tag: `Chain of Ideas` | `CoI` | `DAMO Academy` | `Alibaba Group` | `Zhejiang Uni
 
 paper link: [here](https://arxiv.org/pdf/2410.13185)
 
-github link: [here](https://github.com/DAMO-NLP-SG/CoI-Agent)
+code link: [here](https://github.com/DAMO-NLP-SG/CoI-Agent)
 
 citation:
 
@@ -32,7 +32,7 @@ tag: `MindSearch` | `Shanghai AI Lab` | `USTC`
 
 paper link: [here](https://arxiv.org/pdf/2407.20183)
 
-github link: [here](https://github.com/InternLM/MindSearch)
+code link: [here](https://github.com/InternLM/MindSearch)
 
 citation:
 
@@ -54,7 +54,7 @@ tag: `Agents 2.0` | `Symbolic Learning` | `AIWaves`
 
 paper link: [here](https://arxiv.org/pdf/2406.18532)
 
-github link: [here](https://github.com/aiwaves-cn/agents)
+code link: [here](https://github.com/aiwaves-cn/agents)
 
 citation:
 
@@ -76,7 +76,7 @@ tag: `Husky` | `Meta` | `Allen AI`
 
 paper link: [here](https://arxiv.org/pdf/2406.06469)
 
-github link: [here](https://github.com/agent-husky/Husky-v1)
+code link: [here](https://github.com/agent-husky/Husky-v1)
 
 model links:
 
@@ -110,7 +110,7 @@ tag: `MoA` | `Mixture-of-Agents` | `ICLR25` | `TogetherAI`
 
 paper link: [here](https://arxiv.org/pdf/2406.04692)
 
-github link: [here](https://github.com/togethercomputer/moa)
+code link: [here](https://github.com/togethercomputer/moa)
 
 citation:
 
@@ -153,7 +153,7 @@ tag: `ModelScope-Agent` | `DAMO Academy` | `Alibaba Group`
 
 paper link: [here](https://arxiv.org/pdf/2309.00986)
 
-github link: [here](https://github.com/modelscope/modelscope-agent)
+code link: [here](https://github.com/modelscope/modelscope-agent)
 
 citation:
 
@@ -172,7 +172,7 @@ tag: `AutoAgents` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2309.17288)
 
-github link: [here](https://github.com/Link-AGI/AutoAgents)
+code link: [here](https://github.com/Link-AGI/AutoAgents)
 
 tutorial link: [here](../tutorial/notebook/tutorial_autogen.ipynb)
 
@@ -194,7 +194,7 @@ tag: `Agents` | `AIWaves`
 
 paper link: [here](https://arxiv.org/pdf/2309.07870)
 
-github link: [here](https://github.com/aiwaves-cn/agents)
+code link: [here](https://github.com/aiwaves-cn/agents)
 
 follow-up work: [here](https://arxiv.org/pdf/2406.18532)
 
@@ -215,7 +215,7 @@ tag: `AutoGen` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2308.08155.pdf)
 
-github link: [here](https://github.com/microsoft/autogen)
+code link: [here](https://github.com/microsoft/autogen)
 
 citation:
 
@@ -235,7 +235,7 @@ tag: `ToolLLM` | `NIPS23` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2307.16789.pdf)
 
-github link: [here](https://github.com/OpenBMB/ToolBench)
+code link: [here](https://github.com/OpenBMB/ToolBench)
 
 citation:
 
@@ -255,7 +255,7 @@ tag: `ChatDev` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2307.07924.pdf)
 
-github link: [here](https://github.com/OpenBMB/ChatDev)
+code link: [here](https://github.com/OpenBMB/ChatDev)
 
 citation:
 
@@ -275,7 +275,7 @@ tag: `ToolAlpaca` | `UCAS`
 
 paper link: [here](https://arxiv.org/pdf/2306.05301)
 
-github link: [here](https://github.com/tangqiaoyu/ToolAlpaca)
+code link: [here](https://github.com/tangqiaoyu/ToolAlpaca)
 
 citation:
 
@@ -318,7 +318,7 @@ tag: `Voyager` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/2305.16291.pdf)
 
-github link: [here](https://github.com/MineDojo/Voyager)
+code link: [here](https://github.com/MineDojo/Voyager)
 
 homepage link: [here](https://voyager.minedojo.org/)
 
@@ -342,7 +342,7 @@ tag: `ToolkenGPT` | `UCSD`
 
 paper link: [here](https://arxiv.org/pdf/2305.11554)
 
-github link: [here](https://github.com/Ber666/ToolkenGPT)
+code link: [here](https://github.com/Ber666/ToolkenGPT)
 
 citation:
 
@@ -362,7 +362,7 @@ tag: `Generative Agents` | `Google DeepMind` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2304.03442.pdf)
 
-github link: [here](https://github.com/joonspk-research/generative_agents)
+code link: [here](https://github.com/joonspk-research/generative_agents)
 
 citation:
 
@@ -381,7 +381,7 @@ tag: `CAMEL` | `NIPS23` | `KAUST`
 
 paper link: [here](https://arxiv.org/pdf/2303.17760)
 
-github link: [here](https://github.com/camel-ai/camel)
+code link: [here](https://github.com/camel-ai/camel)
 
 citation:
 
@@ -404,7 +404,7 @@ tag: `RCI` | `NIPS23` | `UCI` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2303.17491)
 
-github link: [here](https://github.com/posgnu/rci-agent)
+code link: [here](https://github.com/posgnu/rci-agent)
 
 citation:
 
@@ -439,7 +439,7 @@ citation:
 
 tag: `LangChain` | `LangSmith`
 
-github link: [here](https://github.com/langchain-ai/langchain)
+code link: [here](https://github.com/langchain-ai/langchain)
 
 docs link: [here](https://python.langchain.com/docs/get_started/introduction)
 
@@ -469,7 +469,7 @@ tag: `SmartPlay` | `ICLR24` | `Microsoft` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2310.01557)
 
-github link: [here](https://github.com/microsoft/SmartPlay)
+code link: [here](https://github.com/microsoft/SmartPlay)
 
 citation:
 
@@ -489,7 +489,7 @@ tag: `RoleLLM` | `Beihang University`
 
 paper link: [here](https://arxiv.org/pdf/2310.00746)
 
-github link: [here](https://github.com/InteractiveNLP-Team/RoleLLM-public)
+code link: [here](https://github.com/InteractiveNLP-Team/RoleLLM-public)
 
 citation:
 
@@ -508,7 +508,7 @@ tag: `Agentbench` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2308.03688)
 
-github link: [here](https://github.com/THUDM/AgentBench)
+code link: [here](https://github.com/THUDM/AgentBench)
 
 homepage link: [here](https://llmbench.ai/agent)
 
@@ -532,7 +532,7 @@ tag: `LLM Agents Survey` | `Fudan University`
 
 paper link: [here](https://arxiv.org/pdf/2309.07864)
 
-github link: [here](https://github.com/WooooDyy/LLM-Agent-Paper-List)
+code link: [here](https://github.com/WooooDyy/LLM-Agent-Paper-List)
 
 citation:
 

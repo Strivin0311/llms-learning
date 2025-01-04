@@ -9,7 +9,7 @@ tag: `KAT` | `KAN` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2409.10594)
 
-github link: [here](https://github.com/Adamdad/kat)
+code link: [here](https://github.com/Adamdad/kat)
 
 citation:
 
@@ -32,7 +32,7 @@ tag: `KAN 2.0` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2408.10205)
 
-github link: [here](https://github.com/KindXiaoming/pykan)
+code link: [here](https://github.com/KindXiaoming/pykan)
 
 citation:
 
@@ -55,7 +55,7 @@ tag: `FastKAN` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2405.06721)
 
-github link: [here](https://github.com/ZiyaoLi/fast-kan)
+code link: [here](https://github.com/ZiyaoLi/fast-kan)
 
 citation:
 
@@ -78,7 +78,7 @@ tag: `KAN` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2404.19756)
 
-github link: [here](https://github.com/KindXiaoming/pykan)
+code link: [here](https://github.com/KindXiaoming/pykan)
 
 follow-up work: [here](https://arxiv.org/pdf/2408.10205)
 
@@ -103,7 +103,7 @@ citation:
 
 tag: `KAN Collection`
 
-github link: [here](https://github.com/mintisan/awesome-kan)
+code link: [here](https://github.com/mintisan/awesome-kan)
 
 citation:
 

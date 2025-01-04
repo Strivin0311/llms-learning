@@ -10,7 +10,7 @@ paper link: [here](https://allenai.org/papers/tulu-3-report.pdf)
 
 blog link: [here](https://allenai.org/blog/tulu-3-technical)
 
-github link: [here](https://github.com/allenai/open-instruct)
+code link: [here](https://github.com/allenai/open-instruct)
 
 modelhub link: [here](https://huggingface.co/collections/allenai/tulu-3-models-673b8e0dc3512e30e7dc54f5)
 
@@ -53,7 +53,7 @@ tag: `HybridFlow` | `EuroSys25` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2409.19256)
 
-github link: [here](https://github.com/volcengine/verl)
+code link: [here](https://github.com/volcengine/verl)
 
 citation:
 
@@ -73,7 +73,7 @@ tag: `CPO` | `NIPS24` | `Sea AI Lab`
 
 paper link: [here](https://arxiv.org/pdf/2406.09136)
 
-github link: [here](https://github.com/sail-sg/CPO)
+code link: [here](https://github.com/sail-sg/CPO)
 
 citation:
 
@@ -96,7 +96,7 @@ tag: `RLAIF-V` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2405.17220)
 
-github link: [here](https://github.com/RLHF-V/RLAIF-V)
+code link: [here](https://github.com/RLHF-V/RLAIF-V)
 
 citation:
 
@@ -119,7 +119,7 @@ tag: `DeepSeekMath` | `GRPO` | `DeepSeek AI` | `Tsinghua University` | `Peking U
 
 paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
 
-github link: [here](https://github.com/deepseek-ai/DeepSeek-Math)
+code link: [here](https://github.com/deepseek-ai/DeepSeek-Math)
 
 
 citation:
@@ -141,7 +141,7 @@ tag: `SPIN` | `Self-Play` | `ICML24` | `UCLA`
 
 paper link: [here](https://arxiv.org/pdf/2401.01335.pdf)
 
-github link: [here](https://github.com/uclaml/SPIN)
+code link: [here](https://github.com/uclaml/SPIN)
 
 citation:
 
@@ -163,7 +163,7 @@ tag: `Zephyr` | `dDPO` | `COLM24` | `HuggingFace`
 
 paper link: [here](https://arxiv.org/pdf/2310.16944.pdf)
 
-github link: [here](https://github.com/huggingface/alignment-handbook)
+code link: [here](https://github.com/huggingface/alignment-handbook)
 
 modelhub link: [here](https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66)
 
@@ -187,7 +187,7 @@ tag: `FD-Align` | `NIPS23` | `USTB`
 
 paper link: [here](https://arxiv.org/pdf/2310.15105)
 
-github link: [here](https://github.com/skingorz/FD-Align)
+code link: [here](https://github.com/skingorz/FD-Align)
 
 citation:
 
@@ -206,7 +206,7 @@ tag: `GPO` | `ICLR24` | `UCLA`
 
 paper link: [here](https://arxiv.org/pdf/2310.11523.pdf)
 
-github link: [here](https://github.com/jamqd/Group-Preference-Optimization)
+code link: [here](https://github.com/jamqd/Group-Preference-Optimization)
 
 homepage link: [here](https://siyan-zhao.github.io/llm-gpo/)
 
@@ -250,7 +250,7 @@ tag: `OpenChat` | `C-RLFT` | `ICLR24` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2309.11235.pdf)
 
-github link: [here](https://github.com/imoneoi/openchat)
+code link: [here](https://github.com/imoneoi/openchat)
 
 modelhub link: [here](https://huggingface.co/collections/openchat/openchat-65110500e14eeb01d4888806)
 
@@ -326,7 +326,7 @@ tag: `Self-Align` | `NIPS23` | `IBM Research` | `CMU` | `MIT`
 
 paper link: [here](https://arxiv.org/pdf/2305.03047)
 
-github link: [here](https://github.com/IBM/Dromedary)
+code link: [here](https://github.com/IBM/Dromedary)
 
 citation:
 
@@ -346,7 +346,7 @@ tag: `WizardLM` | `ICLR24` | `Microsoft` | `Peking University`
 
 paper link: [here](https://openreview.net/pdf?id=CfXh93NDgH)
 
-github link: [here](https://github.com/nlpxucan/WizardLM)
+code link: [here](https://github.com/nlpxucan/WizardLM)
 
 modelhub link: [here](https://huggingface.co/WizardLMTeam)
 
@@ -369,7 +369,7 @@ tag: `RRHF` | `NIPS23` | `DAMO Academy` | `Alibaba Group` | `Tsinghua University
 
 paper link: [here](https://arxiv.org/pdf/2304.05302)
 
-github link: [here](https://github.com/GanjinZero/RRHF)
+code link: [here](https://github.com/GanjinZero/RRHF)
 
 citation:
 
@@ -388,7 +388,7 @@ tag: `OpenAGI` | `RLTF` | `NIPS23` | `Rutgers University`
 
 paper link: [here](https://arxiv.org/pdf/2304.04370.pdf)
 
-github link: [here](https://github.com/agiresearch/OpenAGI)
+code link: [here](https://github.com/agiresearch/OpenAGI)
 
 citation:
 
@@ -426,7 +426,7 @@ tag: `Self-instruct` | `IFT` | `Instruction Tuning` | `ACL23` | `University of W
 
 paper link: [here](https://arxiv.org/pdf/2212.10560)
 
-github link: [here](https://github.com/yizhongw/self-instruct)
+code link: [here](https://github.com/yizhongw/self-instruct)
 
 citation:
 
@@ -446,7 +446,7 @@ tag: `Self-Prompting` | `IFT` | `Instruction Tuning` | `NAACL24` | `SJTU`
 
 paper link: [here](https://aclanthology.org/2024.naacl-long.17.pdf)
 
-github link: [here](https://github.com/lockon-n/self-prompting)
+code link: [here](https://github.com/lockon-n/self-prompting)
 
 citation:
 
@@ -468,7 +468,7 @@ tag: `RLAIF` | `Constitutional AI` | `Anthropic`
 
 paper link: [here](https://arxiv.org/pdf/2212.08073.pdf)
 
-github link: [here](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)
+code link: [here](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)
 
 citation:
 
@@ -508,7 +508,7 @@ tag: `ILQL` | `ICLR23` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2211.11073.pdf)
 
-github link: [here](https://github.com/Sea-Snell/Implicit-Language-Q-Learning)
+code link: [here](https://github.com/Sea-Snell/Implicit-Language-Q-Learning)
 
 homepage link: [here](https://sea-snell.github.io/ILQL_site/)
 
@@ -533,7 +533,7 @@ tag: `FLAN-T5` | `FLAN-PaLM` | `IFT` | `Instruction Tuning` | `JMLR24` | `Google
 
 paper link: [here](https://www.jmlr.org/papers/volume25/23-0870/23-0870.pdf)
 
-github link: [here](https://github.com/google-research/flan)
+code link: [here](https://github.com/google-research/flan)
 
 citation:
 
@@ -555,7 +555,7 @@ tag: `FLAN` | `IFT` | `Instruction Tuning` | `ICLR22` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2109.01652)
 
-github link: [here](https://github.com/google-research/flan)
+code link: [here](https://github.com/google-research/flan)
 
 citation:
 
@@ -577,7 +577,7 @@ paper link: [here](https://arxiv.org/pdf/1909.08593.pdf)
 
 blog link: [here](https://huggingface.co/blog/rlhf)
 
-github link: [here](https://github.com/openai/lm-human-preferences)
+code link: [here](https://github.com/openai/lm-human-preferences)
 
 citation:
 

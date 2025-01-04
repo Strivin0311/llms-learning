@@ -11,7 +11,7 @@ tag: `GrokkedTransformer` | `Grokking` | `NIPS24` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2405.15071)
 
-github link: [here](https://github.com/OSU-NLP-Group/GrokkedTransformer)
+code link: [here](https://github.com/OSU-NLP-Group/GrokkedTransformer)
 
 citation:
 
@@ -54,7 +54,7 @@ tag: `Plum` | `ACL24` | `HKU`
 
 paper link: [here](https://aclanthology.org/2024.findings-acl.129.pdf)
 
-github link: [here](https://github.com/research4pan/Plum)
+code link: [here](https://github.com/research4pan/Plum)
 
 citation:
 
@@ -74,7 +74,7 @@ tag: `DDCoT` | `CoT` | `Multi-Modal` | `NIPS23` | `ShanghaiTech University`
 
 paper link: [here](https://arxiv.org/pdf/2310.16436)
 
-github link: [here](https://github.com/SooLab/DDCOT)
+code link: [here](https://github.com/SooLab/DDCOT)
 
 homepage link: [here](https://toneyaya.github.io/ddcot/)
 
@@ -116,7 +116,7 @@ tag: `GoT` | `AAAI24`
 
 paper link: [here](https://arxiv.org/pdf/2308.09687.pdf)
 
-github link: [here](https://github.com/spcl/graph-of-thoughts)
+code link: [here](https://github.com/spcl/graph-of-thoughts)
 
 citation:
 
@@ -136,7 +136,7 @@ tag: `DLN` | `NIPS23` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2306.12509.pdf)
 
-github link: [here](https://github.com/microsoft/deep-language-networks)
+code link: [here](https://github.com/microsoft/deep-language-networks)
 
 ```bibtex
 @inproceedings{sordoni2023joint,
@@ -154,7 +154,7 @@ tag: `ToT` | `NIPS23` | `Google DeepMind` | `Princeton University`
 
 paper link: [here](https://arxiv.org/pdf/2305.10601)
 
-github link: [here](https://github.com/princeton-nlp/tree-of-thought-llm)
+code link: [here](https://github.com/princeton-nlp/tree-of-thought-llm)
 
 citation:
 
@@ -194,7 +194,7 @@ tag: `Chameleon` | `NIPS23` | `Microsoft` | `UCLA`
 
 paper link: [here](https://arxiv.org/pdf/2304.09842)
 
-github link: [here](https://github.com/lupantech/chameleon-llm)
+code link: [here](https://github.com/lupantech/chameleon-llm)
 
 homepage link: [here](https://chameleon-llm.github.io/)
 
@@ -216,7 +216,7 @@ tag: `PaL` | `ICML23` | `CMU`
 
 paper link: [here](https://proceedings.mlr.press/v202/gao23f/gao23f.pdf)
 
-github link: [here](https://github.com/reasoning-machines/pal)
+code link: [here](https://github.com/reasoning-machines/pal)
 
 homepage link: [here](https://reasonwithpal.com/)
 
@@ -239,7 +239,7 @@ tag: `VisProg` | `CVPR23` | `Allen AI`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)
 
-github link: [here](https://github.com/allenai/visprog)
+code link: [here](https://github.com/allenai/visprog)
 
 homepage link: [here](https://prior.allenai.org/projects/visprog)
 
@@ -262,7 +262,7 @@ tag: `MaPLe` | `Multi-Modal` | `CVPR23`
 
 paper link: [here](https://openaccess.thecvf.com/content/CVPR2023/papers/Khattak_MaPLe_Multi-Modal_Prompt_Learning_CVPR_2023_paper.pdf)
 
-github link: [here](https://github.com/muzairkhattak/multimodal-prompt-learning)
+code link: [here](https://github.com/muzairkhattak/multimodal-prompt-learning)
 
 citation:
 
@@ -283,7 +283,7 @@ tag: `Structured Prompting` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2212.06713)
 
-github link: [here](https://github.com/microsoft/LMOps)
+code link: [here](https://github.com/microsoft/LMOps)
 
 citation:
 
@@ -320,7 +320,7 @@ tag: `APE` | `ICLR23` | `University of Toronto`
 
 paper link: [here](https://arxiv.org/pdf/2211.01910.pdf)
 
-github link: [here](https://github.com/keirp/automatic_prompt_engineer)
+code link: [here](https://github.com/keirp/automatic_prompt_engineer)
 
 citation:
 
@@ -340,7 +340,7 @@ tag: `CoCoOp` | `CoOp` | `CVPR22` | `VLMs`
 
 paper link: [here](http://openaccess.thecvf.com/content/CVPR2022/papers/Zhou_Conditional_Prompt_Learning_for_Vision-Language_Models_CVPR_2022_paper.pdf)
 
-github link: [here](https://github.com/KaiyangZhou/CoOp)
+code link: [here](https://github.com/KaiyangZhou/CoOp)
 
 citation:
 
@@ -361,7 +361,7 @@ tag: `ReAct` | `ICLR23` | `Google Brain` | `Princeton University`
 
 paper link: [here](https://arxiv.org/pdf/2210.03629.pdf)
 
-github link: [here](https://github.com/ysymyth/ReAct)
+code link: [here](https://github.com/ysymyth/ReAct)
 
 homepage link: [here](https://react-lm.github.io/)
 
@@ -421,7 +421,7 @@ tag: `RLPrompt` | `EMNLP22` | `CMU`
 
 paper link: [here](https://aclanthology.org/2022.emnlp-main.222.pdf)
 
-github link: [here](https://github.com/mingkaid/rl-prompt)
+code link: [here](https://github.com/mingkaid/rl-prompt)
 
 citation:
 
@@ -480,7 +480,7 @@ tag: `T-Zero` | `Multi-Task` | `ICLR22` | `HuggingFace` | `BigScience` | `Brown 
 
 paper link: [here](https://arxiv.org/pdf/2110.08207)
 
-github link: [here](https://github.com/bigscience-workshop/t-zero)
+code link: [here](https://github.com/bigscience-workshop/t-zero)
 
 citation:
 
@@ -503,7 +503,7 @@ tag: `Locality of Experience` | `CoT` | `NIPS23` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2304.03843)
 
-github link: [here](https://github.com/benpry/why-think-step-by-step)
+code link: [here](https://github.com/benpry/why-think-step-by-step)
 
 citation:
 
@@ -541,7 +541,7 @@ tag: `CoT` | `NIPS23` | `NYU`
 
 paper link: [here](https://arxiv.org/pdf/2305.04388.pdf)
 
-github link: [here](https://github.com/milesaturpin/cot-unfaithfulness)
+code link: [here](https://github.com/milesaturpin/cot-unfaithfulness)
 
 citation:
 

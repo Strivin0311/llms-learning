@@ -9,7 +9,7 @@ tag: `FlashFlex` | `HKUST` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2409.01143)
 
-github link: [here](https://github.com/Relaxed-System-Lab/FlashFlex)
+code link: [here](https://github.com/Relaxed-System-Lab/FlashFlex)
 
 citation:
 

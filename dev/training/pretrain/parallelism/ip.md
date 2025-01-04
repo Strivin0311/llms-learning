@@ -8,7 +8,7 @@ tag: `MegaScale` | `veScale` | `ByteDance` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2402.15627)
 
-github link: [here](https://github.com/volcengine/veScale)
+code link: [here](https://github.com/volcengine/veScale)
 
 citation:
 
@@ -56,7 +56,7 @@ paper link: [here](https://link.springer.com/chapter/10.1007/978-3-031-07312-0_6
 
 slides link: [here](https://mug.mvapich.cse.ohio-state.edu/static/media/mug/presentations/22/jain-mug22-short-talk-wed.pdf)
 
-github link: [here](https://github.com/OSU-Nowlab/MPI4DL)
+code link: [here](https://github.com/OSU-Nowlab/MPI4DL)
 
 citation:
 
@@ -105,7 +105,7 @@ tag: `OneFlow` | `SBP` | `HKU`
 
 paper link: [here](https://arxiv.org/pdf/2110.15032)
 
-github link: [here](https://github.com/Oneflow-Inc/oneflow)
+code link: [here](https://github.com/Oneflow-Inc/oneflow)
 
 citation:
 
@@ -128,7 +128,7 @@ tag: `Colossal-AI` | `ICPP23` | `NUS`
 
 paper link: [here](https://arxiv.org/pdf/2110.14883)
 
-github link: [here](https://github.com/hpcaitech/ColossalAI)
+code link: [here](https://github.com/hpcaitech/ColossalAI)
 
 citation:
 
@@ -168,7 +168,7 @@ tag: `PTD-P` | `Megatron-LM` | `Nvidia` | `Microsoft` | `Stanford University`
 
 paper link: [here](https://arxiv.org/pdf/2104.04473.pdf)
 
-github link: [here](https://github.com/NVIDIA/Megatron-LM)
+code link: [here](https://github.com/NVIDIA/Megatron-LM)
 
 citation:
 
@@ -189,7 +189,7 @@ tag: `DeepSpeed` | `KDD20` | `Microsoft`
 
 paper link: [here](https://dl.acm.org/doi/10.1145/3394486.3406703)
 
-github link: [here](https://github.com/microsoft/DeepSpeed)
+code link: [here](https://github.com/microsoft/DeepSpeed)
 
 blog link: [here](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
 
@@ -214,7 +214,7 @@ tag: `Megatron-LM` | `Nvidia`
 
 paper link: [here](https://arxiv.org/pdf/1909.08053.pdf)
 
-github link: [here](https://github.com/NVIDIA/Megatron-LM)
+code link: [here](https://github.com/NVIDIA/Megatron-LM)
 
 follow-up work: [here](https://arxiv.org/pdf/2104.04473.pdf)
 

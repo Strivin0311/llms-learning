@@ -9,7 +9,7 @@ tag: `ShadowKV` | `ByteDance` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2410.21465)
 
-github link: [here](https://github.com/bytedance/ShadowKV/)
+code link: [here](https://github.com/bytedance/ShadowKV/)
 
 citation:
 
@@ -32,7 +32,7 @@ tag: `PyramidKV` | `ByteDance` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2406.02069)
 
-github link: [here](https://github.com/Zefan-Cai/KVCache-Factory)
+code link: [here](https://github.com/Zefan-Cai/KVCache-Factory)
 
 citation:
 
@@ -55,7 +55,7 @@ tag: `Paged Attention` | `vLLM` | `SOSP23` | `UC Berkeley` | `Stanford Universit
 
 paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3600006.3613165)
 
-github link: [here](https://github.com/vllm-project/vllm)
+code link: [here](https://github.com/vllm-project/vllm)
 
 citation:
 

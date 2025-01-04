@@ -10,7 +10,7 @@ tag: `OpenCoder` | `INF`
 
 paper link: [here](https://arxiv.org/pdf/2411.04905)
 
-github link: [here](https://github.com/OpenCoder-llm/OpenCoder-llm)
+code link: [here](https://github.com/OpenCoder-llm/OpenCoder-llm)
 
 modelhub link: [here](https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e)
 
@@ -90,7 +90,7 @@ tag: `MultiPL-E` | `TSE23`
 
 paper link: [here](https://ieeexplore.ieee.org/iel7/32/4359463/10103177.pdf)
 
-github link: [here](https://github.com/nuprl/MultiPL-E)
+code link: [here](https://github.com/nuprl/MultiPL-E)
 
 leaderboard link: [here](https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard)
     
@@ -113,7 +113,7 @@ tag: `HumanEval` | `ICSE24` | `OpenAI`
 
 paper link: [here](https://arxiv.org/pdf/2107.03374.pdf)
 
-github link: [here](https://github.com/openai/human-eval)
+code link: [here](https://github.com/openai/human-eval)
 
 dataset link: [here](https://huggingface.co/datasets/openai_humaneval)
 

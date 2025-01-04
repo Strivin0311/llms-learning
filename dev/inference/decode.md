@@ -28,7 +28,7 @@ tag: `DoLa` | `Contrastive Decoding` | `ICLR24` | `Microsoft`
 
 paper link: [here](https://arxiv.org/pdf/2309.03883)
 
-github link: [here](https://github.com/voidism/DoLa)
+code link: [here](https://github.com/voidism/DoLa)
 
 citation:
 
@@ -51,7 +51,7 @@ tag: `Speculative Decoding` | `ICML23` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2211.17192)
 
-github link: [here](https://github.com/lucidrains/speculative-decoding)
+code link: [here](https://github.com/lucidrains/speculative-decoding)
 
 citation:
 
@@ -73,7 +73,7 @@ tag: `Contrastive Decoding` | `ACL23` | `Stanford University`
 
 paper link: [here](https://aclanthology.org/2023.acl-long.687.pdf)
 
-github link: [here](https://github.com/XiangLi1999/ContrastiveDecoding)
+code link: [here](https://github.com/XiangLi1999/ContrastiveDecoding)
 
 citation:
 
@@ -95,7 +95,7 @@ tag: `Nucleus Sampling` | `ICLR20` | `Allen AI` | `University of Washington`
 
 paper link: [here](https://arxiv.org/pdf/2209.11057.pdf)
 
-github link: [here](https://github.com/ari-holtzman/degen)
+code link: [here](https://github.com/ari-holtzman/degen)
 
 citation:
 

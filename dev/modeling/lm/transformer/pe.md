@@ -28,7 +28,7 @@ tag: `CoCA` | `ACL24` | `AntGroup`
 
 paper link: [here](https://arxiv.org/pdf/2309.08646)
 
-github link: [here](https://github.com/codefuse-ai/Collinear-Constrained-Attention)
+code link: [here](https://github.com/codefuse-ai/Collinear-Constrained-Attention)
 
 citation:
 
@@ -82,7 +82,7 @@ tag: `YaRN` | `NTK-by-parts` | `ICLR24` | `Nous Research`
 
 paper link: [here](https://arxiv.org/pdf/2309.00071)
 
-github link: [here](https://github.com/jquesnelle/yarn)
+code link: [here](https://github.com/jquesnelle/yarn)
 
 citation:
 
@@ -113,7 +113,7 @@ $$
 
 paper link: [here](https://arxiv.org/pdf/2308.10882)
 
-github link: [here](https://github.com/abacusai/Long-Context)
+code link: [here](https://github.com/abacusai/Long-Context)
 
 citation:
 
@@ -204,7 +204,7 @@ tag: `RPE` | `Randomized PE` | `ACL23` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2305.16843)
 
-github link: [here](https://github.com/google-deepmind/randomized_positional_encodings)
+code link: [here](https://github.com/google-deepmind/randomized_positional_encodings)
 
 citation:
 
@@ -233,7 +233,7 @@ $$
 
 paper link: [here](https://aclanthology.org/2023.acl-long.816.pdf)
 
-github link: [here](https://github.com/microsoft/torchscale)
+code link: [here](https://github.com/microsoft/torchscale)
 
 citation:
 
@@ -253,7 +253,7 @@ tag: `SHAPE` | `EMNLP21` | `RIKEN` | `Tohoku University`
 
 paper link: [here](https://arxiv.org/pdf/2109.05644)
 
-github link: [here](https://github.com/butsugiri/shape)
+code link: [here](https://github.com/butsugiri/shape)
 
 citation:
 
@@ -273,7 +273,7 @@ tag: `Permuteformer` | `EMNLP21` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2109.02377)
 
-github link: [here](https://github.com/cpcp1998/PermuteFormer)
+code link: [here](https://github.com/cpcp1998/PermuteFormer)
 
 citation:
 
@@ -349,7 +349,7 @@ paper link: [here](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f
 
 blog link: [here](https://nlp.seas.harvard.edu/annotated-transformer/)
 
-github link: [here](https://github.com/tensorflow/tensor2tensor)
+code link: [here](https://github.com/tensorflow/tensor2tensor)
 
 citation:
 
