@@ -115,6 +115,29 @@ citation:
 ```
 
 
+#### PipeFisher: Efficient Training of Large Language Models Using Pipelining and Fisher Information Matrices
+
+tag: `PipeFisher` | `K-FAC` | `MLSys23` | `ETHZ`
+
+paper link: [here](https://arxiv.org/pdf/2211.14133)
+
+code link: [here](https://github.com/kazukiosawa/pipe-fisher)
+
+citation:
+
+```bibtex
+@misc{osawa2023pipefisherefficienttraininglarge,
+      title={PipeFisher: Efficient Training of Large Language Models Using Pipelining and Fisher Information Matrices}, 
+      author={Kazuki Osawa and Shigang Li and Torsten Hoefler},
+      year={2023},
+      eprint={2211.14133},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2211.14133}, 
+}
+```
+
+
 #### Breadth-First Pipeline Parallelism
 
 tag: `BFPP` | `MLSys23` | `ServiceNow Research`

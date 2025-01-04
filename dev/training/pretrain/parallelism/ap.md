@@ -2,6 +2,36 @@
 *Here're some resources about Automatic Parallelism for LLMs Training*
 
 
+#### Enabling Parallelism Hot Switching for Efficient Training of Large Language Models
+
+tag: `Hot Switching` | `SOSP24` | `Peking University`
+
+paper link: [here](https://dl.acm.org/doi/10.1145/3694715.3695969)
+
+code link: [here](https://github.com/PKU-DAIR/Hetu)
+
+citation:
+
+```bibtex
+@inproceedings{ge2024enablingparallelismhotswitching,
+  author = {Ge, Hao and Fu, Fangcheng and Li, Haoyang and Wang, Xuanyu and Lin, Sheng and Wang, Yujie and Nie, Xiaonan and Zhang, Hailin and Miao, Xupeng and Cui, Bin},
+  title = {Enabling Parallelism Hot Switching for Efficient Training of Large Language Models},
+  year = {2024},
+  isbn = {9798400712517},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3694715.3695969},
+  doi = {10.1145/3694715.3695969},
+  booktitle = {Proceedings of the ACM SIGOPS 30th Symposium on Operating Systems Principles},
+  pages = {178–194},
+  numpages = {17},
+  keywords = {distributed training, large language model, parallelism strategy},
+  location = {Austin, TX, USA},
+  series = {SOSP '24}
+}
+```
+
+
 #### Metis: Fast Automatic Distributed Training on Heterogeneous GPUs
 
 tag: `Metis` | `ATC24` | `Samsung Research`
