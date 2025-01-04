@@ -4,11 +4,59 @@
 
 ## Method
 
+
+#### 2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining
+
+tag: `Multi-modal Textbook` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University`
+
+paper link: [here](https://www.arxiv.org/pdf/2501.00958)
+
+github link: [here](https://github.com/DAMO-NLP-SG/multimodal_textbook)
+
+dataset link: [here](https://huggingface.co/datasets/DAMO-NLP-SG/multimodal_textbook)
+
+citation:
+
+```bibtex
+@misc{zhang202525yearsclassmultimodal,
+      title={2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining}, 
+      author={Wenqi Zhang and Hang Zhang and Xin Li and Jiashuo Sun and Yongliang Shen and Weiming Lu and Deli Zhao and Yueting Zhuang and Lidong Bing},
+      year={2025},
+      eprint={2501.00958},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.00958}, 
+}
+```
+
+#### Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
+
+tag: `Infinity` | `VAR` | `ByteDance`
+
+paper link: [here](https://arxiv.org/pdf/2412.04431)
+
+github link: [here](https://github.com/FoundationVision/Infinity)
+
+citation:
+
+```bibtex
+@misc{han2024infinityscalingbitwiseautoregressive,
+      title={Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis}, 
+      author={Jian Han and Jinlai Liu and Yi Jiang and Bin Yan and Yuqi Zhang and Zehuan Yuan and Bingyue Peng and Xiaobing Liu},
+      year={2024},
+      eprint={2412.04431},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.04431}, 
+}
+```
+
+
 #### Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation
 
 tag: `Janus` | `DeepSeek` | `Peking University`
 
-paper link: [here](https://arxiv.org/pdf/2410.13848v1)
+paper link: [here](https://arxiv.org/pdf/2410.13848)
 
 github link: [here](https://github.com/deepseek-ai/Janus)
 

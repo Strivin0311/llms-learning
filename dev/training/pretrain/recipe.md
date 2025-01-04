@@ -27,7 +27,7 @@ citation:
 
 tag: `DCLM` | `DataComp-LM` | `Data Curation` | `Apple`
 
-paper link: [here](https://arxiv.org/pdf/2406.11794v3)
+paper link: [here](https://arxiv.org/pdf/2406.11794)
 
 github link: [here](https://github.com/mlfoundations/dclm)
 

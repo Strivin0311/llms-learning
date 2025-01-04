@@ -2,9 +2,11 @@
 *Here're some resources about Tensor Parallelism for LLMs Training*
 *Note that the "sequence parallelism" usually refers to one attached parallelism strategy along with tensor parallelism*
 
+
+
 #### FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion
 
-tag: `FLUX` | `Kernel Fusion` | `Bytedance`
+tag: `FLUX` | `Kernel Fusion` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2406.06858)
 

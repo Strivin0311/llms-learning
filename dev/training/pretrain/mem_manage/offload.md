@@ -31,7 +31,7 @@ citation:
 
 tag: `Attention Offloading` | `Tsinghua University`
 
-paper link: [here](https://arxiv.org/pdf/2405.01814v1)
+paper link: [here](https://arxiv.org/pdf/2405.01814)
 
 citation:
 

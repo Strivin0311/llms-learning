@@ -67,6 +67,29 @@ citation:
 }
 ```
 
+#### KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation
+
+tag: `KAG` | `Ant Group` | `Zhejiang University`  
+
+paper link: [here](https://arxiv.org/pdf/2409.13731)
+
+github link: [here](https://github.com/OpenSPG/KAG)
+
+citation:
+
+```bibtex
+@misc{liang2024kagboostingllmsprofessional,
+      title={KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation}, 
+      author={Lei Liang and Mengshu Sun and Zhengke Gui and Zhongshu Zhu and Zhouyu Jiang and Ling Zhong and Yuan Qu and Peilong Zhao and Zhongpu Bo and Jin Yang and Huaidong Xiong and Lin Yuan and Jun Xu and Zaoyang Wang and Zhiqiang Zhang and Wen Zhang and Huajun Chen and Wenguang Chen and Jun Zhou},
+      year={2024},
+      eprint={2409.13731},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.13731}, 
+}
+```
+
+
 #### MemoRAG: Moving towards Next-Gen RAG Via Memory-Inspired Knowledge Discovery
 
 tag: `MemoRAG` | `BAAI`

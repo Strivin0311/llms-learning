@@ -6,7 +6,7 @@
 
 tag: `SLAB` | `SLA` | `PRepBN` | `ICML24` | `Huawei Noah’s Ark Lab`
 
-paper link: [here](https://arxiv.org/pdf/2405.11582v1)
+paper link: [here](https://arxiv.org/pdf/2405.11582)
 
 github link: [here](https://github.com/xinghaochen/SLAB)
 

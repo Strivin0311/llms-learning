@@ -29,7 +29,7 @@ citation:
 
 tag: `Sage Attention` | `Tsinghua University`
 
-paper link: [here](https://arxiv.org/pdf/2410.02367v1)
+paper link: [here](https://arxiv.org/pdf/2410.02367)
 
 github link: [here](https://github.com/thu-ml/SageAttention)
 
@@ -52,7 +52,7 @@ citation:
 
 tag: `Flash Mask` | `Flash Attention` | `Baidu`
 
-paper link: [here](https://arxiv.org/pdf/2410.01359v1)
+paper link: [here](https://arxiv.org/pdf/2410.01359)
 
 github link: [here](https://github.com/PaddlePaddle/PaddleNLP)
 
