@@ -25,6 +25,29 @@ citation:
 ```
 
 
+#### Large Concept Models: Language Modeling in a Sentence Representation Space
+
+tag: `LCMs` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2412.08821)
+
+code link: [here](https://github.com/facebookresearch/large_concept_model)
+
+citation:
+
+```bibtex
+@misc{lcmteam2024largeconceptmodelslanguage,
+      title={Large Concept Models: Language Modeling in a Sentence Representation Space}, 
+      author={LCM team and Loïc Barrault and Paul-Ambroise Duquenne and Maha Elbayad and Artyom Kozhevnikov and Belen Alastruey and Pierre Andrews and Mariano Coria and Guillaume Couairon and Marta R. Costa-jussà and David Dale and Hady Elsahar and Kevin Heffernan and João Maria Janeiro and Tuan Tran and Christophe Ropers and Eduardo Sánchez and Robin San Roman and Alexandre Mourachko and Safiyyah Saleem and Holger Schwenk},
+      year={2024},
+      eprint={2412.08821},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.08821}, 
+}
+```
+
+
 #### FlashRNN: Optimizing Traditional RNNs on Modern Hardware
 
 tag: `FlashRNN` | `NXAI Lab` | `JKU`

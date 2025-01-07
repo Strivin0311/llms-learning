@@ -5,6 +5,29 @@
 ## Method
 
 
+#### HiCCL: A Hierarchical Collective Communication Library
+
+tag: `HiCCL` | `Stanford University`
+
+paper link: [here](https://arxiv.org/pdf/2408.05962)
+
+code link: [here](https://github.com/merthidayetoglu/HiCCL)
+
+citation:
+
+```bibtex
+@misc{hidayetoglu2024hicclhierarchicalcollectivecommunication,
+      title={HiCCL: A Hierarchical Collective Communication Library}, 
+      author={Mert Hidayetoglu and Simon Garcia de Gonzalo and Elliott Slaughter and Pinku Surana and Wen-mei Hwu and William Gropp and Alex Aiken},
+      year={2024},
+      eprint={2408.05962},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2408.05962}, 
+}
+```
+
+
 #### Starburst: A Cost-aware Scheduler for Hybrid Cloud
 
 tag: `Starburst` | `ATC24` | `UC Berkeley`
@@ -314,6 +337,30 @@ citation:
   pages={205--218},
   year={2016},
   organization={ACM}
+}
+```
+
+
+## Benchmark
+
+
+#### CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU, Multi-NIC Nodes
+
+tag: `CommBench` | `ICS24` | `Stanford University`
+
+paper link: [here](https://merthidayetoglu.github.io/samples/ics24-1.pdf)
+
+code link: [here](https://github.com/merthidayetoglu/CommBench)
+
+citation:
+
+```bibtex
+@inproceedings{hidayetoglu2024commbench,
+  title={CommBench: Micro-Benchmarking Hierarchical Networks with Multi-GPU, Multi-NIC Nodes},
+  author={Hidayetoglu, Mert and De Gonzalo, Simon Garcia and Slaughter, Elliott and Li, Yu and Zimmer, Christopher and Bicer, Tekin and Ren, Bin and Gropp, William and Hwu, Wen-Mei and Aiken, Alex},
+  booktitle={Proceedings of the 38th ACM International Conference on Supercomputing},
+  pages={426--436},
+  year={2024}
 }
 ```
 
