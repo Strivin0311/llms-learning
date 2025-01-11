@@ -2,6 +2,32 @@
 *Here're some resources about Alignment Fine-Tuning strategies on LLMs, especically instruction-following tuning (IFT)*
 
 
+## Method
+
+
+#### REINFORCE++- A Simple and Efficient Approach for Aligning Large Language Models
+
+tag: `REINFORCE++` | `OpenRLHF` | `ICML23` | `UC Berkeley`
+
+paper link: [here](https://arxiv.org/pdf/2501.03262)
+
+code link: [here](https://github.com/OpenRLHF/OpenRLHF)
+
+citation:
+
+```bibtex
+@misc{hu2025reinforcesimpleefficientapproach,
+      title={REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models}, 
+      author={Jian Hu},
+      year={2025},
+      eprint={2501.03262},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.03262}, 
+}
+```
+
+
 #### TÜLU 3: Pushing Frontiers in Open Language Model Post-Training
 
 tag: `TULU 3` | `RLVR` | `Allen AI`
@@ -113,6 +139,48 @@ citation:
 ```
 
 
+#### Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs
+
+tag: `RLOO` | `ACL24` | `Cohere`
+
+paper link: [here](https://aclanthology.org/2024.acl-long.662.pdf)
+
+citation:
+
+```bibtex
+@misc{ahmadian2024basicsrevisitingreinforcestyle,
+      title={Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs}, 
+      author={Arash Ahmadian and Chris Cremer and Matthias Gallé and Marzieh Fadaee and Julia Kreutzer and Olivier Pietquin and Ahmet Üstün and Sara Hooker},
+      year={2024},
+      eprint={2402.14740},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2402.14740}, 
+}
+```
+
+
+#### Direct Language Model Alignment from Online AI Feedback
+
+tag: `OAIF` | `DAP` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2402.04792)
+
+citation:
+
+```bibtex
+@misc{guo2024directlanguagemodelalignment,
+      title={Direct Language Model Alignment from Online AI Feedback}, 
+      author={Shangmin Guo and Biao Zhang and Tianlin Liu and Tianqi Liu and Misha Khalman and Felipe Llinares and Alexandre Rame and Thomas Mesnard and Yao Zhao and Bilal Piot and Johan Ferret and Mathieu Blondel},
+      year={2024},
+      eprint={2402.04792},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2402.04792}, 
+}
+```
+
+
 #### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 
 tag: `DeepSeekMath` | `GRPO` | `DeepSeek AI` | `Tsinghua University` | `Peking University`
@@ -134,6 +202,7 @@ citation:
       primaryClass={cs.CL}
 }
 ```
+
 
 #### Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
 
@@ -319,6 +388,7 @@ citation:
   year={2023}
 }
 ```
+
 
 #### Principle-driven self-alignment of language models from scratch with minimal human supervision
 
@@ -587,5 +657,30 @@ citation:
   author={Ziegler, Daniel M and Stiennon, Nisan and Wu, Jeffrey and Brown, Tom B and Radford, Alec and Amodei, Dario and Christiano, Paul and Irving, Geoffrey},
   journal={arXiv preprint arXiv:1909.08593},
   year={2019}
+}
+```
+
+
+
+## Empirical Study
+
+
+#### Understanding the performance gap between online and offline alignment algorithms
+
+tag: `RLHF` | `Online Alignment` | `Offline Alignment` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2405.08448)
+
+citation:
+
+```bibtex
+@misc{tang2024understandingperformancegaponline,
+      title={Understanding the performance gap between online and offline alignment algorithms}, 
+      author={Yunhao Tang and Daniel Zhaohan Guo and Zeyu Zheng and Daniele Calandriello and Yuan Cao and Eugene Tarassov and Rémi Munos and Bernardo Ávila Pires and Michal Valko and Yong Cheng and Will Dabney},
+      year={2024},
+      eprint={2405.08448},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2405.08448}, 
 }
 ```

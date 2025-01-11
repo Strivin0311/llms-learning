@@ -2,6 +2,33 @@
 *Here're some resources about LLMs for Embodied Intelligence, espeicially robotics*
 
 
+#### Cosmos World Foundation Model Platform for Physical AI
+
+tag: `Cosmos` | `Nvidia`
+
+paper link: [here](https://arxiv.org/pdf/2501.03575)
+
+code link: [here](https://github.com/NVIDIA/Cosmos)
+
+modelhub link: [here](https://huggingface.co/collections/nvidia/cosmos-6751e884dc10e013a0a0d8e6)
+
+homepage link: [here](https://www.nvidia.com/en-us/ai/cosmos/)
+
+citation:
+
+```bibtex
+@misc{nvidia2025cosmosworldfoundationmodel,
+      title={Cosmos World Foundation Model Platform for Physical AI}, 
+      author={NVIDIA and : and Niket Agarwal and Arslan Ali and Maciej Bala and Yogesh Balaji and Erik Barker and Tiffany Cai and Prithvijit Chattopadhyay and Yongxin Chen and Yin Cui and Yifan Ding and Daniel Dworakowski and Jiaojiao Fan and Michele Fenzi and Francesco Ferroni and Sanja Fidler and Dieter Fox and Songwei Ge and Yunhao Ge and Jinwei Gu and Siddharth Gururani and Ethan He and Jiahui Huang and Jacob Huffman and Pooya Jannaty and Jingyi Jin and Seung Wook Kim and Gergely Klár and Grace Lam and Shiyi Lan and Laura Leal-Taixe and Anqi Li and Zhaoshuo Li and Chen-Hsuan Lin and Tsung-Yi Lin and Huan Ling and Ming-Yu Liu and Xian Liu and Alice Luo and Qianli Ma and Hanzi Mao and Kaichun Mo and Arsalan Mousavian and Seungjun Nah and Sriharsha Niverty and David Page and Despoina Paschalidou and Zeeshan Patel and Lindsey Pavao and Morteza Ramezanali and Fitsum Reda and Xiaowei Ren and Vasanth Rao Naik Sabavat and Ed Schmerling and Stella Shi and Bartosz Stefaniak and Shitao Tang and Lyne Tchapmi and Przemek Tredak and Wei-Cheng Tseng and Jibin Varghese and Hao Wang and Haoxiang Wang and Heng Wang and Ting-Chun Wang and Fangyin Wei and Xinyue Wei and Jay Zhangjie Wu and Jiashu Xu and Wei Yang and Lin Yen-Chen and Xiaohui Zeng and Yu Zeng and Jing Zhang and Qinsheng Zhang and Yuxuan Zhang and Qingqing Zhao and Artur Zolkowski},
+      year={2025},
+      eprint={2501.03575},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.03575}, 
+}
+```
+
+
 #### RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation
 
 tag: `RoboGen` | `ICML24` | `CMU`

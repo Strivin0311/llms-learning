@@ -5,6 +5,29 @@
 ## Method
 
 
+#### rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
+
+tag: `rStar-Math` | `SLMs` | `MSRA` | `Peking University` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2501.04519)
+
+code link: [here](https://github.com/microsoft/rStar)
+
+citation:
+
+```bibtex
+@misc{guan2025rstarmathsmallllmsmaster,
+      title={rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking}, 
+      author={Xinyu Guan and Li Lyna Zhang and Yifei Liu and Ning Shang and Youran Sun and Yi Zhu and Fan Yang and Mao Yang},
+      year={2025},
+      eprint={2501.04519},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.04519}, 
+}
+```
+
+
 #### Training Large Language Models to Reason in a Continuous Latent Space
 
 tag: `COCONUT` | `Chain of Continuous Thought` | `CoT` | `Meta` | `UC San Diego`

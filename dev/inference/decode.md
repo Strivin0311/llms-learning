@@ -45,6 +45,27 @@ citation:
 ```
 
 
+#### Accelerating Large Language Model Decoding with Speculative Sampling
+
+tag: `Speculative Sampling` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2302.01318)
+
+citation:
+
+```bibtex
+@misc{chen2023acceleratinglargelanguagemodel,
+      title={Accelerating Large Language Model Decoding with Speculative Sampling}, 
+      author={Charlie Chen and Sebastian Borgeaud and Geoffrey Irving and Jean-Baptiste Lespiau and Laurent Sifre and John Jumper},
+      year={2023},
+      eprint={2302.01318},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2302.01318}, 
+}
+```
+
+
 #### Fast Inference from Transformers via Speculative Decoding
 
 tag: `Speculative Decoding` | `ICML23` | `Google`

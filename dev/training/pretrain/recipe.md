@@ -2,6 +2,29 @@
 *Here're some resources about General Pretraining Recipes for LLMs Training*
 
 
+#### Metadata Conditioning Accelerates Language Model Pre-training
+
+tag: `MeCo` | `Metadata Conditioning then Cooldown` | `Princeton University`
+
+paper link: [here](https://arxiv.org/pdf/2501.01956)
+
+code link: [here](https://github.com/princeton-pli/MeCo)
+
+citation:
+
+```bibtex
+@misc{gao2025metadataconditioningaccelerateslanguage,
+      title={Metadata Conditioning Accelerates Language Model Pre-training}, 
+      author={Tianyu Gao and Alexander Wettig and Luxi He and Yihe Dong and Sadhika Malladi and Danqi Chen},
+      year={2025},
+      eprint={2501.01956},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.01956}, 
+}
+```
+
+
 #### Methods of improving LLM training stability
 
 tag: `Stability` | `Nvidia`
