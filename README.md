@@ -7,6 +7,9 @@ Hope you find this repository handy and helpful for your llms learning journey! 
 
 ## News 🔥
 
+* **2025.01.15**
+  * **Minimax** has officially open-sourced their latest Mixture of Experts (MoE) model featuring `Lightning Attention`. You can check it out [here](https://minimaxi.com/en/news/minimax-01-series-2), along with the [paper](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf) and the [model](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)!
+  * I’m truly honored to have contributed as one of the authors of this groundbreaking work 😆!
 * **2024.10.24**
   * Welcome to watch our new online free **LLMs intro course** on [bilibili](https://space.bilibili.com/390606417/channel/collectiondetail?sid=3771310)! 
   * We also open-source the [course assignments](./tutorial/assignment/README.md) for you to take a deep dive into LLMs.

@@ -2,6 +2,28 @@
 *Here're some resources about Sparse Transformer Language Modeling for LLMs, especially Mixture-of-Experts (MoE)*
 
 
+#### MiniMax-01: Scaling Foundation Models with Lightning Attention
+
+tag: `MiniMax-01` | `Lightning Attention` | `MiniMax`
+
+paper link: [here](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf)
+
+blog link: [here](https://minimaxi.com/en/news/minimax-01-series-2)
+
+model link: [here](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)
+
+citation:
+
+```bibtex
+@misc{minimax2025scaling,
+  author = {MiniMax AI},
+  title  = {MiniMax-01: Scaling Foundation Models with Lightning Attention},
+  year   = {2025},
+  url    = {https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf},
+}
+```
+
+
 #### DeepSeek-V3 Technical Report
 
 tag: `DeepSeek-V3` | `DeepSeek`
