@@ -10,6 +10,8 @@ paper link: [here](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf)
 
 blog link: [here](https://minimaxi.com/en/news/minimax-01-series-2)
 
+code link: [here](https://github.com/MiniMax-AI/MiniMax-01)
+
 model link: [here](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)
 
 citation:
