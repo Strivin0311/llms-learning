@@ -159,6 +159,27 @@ citation:
 ```
 
 
+#### The Case for Co-Designing Model Architectures with Hardware
+
+tag: `Co-Design` | `ICPP24` | `Nvidia` | `OSU`
+
+paper link: [here](https://arxiv.org/pdf/2401.14489)
+
+citation:
+
+```bibtex
+@misc{anthony2024casecodesigningmodelarchitectures,
+      title={The Case for Co-Designing Model Architectures with Hardware}, 
+      author={Quentin Anthony and Jacob Hatef and Deepak Narayanan and Stella Biderman and Stas Bekman and Junqi Yin and Aamir Shafi and Hari Subramoni and Dhabaleswar Panda},
+      year={2024},
+      eprint={2401.14489},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2401.14489}, 
+}
+```
+
+
 #### Spike No More: Stabilizing the Pre-training of Large Language Models
 
 tag: `Loss Spike` | `Embed LN` | `Scaled Embed`

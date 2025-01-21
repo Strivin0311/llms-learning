@@ -68,6 +68,29 @@ citation:
 ```
 
 
+#### LongVILA: Scaling Long-Context Visual Language Models for Long Videos
+
+tag: `LongVILA` | `MM-SP` | `NVIDIA` | `MIT` | `UC Berkeley`
+
+paper link: [here](https://arxiv.org/pdf/2408.10188)
+
+code link: [here](https://github.com/NVlabs/VILA/tree/main/longvila)
+
+citation:
+
+```bibtex
+@misc{chen2024longvilascalinglongcontextvisual,
+      title={LongVILA: Scaling Long-Context Visual Language Models for Long Videos}, 
+      author={Yukang Chen and Fuzhao Xue and Dacheng Li and Qinghao Hu and Ligeng Zhu and Xiuyu Li and Yunhao Fang and Haotian Tang and Shang Yang and Zhijian Liu and Ethan He and Hongxu Yin and Pavlo Molchanov and Jan Kautz and Linxi Fan and Yuke Zhu and Yao Lu and Song Han},
+      year={2024},
+      eprint={2408.10188},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.10188}, 
+}
+```
+
+
 #### WallFacer: Harnessing Multi-dimensional Ring Parallelism for Efficient Long Sequence Model Training
 
 tag: `WallFacer` | `Ring Attention` | `NUS` | `UC Berkeley`
