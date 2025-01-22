@@ -5,6 +5,25 @@
 ## Method
 
 
+#### Kimi k1.5: Scaling Reinforcement Learning with LLMs
+
+tag: `Kimi k1.5` | `Moonshot`
+
+paper link: [here](https://github.com/MoonshotAI/Kimi-k1.5/blob/main/Kimi_k1.5.pdf)
+
+code link: [here](https://github.com/MoonshotAI/Kimi-k1.5)
+
+citation
+
+```bibtex
+@article{MoonshotAI,
+  author = {Kimi Team},
+  title = {Kimi k1.5: Scaling Reinforcement Learning with LLMs},
+  year = {2025},
+}
+```
+
+
 #### REINFORCE++- A Simple and Efficient Approach for Aligning Large Language Models
 
 tag: `REINFORCE++` | `OpenRLHF` | `ICML23` | `UC Berkeley`
@@ -183,7 +202,7 @@ citation:
 
 #### DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 
-tag: `DeepSeekMath` | `GRPO` | `DeepSeek AI` | `Tsinghua University` | `Peking University`
+tag: `DeepSeekMath` | `GRPO` | `DeepSeek` | `Tsinghua University` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2402.03300.pdf)
 
