@@ -34,7 +34,7 @@ paper link: [here](https://arxiv.org/pdf/2412.19437)
 
 code link: [here](https://github.com/deepseek-ai/DeepSeek-V3)
 
-model link: [here](https://huggingface.co/deepseek-ai/DeepSeek-V3)
+model link: [DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3) | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 
 homepage link: [here](https://deepseekv3.org/)
 
@@ -139,7 +139,7 @@ citation:
 
 #### DeepSeek-V2- A Strong, Economical, and Efficient Mixture-of-Experts Language Model
 
-tag: `DeepSeek-V2` | `DeepSeek AI`
+tag: `DeepSeek-V2` | `DeepSeek`
 
 paper link: [here](https://arxiv.org/pdf/2405.04434)
 
@@ -191,7 +191,7 @@ citation:
 
 #### DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models
 
-tag: `DeepSeek MoE` | `DeepSeek AI`
+tag: `DeepSeek MoE` | `DeepSeek`
 
 paper link: [here](https://arxiv.org/pdf/2401.06066)
 
