@@ -24,6 +24,29 @@ citation:
 ```
 
 
+#### TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication
+
+tag: `TokenRing` | `SJTU`
+
+paper link: [here](https://arxiv.org/pdf/2412.20501)
+
+code link: [here](https://github.com/ACA-Lab-SJTU/token-ring)
+
+citation:
+
+```bibtex
+@misc{wang2024tokenringefficientparallelismframework,
+      title={TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication}, 
+      author={Zongwu Wang and Fangxin Liu and Mingshuai Li and Li Jiang},
+      year={2024},
+      eprint={2412.20501},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2412.20501}, 
+}
+```
+
+
 #### Data-Centric and Heterogeneity-Adaptive Sequence Parallelism for Efficient LLM Training
 
 tag: `FlexSP` | `Peking University`
