@@ -5,6 +5,27 @@
 ## Method
 
 
+#### Evolving Deeper LLM Thinking
+
+tag: `Mind Evolution` | `Google DeepMind` | `UCSD`
+
+paper link: [here](https://arxiv.org/pdf/2501.09891)
+
+citation:
+
+```bibtex
+@misc{lee2025evolvingdeeperllmthinking,
+      title={Evolving Deeper LLM Thinking}, 
+      author={Kuang-Huei Lee and Ian Fischer and Yueh-Hua Wu and Dave Marwood and Shumeet Baluja and Dale Schuurmans and Xinyun Chen},
+      year={2025},
+      eprint={2501.09891},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2501.09891}, 
+}
+```
+
+
 #### rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking
 
 tag: `rStar-Math` | `SLMs` | `MSRA` | `Peking University` | `Tsinghua University`
