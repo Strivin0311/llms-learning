@@ -28,13 +28,13 @@ citation:
 
 #### DeepSeek-V3 Technical Report
 
-tag: `DeepSeek-V3` | `DeepSeek-R1` | `DeepSeek`
+tag: `DeepSeek-V3` | `DeepSeek`
 
 paper link: [here](https://arxiv.org/pdf/2412.19437)
 
 code link: [here](https://github.com/deepseek-ai/DeepSeek-V3)
 
-model link: [DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3) | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
+model link: [DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3)
 
 homepage link: [here](https://deepseekv3.org/)
 

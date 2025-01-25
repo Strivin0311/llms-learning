@@ -4,9 +4,33 @@
 
 ## Method
 
+
+#### UI-TARS: Pioneering Automated GUI Interaction with Native Agents
+
+tag: `UI-TARS` | `ByteDance` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2501.12326)
+
+code link: [here](https://github.com/bytedance/UI-TARS)
+
+citation:
+
+```bibtex
+@misc{qin2025uitarspioneeringautomatedgui,
+      title={UI-TARS: Pioneering Automated GUI Interaction with Native Agents}, 
+      author={Yujia Qin and Yining Ye and Junjie Fang and Haoming Wang and Shihao Liang and Shizuo Tian and Junda Zhang and Jiahao Li and Yunxin Li and Shijue Huang and Wanjun Zhong and Kuanye Li and Jiale Yang and Yu Miao and Woyu Lin and Longxiang Liu and Xu Jiang and Qianli Ma and Jingyu Li and Xiaojun Xiao and Kai Cai and Chuang Li and Yaowei Zheng and Chaolin Jin and Chen Li and Xiao Zhou and Minchao Wang and Haoli Chen and Zhaojian Li and Haihua Yang and Haifeng Liu and Feng Lin and Tao Peng and Xin Liu and Guang Shi},
+      year={2025},
+      eprint={2501.12326},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2501.12326}, 
+}
+```
+
+
 #### Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents
 
-tag: `Chain of Ideas` | `CoI` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University`
+tag: `CoI` | `Chain of Ideas` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University`
 
 paper link: [here](https://arxiv.org/pdf/2410.13185)
 
