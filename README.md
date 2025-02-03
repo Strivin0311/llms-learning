@@ -7,6 +7,8 @@ Hope you find this repository handy and helpful for your llms learning journey! 
 
 ## News 🔥
 
+* **2025.01.25**
+  * **Deepseek** has unveiled its latest large reasoning model (LRM), [Deepseek-R1](https://arxiv.org/pdf/2501.12948), trained using its proprietary reinforcement-learning recipe, [GRPO](https://arxiv.org/pdf/2402.03300), built upon its newest pretrained large language model (LLM) [Deepseek-V3](https://arxiv.org/pdf/2412.19437). This achievement marks a significant milestone on the path to AGI, as it not only matches but often surpresses the performance of the state-of-the-art LRM [OpenAI-o1](https://openai.com/index/learning-to-reason-with-llms/), all while operating at a fraction of the computational cost.
 * **2025.01.15**
   * **Minimax** has officially open-sourced their latest Mixture of Experts (MoE) model featuring `Lightning Attention`, named [MiniMax-01](https://minimaxi.com/en/news/minimax-01-series-2), along with the [paper](https://filecdn.minimax.chat/_Arxiv_MiniMax_01_Report.pdf), the [code](https://github.com/MiniMax-AI/MiniMax-01) and the [model](https://huggingface.co/MiniMaxAI/MiniMax-Text-01)!
   * I’m truly honored to have contributed as one of the authors of this groundbreaking work 😆!
