@@ -219,6 +219,28 @@ citation:
 }
 ```
 
+
+#### Think before you speak: Training Language Models With Pause Tokens
+
+tag: `Pause-Training` | `ICLR24` | `Google` | `CMU`
+
+paper link: [here](https://openreview.net/pdf?id=ph04CRkPdC)
+
+citation:
+
+```bibtex
+@misc{goyal2024thinkspeaktraininglanguage,
+      title={Think before you speak: Training Language Models With Pause Tokens}, 
+      author={Sachin Goyal and Ziwei Ji and Ankit Singh Rawat and Aditya Krishna Menon and Sanjiv Kumar and Vaishnavh Nagarajan},
+      year={2024},
+      eprint={2310.02226},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2310.02226}, 
+}
+```
+
+
 #### OpenChat: Advancing Open-source Language Models with Mixed-Quality Data
 
 tag: `OpenChat` | `Mixed-Quality Data` | `ICLR24` | `Tsinghua University`
