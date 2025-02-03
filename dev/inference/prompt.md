@@ -5,6 +5,29 @@
 ## Method
 
 
+#### Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs
+
+tag: `MIPRO` | `DSPy` | `EMNLP24` | `Stanford University`
+
+paper link: [here](https://aclanthology.org/2024.emnlp-main.525.pdf)
+
+code link: [here](https://github.com/stanfordnlp/dspy)
+
+citation:
+
+```bibtex
+@misc{opsahlong2024optimizinginstructionsdemonstrationsmultistage,
+      title={Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs}, 
+      author={Krista Opsahl-Ong and Michael J Ryan and Josh Purtell and David Broman and Christopher Potts and Matei Zaharia and Omar Khattab},
+      year={2024},
+      eprint={2406.11695},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.11695}, 
+}
+```
+
+
 #### Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization
 
 tag: `GrokkedTransformer` | `Grokking` | `NIPS24` | `CMU`
@@ -86,6 +109,31 @@ citation:
   author={Zheng, Ge and Yang, Bin and Tang, Jiajin and Zhou, Hong-Yu and Yang, Sibei},
   journal={arXiv preprint arXiv:2310.16436},
   year={2023}
+}
+```
+
+
+#### DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines
+
+tag: `DSPy` | `ICLR24` | `Stanford University` | `UCB` | `CMU`
+
+paper link: [here](https://openreview.net/pdf?id=sY5N0zY5Od)
+
+code link: [here](https://github.com/stanfordnlp/dspy)
+
+follow-up work: [here](https://arxiv.org/pdf/2406.11695)
+
+citation:
+
+```bibtex
+@misc{khattab2023dspycompilingdeclarativelanguage,
+      title={DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines}, 
+      author={Omar Khattab and Arnav Singhvi and Paridhi Maheshwari and Zhiyuan Zhang and Keshav Santhanam and Sri Vardhamanan and Saiful Haq and Ashutosh Sharma and Thomas T. Joshi and Hanna Moazam and Heather Miller and Matei Zaharia and Christopher Potts},
+      year={2023},
+      eprint={2310.03714},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2310.03714}, 
 }
 ```
 
