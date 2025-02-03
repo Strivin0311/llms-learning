@@ -29,6 +29,32 @@ citation:
 }
 ```
 
+
+#### DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
+
+tag: `DeepSeek-VL2` | `MoE` | `DeepSeek`
+
+paper link: [here](https://arxiv.org/pdf/2412.10302)
+
+code link: [here](https://github.com/deepseek-ai/DeepSeek-VL2)
+
+model link: [here](https://huggingface.co/deepseek-ai/deepseek-vl2)
+
+citation:
+
+```bibtex
+@misc{wu2024deepseekvl2mixtureofexpertsvisionlanguagemodels,
+      title={DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding}, 
+      author={Zhiyu Wu and Xiaokang Chen and Zizheng Pan and Xingchao Liu and Wen Liu and Damai Dai and Huazuo Gao and Yiyang Ma and Chengyue Wu and Bingxuan Wang and Zhenda Xie and Yu Wu and Kai Hu and Jiawei Wang and Yaofeng Sun and Yukun Li and Yishi Piao and Kang Guan and Aixin Liu and Xin Xie and Yuxiang You and Kai Dong and Xingkai Yu and Haowei Zhang and Liang Zhao and Yisong Wang and Chong Ruan},
+      year={2024},
+      eprint={2412.10302},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.10302}, 
+}
+```
+
+
 #### Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis
 
 tag: `Infinity` | `VAR` | `ByteDance`
