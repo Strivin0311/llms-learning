@@ -135,6 +135,29 @@ citation:
 ```
 
 
+#### ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation
+
+tag: `ReaLHF` | `RLHF` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2406.14088)
+
+code link: [here](https://github.com/openpsi-project/ReaLHF)
+
+citation:
+
+```bibtex
+@misc{mei2024realhfoptimizedrlhftraining,
+      title={ReaLHF: Optimized RLHF Training for Large Language Models through Parameter Reallocation}, 
+      author={Zhiyu Mei and Wei Fu and Kaiwei Li and Guangju Wang and Huanchen Zhang and Yi Wu},
+      year={2024},
+      eprint={2406.14088},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2406.14088}, 
+}
+```
+
+
 #### Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs
 
 tag: `CPO` | `NIPS24` | `Sea AI Lab`
@@ -706,6 +729,28 @@ citation:
 
 ## Empirical Study
 
+
+#### Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study
+
+tag: `DPO` | `PPO` | `ICML24` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2404.10719)
+
+code link: [here](https://github.com/openpsi-project/ReaLHF)
+
+citation:
+
+```bibtex
+@misc{xu2024dposuperiorppollm,
+      title={Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study}, 
+      author={Shusheng Xu and Wei Fu and Jiaxuan Gao and Wenjie Ye and Weilin Liu and Zhiyu Mei and Guangju Wang and Chao Yu and Yi Wu},
+      year={2024},
+      eprint={2404.10719},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.10719}, 
+}
+```
 
 #### Understanding the performance gap between online and offline alignment algorithms
 
