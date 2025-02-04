@@ -399,6 +399,26 @@ citation:
 }
 ```
 
+#### Reinforced Self-Training (ReST) for Language Modeling
+
+tag: `ReST` | `RLHF` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2308.08998)
+
+citation:
+
+```bibtex
+@misc{gulcehre2023reinforcedselftrainingrestlanguage,
+      title={Reinforced Self-Training (ReST) for Language Modeling}, 
+      author={Caglar Gulcehre and Tom Le Paine and Srivatsan Srinivasan and Ksenia Konyushkova and Lotte Weerts and Abhishek Sharma and Aditya Siddhant and Alex Ahern and Miaosen Wang and Chenjie Gu and Wolfgang Macherey and Arnaud Doucet and Orhan Firat and Nando de Freitas},
+      year={2023},
+      eprint={2308.08998},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2308.08998}, 
+}
+```
+
 
 #### Fine-Tuning Language Models with Advantage-Induced Policy Alignment
 
@@ -497,6 +517,29 @@ citation:
       primaryClass={cs.CL}
 }
 ```
+
+#### RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment
+
+tag: `RAFT` | `TMLR23` | `HKU`
+
+paper link: [here](https://arxiv.org/pdf/2304.06767)
+
+code link: [here](https://github.com/RLHFlow/RAFT)
+
+citation:
+
+```bibtex
+@misc{dong2023raftrewardrankedfinetuning,
+      title={RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment}, 
+      author={Hanze Dong and Wei Xiong and Deepanshu Goyal and Yihan Zhang and Winnie Chow and Rui Pan and Shizhe Diao and Jipeng Zhang and Kashun Shum and Tong Zhang},
+      year={2023},
+      eprint={2304.06767},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2304.06767}, 
+}
+```
+
 
 #### RRHF: Rank responses to align language models with human feedback without tears
 
