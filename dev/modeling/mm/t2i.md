@@ -5,6 +5,31 @@
 ## Method
 
 
+#### Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
+
+tag: `Janus-Pro` | `Deepseek`
+
+paper link: [here](https://arxiv.org/pdf/2501.17811)
+
+code link: [here](https://github.com/deepseek-ai/Janus)
+
+model link: [here](https://huggingface.co/deepseek-ai/Janus-Pro-1B)
+
+citation:
+
+```bibtex
+@misc{chen2025janusprounifiedmultimodalunderstanding,
+      title={Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling}, 
+      author={Xiaokang Chen and Zhiyu Wu and Xingchao Liu and Zizheng Pan and Wen Liu and Zhenda Xie and Xingkai Yu and Chong Ruan},
+      year={2025},
+      eprint={2501.17811},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2501.17811}, 
+}
+```
+
+
 #### 2.5 Years in Class: A Multimodal Textbook for Vision-Language Pretraining
 
 tag: `Multi-modal Textbook` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University`
@@ -85,6 +110,10 @@ tag: `Janus` | `DeepSeek` | `Peking University`
 paper link: [here](https://arxiv.org/pdf/2410.13848)
 
 code link: [here](https://github.com/deepseek-ai/Janus)
+
+model link: [here](https://huggingface.co/deepseek-ai/Janus-1.3B)
+
+follow-up work: [here](https://arxiv.org/pdf/2501.17811)
 
 citation:
 
@@ -175,6 +204,31 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2409.17146}, 
+}
+```
+
+
+#### Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution
+
+tag: `Qwen2-VL` | `M-RoPE` | `Qwen` | `Alibaba Group`
+
+paper link: [here](https://arxiv.org/pdf/2409.12191)
+
+code link: [here](https://github.com/QwenLM/Qwen2.5-VL)
+
+modelhub link: [here](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5)
+
+citation:
+
+```bibtex
+@misc{wang2024qwen2vlenhancingvisionlanguagemodels,
+      title={Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution}, 
+      author={Peng Wang and Shuai Bai and Sinan Tan and Shijie Wang and Zhihao Fan and Jinze Bai and Keqin Chen and Xuejing Liu and Jialin Wang and Wenbin Ge and Yang Fan and Kai Dang and Mengfei Du and Xuancheng Ren and Rui Men and Dayiheng Liu and Chang Zhou and Jingren Zhou and Junyang Lin},
+      year={2024},
+      eprint={2409.12191},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.12191}, 
 }
 ```
 
