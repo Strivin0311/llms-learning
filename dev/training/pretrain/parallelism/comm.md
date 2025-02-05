@@ -5,6 +5,27 @@
 ## Method
 
 
+#### Streaming DiLoCo with overlapping communication: Towards a Distributed Free Lunch
+
+tag: `DiLoCo` | `FedOpt` | `Federated Learning` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2501.18512)
+
+citation:
+
+```bibtex
+@misc{douillard2025streamingdilocooverlappingcommunication,
+      title={Streaming DiLoCo with overlapping communication: Towards a Distributed Free Lunch}, 
+      author={Arthur Douillard and Yanislav Donchev and Keith Rush and Satyen Kale and Zachary Charles and Zachary Garrett and Gabriel Teston and Dave Lacey and Ross McIlroy and Jiajun Shen and Alexandre Ramé and Arthur Szlam and Marc'Aurelio Ranzato and Paul Barham},
+      year={2025},
+      eprint={2501.18512},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.18512}, 
+}
+```
+
+
 #### HiCCL: A Hierarchical Collective Communication Library
 
 tag: `HiCCL` | `Stanford University`
@@ -49,7 +70,7 @@ citation:
 
 #### OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training
 
-tag: `OpenDiLoCo` | `Prime Intellect`
+tag: `OpenDiLoCo` | `DiLoCo` | `Federated Learning` | `Prime Intellect`
 
 paper link: [here](https://arxiv.org/pdf/2407.07852)
 
@@ -72,7 +93,7 @@ citation:
 
 #### DiLoCo: Distributed Low-Communication Training of Language Models
 
-tag: `DiLoCo` | `Google DeepMind`
+tag: `DiLoCo` | `Federated Learning` | `Google DeepMind`
 
 paper link: [here](https://arxiv.org/pdf/2311.08105)
 
