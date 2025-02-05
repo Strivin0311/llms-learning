@@ -776,6 +776,27 @@ citation:
 ```
 
 
+#### Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks
+
+tag: `Uni-Perceiver` | `CVPR22` | `SenseTime Research` | `XJTU` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2112.01522)
+
+citation:
+
+```bibtex
+@misc{zhu2021uniperceiverpretrainingunifiedarchitecture,
+      title={Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks}, 
+      author={Xizhou Zhu and Jinguo Zhu and Hao Li and Xiaoshi Wu and Xiaogang Wang and Hongsheng Li and Xiaohua Wang and Jifeng Dai},
+      year={2021},
+      eprint={2112.01522},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2112.01522}, 
+}
+```
+
+
 #### Leveraging Batch Normalization for Vision Transformers
 
 tag: `ViT` | `ViT-BN` | `ViT-FFNBN` | `ICCV21` | `MSRA` | `Tsinghua University`

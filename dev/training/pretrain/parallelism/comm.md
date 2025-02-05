@@ -76,6 +76,8 @@ paper link: [here](https://arxiv.org/pdf/2407.07852)
 
 code link: [here](https://github.com/PrimeIntellect-ai/OpenDiLoCo)
 
+follow-up work: [here](https://arxiv.org/pdf/2501.18512)
+
 citation:
 
 ```bibtex
