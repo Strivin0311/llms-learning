@@ -47,6 +47,29 @@ citation:
 ```
 
 
+#### LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation
+
+tag: `LightTransfer` | `SWA` | `Sea AI Lab` | `NUS`
+
+paper link: [here](https://arxiv.org/pdf/2410.13846)
+
+homepage link: [here](https://sites.google.com/view/lighttransfer)
+
+citation:
+
+```bibtex
+@misc{zhang2025lighttransferlongcontextllmsecretly,
+      title={LightTransfer: Your Long-Context LLM is Secretly a Hybrid Model with Effortless Adaptation}, 
+      author={Xuan Zhang and Fengzhuo Zhang and Cunxiao Du and Chao Du and Tianyu Pang and Wei Gao and Min Lin},
+      year={2025},
+      eprint={2410.13846},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.13846}, 
+}
+```
+
+
 #### Post-Training Sparse Attention with Double Sparsity
 
 tag: `Double Sparsity` | `UC Berkeley` | `Standford University` | `SJTU`

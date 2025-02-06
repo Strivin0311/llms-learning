@@ -5,6 +5,26 @@
 ## Method
 
 
+#### VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models
+
+tag: `VideoJAM` | `GenAI` | `Meta`
+
+paper link: [here](https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf)
+
+homepage link: [here](https://hila-chefer.github.io/videojam-paper.github.io/)
+
+citation:
+
+```bibtex
+@article{chefer2024videojam,
+  author = {Hila Chefer and Uriel Singer and Amit Zohar and Yuval Kirstain and Adam Polyak and Yaniv Taigman and Lior Wolf and Shelly Sheynin},
+  title  = {VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models},
+  year= {2025},
+  url = {https://hila-chefer.github.io/videojam-paper.github.io/VideoJAM_arxiv.pdf}
+}
+```
+
+
 #### State-of-the-art video and image generation with Veo 2 and Imagen 3
 
 tag: `Veo2` | `Imagen3` | `Google DeepMind`
