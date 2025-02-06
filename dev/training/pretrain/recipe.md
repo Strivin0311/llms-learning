@@ -25,6 +25,27 @@ citation:
 ```
 
 
+#### Exponential Moving Average of Weights in Deep Learning: Dynamics and Benefits
+
+tag: `EMA Weights` | `TMLR24` | `EPFL`
+
+paper link: [here](https://arxiv.org/pdf/2411.18704)
+
+citation:
+
+```bibtex
+@misc{moralesbrotons2024exponentialmovingaverageweights,
+      title={Exponential Moving Average of Weights in Deep Learning: Dynamics and Benefits}, 
+      author={Daniel Morales-Brotons and Thijs Vogels and Hadrien Hendrikx},
+      year={2024},
+      eprint={2411.18704},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.18704}, 
+}
+```
+
+
 #### Methods of improving LLM training stability
 
 tag: `Stability` | `Nvidia`

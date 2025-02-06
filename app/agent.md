@@ -30,7 +30,7 @@ citation:
 
 #### Chain of Ideas: Revolutionizing Research in Novel Idea Development with LLM Agents
 
-tag: `CoI` | `Chain of Ideas` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University`
+tag: `CoI` | `Chain of Ideas` | `DAMO Academy` | `Alibaba Group` | `Zhejiang University` | `USTC`
 
 paper link: [here](https://arxiv.org/pdf/2410.13185)
 

@@ -485,7 +485,7 @@ citation:
 
 #### Self-consistency improves chain of thought reasoning in language models
 
-tag: `CoT` | `Self Consistency` | `ICLR23` | `Google`
+tag: `CoT` | `SC` | `Self Consistency` | `ICLR23` | `Google`
 
 paper link: [here](https://arxiv.org/pdf/2203.11171.pdf)
 
