@@ -459,7 +459,7 @@ citation:
 
 #### Lima: Less is more for alignment
 
-tag: `Lima` | `NIPS23` | `Meta` | `CMU`
+tag: `LIMA` | `NIPS23` | `Meta` | `CMU`
 
 paper link: [here](https://arxiv.org/pdf/2305.11206)
 
