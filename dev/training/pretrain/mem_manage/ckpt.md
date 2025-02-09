@@ -1,5 +1,36 @@
 # Checkpointing Systems for LLMs Training
-*Here're some resources about checkpointing systems for LLMs Training*
+*Here're some resources about (asynchronous) checkpointing systems for LLMs Training*
+
+
+
+#### DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models
+
+tag: `DataStates-LLM` | `HPDC24` | `ANL`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3625549.3658685)
+
+code link: [here](https://github.com/DataStates/datastates-llm)
+
+citation:
+
+```bibtex
+@inproceedings{maurya2024datastatesllm,
+  author = {Maurya, Avinash and Underwood, Robert and Rafique, M. Mustafa and Cappello, Franck and Nicolae, Bogdan},
+  title = {DataStates-LLM: Lazy Asynchronous Checkpointing for Large Language Models},
+  year = {2024},
+  isbn = {9798400704130},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3625549.3658685},
+  doi = {10.1145/3625549.3658685},
+  booktitle = {Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing},
+  pages = {227–239},
+  numpages = {13},
+  keywords = {LLMs and transformers, scalable checkpointing, asynchronous multilevel checkpointing},
+  location = {Pisa, Italy},
+  series = {HPDC '24}
+}
+```
 
 
 #### ByteCheckpoint: A Unified Checkpointing System for Large Foundation Model Development
@@ -183,5 +214,28 @@ citation:
     url = {https://www.usenix.org/conference/fast21/presentation/mohan},
     publisher = {USENIX Association},
     month = feb
+}
+```
+
+
+#### DeepFreeze: Towards Scalable Asynchronous Checkpointing of Deep Learning Models
+
+tag: `DeepFreeze` | `CCGRID20` | `ANL`
+
+paper link: [here](https://web.cels.anl.gov/~woz/papers/DeepFreeze_2020.pdf)
+
+citation:
+
+```bibtex
+@inproceedings{deepfreeze2020nicolae,
+  author={Nicolae, Bogdan and Li, Jiali and Wozniak, Justin M. and Bosilca, George and Dorier, Matthieu and Cappello, Franck},
+  booktitle={2020 20th IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGRID)}, 
+  title={DeepFreeze: Towards Scalable Asynchronous Checkpointing of Deep Learning Models}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={172-181},
+  keywords={Machine learning;Training;Checkpointing;Computational modeling;Data models;Scalability;Neural networks;checkpointing;deep learning;fine-grain asynchronous I/O;multi-level data persistence},
+  doi={10.1109/CCGrid49817.2020.00-76}
 }
 ```

@@ -318,7 +318,7 @@ paper link: [here](https://ieeexplore.ieee.org/document/10605345)
 citation:
 
 ```bibtex
-@INPROCEEDINGS{cai2024fastvisiontransformervia,
+@inproceedings{cai2024fastvisiontransformervia,
   author={Wen, Yang and Chen, Samuel and Shrestha, Abhishek Krishna},
   booktitle={2024 IEEE Conference on Artificial Intelligence (CAI)}, 
   title={Fast Vision Transformer via Additive Attention}, 

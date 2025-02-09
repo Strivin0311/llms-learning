@@ -25,7 +25,7 @@ citation:
 
 #### Characterization of Large Language Model Development in the Datacenter
 
-tag: `LLM Development` | `Characterization Study` | `Fault-Tolerant` | `NSDI24` | `Shanghai AI Laboratory`
+tag: `Characterization Study` | `NSDI24` | `Shanghai AI Lab` | `Peking University` | `SJTU`
 
 paper link: [here](https://www.usenix.org/system/files/nsdi24-hu.pdf)
 
@@ -250,11 +250,13 @@ citation:
 
 #### Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning
 
-tag: `Modality Gap` | `NIPS22` | `Stanford University`
+tag: `Modality Gap` | `Cone Effect` | `CLIP` | `Contrastive Learning` | `NIPS22` | `Stanford University`
 
 paper link: [here](https://papers.neurips.cc/paper_files/paper/2022/file/702f4db7543a7432431df588d57bc7c9-Paper-Conference.pdf)
 
 code link: [here](https://github.com/Weixin-Liang/Modality-Gap)
+
+homepage link: [here](https://modalitygap.readthedocs.io/en/latest/)
 
 citation:
 
