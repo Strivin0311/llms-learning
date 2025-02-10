@@ -204,7 +204,7 @@ citation:
 
 #### Full Parameter Fine-tuning for Large Language Models with Limited Resources
 
-tag: `LOMO` | `MEFT` | `ACL24` | `Shanghai AI Laboratory` | `Fudan University`
+tag: `LOMO` | `MEFT` | `ACL24` | `Shanghai AI Lab` | `Fudan University`
 
 paper link: [here](https://aclanthology.org/2024.acl-long.445.pdf)
 

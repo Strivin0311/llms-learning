@@ -5,6 +5,29 @@
 ## Method
 
 
+#### VideoRoPE: What Makes for Good Video Rotary Position Embedding?
+
+tag: `VideoRoPE` | `Shanghai AI Lab` | `Fudan University`
+
+paper link: [here](https://arxiv.org/pdf/2502.05173)
+
+code link: [here](https://github.com/Wiselnn570/VideoRoPE)
+
+citation:
+
+```bibtex
+@misc{wei2025videoropemakesgoodvideo,
+      title={VideoRoPE: What Makes for Good Video Rotary Position Embedding?}, 
+      author={Xilin Wei and Xiaoran Liu and Yuhang Zang and Xiaoyi Dong and Pan Zhang and Yuhang Cao and Jian Tong and Haodong Duan and Qipeng Guo and Jiaqi Wang and Xipeng Qiu and Dahua Lin},
+      year={2025},
+      eprint={2502.05173},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.05173}, 
+}
+```
+
+
 #### VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models
 
 tag: `VideoJAM` | `GenAI` | `Meta`
