@@ -239,3 +239,27 @@ citation:
       url={https://arxiv.org/abs/2405.21075}, 
 }
 ```
+
+
+## Empirical Study
+
+
+#### From Image to Video: An Empirical Study of Diffusion Representations
+
+tag: `Diffusion` | `Google DeepMind`
+
+paper link: [here](https://arxiv.org/pdf/2502.07001)
+
+citation:
+
+```bibtex
+@misc{vélez2025imagevideoempiricalstudy,
+      title={From Image to Video: An Empirical Study of Diffusion Representations}, 
+      author={Pedro Vélez and Luisa F. Polanía and Yi Yang and Chuhan Zhang and Rishab Kabra and Anurag Arnab and Mehdi S. M. Sajjadi},
+      year={2025},
+      eprint={2502.07001},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.07001}, 
+}
+```
