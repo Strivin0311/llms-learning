@@ -5,6 +5,29 @@
 ## Method
 
 
+#### Magic 1-For-1: Generating One Minute Video Clips within One Minute
+
+tag: `Magic 1-For-1` | `Nvidia` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2502.07701)
+
+code link: [here](https://github.com/Open-Magic-Video/Magic-1-For-1)
+
+citation:
+
+```bibtex
+@misc{yi2025magic1for1generatingminute,
+      title={Magic 1-For-1: Generating One Minute Video Clips within One Minute}, 
+      author={Hongwei Yi and Shitong Shao and Tian Ye and Jiantong Zhao and Qingyu Yin and Michael Lingelbach and Li Yuan and Yonghong Tian and Enze Xie and Daquan Zhou},
+      year={2025},
+      eprint={2502.07701},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.07701}, 
+}
+```
+
+
 #### VideoRoPE: What Makes for Good Video Rotary Position Embedding?
 
 tag: `VideoRoPE` | `Shanghai AI Lab` | `Fudan University`
@@ -24,6 +47,27 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2502.05173}, 
+}
+```
+
+
+#### Fast Video Generation with Sliding Tile Attention
+
+tag: `STA` | `UCSD` | `Tsinghua University` | `UCB`
+
+paper link: [here](https://www.arxiv.org/pdf/2502.04507)
+
+citation:
+
+```bibtex
+@misc{zhang2025fastvideogenerationsliding,
+      title={Fast Video Generation with Sliding Tile Attention}, 
+      author={Peiyuan Zhang and Yongqi Chen and Runlong Su and Hangliang Ding and Ion Stoica and Zhenghong Liu and Hao Zhang},
+      year={2025},
+      eprint={2502.04507},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.04507}, 
 }
 ```
 
