@@ -66,6 +66,25 @@ citation:
 }
 ```
 
+#### Upcycling Large Language Models into Mixture of Experts
+
+tag: `Upcycling` | `Nvidia`
+
+paper link: [here](https://arxiv.org/pdf/2410.07524)
+
+citation:
+
+```bibtex
+@misc{he2024upcyclinglargelanguagemodels,
+      title={Upcycling Large Language Models into Mixture of Experts}, 
+      author={Ethan He and Abhinav Khattar and Ryan Prenger and Vijay Korthikanti and Zijie Yan and Tong Liu and Shiqing Fan and Ashwath Aithal and Mohammad Shoeybi and Bryan Catanzaro},
+      year={2024},
+      eprint={2410.07524},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.07524}, 
+}
+```
 
 #### DataComp-LM: In search of the next generation of training sets for language models
 
