@@ -2,6 +2,45 @@
 *Here're some resources about Sparse Attention modules in language modeling*
 
 
+#### MoBA: Mixture of Block Attention for Long-Context LLMs
+
+tag: `MoBA` | `Moonshot` | `Tsinghua University` | `Zhejiang University`
+
+paper link: [here](https://github.com/MoonshotAI/MoBA/blob/master/MoBA_Tech_Report.pdf)
+
+code link: [here](https://github.com/MoonshotAI/MoBA)
+
+citation:
+
+```bibtex
+@article{MoonshotMoBA,
+  author = {Lu, Enzhe and Jiang, Zhejun and Liu, Jingyuan and Du, Yulun and Jiang, Tao and Hong, Chao and Liu, Shaowei and He, Weiran and Yuan, Enming and Wang, Yuzhi and Huang, Zhiqi and Yuan, Huan and Xu, Suting and Xu, Xinran and Lai, Guokun and Chen, Yanru and Zheng, Huabin and Yan, Junjie and Su, Jianlin and Wu, Yuxin and Zhang, Neo Y. and Yang, Zhilin and Zhou, Xinyu and Zhang, Mingxing and Qiu, Jiezhong},
+  title = {MoBA: Mixture of Block Attention for Long-Context LLMs},
+  year = {2025},
+}
+```
+
+
+#### Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention
+
+tag: `NSA` | `Deepseek` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2502.11089)
+
+citation:
+
+```bibtex
+@misc{yuan2025nativesparseattentionhardwarealigned,
+      title={Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention}, 
+      author={Jingyang Yuan and Huazuo Gao and Damai Dai and Junyu Luo and Liang Zhao and Zhengyan Zhang and Zhenda Xie and Y. X. Wei and Lean Wang and Zhiping Xiao and Yuqing Wang and Chong Ruan and Ming Zhang and Wenfeng Liang and Wangding Zeng},
+      year={2025},
+      eprint={2502.11089},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.11089}, 
+}
+```
+
 
 #### HashAttention: Semantic Sparsity for Faster Inference
 
@@ -114,6 +153,29 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2407.02490}, 
+}
+```
+
+
+#### MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression
+
+tag: `MoA` | `Infinigence-AI` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2406.14909)
+
+code link: [here](https://github.com/thu-nics/MoA)
+
+citation:
+
+```bibtex
+@misc{fu2024moamixturesparseattention,
+      title={MoA: Mixture of Sparse Attention for Automatic Large Language Model Compression}, 
+      author={Tianyu Fu and Haofeng Huang and Xuefei Ning and Genghan Zhang and Boju Chen and Tianqi Wu and Hongyi Wang and Zixiao Huang and Shiyao Li and Shengen Yan and Guohao Dai and Huazhong Yang and Yu Wang},
+      year={2024},
+      eprint={2406.14909},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.14909}, 
 }
 ```
 
