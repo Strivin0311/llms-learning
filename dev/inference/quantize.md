@@ -30,6 +30,29 @@ citation:
 ```
 
 
+#### VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models
+
+tag: `VPTQ` | `EMNLP24` | `Microsoft` | `USTC`
+
+paper link: [here](https://aclanthology.org/2024.emnlp-main.467.pdf)
+
+code link: [here](https://github.com/microsoft/VPTQ)
+
+citation:
+
+```bibtex
+@misc{liu2024vptqextremelowbitvector,
+      title={VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models}, 
+      author={Yifei Liu and Jicheng Wen and Yang Wang and Shengyu Ye and Li Lyna Zhang and Ting Cao and Cheng Li and Mao Yang},
+      year={2024},
+      eprint={2409.17066},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2409.17066}, 
+}
+```
+
+
 #### The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits
 
 tag: `BitNet b1.58` | `Microsoft`

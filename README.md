@@ -82,6 +82,7 @@ Hope you find this repository handy and helpful for your llms learning journey! 
     * [Fine-Tuning](./dev/training/finetune/)
       * [Supervised Fine-Tuning (SFT)](./dev/training/finetune/sft.md)
       * [Alignment Fine-Tuning (AFT)](./dev/training/finetune/align.md)
+      * [Distillation](./dev/training/finetune/distill.md)
 * [Applications](./app/)
   * [LLMs as Agents](./app/agent.md)
   * [LLMs for Autonomous Driving](./app/auto_drive.md)
