@@ -28,11 +28,11 @@ citation:
 
 #### DeepSeek-V3 Technical Report
 
-tag: `DeepSeek-V3` | `DeepSeek`
+tag: `DeepSeek-V3` | `FlashMLA` | `DeepGEMM` | `DeepEP` | `DualPipe` | `DeepSeek`
 
 paper link: [here](https://arxiv.org/pdf/2412.19437)
 
-code link: [here](https://github.com/deepseek-ai/DeepSeek-V3)
+code link: [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) | [DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | [DeepEP](https://github.com/deepseek-ai/DeepEP) | [FlashMLA](https://github.com/deepseek-ai/FlashMLA/) | [DualPipe](https://github.com/deepseek-ai/DualPipe)
 
 model link: [DeepSeek-V3](https://huggingface.co/deepseek-ai/DeepSeek-V3)
 

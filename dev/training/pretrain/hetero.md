@@ -32,6 +32,8 @@ tag: `Fire-Flyer` | `AI-HPC` | `SC24` | `Deepseek`
 
 paper link: [here](https://arxiv.org/pdf/2408.14158)
 
+code link: [here](https://github.com/deepseek-ai/3FS)
+
 citation:
 
 ```bibtex
