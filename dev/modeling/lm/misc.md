@@ -25,6 +25,29 @@ citation:
 ```
 
 
+#### Memory Layers at Scale
+
+tag: `Memory Layers` | `PKM` | `Meta`
+
+paper link: [here](https://arxiv.org/pdf/2412.09764)
+
+code link: [here](https://github.com/facebookresearch/memory)
+
+citation:
+
+```bibtex
+@misc{berges2024memorylayersscale,
+      title={Memory Layers at Scale}, 
+      author={Vincent-Pierre Berges and Barlas Oğuz and Daniel Haziza and Wen-tau Yih and Luke Zettlemoyer and Gargi Ghosh},
+      year={2024},
+      eprint={2412.09764},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.09764}, 
+}s
+```
+
+
 #### Large Concept Models: Language Modeling in a Sentence Representation Space
 
 tag: `LCMs` | `Meta`
