@@ -4,13 +4,38 @@
 
 
 
+#### Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts
+
+tag: `Comet` | `FLUX` | `MoE` | `ByteDance`
+
+paper link: [here](https://arxiv.org/pdf/2502.19811)
+
+code link: [here](https://github.com/bytedance/flux)
+
+citation:
+
+```bibtex
+@misc{zhang2025cometfinegrainedcomputationcommunicationoverlapping,
+      title={Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts}, 
+      author={Shulai Zhang and Ningxin Zheng and Haibin Lin and Ziheng Jiang and Wenlei Bao and Chengquan Jiang and Qi Hou and Weihao Cui and Size Zheng and Li-Wen Chang and Quan Chen and Xin Liu},
+      year={2025},
+      eprint={2502.19811},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2502.19811}, 
+}
+```
+
+
 #### FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion
 
-tag: `FLUX` | `Kernel Fusion` | `ByteDance`
+tag: `FLUX` | `NVShmem` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2406.06858)
 
 code link: [here](https://github.com/bytedance/flux)
+
+follow-up work: [here](https://arxiv.org/pdf/2502.19811)
 
 citation:
 
