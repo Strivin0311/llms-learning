@@ -6,7 +6,7 @@
 
 #### Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts
 
-tag: `Comet` | `FLUX` | `MoE` | `ByteDance`
+tag: `Comet` | `FLUX` | `Async TP` | `MoE` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2502.19811)
 
@@ -29,7 +29,7 @@ citation:
 
 #### FLUX: Fast Software-based Communication Overlap On GPUs Through Kernel Fusion
 
-tag: `FLUX` | `NVShmem` | `ByteDance`
+tag: `FLUX` | `Async TP` | `NVShmem` | `ByteDance`
 
 paper link: [here](https://arxiv.org/pdf/2406.06858)
 
@@ -76,6 +76,61 @@ citation:
       keywords = {GPU, load-balancing, matrix-multiplication},
       location = {Montreal, QC, Canada},
       series = {PPoPP '23}
+}
+```
+
+
+#### Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models
+
+tag: `Async TP` | `ASPLOS23`| `Google`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3567955.3567959)
+
+citation:
+
+```bibtex
+@inproceedings{wang2023overlap,
+      author = {Wang, Shibo and Wei, Jinliang and Sabne, Amit and Davis, Andy and Ilbeyi, Berkin and Hechtman, Blake and Chen, Dehao and Murthy, Karthik Srinivasa and Maggioni, Marcello and Zhang, Qiao and Kumar, Sameer and Guo, Tongfei and Xu, Yuanzhong and Zhou, Zongwei},
+      title = {Overlap Communication with Dependent Computation via Decomposition in Large Deep Learning Models},
+      year = {2022},
+      isbn = {9781450399159},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3567955.3567959},
+      doi = {10.1145/3567955.3567959},
+      booktitle = {Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 1},
+      pages = {93–106},
+      numpages = {14},
+      keywords = {Collective communication hiding, Compiler optimization, Large scale machine learning},
+      location = {Vancouver, BC, Canada},
+      series = {ASPLOS 2023}
+}
+```
+
+
+#### Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads
+
+tag: `CoCoNeT` | `Async TP` | `ASPLOS22`| `Microsoft`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3503222.3507778)
+
+citation:
+
+```bibtex
+@inproceedings{10.1145/3503222.3507778,
+      author = {Jangda, Abhinav and Huang, Jun and Liu, Guodong and Sabet, Amir Hossein Nodehi and Maleki, Saeed and Miao, Youshan and Musuvathi, Madanlal and Mytkowicz, Todd and Saarikivi, Olli},
+      title = {Breaking the computation and communication abstraction barrier in distributed machine learning workloads},
+      year = {2022},
+      isbn = {9781450392051},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3503222.3507778},
+      doi = {10.1145/3503222.3507778},
+      pages = {402–416},
+      numpages = {15},
+      keywords = {CUDA, Code Generation, Collective Communication, Compiler Optimizations, Distributed Machine Learning, MPI},
+      location = {Lausanne, Switzerland},
+      series = {ASPLOS '22}
 }
 ```
 

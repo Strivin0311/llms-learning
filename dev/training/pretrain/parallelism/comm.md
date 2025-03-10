@@ -217,7 +217,7 @@ citation:
 
 #### Enabling Compute-Communication Overlap in Distributed Deep Learning Training Platforms
 
-tag: `ACE` | `ISCA21`
+tag: `ACE` | `ISCA21` | `CMU` | `Tsinghua University` | `UC Berkeley`
 
 paper link: [here](https://arxiv.org/pdf/2211.05322)
 
@@ -237,33 +237,6 @@ citation:
       keywords = {deep learning training, communication accelerator, collective communication, accelerator fabric},
       location = {Virtual Event, Spain},
       series = {ISCA '21}
-}
-```
-
-
-#### Breaking the Computation and Communication Abstraction Barrier in Distributed Machine Learning Workloads
-
-tag: `CoCoNet` | `ASPLOS22`| `Microsoft`
-
-paper link: [here](https://dl.acm.org/doi/pdf/10.1145/3503222.3507778)
-
-citation:
-
-```bibtex
-@inproceedings{10.1145/3503222.3507778,
-      author = {Jangda, Abhinav and Huang, Jun and Liu, Guodong and Sabet, Amir Hossein Nodehi and Maleki, Saeed and Miao, Youshan and Musuvathi, Madanlal and Mytkowicz, Todd and Saarikivi, Olli},
-      title = {Breaking the computation and communication abstraction barrier in distributed machine learning workloads},
-      year = {2022},
-      isbn = {9781450392051},
-      publisher = {Association for Computing Machinery},
-      address = {New York, NY, USA},
-      url = {https://doi.org/10.1145/3503222.3507778},
-      doi = {10.1145/3503222.3507778},
-      pages = {402–416},
-      numpages = {15},
-      keywords = {CUDA, Code Generation, Collective Communication, Compiler Optimizations, Distributed Machine Learning, MPI},
-      location = {Lausanne, Switzerland},
-      series = {ASPLOS '22}
 }
 ```
 
