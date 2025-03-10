@@ -52,6 +52,33 @@ citation:
 ```
 
 
+#### Optimizing Distributed ML Communication with Fused Computation-Collective Operations
+
+tag: `Async TP` | `SC24` | `AMD`
+
+paper link: [here](https://dl.acm.org/doi/pdf/10.1109/SC41406.2024.00094)
+
+citation:
+
+```bibtex
+@inproceedings{punniyamurthy2024optimizing,
+      author = {Punniyamurthy, Kishore and Hamidouche, Khaled and Beckmann, Bradford M.},
+      title = {Optimizing Distributed ML Communication with Fused Computation-Collective Operations},
+      year = {2024},
+      isbn = {9798350352917},
+      publisher = {IEEE Press},
+      url = {https://doi.org/10.1109/SC41406.2024.00094},
+      doi = {10.1109/SC41406.2024.00094},
+      booktitle = {Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis},
+      articleno = {88},
+      numpages = {17},
+      keywords = {Collective communication, DLRM, GPU, MoE, Transformers, distributed ML},
+      location = {Atlanta, GA, USA},
+      series = {SC '24}
+}
+```
+
+
 #### Stream-K- Work-centric Parallel Decomposition for Dense Matrix-Matrix Multiplication on the GPU
 
 tag: `Stream-K` | `PPoPP23` | `Nvidia`
