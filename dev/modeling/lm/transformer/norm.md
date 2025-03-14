@@ -2,6 +2,31 @@
 *Here're some resources about Normalization modules in Transformers*
 
 
+#### Transformers without Normalization
+
+tag: `DyT` | `Meta` | `New York University` | `MIT` | `Princeton University`
+
+paper link: [here](https://arxiv.org/pdf/2503.10622)
+
+code link: [here](https://github.com/jiachenzhu/DyT)
+
+homepage link: [here](https://jiachenzhu.github.io/DyT/)
+
+citation:
+
+```bibtex
+@misc{zhu2025transformersnormalization,
+      title={Transformers without Normalization}, 
+      author={Jiachen Zhu and Xinlei Chen and Kaiming He and Yann LeCun and Zhuang Liu},
+      year={2025},
+      eprint={2503.10622},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.10622}, 
+}
+```
+
+
 #### SLAB: Efficient Transformers with Simplified Linear Attention and Progressive Re-parameterized Batch Normalization
 
 tag: `SLAB` | `SLA` | `PRepBN` | `ICML24` | `Huawei Noah’s Ark Lab`
