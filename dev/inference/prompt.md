@@ -5,6 +5,30 @@
 ## Method
 
 
+
+#### Chain of Draft: Thinking Faster by Writing Less
+
+tag: `CoD` | `Zoom`
+
+paper link: [here](https://arxiv.org/pdf/2502.18600)
+
+code link: [here](https://github.com/sileix/chain-of-draft)
+
+citation:
+
+```bibtex
+@misc{xu2025chaindraftthinkingfaster,
+      title={Chain of Draft: Thinking Faster by Writing Less}, 
+      author={Silei Xu and Wenhao Xie and Lingxiao Zhao and Pengcheng He},
+      year={2025},
+      eprint={2502.18600},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.18600}, 
+}
+```
+
+
 #### Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs
 
 tag: `MIPRO` | `DSPy` | `EMNLP24` | `Stanford University`

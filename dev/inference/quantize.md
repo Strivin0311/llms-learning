@@ -273,6 +273,29 @@ citation:
 ### Post-Training Quantization (PTQ)
 
 
+#### Q-VLM: Post-training Quantization for Large Vision-Language Models
+
+tag: `Q-VLM` | `NIPS24` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2410.08119)
+
+code link: [here](https://github.com/ChangyuanWang17/QVLM)
+
+citation:
+
+```bibtex
+@misc{wang2025qvlmposttrainingquantizationlarge,
+      title={Q-VLM: Post-training Quantization for Large Vision-Language Models}, 
+      author={Changyuan Wang and Ziwei Wang and Xiuwei Xu and Yansong Tang and Jie Zhou and Jiwen Lu},
+      year={2025},
+      eprint={2410.08119},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.08119}, 
+}
+```
+
+
 #### DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Quantized LLMs
 
 tag: `DuQuant` | `NIPS24` | `UCAS` | `Tsinghua University`

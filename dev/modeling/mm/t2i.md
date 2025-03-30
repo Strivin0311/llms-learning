@@ -309,6 +309,55 @@ citation:
 }
 ```
 
+
+#### OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understandin
+
+tag: `OMG-LLaVA` | `NIPS24` | `Skywork AI` | `Wuhan University`
+
+paper link: [here](https://arxiv.org/pdf/2406.19389)
+
+code link: [here](https://github.com/lxtGH/OMG-Seg)
+
+homepage link: [here](https://lxtgh.github.io/project/omg_llava/)
+
+citation:
+
+```bibtex
+@misc{zhang2024omgllavabridgingimagelevelobjectlevel,
+      title={OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding}, 
+      author={Tao Zhang and Xiangtai Li and Hao Fei and Haobo Yuan and Shengqiong Wu and Shunping Ji and Chen Change Loy and Shuicheng Yan},
+      year={2024},
+      eprint={2406.19389},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.19389}, 
+}
+```
+
+
+#### VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks
+
+tag: `VisionLLM` | `NIPS24` | `OpenGVLab` | `Shanghai AI Lab` | `HKU` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2406.08394)
+
+code link: [here](https://github.com/OpenGVLab/VisionLLM)
+
+citation:
+
+```bibtex
+@misc{wu2024visionllmv2endtoendgeneralist,
+      title={VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks}, 
+      author={Jiannan Wu and Muyan Zhong and Sen Xing and Zeqiang Lai and Zhaoyang Liu and Zhe Chen and Wenhai Wang and Xizhou Zhu and Lewei Lu and Tong Lu and Ping Luo and Yu Qiao and Jifeng Dai},
+      year={2024},
+      eprint={2406.08394},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.08394}, 
+}
+```
+
+
 #### Fast Vision Transformer via Additive Attention
 
 tag: `FViT` | `CAI24`

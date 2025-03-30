@@ -5,6 +5,29 @@
 ## Method
 
 
+#### QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation
+
+tag: `QuanTA` | `NIPS24` | `MIT` | `Harvard University`
+
+paper link: [here](https://arxiv.org/pdf/2406.00132)
+
+code link: [here](https://github.com/quanta-fine-tuning/quanta)
+
+citation:
+
+```bibtex
+@misc{chen2024quantaefficienthighrankfinetuning,
+      title={QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation}, 
+      author={Zhuo Chen and Rumen Dangovski and Charlotte Loh and Owen Dugan and Di Luo and Marin Soljačić},
+      year={2024},
+      eprint={2406.00132},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.00132}, 
+}
+```
+
+
 #### Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients
 
 tag: `Q-GaLore` | `MEFT` | `Meta`
