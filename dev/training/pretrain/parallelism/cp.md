@@ -26,7 +26,7 @@ citation:
 
 #### TokenRing: An Efficient Parallelism Framework for Infinite-Context LLMs via Bidirectional Communication
 
-tag: `TokenRing` | `SJTU`
+tag: `TokenRing` | `ICML25` | `SJTU`
 
 paper link: [here](https://arxiv.org/pdf/2412.20501)
 
@@ -52,6 +52,8 @@ citation:
 tag: `FlexSP` | `Peking University`
 
 paper link: [here](https://arxiv.org/pdf/2412.01523)
+
+code link: [here](https://github.com/PKU-DAIR/Hetu-Galvatron)
 
 citation:
 
@@ -131,6 +133,29 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.DC},
       url={https://arxiv.org/abs/2407.00611}, 
+}
+```
+
+
+#### LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism
+
+tag: `LoongTrain` | `Double-Ring-Attention` | `Peking University`
+
+paper link: [here](https://arxiv.org/pdf/2406.18485)
+
+code link: [here](https://github.com/InternLM/InternEvo)
+
+citation:
+
+```bibtex
+@misc{gu2024loongtrainefficienttraininglongsequence,
+      title={LoongTrain: Efficient Training of Long-Sequence LLMs with Head-Context Parallelism}, 
+      author={Diandian Gu and Peng Sun and Qinghao Hu and Ting Huang and Xun Chen and Yingtong Xiong and Guoteng Wang and Qiaoling Chen and Shangchun Zhao and Jiarui Fang and Yonggang Wen and Tianwei Zhang and Xin Jin and Xuanzhe Liu},
+      year={2024},
+      eprint={2406.18485},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2406.18485}, 
 }
 ```
 
