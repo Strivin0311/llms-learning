@@ -2,6 +2,27 @@
 *Here're some resources about Integrated Parallelism for LLMs Training*
 
 
+#### WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training
+
+tag: `WLB-LMM` | `4D Parallelism` | `Meta` | `UCSD`
+
+paper link: [here](https://arxiv.org/pdf/2503.17924)
+
+citation:
+
+```bibtex
+@misc{wang2025wlbllmworkloadbalanced4dparallelism,
+      title={WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training}, 
+      author={Zheng Wang and Anna Cai and Xinfeng Xie and Zaifeng Pan and Yue Guan and Weiwei Chu and Jie Wang and Shikai Li and Jianyu Huang and Chris Cai and Yuchen Hao and Yufei Ding},
+      year={2025},
+      eprint={2503.17924},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2503.17924}, 
+}
+```
+
+
 #### MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs
 
 tag: `MegaScale` | `veScale` | `ByteDance` | `Peking University`

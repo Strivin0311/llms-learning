@@ -3,6 +3,27 @@
 *Note that the "sequence parallelism" usually refers to one attached parallelism strategy along with tensor parallelism, different from context parallelism*
 
 
+#### ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs
+
+tag: `ByteScale` | `HDP` | `ByteDance` | `Peking University`
+
+paper link: [here](https://www.arxiv.org/pdf/2502.21231)
+
+citation:
+
+```bibtex
+@misc{ge2025bytescaleefficientscalingllm,
+      title={ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs}, 
+      author={Hao Ge and Junda Feng and Qi Huang and Fangcheng Fu and Xiaonan Nie and Lei Zuo and Haibin Lin and Bin Cui and Xin Liu},
+      year={2025},
+      eprint={2502.21231},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2502.21231}, 
+}
+```
+
+
 #### Training Variable Sequences with Data-Centric Parallel
 
 tag: `DCP` | `VideoSys` | `NUS`
