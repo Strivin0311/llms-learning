@@ -2,6 +2,28 @@
 *Here're some resources about Decoding Strategies for LLMs Inference*
 
 
+
+#### MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads
+
+tag: `MEDUSA` | `Multi-Head Decoding` | `Speculative Decoding` | `Tree-based Attention` | `ICML24` | `Together AI` | `Princeton University`
+
+paper link: [here](https://arxiv.org/pdf/2401.10774)
+
+citation:
+
+```bibtex
+@misc{cai2024medusasimplellminference,
+      title={Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads}, 
+      author={Tianle Cai and Yuhong Li and Zhengyang Geng and Hongwu Peng and Jason D. Lee and Deming Chen and Tri Dao},
+      year={2024},
+      eprint={2401.10774},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2401.10774}, 
+}
+```
+
+
 #### The Consensus Game: Language Model Generation via Equilibrium Search
 
 tag: `Consensus Game` | `Equilibrium Search` | `ICLR24` | `MIT`

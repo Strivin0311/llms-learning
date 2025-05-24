@@ -7,6 +7,10 @@ Hope you find this repository handy and helpful for your llms learning journey! 
 
 ## News 🔥
 
+* **2025.04.21**
+  * **SandAI** released its first autoregressive video-generation model, **Magi-1**, along with the model repository, pre-trained weights, and inference code. The model is detailed in the technical report [here](https://arxiv.org/pdf/2505.13211), and the pre-trained weights and inference code are available [here](https://github.com/SandAI-org/Magi-1).
+  * Additionally, **SandAI** introduced **MagiAttention**, a distributed attention towards linear scalability for ultra-long context, heterogeneous mask training. The code and blog are available [here](https://github.com/SandAI-org/MagiAttention/) and [here](https://sandai-org.github.io/MagiAttention/).
+  * I'm honored to have contributed to this work as one of the core authors of **MagiAttention** ! 😆
 * **2025.01.25**
   * **Deepseek** has unveiled its latest large reasoning model (LRM), [Deepseek-R1](https://arxiv.org/pdf/2501.12948), trained using its proprietary large-scale reinforcement-learning recipe, [GRPO](https://arxiv.org/pdf/2402.03300), built upon its newest pretrained large language model (LLM) [Deepseek-V3](https://arxiv.org/pdf/2412.19437). This achievement marks a significant milestone, particularly from two key perspectives:
     * 1. In the intense AGI competition sparked by OpenAI, it stands out as the first Chinese model to not only match but frequently surpass the performance of the state-of-the-art LRM [OpenAI-o1](https://openai.com/index/learning-to-reason-with-llms/), all while operating at a fraction of the computational cost. 

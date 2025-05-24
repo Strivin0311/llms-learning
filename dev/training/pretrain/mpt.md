@@ -69,7 +69,7 @@ citation:
 
 #### Microscaling Data Formats for Deep Learning
 
-tag: `Microscaling` | `MX` | `MXFP8` | `MXFP6` | `MXFP4` | `Microsoft`
+tag: `MX` | `Microscaling` | `MXFP8` | `MXFP6` | `MXFP4` | `Microsoft` | `AMD` | `Inter` | `Nvidia` 
 
 paper link: [here](https://arxiv.org/pdf/2310.10537)
 

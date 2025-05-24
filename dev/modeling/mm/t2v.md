@@ -5,6 +5,29 @@
 ## Method
 
 
+#### MAGI-1: Autoregressive Video Generation at Scale
+
+tag: `MAGI-1` | `SandAI`
+
+paper link: [here](https://arxiv.org/pdf/2505.13211)
+
+code link: [here](https://github.com/SandAI-org/Magi-1)
+
+citation:
+
+```bibtex
+@misc{ai2025magi1autoregressivevideogeneration,
+      title={MAGI-1: Autoregressive Video Generation at Scale}, 
+      author={Sand. ai and Hansi Teng and Hongyu Jia and Lei Sun and Lingzhi Li and Maolin Li and Mingqiu Tang and Shuai Han and Tianning Zhang and W. Q. Zhang and Weifeng Luo and Xiaoyang Kang and Yuchen Sun and Yue Cao and Yunpeng Huang and Yutong Lin and Yuxin Fang and Zewei Tao and Zheng Zhang and Zhongshu Wang and Zixun Liu and Dai Shi and Guoli Su and Hanwen Sun and Hong Pan and Jie Wang and Jiexin Sheng and Min Cui and Min Hu and Ming Yan and Shucheng Yin and Siran Zhang and Tingting Liu and Xianping Yin and Xiaoyu Yang and Xin Song and Xuan Hu and Yankai Zhang and Yuqiao Li},
+      year={2025},
+      eprint={2505.13211},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.13211}, 
+}
+```
+
+
 #### Magic 1-For-1: Generating One Minute Video Clips within One Minute
 
 tag: `Magic 1-For-1` | `Nvidia` | `Peking University`
@@ -24,6 +47,31 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2502.07701}, 
+}
+```
+
+
+#### History-Guided Video Diffusion
+
+tag: `DFoT` | `History Guidance` | `Diffusion Forcing` | `Meta` | `UC Berkeley`
+
+paper link: [here](https://arxiv.org/pdf/2502.06764)
+
+code link: [here](https://github.com/kwsong0113/diffusion-forcing-transformer)
+
+homepage link: [here](https://boyuan.space/history-guidance/)
+
+citation:
+
+```bibtex
+@misc{song2025historyguidedvideodiffusion,
+      title={History-Guided Video Diffusion}, 
+      author={Kiwhan Song and Boyuan Chen and Max Simchowitz and Yilun Du and Russ Tedrake and Vincent Sitzmann},
+      year={2025},
+      eprint={2502.06764},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.06764}, 
 }
 ```
 
@@ -180,6 +228,28 @@ citation:
 }
 ```
 
+
+#### Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion
+
+tag: `DF` | `Diffusion Forcing` | `Teacher Forcing` | `NIPS24` | `MIT`
+
+paper link: [here](https://openreview.net/pdf?id=yDo1ynArjj)
+
+code link: [here](https://github.com/buoyancy99/diffusion-forcing)
+
+citation:
+
+```bibtex
+@misc{chen2024diffusionforcingnexttokenprediction,
+      title={Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion}, 
+      author={Boyuan Chen and Diego Marti Monso and Yilun Du and Max Simchowitz and Russ Tedrake and Vincent Sitzmann},
+      year={2024},
+      eprint={2407.01392},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.01392}, 
+}
+```
 
 
 #### Hallo: Hierarchical Audio-Driven Visual Synthesis for Portrait Image Animation

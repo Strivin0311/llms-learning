@@ -3,6 +3,28 @@
 *Note that the "sequence parallelism" usually refers to one attached parallelism strategy along with tensor parallelism, different from context parallelism*
 
 
+#### MagiAttention: A Distributed Attention Towards Linear Scalability for Ultra-Long Context, Heterogeneous Mask Training
+
+tag: `MagiAttention` | `Magi-1` | `SandAI`
+
+paper link: [here](https://arxiv.org/pdf/2505.13211)
+
+blog link: [here](https://sandai-org.github.io/MagiAttention/)
+
+code link: [here](https://github.com/SandAI-org/MagiAttention/)
+
+citation:
+
+```bibtex
+@misc{magiattention2025,
+  title={MagiAttention: A Distributed Attention Towards Linear Scalability for Ultra-Long Context, Heterogeneous Mask Training},
+  author={Zewei, Tao and Yunpeng, Huang},
+  year={2025},
+  howpublished={\url{https://github.com/SandAI-org/MagiAttention/}},
+}
+```
+
+
 #### ByteScale: Efficient Scaling of LLM Training with a 2048K Context Length on More Than 12,000 GPUs
 
 tag: `ByteScale` | `HDP` | `ByteDance` | `Peking University`

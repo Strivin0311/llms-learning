@@ -592,6 +592,28 @@ citation:
 }
 ```
 
+#### Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks
+
+tag: `Uni-Perceiver v2` | `Shanghai AI Lab` | `HKU` | `XJTU`
+
+paper link: [here](https://arxiv.org/pdf/2211.09808)
+
+code link: [here](https://github.com/fundamentalvision/Uni-Perceiver)
+
+citation:
+
+```bibtex
+@misc{li2022uniperceiverv2generalistmodel,
+      title={Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks}, 
+      author={Hao Li and Jinguo Zhu and Xiaohu Jiang and Xizhou Zhu and Hongsheng Li and Chun Yuan and Xiaohua Wang and Yu Qiao and Xiaogang Wang and Wenhai Wang and Jifeng Dai},
+      year={2022},
+      eprint={2211.09808},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2211.09808}, 
+}
+```
+
 
 #### EVA: Exploring the Limits of Masked Visual Representation Learning at Scale
 
@@ -657,6 +679,54 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2208.09392}, 
+}
+```
+
+
+#### Classifier-Free Diffusion Guidance
+
+tag: `CFG` | `Classifier-Free Guidance` | `NIPS21 Workshop` | `Google`
+
+paper link: [here](https://openreview.net/pdf?id=qw8AKxfYbI)
+
+code link: [here](https://github.com/coderpiaobozhe/classifier-free-diffusion-guidance-Pytorch)
+
+citation:
+
+```bibtex
+@misc{ho2022classifierfreediffusionguidance,
+      title={Classifier-Free Diffusion Guidance}, 
+      author={Jonathan Ho and Tim Salimans},
+      year={2022},
+      eprint={2207.12598},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2207.12598}, 
+}
+```
+
+
+#### Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs
+
+tag: `Uni-Perceiver-MoE` | `NIPS22` | `SenseTime Research` | `XJTU` | `HKU`
+
+paper link: [here](https://arxiv.org/pdf/2206.04674)
+
+code link: [here](https://github.com/fundamentalvision/Uni-Perceiver)
+
+follow-up work: [here](https://arxiv.org/pdf/2211.09808)
+
+citation:
+
+```bibtex
+@misc{zhu2022uniperceivermoelearningsparsegeneralist,
+      title={Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs}, 
+      author={Jinguo Zhu and Xizhou Zhu and Wenhai Wang and Xiaohua Wang and Hongsheng Li and Xiaogang Wang and Jifeng Dai},
+      year={2022},
+      eprint={2206.04674},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2206.04674}, 
 }
 ```
 
@@ -830,6 +900,10 @@ citation:
 tag: `Uni-Perceiver` | `CVPR22` | `SenseTime Research` | `XJTU` | `Tsinghua University`
 
 paper link: [here](https://arxiv.org/pdf/2112.01522)
+
+code link: [here](https://github.com/fundamentalvision/Uni-Perceiver)
+
+follow-up work: [here](https://arxiv.org/pdf/2206.04674)
 
 citation:
 

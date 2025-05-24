@@ -4,7 +4,7 @@
 
 #### Better & Faster Large Language Models via Multi-token Prediction
 
-tag: `Multi-token Prediction` | `Meta`
+tag: `MTP` | `Multi-token Prediction` | `Meta`
 
 paper link: [here](https://arxiv.org/pdf/2404.19737)
 
