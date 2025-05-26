@@ -2,6 +2,27 @@
 *Here're some resources about Sparse Attention modules in language modeling*
 
 
+#### Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction
+
+tag: `Delta Attention` | `KAIST`
+
+paper link: [here](https://arxiv.org/pdf/2505.11254)
+
+citation:
+
+```bibtex
+@misc{willette2025deltaattentionfastaccurate,
+      title={Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction}, 
+      author={Jeffrey Willette and Heejun Lee and Sung Ju Hwang},
+      year={2025},
+      eprint={2505.11254},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.11254}, 
+}
+```
+
+
 #### MoBA: Mixture of Block Attention for Long-Context LLMs
 
 tag: `MoBA` | `Moonshot` | `Tsinghua University` | `Zhejiang University`

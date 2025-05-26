@@ -5,6 +5,28 @@
 ## Method
 
 
+#### Scaling Diffusion Transformers Efficiently via μP
+
+tag: `μP` | `DiT` | `MMDiT` | `U-ViT` | `PixArt-α` | `ByteDance Seed`
+
+paper link: [here](https://www.arxiv.org/pdf/2505.15270)
+
+code link: [here](https://github.com/ML-GSAI/Scaling-Diffusion-Transformers-muP)
+
+citation:
+
+```bibtex
+@misc{zheng2025scalingdiffusiontransformersefficiently,
+      title={Scaling Diffusion Transformers Efficiently via $\mu$P}, 
+      author={Chenyu Zheng and Xinyu Zhang and Rongzhen Wang and Wei Huang and Zhi Tian and Weilin Huang and Jun Zhu and Chongxuan Li},
+      year={2025},
+      eprint={2505.15270},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.15270}, 
+}
+```
+
 #### MAGI-1: Autoregressive Video Generation at Scale
 
 tag: `MAGI-1` | `SandAI`
