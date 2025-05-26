@@ -140,13 +140,37 @@ citation:
 ```
 
 
+#### Autoregressive Video Generation without Vector Quantization
+
+tag: `NOVA` | `ICLR25` | `BAAI` | `BUPT`
+
+paper link: [here](https://arxiv.org/pdf/2412.14169)
+
+code link: [here](https://github.com/baaivision/NOVA)
+
+citation:
+
+```bibtex
+@misc{deng2025autoregressivevideogenerationvector,
+      title={Autoregressive Video Generation without Vector Quantization}, 
+      author={Haoge Deng and Ting Pan and Haiwen Diao and Zhengxiong Luo and Yufeng Cui and Huchuan Lu and Shiguang Shan and Yonggang Qi and Xinlong Wang},
+      year={2025},
+      eprint={2412.14169},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.14169}, 
+}
+```
+
+
 #### State-of-the-art video and image generation with Veo 2 and Imagen 3
 
 tag: `Veo2` | `Imagen3` | `Google DeepMind`
 
 blog link: [here](https://blog.google/technology/google-labs/video-image-generation-update-december-2024/)
 
-homepage link: [veo2](https://deepmind.google/technologies/veo/veo-2/) | [imagen3](https://deepmind.google/technologies/imagen-3/)
+homepage link: [Veo3](https://deepmind.google/models/veo/) | [Veo2](https://deepmind.google/technologies/veo/veo-2/) | [Imagen3](https://deepmind.google/technologies/imagen-3/)
+
 
 citation:
 
