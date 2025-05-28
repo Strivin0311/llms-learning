@@ -273,6 +273,79 @@ citation:
 ### Post-Training Quantization (PTQ)
 
 
+#### SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training
+
+tag: `SageAttention3` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2505.11594)
+
+code link: [here](https://github.com/thu-ml/SageAttention)
+
+citation:
+
+```bibtex
+@misc{zhang2025sageattention3microscalingfp4attention,
+      title={SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training}, 
+      author={Jintao Zhang and Jia Wei and Pengle Zhang and Xiaoming Xu and Haofeng Huang and Haoxu Wang and Kai Jiang and Jun Zhu and Jianfei Chen},
+      year={2025},
+      eprint={2505.11594},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.11594}, 
+}
+```
+
+
+#### SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference
+
+tag: `SpargeAttn` | `ICML25` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2502.18137)
+
+code link: [here](https://github.com/thu-ml/SpargeAttn)
+
+follow-up work: [here](https://arxiv.org/pdf/2505.11594)
+
+citation:
+
+```bibtex
+@misc{zhang2025spargeattnaccuratesparseattention,
+      title={SpargeAttn: Accurate Sparse Attention Accelerating Any Model Inference}, 
+      author={Jintao Zhang and Chendong Xiang and Haofeng Huang and Jia Wei and Haocheng Xi and Jun Zhu and Jianfei Chen},
+      year={2025},
+      eprint={2502.18137},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.18137}, 
+}
+```
+
+
+#### SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization
+
+tag: `SageAttention2` | `ICML25` | `Tsinghua University` | `UC Berkeley`
+
+paper link: [here](https://arxiv.org/pdf/2411.10958)
+
+code link: [here](https://github.com/thu-ml/SageAttention)
+
+follow-up work: [SageAttention3](https://arxiv.org/pdf/2505.11594) | [SpargeAttention](https://arxiv.org/pdf/2502.18137)
+
+citation:
+
+```bibtex
+@misc{zhang2025sageattention2efficientattentionthorough,
+      title={SageAttention2: Efficient Attention with Thorough Outlier Smoothing and Per-thread INT4 Quantization}, 
+      author={Jintao Zhang and Haofeng Huang and Pengle Zhang and Jia Wei and Jun Zhu and Jianfei Chen},
+      year={2025},
+      eprint={2411.10958},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2411.10958}, 
+}
+```
+
+
 #### Q-VLM: Post-training Quantization for Large Vision-Language Models
 
 tag: `Q-VLM` | `NIPS24` | `Tsinghua University`
@@ -292,6 +365,31 @@ citation:
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2410.08119}, 
+}
+```
+
+
+#### SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration
+
+tag: `SageAttention` | `ICLR25` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2410.02367)
+
+code link: [here](https://github.com/thu-ml/SageAttention)
+
+follow-up work: [here](https://arxiv.org/pdf/2411.10958)
+
+citation:
+
+```bibtex
+@misc{zhang2024sageattentionaccurate8bitattention,
+      title={SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration}, 
+      author={Jintao Zhang and Jia wei and Pengle Zhang and Jun Zhu and Jianfei Chen},
+      year={2024},
+      eprint={2410.02367},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.02367}, 
 }
 ```
 

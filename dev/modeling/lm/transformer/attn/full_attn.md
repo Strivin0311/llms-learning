@@ -25,28 +25,6 @@ citation:
 }
 ```
 
-#### SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration
-
-tag: `Sage Attention` | `Tsinghua University`
-
-paper link: [here](https://arxiv.org/pdf/2410.02367)
-
-code link: [here](https://github.com/thu-ml/SageAttention)
-
-citation:
-
-```bibtex
-@misc{zhang2024sageattentionaccurate8bitattention,
-      title={SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration}, 
-      author={Jintao Zhang and Jia wei and Pengle Zhang and Jun Zhu and Jianfei Chen},
-      year={2024},
-      eprint={2410.02367},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.02367}, 
-}
-```
-
 
 #### FlashMask: Efficient and Rich Mask Extension of FlashAttention
 
