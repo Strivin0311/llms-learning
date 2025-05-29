@@ -4,6 +4,32 @@
 
 ## Method
 
+
+#### FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving
+
+tag: `FlashInfer` | `MLSys25` | `Nvidia` | `University of Washington`
+
+paper link: [here](https://arxiv.org/pdf/2501.01005)
+
+code link: [here](https://github.com/flashinfer-ai/flashinfer/)
+
+homepage link: [here](https://flashinfer.ai/)
+
+citation:
+
+```bibtex
+@misc{ye2025flashinferefficientcustomizableattention,
+      title={FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving}, 
+      author={Zihao Ye and Lequn Chen and Ruihang Lai and Wuwei Lin and Yineng Zhang and Stephanie Wang and Tianqi Chen and Baris Kasikci and Vinod Grover and Arvind Krishnamurthy and Luis Ceze},
+      year={2025},
+      eprint={2501.01005},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2501.01005}, 
+}
+```
+
+
 #### 1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1.58 Inference on CPUs
 
 tag: `BitNet.cpp` | `BitNet b1.58` | `Microsoft`
