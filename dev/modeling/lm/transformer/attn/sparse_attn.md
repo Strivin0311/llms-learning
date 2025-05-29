@@ -2,6 +2,26 @@
 *Here're some resources about Sparse Attention modules in language modeling*
 
 
+#### Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation
+
+tag: `SVG2` | `Sparse VideoGen2` | `ICML25` | `UC Berkeley` | `MIT` | `Standford`
+
+paper link: [here](https://arxiv.org/pdf/2505.18875)
+
+citation:
+
+```bibtex
+@misc{yang2025sparsevideogen2acceleratevideo,
+      title={Sparse VideoGen2: Accelerate Video Generation with Sparse Attention via Semantic-Aware Permutation}, 
+      author={Shuo Yang and Haocheng Xi and Yilong Zhao and Muyang Li and Jintao Zhang and Han Cai and Yujun Lin and Xiuyu Li and Chenfeng Xu and Kelly Peng and Jianfei Chen and Song Han and Kurt Keutzer and Ion Stoica},
+      year={2025},
+      eprint={2505.18875},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.18875}, 
+}
+```
+
 #### Delta Attention: Fast and Accurate Sparse Attention Inference by Delta Correction
 
 tag: `Delta Attention` | `KAIST`

@@ -273,6 +273,29 @@ citation:
 ### Post-Training Quantization (PTQ)
 
 
+#### SageAttention2++: A More Efficient Implementation of SageAttention2
+
+tag: `SageAttention2++` | `Tsinghua University`
+
+paper link: [here](https://arxiv.org/pdf/2505.21136)
+
+code link: [here](https://github.com/thu-ml/SageAttention)
+
+citation:
+
+```bibtex
+@misc{zhang2025sageattention2efficientimplementationsageattention2,
+      title={SageAttention2++: A More Efficient Implementation of SageAttention2}, 
+      author={Jintao Zhang and Xiaoming Xu and Jia Wei and Haofeng Huang and Pengle Zhang and Chendong Xiang and Jun Zhu and Jianfei Chen},
+      year={2025},
+      eprint={2505.21136},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.21136}, 
+}
+```
+
+
 #### SageAttention3: Microscaling FP4 Attention for Inference and An Exploration of 8-Bit Training
 
 tag: `SageAttention3` | `Tsinghua University`
@@ -329,7 +352,7 @@ paper link: [here](https://arxiv.org/pdf/2411.10958)
 
 code link: [here](https://github.com/thu-ml/SageAttention)
 
-follow-up work: [SageAttention3](https://arxiv.org/pdf/2505.11594) | [SpargeAttention](https://arxiv.org/pdf/2502.18137)
+follow-up work: [SageAttention3](https://arxiv.org/pdf/2505.11594) | [SpargeAttention](https://arxiv.org/pdf/2502.18137) | [SageAttention2++](https://arxiv.org/pdf/2505.21136)
 
 citation:
 
