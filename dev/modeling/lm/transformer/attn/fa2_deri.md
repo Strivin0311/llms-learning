@@ -193,20 +193,20 @@ $$
 $$
 
 
-* in which each inner loop goes across $i := 1 \rightarrow N_q$ for each block of $Q_i, O_i, dO_i$ to update $dQ_i, dK_j^{(i)}, dV_j^{(i)}$, where $N_q = \lceil\frac{N}{B_q}\rceil$
+* in which each inner loop goes across $i := 1 \rightarrow N_q$ for each block of $Q_i, dO_i$ to update $dQ_i, dK_j^{(i)}, dV_j^{(i)}$, where $N_q = \lceil\frac{N}{B_q}\rceil$
 
 $$
 \text{in one i-th inner iteration}: 
 \begin{cases} 
 \begin{align} 
-&\text{load}\space  Q_i, O_i, dO_i, \mathrm{LSE_i}, \Delta_i\space  \text{from HBM to SRAM} \notag \\
+&\text{load}\space  Q_i, dO_i, \mathrm{LSE_i}, \Delta_i\space  \text{from HBM to SRAM} \notag \\
 &\text{recompute}\space  P_j^{(i)} = Q_iK_j^{\mathrm T} \in \mathbb{R}^{B_q\times B_k} \notag \\
 &\text{recompute}\space  A_j^{(i)} = \exp(P_j^{(i)} - \mathrm{LSE_i}) \in \mathbb{R}^{B_q\times B_k} \notag \\
 &\text{update}\space  dV_j^{(i)} = dV_j^{(i-1)} + (A_j^{(i)})^{\mathrm T} dO_i \in \mathbb{R}^{B_k\times d} \notag \\
 &\text{compute}\space  dA_j^{(i)} = dO_iV_j^{\mathrm T} \in \mathbb{R}^{B_q\times B_k} \notag \\
 &\text{compute}\space  dP_j^{(i)} = A_j^{(i)}\odot (dA_j^{(i)} - \Delta_i) \in \mathbb{R}^{B_q\times B_k} \notag \\
 &\text{update}\space  dK_j^{(i)} = dK_j^{(i-1)} + (dP_j^{(i)})^{\mathrm T} Q_i \in \mathbb{R}^{B_k\times d} \notag \\
-&\text{load}\space  dQ_i \space \text{from HBM to SRAM, then update}\space  dQ_i \leftarrow dQ_i + dP_j^{(i)}K_j \in \mathbb{R}^{B_q\times d},\space  \text{write it back to HBM} \notag
+&\text{update}\space dQ_i \stackrel{atomic\space add}\longleftarrow dP_j^{(i)}K_j \in \mathbb{R}^{B_q\times d} \notag
 \end{align}
 \end{cases}
 $$
