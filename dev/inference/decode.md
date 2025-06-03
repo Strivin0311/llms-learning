@@ -3,6 +3,29 @@
 
 
 
+#### Hardware-Efficient Attention for Fast Decoding
+
+tag: `GTA` | `Grouped Latent Attention` | `Princeton University`
+
+paper link: [here](https://arxiv.org/pdf/2505.21487)
+
+code link: [here](https://github.com/Dao-AILab/grouped-latent-attention)
+
+citation:
+
+```bibtex
+@misc{zadouri2025hardwareefficientattentionfastdecoding,
+      title={Hardware-Efficient Attention for Fast Decoding}, 
+      author={Ted Zadouri and Hubert Strauss and Tri Dao},
+      year={2025},
+      eprint={2505.21487},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.21487}, 
+}
+```
+
+
 #### MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads
 
 tag: `MEDUSA` | `Multi-Head Decoding` | `Speculative Decoding` | `Tree-based Attention` | `ICML24` | `Together AI` | `Princeton University`
