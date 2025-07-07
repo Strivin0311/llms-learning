@@ -3,6 +3,27 @@
 *Here're some resources about Linear Attention modules in language modeling*
 
 
+#### ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention
+
+tag: `ZeCO` | `TikTok` | `HKU` | `NUS`
+
+paper link: [here](https://arxiv.org/pdf/2507.01004)
+
+citation:
+
+```bibtex
+@misc{chou2025zecozerocommunicationoverhead,
+      title={ZeCO: Zero Communication Overhead Sequence Parallelism for Linear Attention}, 
+      author={Yuhong Chou and Zehao Liu and Ruijie Zhu and Xinyi Wan and Tianjian Li and Congying Chu and Qian Liu and Jibin Wu and Zejun Ma},
+      year={2025},
+      eprint={2507.01004},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2507.01004}, 
+}
+```
+
+
 #### Linear Attention Sequence Parallelism
 
 tag: `LASP` | `OpenNLPLab`

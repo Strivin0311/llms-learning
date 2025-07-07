@@ -9,7 +9,7 @@ tag: `MagiAttention` | `Magi-1` | `SandAI`
 
 paper link: [here](https://arxiv.org/pdf/2505.13211)
 
-blog link: [here](https://sandai-org.github.io/MagiAttention/)
+blog link: [here](https://sandai-org.github.io/MagiAttention/blog/)
 
 code link: [here](https://github.com/SandAI-org/MagiAttention/)
 
