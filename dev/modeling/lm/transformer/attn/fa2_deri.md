@@ -2,9 +2,9 @@
 
 > [!NOTE]
 > We omit specific softmax strategies, e.g. softmax_scale, softcap, attention sink, for simplicity.
-
+> 
 > We omit specific mask functions but only apply additive attention bias for simplicity.
-
+> 
 > We omit any batch dimensions, e.g. batch_size, num_heads, but keep only the seqlen dimension and the head dimension for simplicity.
 
 
